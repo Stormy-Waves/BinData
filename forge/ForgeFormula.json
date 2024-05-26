@@ -1,0 +1,232 @@
+[
+  {
+    "Id": 201,
+    "FormulaItemId": 0,
+    "ItemId": 21010034,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "改进型重刃·正则贰",
+    "ConsumeItems": [
+      {
+        "item_id": 42500010,
+        "count": 150
+      },
+      {
+        "item_id": 42500070,
+        "count": 2
+      },
+      {
+        "item_id": 2,
+        "count": 150000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  },
+  {
+    "Id": 202,
+    "FormulaItemId": 0,
+    "ItemId": 21020034,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "改进型鸣刀·锋镝贰",
+    "ConsumeItems": [
+      {
+        "item_id": 42500010,
+        "count": 150
+      },
+      {
+        "item_id": 42500070,
+        "count": 2
+      },
+      {
+        "item_id": 2,
+        "count": 150000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  },
+  {
+    "Id": 203,
+    "FormulaItemId": 0,
+    "ItemId": 21030034,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "test/改进型手枪",
+    "ConsumeItems": [
+      {
+        "item_id": 42500010,
+        "count": 150
+      },
+      {
+        "item_id": 42500070,
+        "count": 2
+      },
+      {
+        "item_id": 2,
+        "count": 150000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  },
+  {
+    "Id": 204,
+    "FormulaItemId": 0,
+    "ItemId": 21040034,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "test/改进型拳套",
+    "ConsumeItems": [
+      {
+        "item_id": 42500030,
+        "count": 150
+      },
+      {
+        "item_id": 42500070,
+        "count": 2
+      },
+      {
+        "item_id": 2,
+        "count": 150000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  },
+  {
+    "Id": 205,
+    "FormulaItemId": 0,
+    "ItemId": 21050034,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "改进型音感仪·定序贰",
+    "ConsumeItems": [
+      {
+        "item_id": 42500030,
+        "count": 150
+      },
+      {
+        "item_id": 42500070,
+        "count": 2
+      },
+      {
+        "item_id": 2,
+        "count": 150000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  },
+  {
+    "Id": 206,
+    "FormulaItemId": 0,
+    "ItemId": 21010053,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "test/T3-5天城系列大剑",
+    "ConsumeItems": [
+      {
+        "item_id": 42500010,
+        "count": 10
+      },
+      {
+        "item_id": 2,
+        "count": 10000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  },
+  {
+    "Id": 207,
+    "FormulaItemId": 0,
+    "ItemId": 21020053,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "test/T3-5天城系列短剑",
+    "ConsumeItems": [
+      {
+        "item_id": 42500010,
+        "count": 10
+      },
+      {
+        "item_id": 2,
+        "count": 10000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  },
+  {
+    "Id": 208,
+    "FormulaItemId": 0,
+    "ItemId": 21030053,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "test/T3-5天城系列手枪",
+    "ConsumeItems": [
+      {
+        "item_id": 42500010,
+        "count": 10
+      },
+      {
+        "item_id": 2,
+        "count": 10000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  },
+  {
+    "Id": 209,
+    "FormulaItemId": 0,
+    "ItemId": 21040053,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "test/T3-5天城系列拳套",
+    "ConsumeItems": [
+      {
+        "item_id": 42500030,
+        "count": 10
+      },
+      {
+        "item_id": 2,
+        "count": 10000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  },
+  {
+    "Id": 210,
+    "FormulaItemId": 0,
+    "ItemId": 21050053,
+    "TypeId": 1,
+    "Unlock": true,
+    "Name": "test/T3-5天城系列法器",
+    "ConsumeItems": [
+      {
+        "item_id": 42500030,
+        "count": 10
+      },
+      {
+        "item_id": 2,
+        "count": 10000
+      }
+    ],
+    "ForgeContent": "",
+    "Background": "",
+    "RoleList": []
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "Id": 1,
+    "ActionName": "幻象1",
+    "ActionType": 1,
+    "PcKeys": [],
+    "GamepadKeys": [
+      {
+        "key": "Gamepad_LeftShoulder",
+        "value": "Gamepad_FaceButton_Top"
+      },
+      {
+        "key": "GenericUSBController_Button5",
+        "value": "GenericUSBController_Button4"
+      }
+    ],
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
+  },
+  {
+    "Id": 3,
+    "ActionName": "切换角色4",
+    "ActionType": 1,
+    "PcKeys": [],
+    "GamepadKeys": [
+      {
+        "key": "Gamepad_LeftShoulder",
+        "value": "Gamepad_DPad_Down"
+      },
+      {
+        "key": "GenericUSBController_Button5",
+        "value": "GenericUSBController_Button18"
+      }
+    ],
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
+  },
+  {
+    "Id": 2,
+    "ActionName": "幻象2",
+    "ActionType": 1,
+    "PcKeys": [],
+    "GamepadKeys": [
+      {
+        "key": "Gamepad_LeftShoulder",
+        "value": "Gamepad_FaceButton_Left"
+      },
+      {
+        "key": "GenericUSBController_Button5",
+        "value": "GenericUSBController_Button1"
+      }
+    ],
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
+  },
+  {
+    "Id": 4,
+    "ActionName": "ZoomIn",
+    "ActionType": 1,
+    "PcKeys": [],
+    "GamepadKeys": [
+      {
+        "key": "Gamepad_LeftShoulder",
+        "value": "Gamepad_LeftTrigger"
+      },
+      {
+        "key": "GenericUSBController_Button5",
+        "value": "GenericUSBController_Button7"
+      }
+    ],
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
+  },
+  {
+    "Id": 5,
+    "ActionName": "ZoomOut",
+    "ActionType": 1,
+    "PcKeys": [],
+    "GamepadKeys": [
+      {
+        "key": "Gamepad_LeftShoulder",
+        "value": "Gamepad_RightTrigger"
+      },
+      {
+        "key": "GenericUSBController_Button5",
+        "value": "GenericUSBController_Button8"
+      }
+    ],
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
+  },
+  {
+    "Id": 6,
+    "ActionName": "任务追踪",
+    "ActionType": 2,
+    "PcKeys": [],
+    "GamepadKeys": [
+      {
+        "key": "Gamepad_LeftShoulder",
+        "value": "Gamepad_RightThumbstick"
+      },
+      {
+        "key": "GenericUSBController_Button5",
+        "value": "GenericUSBController_Button12"
+      }
+    ],
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
+  },
+  {
+    "Id": 7,
+    "ActionName": "玩法放弃",
+    "ActionType": 3,
+    "PcKeys": [],
+    "GamepadKeys": [
+      {
+        "key": "Gamepad_LeftThumbstick",
+        "value": "Gamepad_RightThumbstick"
+      },
+      {
+        "key": "GenericUSBController_Button11",
+        "value": "GenericUSBController_Button12"
+      }
+    ],
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
+  },
+  {
+    "Id": 8,
+    "ActionName": "环境特性",
+    "ActionType": 3,
+    "PcKeys": [],
+    "GamepadKeys": [
+      {
+        "key": "Gamepad_LeftShoulder",
+        "value": "Gamepad_Special_Right"
+      },
+      {
+        "key": "GenericUSBController_Button5",
+        "value": "GenericUSBController_Button10"
+      }
+    ],
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
+  }
+]

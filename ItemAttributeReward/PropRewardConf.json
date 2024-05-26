@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Props": [
+      {
+        "id": 69,
+        "value": 1000.0,
+        "is_ratio": false
+      }
+    ],
+    "Tips": []
+  }
+]

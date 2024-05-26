@@ -1,0 +1,118 @@
+[
+  {
+    "Id": 1,
+    "MaxCharacter": 2,
+    "ReactionTime": {
+      "min": 1500.0,
+      "max": 2500.0
+    },
+    "CharTypes": [
+      1.0,
+      3.0,
+      4.0,
+      6.0
+    ],
+    "AreaAngle": 70.0,
+    "AreaDistance": {
+      "min": 100.0,
+      "max": 500.0
+    },
+    "AttackWeightId": 1
+  },
+  {
+    "Id": 2,
+    "MaxCharacter": 4,
+    "ReactionTime": {
+      "min": 0.0,
+      "max": 1500.0
+    },
+    "CharTypes": [
+      4.0,
+      6.0,
+      3.0,
+      1.0
+    ],
+    "AreaAngle": 65.0,
+    "AreaDistance": {
+      "min": 500.0,
+      "max": 1000.0
+    },
+    "AttackWeightId": 2
+  },
+  {
+    "Id": 3,
+    "MaxCharacter": 6,
+    "ReactionTime": {
+      "min": 0.0,
+      "max": 2000.0
+    },
+    "CharTypes": [
+      2.0,
+      5.0
+    ],
+    "AreaAngle": 75.0,
+    "AreaDistance": {
+      "min": 1000.0,
+      "max": 2000.0
+    },
+    "AttackWeightId": 3
+  },
+  {
+    "Id": 4,
+    "MaxCharacter": 5,
+    "ReactionTime": {
+      "min": 1500.0,
+      "max": 2500.0
+    },
+    "CharTypes": [
+      1.0,
+      3.0,
+      4.0,
+      6.0
+    ],
+    "AreaAngle": 60.0,
+    "AreaDistance": {
+      "min": 100.0,
+      "max": 500.0
+    },
+    "AttackWeightId": 1
+  },
+  {
+    "Id": 5,
+    "MaxCharacter": 5,
+    "ReactionTime": {
+      "min": 0.0,
+      "max": 1500.0
+    },
+    "CharTypes": [
+      4.0,
+      6.0,
+      3.0,
+      1.0
+    ],
+    "AreaAngle": 60.0,
+    "AreaDistance": {
+      "min": 500.0,
+      "max": 800.0
+    },
+    "AttackWeightId": 2
+  },
+  {
+    "Id": 6,
+    "MaxCharacter": 6,
+    "ReactionTime": {
+      "min": 0.0,
+      "max": 2000.0
+    },
+    "CharTypes": [
+      2.0,
+      5.0
+    ],
+    "AreaAngle": 50.0,
+    "AreaDistance": {
+      "min": 800.0,
+      "max": 1300.0
+    },
+    "AttackWeightId": 3
+  }
+]

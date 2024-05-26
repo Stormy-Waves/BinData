@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 0,
+    "FunctionId": 0,
+    "Position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "Scale": 1.0
+  },
+  {
+    "Id": 1,
+    "FunctionId": 10032,
+    "Position": {
+      "x": 1154,
+      "y": 334,
+      "z": 0
+    },
+    "Scale": 1.9
+  },
+  {
+    "Id": 2,
+    "FunctionId": 110058,
+    "Position": {
+      "x": 1485,
+      "y": 893,
+      "z": 0
+    },
+    "Scale": 1.66
+  },
+  {
+    "Id": 3,
+    "FunctionId": 110057,
+    "Position": {
+      "x": -245,
+      "y": 1914,
+      "z": 0
+    },
+    "Scale": 0.75
+  },
+  {
+    "Id": 4,
+    "FunctionId": 10059,
+    "Position": {
+      "x": 1016,
+      "y": 1787,
+      "z": 0
+    },
+    "Scale": 1.7
+  },
+  {
+    "Id": 5,
+    "FunctionId": 10062,
+    "Position": {
+      "x": 4080,
+      "y": 1770,
+      "z": 0
+    },
+    "Scale": 2.5
+  },
+  {
+    "Id": 6,
+    "FunctionId": 10063,
+    "Position": {
+      "x": 1372,
+      "y": 973,
+      "z": 0
+    },
+    "Scale": 2.5
+  },
+  {
+    "Id": 7,
+    "FunctionId": 10064,
+    "Position": {
+      "x": 6800,
+      "y": 8500,
+      "z": 0
+    },
+    "Scale": 2.5
+  }
+]

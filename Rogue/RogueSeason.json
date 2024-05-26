@@ -1,0 +1,31 @@
+[
+  {
+    "Id": 1,
+    "SeasonName": "8002",
+    "PointItem": 80100002,
+    "InstanceDungeonEntrance": 8002,
+    "TabIcon": "",
+    "FirstPassRewardMap": [
+      {
+        "key": 8002,
+        "value": 3501
+      },
+      {
+        "key": 8003,
+        "value": 3502
+      },
+      {
+        "key": 8004,
+        "value": 3503
+      },
+      {
+        "key": 8005,
+        "value": 3504
+      },
+      {
+        "key": 8006,
+        "value": 3505
+      }
+    ]
+  }
+]
