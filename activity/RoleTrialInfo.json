@@ -1,11 +1,11 @@
 [
   {
-    "Id": 1404,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJiyan1.T_ActivityRoleJiyan1",
-    "TrialRoleId": 14047004,
-    "InstanceText": "",
-    "InstanceId": 8101,
-    "RewardItem": [
+    "id": 1404,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJiyan1.T_ActivityRoleJiyan1",
+    "trial_role_id": 14047004,
+    "instance_text": "",
+    "instance_id": 8101,
+    "reward_item": [
       {
         "key": 3,
         "value": 20
@@ -21,12 +21,12 @@
     ]
   },
   {
-    "Id": 1602,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleDanjin.T_ActivityRoleDanjin",
-    "TrialRoleId": 16027004,
-    "InstanceText": "",
-    "InstanceId": 8103,
-    "RewardItem": [
+    "id": 1602,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleDanjin.T_ActivityRoleDanjin",
+    "trial_role_id": 16027004,
+    "instance_text": "",
+    "instance_id": 8103,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2
@@ -42,12 +42,12 @@
     ]
   },
   {
-    "Id": 1202,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhixia.T_ActivityRoleZhixia",
-    "TrialRoleId": 12027004,
-    "InstanceText": "",
-    "InstanceId": 8104,
-    "RewardItem": [
+    "id": 1202,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhixia.T_ActivityRoleZhixia",
+    "trial_role_id": 12027004,
+    "instance_text": "",
+    "instance_id": 8104,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2
@@ -63,12 +63,12 @@
     ]
   },
   {
-    "Id": 1204,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleMofeite.T_ActivityRoleMofeite",
-    "TrialRoleId": 12047004,
-    "InstanceText": "",
-    "InstanceId": 8102,
-    "RewardItem": [
+    "id": 1204,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleMofeite.T_ActivityRoleMofeite",
+    "trial_role_id": 12047004,
+    "instance_text": "",
+    "instance_id": 8102,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2
@@ -84,12 +84,12 @@
     ]
   },
   {
-    "Id": 1302,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYinlin.T_ActivityRoleYinlin",
-    "TrialRoleId": 13027004,
-    "InstanceText": "",
-    "InstanceId": 8105,
-    "RewardItem": [
+    "id": 1302,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYinlin.T_ActivityRoleYinlin",
+    "trial_role_id": 13027004,
+    "instance_text": "",
+    "instance_id": 8105,
+    "reward_item": [
       {
         "key": 3,
         "value": 20
@@ -105,12 +105,12 @@
     ]
   },
   {
-    "Id": 1601,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleTaoqi.T_ActivityRoleTaoqi",
-    "TrialRoleId": 16017004,
-    "InstanceText": "",
-    "InstanceId": 8106,
-    "RewardItem": [
+    "id": 1601,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleTaoqi.T_ActivityRoleTaoqi",
+    "trial_role_id": 16017004,
+    "instance_text": "",
+    "instance_id": 8106,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2
@@ -126,12 +126,12 @@
     ]
   },
   {
-    "Id": 1403,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleQiushui.T_ActivityRoleQiushui",
-    "TrialRoleId": 14037004,
-    "InstanceText": "",
-    "InstanceId": 8107,
-    "RewardItem": [
+    "id": 1403,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleQiushui.T_ActivityRoleQiushui",
+    "trial_role_id": 14037004,
+    "instance_text": "",
+    "instance_id": 8107,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2
@@ -147,12 +147,12 @@
     ]
   },
   {
-    "Id": 1303,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYuanwu.T_ActivityRoleYuanwu",
-    "TrialRoleId": 13037004,
-    "InstanceText": "",
-    "InstanceId": 8108,
-    "RewardItem": [
+    "id": 1303,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYuanwu.T_ActivityRoleYuanwu",
+    "trial_role_id": 13037004,
+    "instance_text": "",
+    "instance_id": 8108,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2

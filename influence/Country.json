@@ -1,22 +1,22 @@
 [
   {
-    "Id": 0,
-    "Influences": [],
-    "Title": "Country_0_Title",
-    "Desc": "",
-    "Logo": "",
-    "DailyTaskShow": 1
+    "id": 0,
+    "influences": [],
+    "title": "Country_0_Title",
+    "desc": "",
+    "logo": "",
+    "daily_task_show": 1
   },
   {
-    "Id": 1,
-    "Influences": [
+    "id": 1,
+    "influences": [
       0,
       1,
       2
     ],
-    "Title": "Country_1_Title",
-    "Desc": "Country_1_Desc",
-    "Logo": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI",
-    "DailyTaskShow": 1
+    "title": "Country_1_Title",
+    "desc": "Country_1_Desc",
+    "logo": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI",
+    "daily_task_show": 1
   }
 ]

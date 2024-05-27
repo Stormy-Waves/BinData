@@ -1,62 +1,62 @@
 [
   {
-    "Id": 1,
-    "FaceExpression": "{\"Type\":\"Texture\",\"FaceIndex\":1}",
-    "MaleVariant": ""
+    "id": 1,
+    "face_expression": "{\"Type\":\"Texture\",\"FaceIndex\":1}",
+    "male_variant": ""
   },
   {
-    "Id": 4,
-    "FaceExpression": "{\"Type\":\"Texture\",\"FaceIndex\":2}",
-    "MaleVariant": ""
+    "id": 4,
+    "face_expression": "{\"Type\":\"Texture\",\"FaceIndex\":2}",
+    "male_variant": ""
   },
   {
-    "Id": 5,
-    "FaceExpression": "{\"Type\":\"Texture\",\"FaceIndex\":3}",
-    "MaleVariant": ""
+    "id": 5,
+    "face_expression": "{\"Type\":\"Texture\",\"FaceIndex\":3}",
+    "male_variant": ""
   },
   {
-    "Id": 6,
-    "FaceExpression": "{\"Type\":\"Texture\",\"FaceIndex\":4}",
-    "MaleVariant": ""
+    "id": 6,
+    "face_expression": "{\"Type\":\"Texture\",\"FaceIndex\":4}",
+    "male_variant": ""
   },
   {
-    "Id": 3,
-    "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"Aa:0.5\"}",
-    "MaleVariant": ""
+    "id": 3,
+    "face_expression": "{\"Type\":\"Morph\",\"MorphData\":\"Aa:0.5\"}",
+    "male_variant": ""
   },
   {
-    "Id": 7,
-    "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"Aa:0.5\"}",
-    "MaleVariant": ""
+    "id": 7,
+    "face_expression": "{\"Type\":\"Morph\",\"MorphData\":\"Aa:0.5\"}",
+    "male_variant": ""
   },
   {
-    "Id": 8,
-    "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"E_Sad:0.5\"}",
-    "MaleVariant": ""
+    "id": 8,
+    "face_expression": "{\"Type\":\"Morph\",\"MorphData\":\"E_Sad:0.5\"}",
+    "male_variant": ""
   },
   {
-    "Id": 9,
-    "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
-    "MaleVariant": ""
+    "id": 9,
+    "face_expression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+    "male_variant": ""
   },
   {
-    "Id": 10,
-    "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
-    "MaleVariant": ""
+    "id": 10,
+    "face_expression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+    "male_variant": ""
   },
   {
-    "Id": 11,
-    "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
-    "MaleVariant": ""
+    "id": 11,
+    "face_expression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+    "male_variant": ""
   },
   {
-    "Id": 12,
-    "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
-    "MaleVariant": ""
+    "id": 12,
+    "face_expression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+    "male_variant": ""
   },
   {
-    "Id": 13,
-    "FaceExpression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
-    "MaleVariant": ""
+    "id": 13,
+    "face_expression": "{\"Type\":\"Morph\",\"MorphData\":\"M_Scared:0.5\"}",
+    "male_variant": ""
   }
 ]

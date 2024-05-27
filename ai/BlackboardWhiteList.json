@@ -1,188 +1,188 @@
 [
   {
-    "Key": "COM_StopAI"
+    "key": "COM_StopAI"
   },
   {
-    "Key": "COM_StopFightAI"
+    "key": "COM_StopFightAI"
   },
   {
-    "Key": "HateTarget"
+    "key": "HateTarget"
   },
   {
-    "Key": "Target"
+    "key": "Target"
   },
   {
-    "Key": "SkillTarget"
+    "key": "SkillTarget"
   },
   {
-    "Key": "InitLocation"
+    "key": "InitLocation"
   },
   {
-    "Key": "进入过战斗"
+    "key": "进入过战斗"
   },
   {
-    "Key": "战斗游荡类型"
+    "key": "战斗游荡类型"
   },
   {
-    "Key": "Ifcanfly1"
+    "key": "Ifcanfly1"
   },
   {
-    "Key": "Ifcanfly2"
+    "key": "Ifcanfly2"
   },
   {
-    "Key": "Ifcanfly3"
+    "key": "Ifcanfly3"
   },
   {
-    "Key": "Ifcanfly4"
+    "key": "Ifcanfly4"
   },
   {
-    "Key": "FindWeapon"
+    "key": "FindWeapon"
   },
   {
-    "Key": "HaveWeapon"
+    "key": "HaveWeapon"
   },
   {
-    "Key": "ItemId"
+    "key": "ItemId"
   },
   {
-    "Key": "ItemDistance"
+    "key": "ItemDistance"
   },
   {
-    "Key": "ItemLocation"
+    "key": "ItemLocation"
   },
   {
-    "Key": "attacker"
+    "key": "attacker"
   },
   {
-    "Key": "柱子脱皮次数"
+    "key": "柱子脱皮次数"
   },
   {
-    "Key": "连线数量"
+    "key": "连线数量"
   },
   {
-    "Key": "已经出生"
+    "key": "已经出生"
   },
   {
-    "Key": "摩托战斗范围"
+    "key": "摩托战斗范围"
   },
   {
-    "Key": "HPP_Round"
+    "key": "HPP_Round"
   },
   {
-    "Key": "后跳"
+    "key": "后跳"
   },
   {
-    "Key": "WingAttacked2"
+    "key": "WingAttacked2"
   },
   {
-    "Key": "WingAttacked"
+    "key": "WingAttacked"
   },
   {
-    "Key": "IfAttacked?"
+    "key": "IfAttacked?"
   },
   {
-    "Key": "BackAttack"
+    "key": "BackAttack"
   },
   {
-    "Key": "随机主动出招"
+    "key": "随机主动出招"
   },
   {
-    "Key": "瘫痪时长"
+    "key": "瘫痪时长"
   },
   {
-    "Key": "猩猩出生"
+    "key": "猩猩出生"
   },
   {
-    "Key": "猩猩攻击"
+    "key": "猩猩攻击"
   },
   {
-    "Key": "猩猩技能"
+    "key": "猩猩技能"
   },
   {
-    "Key": "猩猩攀爬点"
+    "key": "猩猩攀爬点"
   },
   {
-    "Key": "gyyali3"
+    "key": "gyyali3"
   },
   {
-    "Key": "gyjinzhancs"
+    "key": "gyjinzhancs"
   },
   {
-    "Key": "gyjiguangcs"
+    "key": "gyjiguangcs"
   },
   {
-    "Key": "gyzhuaqucs"
+    "key": "gyzhuaqucs"
   },
   {
-    "Key": "gyxiubegin"
+    "key": "gyxiubegin"
   },
   {
-    "Key": "gyxiucs"
+    "key": "gyxiucs"
   },
   {
-    "Key": "gyhoutiaocs"
+    "key": "gyhoutiaocs"
   },
   {
-    "Key": "gyjiguangbg"
+    "key": "gyjiguangbg"
   },
   {
-    "Key": "gygongmingbegin"
+    "key": "gygongmingbegin"
   },
   {
-    "Key": "gyruozhecs"
+    "key": "gyruozhecs"
   },
   {
-    "Key": "gyzhuziID"
+    "key": "gyzhuziID"
   },
   {
-    "Key": "猩猩阶段"
+    "key": "猩猩阶段"
   },
   {
-    "Key": "猩猩攀爬状态"
+    "key": "猩猩攀爬状态"
   },
   {
-    "Key": "猩猩攀爬技能"
+    "key": "猩猩攀爬技能"
   },
   {
-    "Key": "猩猩瘫痪"
+    "key": "猩猩瘫痪"
   },
   {
-    "Key": "猩猩二节奏"
+    "key": "猩猩二节奏"
   },
   {
-    "Key": "鳞人出生"
+    "key": "鳞人出生"
   },
   {
-    "Key": "鳞人瘫痪"
+    "key": "鳞人瘫痪"
   },
   {
-    "Key": "鳞人大循环"
+    "key": "鳞人大循环"
   },
   {
-    "Key": "鳞人小循环"
+    "key": "鳞人小循环"
   },
   {
-    "Key": "骑士出生"
+    "key": "骑士出生"
   },
   {
-    "Key": "骑士阶段"
+    "key": "骑士阶段"
   },
   {
-    "Key": "骑士瘫痪"
+    "key": "骑士瘫痪"
   },
   {
-    "Key": "骑士五连"
+    "key": "骑士五连"
   },
   {
-    "Key": "骑士瘫痪状态"
+    "key": "骑士瘫痪状态"
   },
   {
-    "Key": "摩托战斗次数"
+    "key": "摩托战斗次数"
   },
   {
-    "Key": "瘫痪"
+    "key": "瘫痪"
   },
   {
-    "Key": "鳞人是否低血"
+    "key": "鳞人是否低血"
   }
 ]

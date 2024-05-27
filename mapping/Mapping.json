@@ -1,128 +1,128 @@
 [
   {
-    "Id": 1,
-    "ExcelName": "幻象技能",
-    "SheetName": "VisionSkill",
-    "FieldName": "ElementId",
-    "Value": 1,
-    "Comment": "Mapping_1_Comment",
-    "Icon": ""
+    "id": 1,
+    "excel_name": "幻象技能",
+    "sheet_name": "VisionSkill",
+    "field_name": "ElementId",
+    "value": 1,
+    "comment": "Mapping_1_Comment",
+    "icon": ""
   },
   {
-    "Id": 2,
-    "ExcelName": "幻象技能",
-    "SheetName": "VisionSkill",
-    "FieldName": "ElementId",
-    "Value": 2,
-    "Comment": "Mapping_2_Comment",
-    "Icon": ""
+    "id": 2,
+    "excel_name": "幻象技能",
+    "sheet_name": "VisionSkill",
+    "field_name": "ElementId",
+    "value": 2,
+    "comment": "Mapping_2_Comment",
+    "icon": ""
   },
   {
-    "Id": 3,
-    "ExcelName": "幻象技能",
-    "SheetName": "VisionSkill",
-    "FieldName": "ElementId",
-    "Value": 3,
-    "Comment": "Mapping_3_Comment",
-    "Icon": ""
+    "id": 3,
+    "excel_name": "幻象技能",
+    "sheet_name": "VisionSkill",
+    "field_name": "ElementId",
+    "value": 3,
+    "comment": "Mapping_3_Comment",
+    "icon": ""
   },
   {
-    "Id": 4,
-    "ExcelName": "幻象技能",
-    "SheetName": "VisionSkill",
-    "FieldName": "ElementId",
-    "Value": 4,
-    "Comment": "Mapping_4_Comment",
-    "Icon": ""
+    "id": 4,
+    "excel_name": "幻象技能",
+    "sheet_name": "VisionSkill",
+    "field_name": "ElementId",
+    "value": 4,
+    "comment": "Mapping_4_Comment",
+    "icon": ""
   },
   {
-    "Id": 5,
-    "ExcelName": "幻象技能",
-    "SheetName": "VisionSkill",
-    "FieldName": "ElementId",
-    "Value": 5,
-    "Comment": "Mapping_5_Comment",
-    "Icon": ""
+    "id": 5,
+    "excel_name": "幻象技能",
+    "sheet_name": "VisionSkill",
+    "field_name": "ElementId",
+    "value": 5,
+    "comment": "Mapping_5_Comment",
+    "icon": ""
   },
   {
-    "Id": 6,
-    "ExcelName": "幻象技能",
-    "SheetName": "VisionSkill",
-    "FieldName": "ElementId",
-    "Value": 6,
-    "Comment": "Mapping_6_Comment",
-    "Icon": ""
+    "id": 6,
+    "excel_name": "幻象技能",
+    "sheet_name": "VisionSkill",
+    "field_name": "ElementId",
+    "value": 6,
+    "comment": "Mapping_6_Comment",
+    "icon": ""
   },
   {
-    "Id": 7,
-    "ExcelName": "幻象技能",
-    "SheetName": "VisionSkill",
-    "FieldName": "SkillType",
-    "Value": 1,
-    "Comment": "Mapping_7_Comment",
-    "Icon": ""
+    "id": 7,
+    "excel_name": "幻象技能",
+    "sheet_name": "VisionSkill",
+    "field_name": "SkillType",
+    "value": 1,
+    "comment": "Mapping_7_Comment",
+    "icon": ""
   },
   {
-    "Id": 8,
-    "ExcelName": "幻象技能",
-    "SheetName": "VisionSkill",
-    "FieldName": "SkillType",
-    "Value": 2,
-    "Comment": "Mapping_8_Comment",
-    "Icon": ""
+    "id": 8,
+    "excel_name": "幻象技能",
+    "sheet_name": "VisionSkill",
+    "field_name": "SkillType",
+    "value": 2,
+    "comment": "Mapping_8_Comment",
+    "icon": ""
   },
   {
-    "Id": 9,
-    "ExcelName": "幻象技能",
-    "SheetName": "VisionSkill",
-    "FieldName": "SkillType",
-    "Value": 3,
-    "Comment": "Mapping_9_Comment",
-    "Icon": ""
+    "id": 9,
+    "excel_name": "幻象技能",
+    "sheet_name": "VisionSkill",
+    "field_name": "SkillType",
+    "value": 3,
+    "comment": "Mapping_9_Comment",
+    "icon": ""
   },
   {
-    "Id": 10,
-    "ExcelName": "武器基础配置",
-    "SheetName": "WeaponConf",
-    "FieldName": "WeaponType",
-    "Value": 1,
-    "Comment": "Mapping_10_Comment",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword"
+    "id": 10,
+    "excel_name": "武器基础配置",
+    "sheet_name": "WeaponConf",
+    "field_name": "WeaponType",
+    "value": 1,
+    "comment": "Mapping_10_Comment",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword"
   },
   {
-    "Id": 11,
-    "ExcelName": "武器基础配置",
-    "SheetName": "WeaponConf",
-    "FieldName": "WeaponType",
-    "Value": 2,
-    "Comment": "Mapping_11_Comment",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+    "id": 11,
+    "excel_name": "武器基础配置",
+    "sheet_name": "WeaponConf",
+    "field_name": "WeaponType",
+    "value": 2,
+    "comment": "Mapping_11_Comment",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
   },
   {
-    "Id": 12,
-    "ExcelName": "武器基础配置",
-    "SheetName": "WeaponConf",
-    "FieldName": "WeaponType",
-    "Value": 3,
-    "Comment": "Mapping_12_Comment",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorGun.SP_IconNorGun"
+    "id": 12,
+    "excel_name": "武器基础配置",
+    "sheet_name": "WeaponConf",
+    "field_name": "WeaponType",
+    "value": 3,
+    "comment": "Mapping_12_Comment",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorGun.SP_IconNorGun"
   },
   {
-    "Id": 13,
-    "ExcelName": "武器基础配置",
-    "SheetName": "WeaponConf",
-    "FieldName": "WeaponType",
-    "Value": 4,
-    "Comment": "Mapping_13_Comment",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist"
+    "id": 13,
+    "excel_name": "武器基础配置",
+    "sheet_name": "WeaponConf",
+    "field_name": "WeaponType",
+    "value": 4,
+    "comment": "Mapping_13_Comment",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist"
   },
   {
-    "Id": 14,
-    "ExcelName": "武器基础配置",
-    "SheetName": "WeaponConf",
-    "FieldName": "WeaponType",
-    "Value": 5,
-    "Comment": "Mapping_14_Comment",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic"
+    "id": 14,
+    "excel_name": "武器基础配置",
+    "sheet_name": "WeaponConf",
+    "field_name": "WeaponType",
+    "value": 5,
+    "comment": "Mapping_14_Comment",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic"
   }
 ]

@@ -1,794 +1,794 @@
 [
   {
-    "Id": 1001,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
-  },
-  {
-    "Id": 1002,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1002_Title",
-    "TipsText": "LoadingTipsText_1002_TipsText"
-  },
-  {
-    "Id": 1003,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1003_Title",
-    "TipsText": "LoadingTipsText_1003_TipsText"
-  },
-  {
-    "Id": 1006,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1006_Title",
-    "TipsText": "LoadingTipsText_1006_TipsText"
-  },
-  {
-    "Id": 1007,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1007_Title",
-    "TipsText": "LoadingTipsText_1007_TipsText"
-  },
-  {
-    "Id": 1008,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1008_Title",
-    "TipsText": "LoadingTipsText_1008_TipsText"
-  },
-  {
-    "Id": 2002,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1002_Title",
-    "TipsText": "LoadingTipsText_1002_TipsText"
-  },
-  {
-    "Id": 2004,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1004_Title",
-    "TipsText": "LoadingTipsText_1004_TipsText"
-  },
-  {
-    "Id": 2005,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1005_Title",
-    "TipsText": "LoadingTipsText_1005_TipsText"
-  },
-  {
-    "Id": 2006,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1006_Title",
-    "TipsText": "LoadingTipsText_1006_TipsText"
-  },
-  {
-    "Id": 3001,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
-  },
-  {
-    "Id": 3002,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1002_Title",
-    "TipsText": "LoadingTipsText_1002_TipsText"
-  },
-  {
-    "Id": 3003,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1003_Title",
-    "TipsText": "LoadingTipsText_1003_TipsText"
+    "id": 1001,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
+  },
+  {
+    "id": 1002,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1002_Title",
+    "tips_text": "LoadingTipsText_1002_TipsText"
+  },
+  {
+    "id": 1003,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1003_Title",
+    "tips_text": "LoadingTipsText_1003_TipsText"
+  },
+  {
+    "id": 1006,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1006_Title",
+    "tips_text": "LoadingTipsText_1006_TipsText"
+  },
+  {
+    "id": 1007,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1007_Title",
+    "tips_text": "LoadingTipsText_1007_TipsText"
+  },
+  {
+    "id": 1008,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1008_Title",
+    "tips_text": "LoadingTipsText_1008_TipsText"
+  },
+  {
+    "id": 2002,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1002_Title",
+    "tips_text": "LoadingTipsText_1002_TipsText"
+  },
+  {
+    "id": 2004,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1004_Title",
+    "tips_text": "LoadingTipsText_1004_TipsText"
+  },
+  {
+    "id": 2005,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1005_Title",
+    "tips_text": "LoadingTipsText_1005_TipsText"
+  },
+  {
+    "id": 2006,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1006_Title",
+    "tips_text": "LoadingTipsText_1006_TipsText"
+  },
+  {
+    "id": 3001,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
+  },
+  {
+    "id": 3002,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1002_Title",
+    "tips_text": "LoadingTipsText_1002_TipsText"
+  },
+  {
+    "id": 3003,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1003_Title",
+    "tips_text": "LoadingTipsText_1003_TipsText"
   },
   {
-    "Id": 3004,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1004_Title",
-    "TipsText": "LoadingTipsText_1004_TipsText"
+    "id": 3004,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1004_Title",
+    "tips_text": "LoadingTipsText_1004_TipsText"
   },
   {
-    "Id": 3005,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1005_Title",
-    "TipsText": "LoadingTipsText_1005_TipsText"
+    "id": 3005,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1005_Title",
+    "tips_text": "LoadingTipsText_1005_TipsText"
   },
   {
-    "Id": 4001,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
+    "id": 4001,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
   },
   {
-    "Id": 4002,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1002_Title",
-    "TipsText": "LoadingTipsText_1002_TipsText"
+    "id": 4002,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1002_Title",
+    "tips_text": "LoadingTipsText_1002_TipsText"
   },
   {
-    "Id": 1004,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1004_Title",
-    "TipsText": "LoadingTipsText_1004_TipsText"
+    "id": 1004,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1004_Title",
+    "tips_text": "LoadingTipsText_1004_TipsText"
   },
   {
-    "Id": 1005,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1005_Title",
-    "TipsText": "LoadingTipsText_1005_TipsText"
+    "id": 1005,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1005_Title",
+    "tips_text": "LoadingTipsText_1005_TipsText"
   },
   {
-    "Id": 1009,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1009_Title",
-    "TipsText": "LoadingTipsText_1009_TipsText"
+    "id": 1009,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1009_Title",
+    "tips_text": "LoadingTipsText_1009_TipsText"
   },
   {
-    "Id": 2001,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
+    "id": 2001,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
   },
   {
-    "Id": 2003,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1003_Title",
-    "TipsText": "LoadingTipsText_1003_TipsText"
+    "id": 2003,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1003_Title",
+    "tips_text": "LoadingTipsText_1003_TipsText"
   },
   {
-    "Id": 2007,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1007_Title",
-    "TipsText": "LoadingTipsText_1007_TipsText"
+    "id": 2007,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1007_Title",
+    "tips_text": "LoadingTipsText_1007_TipsText"
   },
   {
-    "Id": 2008,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1008_Title",
-    "TipsText": "LoadingTipsText_1008_TipsText"
+    "id": 2008,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1008_Title",
+    "tips_text": "LoadingTipsText_1008_TipsText"
   },
   {
-    "Id": 2009,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1009_Title",
-    "TipsText": "LoadingTipsText_1009_TipsText"
+    "id": 2009,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1009_Title",
+    "tips_text": "LoadingTipsText_1009_TipsText"
   },
   {
-    "Id": 3006,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1006_Title",
-    "TipsText": "LoadingTipsText_1006_TipsText"
+    "id": 3006,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1006_Title",
+    "tips_text": "LoadingTipsText_1006_TipsText"
   },
   {
-    "Id": 3007,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1007_Title",
-    "TipsText": "LoadingTipsText_1007_TipsText"
+    "id": 3007,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1007_Title",
+    "tips_text": "LoadingTipsText_1007_TipsText"
   },
   {
-    "Id": 3008,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1008_Title",
-    "TipsText": "LoadingTipsText_1008_TipsText"
+    "id": 3008,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1008_Title",
+    "tips_text": "LoadingTipsText_1008_TipsText"
   },
   {
-    "Id": 3009,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1009_Title",
-    "TipsText": "LoadingTipsText_1009_TipsText"
+    "id": 3009,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1009_Title",
+    "tips_text": "LoadingTipsText_1009_TipsText"
   },
   {
-    "Id": 4003,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1003_Title",
-    "TipsText": "LoadingTipsText_1003_TipsText"
+    "id": 4003,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1003_Title",
+    "tips_text": "LoadingTipsText_1003_TipsText"
   },
   {
-    "Id": 4004,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1004_Title",
-    "TipsText": "LoadingTipsText_1004_TipsText"
+    "id": 4004,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1004_Title",
+    "tips_text": "LoadingTipsText_1004_TipsText"
   },
   {
-    "Id": 4005,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1005_Title",
-    "TipsText": "LoadingTipsText_1005_TipsText"
+    "id": 4005,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1005_Title",
+    "tips_text": "LoadingTipsText_1005_TipsText"
   },
   {
-    "Id": 4006,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1006_Title",
-    "TipsText": "LoadingTipsText_1006_TipsText"
+    "id": 4006,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1006_Title",
+    "tips_text": "LoadingTipsText_1006_TipsText"
   },
   {
-    "Id": 4007,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1007_Title",
-    "TipsText": "LoadingTipsText_1007_TipsText"
+    "id": 4007,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1007_Title",
+    "tips_text": "LoadingTipsText_1007_TipsText"
   },
   {
-    "Id": 4008,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1008_Title",
-    "TipsText": "LoadingTipsText_1008_TipsText"
+    "id": 4008,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1008_Title",
+    "tips_text": "LoadingTipsText_1008_TipsText"
   },
   {
-    "Id": 4009,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1009_Title",
-    "TipsText": "LoadingTipsText_1009_TipsText"
+    "id": 4009,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1009_Title",
+    "tips_text": "LoadingTipsText_1009_TipsText"
   },
   {
-    "Id": 5001,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
+    "id": 5001,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
   },
   {
-    "Id": 5002,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1002_Title",
-    "TipsText": "LoadingTipsText_1002_TipsText"
+    "id": 5002,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1002_Title",
+    "tips_text": "LoadingTipsText_1002_TipsText"
   },
   {
-    "Id": 5003,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1003_Title",
-    "TipsText": "LoadingTipsText_1003_TipsText"
+    "id": 5003,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1003_Title",
+    "tips_text": "LoadingTipsText_1003_TipsText"
   },
   {
-    "Id": 5004,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1004_Title",
-    "TipsText": "LoadingTipsText_1004_TipsText"
+    "id": 5004,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1004_Title",
+    "tips_text": "LoadingTipsText_1004_TipsText"
   },
   {
-    "Id": 5005,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1005_Title",
-    "TipsText": "LoadingTipsText_1005_TipsText"
+    "id": 5005,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1005_Title",
+    "tips_text": "LoadingTipsText_1005_TipsText"
   },
   {
-    "Id": 5006,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1006_Title",
-    "TipsText": "LoadingTipsText_1006_TipsText"
+    "id": 5006,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1006_Title",
+    "tips_text": "LoadingTipsText_1006_TipsText"
   },
   {
-    "Id": 5007,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1007_Title",
-    "TipsText": "LoadingTipsText_1007_TipsText"
+    "id": 5007,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1007_Title",
+    "tips_text": "LoadingTipsText_1007_TipsText"
   },
   {
-    "Id": 5008,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1008_Title",
-    "TipsText": "LoadingTipsText_1008_TipsText"
+    "id": 5008,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1008_Title",
+    "tips_text": "LoadingTipsText_1008_TipsText"
   },
   {
-    "Id": 5009,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1009_Title",
-    "TipsText": "LoadingTipsText_1009_TipsText"
+    "id": 5009,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1009_Title",
+    "tips_text": "LoadingTipsText_1009_TipsText"
   },
   {
-    "Id": 6001,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
+    "id": 6001,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
   },
   {
-    "Id": 6002,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1002_Title",
-    "TipsText": "LoadingTipsText_1002_TipsText"
+    "id": 6002,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1002_Title",
+    "tips_text": "LoadingTipsText_1002_TipsText"
   },
   {
-    "Id": 6003,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1003_Title",
-    "TipsText": "LoadingTipsText_1003_TipsText"
+    "id": 6003,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1003_Title",
+    "tips_text": "LoadingTipsText_1003_TipsText"
   },
   {
-    "Id": 6004,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1004_Title",
-    "TipsText": "LoadingTipsText_1004_TipsText"
+    "id": 6004,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1004_Title",
+    "tips_text": "LoadingTipsText_1004_TipsText"
   },
   {
-    "Id": 6005,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1005_Title",
-    "TipsText": "LoadingTipsText_1005_TipsText"
+    "id": 6005,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1005_Title",
+    "tips_text": "LoadingTipsText_1005_TipsText"
   },
   {
-    "Id": 6006,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1006_Title",
-    "TipsText": "LoadingTipsText_1006_TipsText"
+    "id": 6006,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1006_Title",
+    "tips_text": "LoadingTipsText_1006_TipsText"
   },
   {
-    "Id": 6007,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1007_Title",
-    "TipsText": "LoadingTipsText_1007_TipsText"
+    "id": 6007,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1007_Title",
+    "tips_text": "LoadingTipsText_1007_TipsText"
   },
   {
-    "Id": 6008,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1008_Title",
-    "TipsText": "LoadingTipsText_1008_TipsText"
+    "id": 6008,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1008_Title",
+    "tips_text": "LoadingTipsText_1008_TipsText"
   },
   {
-    "Id": 6009,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1009_Title",
-    "TipsText": "LoadingTipsText_1009_TipsText"
+    "id": 6009,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1009_Title",
+    "tips_text": "LoadingTipsText_1009_TipsText"
   },
   {
-    "Id": 99999,
-    "LevelAreaId": 99999,
-    "ImageId": 99999,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
+    "id": 99999,
+    "level_area_id": 99999,
+    "image_id": 99999,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
   },
   {
-    "Id": 1010,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1010_Title",
-    "TipsText": "LoadingTipsText_1010_TipsText"
+    "id": 1010,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1010_Title",
+    "tips_text": "LoadingTipsText_1010_TipsText"
   },
   {
-    "Id": 1011,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1011_Title",
-    "TipsText": "LoadingTipsText_1011_TipsText"
+    "id": 1011,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1011_Title",
+    "tips_text": "LoadingTipsText_1011_TipsText"
   },
   {
-    "Id": 1012,
-    "LevelAreaId": 1,
-    "ImageId": 1,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1012_Title",
-    "TipsText": "LoadingTipsText_1012_TipsText"
+    "id": 1012,
+    "level_area_id": 1,
+    "image_id": 1,
+    "weight": 10,
+    "title": "LoadingTipsText_1012_Title",
+    "tips_text": "LoadingTipsText_1012_TipsText"
   },
   {
-    "Id": 2010,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1010_Title",
-    "TipsText": "LoadingTipsText_1010_TipsText"
+    "id": 2010,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1010_Title",
+    "tips_text": "LoadingTipsText_1010_TipsText"
   },
   {
-    "Id": 2011,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1011_Title",
-    "TipsText": "LoadingTipsText_1011_TipsText"
+    "id": 2011,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1011_Title",
+    "tips_text": "LoadingTipsText_1011_TipsText"
   },
   {
-    "Id": 2012,
-    "LevelAreaId": 1,
-    "ImageId": 2,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1012_Title",
-    "TipsText": "LoadingTipsText_1012_TipsText"
+    "id": 2012,
+    "level_area_id": 1,
+    "image_id": 2,
+    "weight": 10,
+    "title": "LoadingTipsText_1012_Title",
+    "tips_text": "LoadingTipsText_1012_TipsText"
   },
   {
-    "Id": 3010,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1010_Title",
-    "TipsText": "LoadingTipsText_1010_TipsText"
+    "id": 3010,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1010_Title",
+    "tips_text": "LoadingTipsText_1010_TipsText"
   },
   {
-    "Id": 3011,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1011_Title",
-    "TipsText": "LoadingTipsText_1011_TipsText"
+    "id": 3011,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1011_Title",
+    "tips_text": "LoadingTipsText_1011_TipsText"
   },
   {
-    "Id": 3012,
-    "LevelAreaId": 1,
-    "ImageId": 3,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1012_Title",
-    "TipsText": "LoadingTipsText_1012_TipsText"
+    "id": 3012,
+    "level_area_id": 1,
+    "image_id": 3,
+    "weight": 10,
+    "title": "LoadingTipsText_1012_Title",
+    "tips_text": "LoadingTipsText_1012_TipsText"
   },
   {
-    "Id": 4010,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1010_Title",
-    "TipsText": "LoadingTipsText_1010_TipsText"
+    "id": 4010,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1010_Title",
+    "tips_text": "LoadingTipsText_1010_TipsText"
   },
   {
-    "Id": 4011,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1011_Title",
-    "TipsText": "LoadingTipsText_1011_TipsText"
+    "id": 4011,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1011_Title",
+    "tips_text": "LoadingTipsText_1011_TipsText"
   },
   {
-    "Id": 4012,
-    "LevelAreaId": 1,
-    "ImageId": 4,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1012_Title",
-    "TipsText": "LoadingTipsText_1012_TipsText"
+    "id": 4012,
+    "level_area_id": 1,
+    "image_id": 4,
+    "weight": 10,
+    "title": "LoadingTipsText_1012_Title",
+    "tips_text": "LoadingTipsText_1012_TipsText"
   },
   {
-    "Id": 5010,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1010_Title",
-    "TipsText": "LoadingTipsText_1010_TipsText"
+    "id": 5010,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1010_Title",
+    "tips_text": "LoadingTipsText_1010_TipsText"
   },
   {
-    "Id": 5011,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1011_Title",
-    "TipsText": "LoadingTipsText_1011_TipsText"
+    "id": 5011,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1011_Title",
+    "tips_text": "LoadingTipsText_1011_TipsText"
   },
   {
-    "Id": 5012,
-    "LevelAreaId": 1,
-    "ImageId": 5,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1012_Title",
-    "TipsText": "LoadingTipsText_1012_TipsText"
+    "id": 5012,
+    "level_area_id": 1,
+    "image_id": 5,
+    "weight": 10,
+    "title": "LoadingTipsText_1012_Title",
+    "tips_text": "LoadingTipsText_1012_TipsText"
   },
   {
-    "Id": 6010,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1010_Title",
-    "TipsText": "LoadingTipsText_1010_TipsText"
+    "id": 6010,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1010_Title",
+    "tips_text": "LoadingTipsText_1010_TipsText"
   },
   {
-    "Id": 6011,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1011_Title",
-    "TipsText": "LoadingTipsText_1011_TipsText"
+    "id": 6011,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1011_Title",
+    "tips_text": "LoadingTipsText_1011_TipsText"
   },
   {
-    "Id": 6012,
-    "LevelAreaId": 1,
-    "ImageId": 6,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1012_Title",
-    "TipsText": "LoadingTipsText_1012_TipsText"
+    "id": 6012,
+    "level_area_id": 1,
+    "image_id": 6,
+    "weight": 10,
+    "title": "LoadingTipsText_1012_Title",
+    "tips_text": "LoadingTipsText_1012_TipsText"
   },
   {
-    "Id": 80020101,
-    "LevelAreaId": 800201,
-    "ImageId": 800201,
-    "Weight": 10,
-    "Title": "LoadingTipsText_80020101_Title",
-    "TipsText": "LoadingTipsText_80020101_TipsText"
+    "id": 80020101,
+    "level_area_id": 800201,
+    "image_id": 800201,
+    "weight": 10,
+    "title": "LoadingTipsText_80020101_Title",
+    "tips_text": "LoadingTipsText_80020101_TipsText"
   },
   {
-    "Id": 680101,
-    "LevelAreaId": 6801,
-    "ImageId": 6801,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
+    "id": 680101,
+    "level_area_id": 6801,
+    "image_id": 6801,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
   },
   {
-    "Id": 7001,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
+    "id": 7001,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
   },
   {
-    "Id": 7002,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1002_Title",
-    "TipsText": "LoadingTipsText_1002_TipsText"
+    "id": 7002,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1002_Title",
+    "tips_text": "LoadingTipsText_1002_TipsText"
   },
   {
-    "Id": 7003,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1003_Title",
-    "TipsText": "LoadingTipsText_1003_TipsText"
+    "id": 7003,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1003_Title",
+    "tips_text": "LoadingTipsText_1003_TipsText"
   },
   {
-    "Id": 7004,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1004_Title",
-    "TipsText": "LoadingTipsText_1004_TipsText"
+    "id": 7004,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1004_Title",
+    "tips_text": "LoadingTipsText_1004_TipsText"
   },
   {
-    "Id": 7005,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1005_Title",
-    "TipsText": "LoadingTipsText_1005_TipsText"
+    "id": 7005,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1005_Title",
+    "tips_text": "LoadingTipsText_1005_TipsText"
   },
   {
-    "Id": 7006,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1006_Title",
-    "TipsText": "LoadingTipsText_1006_TipsText"
+    "id": 7006,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1006_Title",
+    "tips_text": "LoadingTipsText_1006_TipsText"
   },
   {
-    "Id": 7007,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1007_Title",
-    "TipsText": "LoadingTipsText_1007_TipsText"
+    "id": 7007,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1007_Title",
+    "tips_text": "LoadingTipsText_1007_TipsText"
   },
   {
-    "Id": 7008,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1008_Title",
-    "TipsText": "LoadingTipsText_1008_TipsText"
+    "id": 7008,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1008_Title",
+    "tips_text": "LoadingTipsText_1008_TipsText"
   },
   {
-    "Id": 7009,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1009_Title",
-    "TipsText": "LoadingTipsText_1009_TipsText"
+    "id": 7009,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1009_Title",
+    "tips_text": "LoadingTipsText_1009_TipsText"
   },
   {
-    "Id": 7010,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1010_Title",
-    "TipsText": "LoadingTipsText_1010_TipsText"
+    "id": 7010,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1010_Title",
+    "tips_text": "LoadingTipsText_1010_TipsText"
   },
   {
-    "Id": 7011,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1011_Title",
-    "TipsText": "LoadingTipsText_1011_TipsText"
+    "id": 7011,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1011_Title",
+    "tips_text": "LoadingTipsText_1011_TipsText"
   },
   {
-    "Id": 7012,
-    "LevelAreaId": 1,
-    "ImageId": 7,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1012_Title",
-    "TipsText": "LoadingTipsText_1012_TipsText"
-  },
-  {
-    "Id": 8001,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1001_Title",
-    "TipsText": "LoadingTipsText_1001_TipsText"
-  },
-  {
-    "Id": 8002,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1002_Title",
-    "TipsText": "LoadingTipsText_1002_TipsText"
-  },
-  {
-    "Id": 8003,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1003_Title",
-    "TipsText": "LoadingTipsText_1003_TipsText"
-  },
-  {
-    "Id": 8004,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1004_Title",
-    "TipsText": "LoadingTipsText_1004_TipsText"
-  },
-  {
-    "Id": 8005,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1005_Title",
-    "TipsText": "LoadingTipsText_1005_TipsText"
-  },
-  {
-    "Id": 8006,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1006_Title",
-    "TipsText": "LoadingTipsText_1006_TipsText"
-  },
-  {
-    "Id": 8007,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1007_Title",
-    "TipsText": "LoadingTipsText_1007_TipsText"
-  },
-  {
-    "Id": 8008,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1008_Title",
-    "TipsText": "LoadingTipsText_1008_TipsText"
-  },
-  {
-    "Id": 8009,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1009_Title",
-    "TipsText": "LoadingTipsText_1009_TipsText"
-  },
-  {
-    "Id": 8010,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1010_Title",
-    "TipsText": "LoadingTipsText_1010_TipsText"
-  },
-  {
-    "Id": 8011,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1011_Title",
-    "TipsText": "LoadingTipsText_1011_TipsText"
-  },
-  {
-    "Id": 8012,
-    "LevelAreaId": 1,
-    "ImageId": 8,
-    "Weight": 10,
-    "Title": "LoadingTipsText_1012_Title",
-    "TipsText": "LoadingTipsText_1012_TipsText"
+    "id": 7012,
+    "level_area_id": 1,
+    "image_id": 7,
+    "weight": 10,
+    "title": "LoadingTipsText_1012_Title",
+    "tips_text": "LoadingTipsText_1012_TipsText"
+  },
+  {
+    "id": 8001,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1001_Title",
+    "tips_text": "LoadingTipsText_1001_TipsText"
+  },
+  {
+    "id": 8002,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1002_Title",
+    "tips_text": "LoadingTipsText_1002_TipsText"
+  },
+  {
+    "id": 8003,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1003_Title",
+    "tips_text": "LoadingTipsText_1003_TipsText"
+  },
+  {
+    "id": 8004,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1004_Title",
+    "tips_text": "LoadingTipsText_1004_TipsText"
+  },
+  {
+    "id": 8005,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1005_Title",
+    "tips_text": "LoadingTipsText_1005_TipsText"
+  },
+  {
+    "id": 8006,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1006_Title",
+    "tips_text": "LoadingTipsText_1006_TipsText"
+  },
+  {
+    "id": 8007,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1007_Title",
+    "tips_text": "LoadingTipsText_1007_TipsText"
+  },
+  {
+    "id": 8008,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1008_Title",
+    "tips_text": "LoadingTipsText_1008_TipsText"
+  },
+  {
+    "id": 8009,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1009_Title",
+    "tips_text": "LoadingTipsText_1009_TipsText"
+  },
+  {
+    "id": 8010,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1010_Title",
+    "tips_text": "LoadingTipsText_1010_TipsText"
+  },
+  {
+    "id": 8011,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1011_Title",
+    "tips_text": "LoadingTipsText_1011_TipsText"
+  },
+  {
+    "id": 8012,
+    "level_area_id": 1,
+    "image_id": 8,
+    "weight": 10,
+    "title": "LoadingTipsText_1012_Title",
+    "tips_text": "LoadingTipsText_1012_TipsText"
   }
 ]

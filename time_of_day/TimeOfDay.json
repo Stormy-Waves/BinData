@@ -1,9 +1,9 @@
 [
   {
-    "Id": 1,
-    "InitTime": 540,
-    "Rate": 600000,
-    "StateSpan": [
+    "id": 1,
+    "init_time": 540,
+    "rate": 600000,
+    "state_span": [
       {
         "key": 540,
         "value": 900
@@ -21,12 +21,12 @@
         "value": 540
       }
     ],
-    "A": 150,
-    "V": 600,
-    "BanTag": [
+    "a": 150,
+    "v": 600,
+    "ban_tag": [
       "行为状态.逻辑状态.进入战斗"
     ],
-    "TimePreset": [
+    "time_preset": [
       {
         "key": 3600,
         "value": ""

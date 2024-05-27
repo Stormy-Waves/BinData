@@ -1,578 +1,578 @@
 [
   {
-    "Id": 70000,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70000,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 1
+    "id": 70001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 1
   },
   {
-    "Id": 70002,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 1
+    "id": 70002,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 1
   },
   {
-    "Id": 70003,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70003,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70004,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70004,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072002,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072002,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70100,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70100,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70106,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70106,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70107,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 3
+    "id": 70107,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 3
   },
   {
-    "Id": 77000,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 3
+    "id": 77000,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 3
   },
   {
-    "Id": 77001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 1
+    "id": 77001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 1
   },
   {
-    "Id": 77002,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 1
+    "id": 77002,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 1
   },
   {
-    "Id": 77003,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77003,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 77004,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77004,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 77005,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 3
+    "id": 77005,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 3
   },
   {
-    "Id": 77026,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77026,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 77033,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77033,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 80000,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 80000,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 80001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 80001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 80001001,
-    "ExecutionId": [
+    "id": 80001001,
+    "execution_id": [
       2,
       1
     ],
-    "ExecutionRadius": 260.0,
-    "ForceLockOnCoefficient": 1000.0,
-    "MonsterSizeId": 7
+    "execution_radius": 260.0,
+    "force_lock_on_coefficient": 1000.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 80001002,
-    "ExecutionId": [
+    "id": 80001002,
+    "execution_id": [
       2,
       1
     ],
-    "ExecutionRadius": 260.0,
-    "ForceLockOnCoefficient": 1000.0,
-    "MonsterSizeId": 7
+    "execution_radius": 260.0,
+    "force_lock_on_coefficient": 1000.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 80002001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 80002001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 80008001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 80008001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 80010001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 80010001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 80011001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 80011001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 70064001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70064001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 77004001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77004001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 77036001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 3
+    "id": 77036001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 3
   },
   {
-    "Id": 77012001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77012001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 77014001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77014001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 77015001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77015001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 77016001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77016001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70074001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 5
+    "id": 70074001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 5
   },
   {
-    "Id": 77027,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 77027,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 77006,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 3
+    "id": 77006,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 3
   },
   {
-    "Id": 70064,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70064,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70065,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70065,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70036,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70036,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70107001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 4
+    "id": 70107001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
   },
   {
-    "Id": 70005,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 3
+    "id": 70005,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 3
   },
   {
-    "Id": 70006,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 3
+    "id": 70006,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 3
   },
   {
-    "Id": 70007,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 4
+    "id": 70007,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
   },
   {
-    "Id": 70008,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 4
+    "id": 70008,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
   },
   {
-    "Id": 70009,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 5
+    "id": 70009,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 5
   },
   {
-    "Id": 70010,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 5
+    "id": 70010,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 5
   },
   {
-    "Id": 70011,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 6
+    "id": 70011,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 6
   },
   {
-    "Id": 70012,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 6
+    "id": 70012,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 6
   },
   {
-    "Id": 77007,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 4
+    "id": 77007,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
   },
   {
-    "Id": 77008,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 4
+    "id": 77008,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
   },
   {
-    "Id": 77009,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 5
+    "id": 77009,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 5
   },
   {
-    "Id": 77010,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 5
+    "id": 77010,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 5
   },
   {
-    "Id": 77011,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 6
+    "id": 77011,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 6
   },
   {
-    "Id": 77012,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 6
+    "id": 77012,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 6
   },
   {
-    "Id": 77024001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 4
+    "id": 77024001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
   },
   {
-    "Id": 77021001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 3
+    "id": 77021001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 3
   },
   {
-    "Id": 77116,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 4
+    "id": 77116,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
   },
   {
-    "Id": 70114,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70114,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 80008002,
-    "ExecutionId": [
+    "id": 80008002,
+    "execution_id": [
       5,
       6
     ],
-    "ExecutionRadius": 550.0,
-    "ForceLockOnCoefficient": 1000.0,
-    "MonsterSizeId": 7
+    "execution_radius": 550.0,
+    "force_lock_on_coefficient": 1000.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 80007001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 80007001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 80014001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 80014001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 77116001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 77116001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 770081,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 4
+    "id": 770081,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
   },
   {
-    "Id": 700031,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 700031,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 80019001,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 80019001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 77022,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 3
+    "id": 77022,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 3
   },
   {
-    "Id": 10070501,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 7
+    "id": 10070501,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   },
   {
-    "Id": 7001999,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 1
+    "id": 7001999,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 1
   },
   {
-    "Id": 7001998,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 7001998,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 7001997,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 7001997,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072003,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072003,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072004,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072004,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072005,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072005,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072006,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072006,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072007,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072007,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072008,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072008,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072009,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072009,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072010,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072010,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072011,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072011,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   },
   {
-    "Id": 70072012,
-    "ExecutionId": [],
-    "ExecutionRadius": 3.0,
-    "ForceLockOnCoefficient": 0.0,
-    "MonsterSizeId": 2
+    "id": 70072012,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 2
   }
 ]

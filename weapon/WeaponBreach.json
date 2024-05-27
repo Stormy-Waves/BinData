@@ -1,25 +1,25 @@
 [
   {
-    "Id": 1,
-    "BreachId": 10001,
-    "Level": 0,
-    "ConditionId": 0,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 1,
+    "breach_id": 10001,
+    "level": 0,
+    "condition_id": 0,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 6
       }
     ],
-    "GoldConsume": 3000
+    "gold_consume": 3000
   },
   {
-    "Id": 2,
-    "BreachId": 10001,
-    "Level": 1,
-    "ConditionId": 504001,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 2,
+    "breach_id": 10001,
+    "level": 1,
+    "condition_id": 504001,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020012,
         "value": 3
@@ -29,15 +29,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 14000
+    "gold_consume": 14000
   },
   {
-    "Id": 3,
-    "BreachId": 10001,
-    "Level": 2,
-    "ConditionId": 504002,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 3,
+    "breach_id": 10001,
+    "level": 2,
+    "condition_id": 504002,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 12
@@ -47,15 +47,15 @@
         "value": 12
       }
     ],
-    "GoldConsume": 54000
+    "gold_consume": 54000
   },
   {
-    "Id": 4,
-    "BreachId": 10001,
-    "Level": 3,
-    "ConditionId": 504003,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 4,
+    "breach_id": 10001,
+    "level": 3,
+    "condition_id": 504003,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 6
@@ -65,24 +65,24 @@
         "value": 9
       }
     ],
-    "GoldConsume": 86000
+    "gold_consume": 86000
   },
   {
-    "Id": 5,
-    "BreachId": 10001,
-    "Level": 4,
-    "ConditionId": 504004,
-    "LevelLimit": 70,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 5,
+    "breach_id": 10001,
+    "level": 4,
+    "condition_id": 504004,
+    "level_limit": 70,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 8,
-    "BreachId": 10002,
-    "Level": 2,
-    "ConditionId": 504002,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 8,
+    "breach_id": 10002,
+    "level": 2,
+    "condition_id": 504002,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 12
@@ -92,15 +92,15 @@
         "value": 12
       }
     ],
-    "GoldConsume": 54000
+    "gold_consume": 54000
   },
   {
-    "Id": 9,
-    "BreachId": 10002,
-    "Level": 3,
-    "ConditionId": 504003,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 9,
+    "breach_id": 10002,
+    "level": 3,
+    "condition_id": 504003,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 6
@@ -110,38 +110,38 @@
         "value": 9
       }
     ],
-    "GoldConsume": 86000
+    "gold_consume": 86000
   },
   {
-    "Id": 10,
-    "BreachId": 10002,
-    "Level": 4,
-    "ConditionId": 504004,
-    "LevelLimit": 70,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 10,
+    "breach_id": 10002,
+    "level": 4,
+    "condition_id": 504004,
+    "level_limit": 70,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 11,
-    "BreachId": 10003,
-    "Level": 0,
-    "ConditionId": 0,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 11,
+    "breach_id": 10003,
+    "level": 0,
+    "condition_id": 0,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 6
       }
     ],
-    "GoldConsume": 3000
+    "gold_consume": 3000
   },
   {
-    "Id": 12,
-    "BreachId": 10003,
-    "Level": 1,
-    "ConditionId": 504001,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 12,
+    "breach_id": 10003,
+    "level": 1,
+    "condition_id": 504001,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020012,
         "value": 3
@@ -151,15 +151,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 14000
+    "gold_consume": 14000
   },
   {
-    "Id": 15,
-    "BreachId": 10003,
-    "Level": 4,
-    "ConditionId": 504004,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 15,
+    "breach_id": 10003,
+    "level": 4,
+    "condition_id": 504004,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020013,
         "value": 10
@@ -169,15 +169,15 @@
         "value": 22
       }
     ],
-    "GoldConsume": 140000
+    "gold_consume": 140000
   },
   {
-    "Id": 16,
-    "BreachId": 10003,
-    "Level": 5,
-    "ConditionId": 504005,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 16,
+    "breach_id": 10003,
+    "level": 5,
+    "condition_id": 504005,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 6
@@ -187,38 +187,38 @@
         "value": 18
       }
     ],
-    "GoldConsume": 243000
+    "gold_consume": 243000
   },
   {
-    "Id": 17,
-    "BreachId": 10003,
-    "Level": 6,
-    "ConditionId": 504006,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 17,
+    "breach_id": 10003,
+    "level": 6,
+    "condition_id": 504006,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 19,
-    "BreachId": 10004,
-    "Level": 0,
-    "ConditionId": 0,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 19,
+    "breach_id": 10004,
+    "level": 0,
+    "condition_id": 0,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 6
       }
     ],
-    "GoldConsume": 3000
+    "gold_consume": 3000
   },
   {
-    "Id": 20,
-    "BreachId": 10004,
-    "Level": 1,
-    "ConditionId": 504001,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 20,
+    "breach_id": 10004,
+    "level": 1,
+    "condition_id": 504001,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020012,
         "value": 3
@@ -228,15 +228,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 14000
+    "gold_consume": 14000
   },
   {
-    "Id": 21,
-    "BreachId": 10004,
-    "Level": 2,
-    "ConditionId": 504002,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 21,
+    "breach_id": 10004,
+    "level": 2,
+    "condition_id": 504002,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 12
@@ -246,15 +246,15 @@
         "value": 12
       }
     ],
-    "GoldConsume": 54000
+    "gold_consume": 54000
   },
   {
-    "Id": 22,
-    "BreachId": 10004,
-    "Level": 3,
-    "ConditionId": 504003,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 22,
+    "breach_id": 10004,
+    "level": 3,
+    "condition_id": 504003,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 6
@@ -264,15 +264,15 @@
         "value": 9
       }
     ],
-    "GoldConsume": 86000
+    "gold_consume": 86000
   },
   {
-    "Id": 23,
-    "BreachId": 10004,
-    "Level": 4,
-    "ConditionId": 504004,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 23,
+    "breach_id": 10004,
+    "level": 4,
+    "condition_id": 504004,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020013,
         "value": 10
@@ -282,15 +282,15 @@
         "value": 22
       }
     ],
-    "GoldConsume": 140000
+    "gold_consume": 140000
   },
   {
-    "Id": 24,
-    "BreachId": 10004,
-    "Level": 5,
-    "ConditionId": 504005,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 24,
+    "breach_id": 10004,
+    "level": 5,
+    "condition_id": 504005,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 6
@@ -300,38 +300,38 @@
         "value": 18
       }
     ],
-    "GoldConsume": 243000
+    "gold_consume": 243000
   },
   {
-    "Id": 25,
-    "BreachId": 10004,
-    "Level": 6,
-    "ConditionId": 504006,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 25,
+    "breach_id": 10004,
+    "level": 6,
+    "condition_id": 504006,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 27,
-    "BreachId": 10005,
-    "Level": 0,
-    "ConditionId": 0,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 27,
+    "breach_id": 10005,
+    "level": 0,
+    "condition_id": 0,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 6
       }
     ],
-    "GoldConsume": 3000
+    "gold_consume": 3000
   },
   {
-    "Id": 28,
-    "BreachId": 10005,
-    "Level": 1,
-    "ConditionId": 504001,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 28,
+    "breach_id": 10005,
+    "level": 1,
+    "condition_id": 504001,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020012,
         "value": 3
@@ -341,15 +341,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 14000
+    "gold_consume": 14000
   },
   {
-    "Id": 29,
-    "BreachId": 10005,
-    "Level": 2,
-    "ConditionId": 504002,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 29,
+    "breach_id": 10005,
+    "level": 2,
+    "condition_id": 504002,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 12
@@ -359,15 +359,15 @@
         "value": 12
       }
     ],
-    "GoldConsume": 54000
+    "gold_consume": 54000
   },
   {
-    "Id": 30,
-    "BreachId": 10005,
-    "Level": 3,
-    "ConditionId": 504003,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 30,
+    "breach_id": 10005,
+    "level": 3,
+    "condition_id": 504003,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 6
@@ -377,15 +377,15 @@
         "value": 9
       }
     ],
-    "GoldConsume": 86000
+    "gold_consume": 86000
   },
   {
-    "Id": 31,
-    "BreachId": 10005,
-    "Level": 4,
-    "ConditionId": 504004,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 31,
+    "breach_id": 10005,
+    "level": 4,
+    "condition_id": 504004,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020013,
         "value": 10
@@ -395,15 +395,15 @@
         "value": 22
       }
     ],
-    "GoldConsume": 140000
+    "gold_consume": 140000
   },
   {
-    "Id": 32,
-    "BreachId": 10005,
-    "Level": 5,
-    "ConditionId": 504005,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 32,
+    "breach_id": 10005,
+    "level": 5,
+    "condition_id": 504005,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 6
@@ -413,38 +413,38 @@
         "value": 18
       }
     ],
-    "GoldConsume": 243000
+    "gold_consume": 243000
   },
   {
-    "Id": 33,
-    "BreachId": 10005,
-    "Level": 6,
-    "ConditionId": 504006,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 33,
+    "breach_id": 10005,
+    "level": 6,
+    "condition_id": 504006,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 36,
-    "BreachId": 21010015,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 36,
+    "breach_id": 21010015,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 6
       }
     ],
-    "GoldConsume": 10000
+    "gold_consume": 10000
   },
   {
-    "Id": 37,
-    "BreachId": 21010015,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 37,
+    "breach_id": 21010015,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 6
@@ -454,15 +454,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 20000
+    "gold_consume": 20000
   },
   {
-    "Id": 38,
-    "BreachId": 21010015,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 38,
+    "breach_id": 21010015,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 8
@@ -472,15 +472,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 40000
+    "gold_consume": 40000
   },
   {
-    "Id": 39,
-    "BreachId": 21010015,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 39,
+    "breach_id": 21010015,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 6
@@ -490,15 +490,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 60000
+    "gold_consume": 60000
   },
   {
-    "Id": 40,
-    "BreachId": 21010015,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 40,
+    "breach_id": 21010015,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 8
@@ -508,15 +508,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 80000
+    "gold_consume": 80000
   },
   {
-    "Id": 41,
-    "BreachId": 21010015,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 41,
+    "breach_id": 21010015,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 12
@@ -526,38 +526,38 @@
         "value": 8
       }
     ],
-    "GoldConsume": 120000
+    "gold_consume": 120000
   },
   {
-    "Id": 42,
-    "BreachId": 21010015,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 42,
+    "breach_id": 21010015,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 44,
-    "BreachId": 21020015,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 44,
+    "breach_id": 21020015,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 6
       }
     ],
-    "GoldConsume": 10000
+    "gold_consume": 10000
   },
   {
-    "Id": 45,
-    "BreachId": 21020015,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 45,
+    "breach_id": 21020015,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 6
@@ -567,15 +567,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 20000
+    "gold_consume": 20000
   },
   {
-    "Id": 47,
-    "BreachId": 21020015,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 47,
+    "breach_id": 21020015,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 6
@@ -585,15 +585,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 60000
+    "gold_consume": 60000
   },
   {
-    "Id": 48,
-    "BreachId": 21020015,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 48,
+    "breach_id": 21020015,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 8
@@ -603,15 +603,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 80000
+    "gold_consume": 80000
   },
   {
-    "Id": 49,
-    "BreachId": 21020015,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 49,
+    "breach_id": 21020015,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 12
@@ -621,38 +621,38 @@
         "value": 8
       }
     ],
-    "GoldConsume": 120000
+    "gold_consume": 120000
   },
   {
-    "Id": 50,
-    "BreachId": 21020015,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 50,
+    "breach_id": 21020015,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 52,
-    "BreachId": 21030015,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 52,
+    "breach_id": 21030015,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 6
       }
     ],
-    "GoldConsume": 10000
+    "gold_consume": 10000
   },
   {
-    "Id": 53,
-    "BreachId": 21030015,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 53,
+    "breach_id": 21030015,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 6
@@ -662,15 +662,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 20000
+    "gold_consume": 20000
   },
   {
-    "Id": 55,
-    "BreachId": 21030015,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 55,
+    "breach_id": 21030015,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 6
@@ -680,15 +680,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 60000
+    "gold_consume": 60000
   },
   {
-    "Id": 56,
-    "BreachId": 21030015,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 56,
+    "breach_id": 21030015,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 8
@@ -698,15 +698,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 80000
+    "gold_consume": 80000
   },
   {
-    "Id": 57,
-    "BreachId": 21030015,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 57,
+    "breach_id": 21030015,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 12
@@ -716,38 +716,38 @@
         "value": 8
       }
     ],
-    "GoldConsume": 120000
+    "gold_consume": 120000
   },
   {
-    "Id": 58,
-    "BreachId": 21030015,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 58,
+    "breach_id": 21030015,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 60,
-    "BreachId": 21040015,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 60,
+    "breach_id": 21040015,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 6
       }
     ],
-    "GoldConsume": 10000
+    "gold_consume": 10000
   },
   {
-    "Id": 61,
-    "BreachId": 21040015,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 61,
+    "breach_id": 21040015,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 6
@@ -757,15 +757,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 20000
+    "gold_consume": 20000
   },
   {
-    "Id": 63,
-    "BreachId": 21040015,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 63,
+    "breach_id": 21040015,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 6
@@ -775,15 +775,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 60000
+    "gold_consume": 60000
   },
   {
-    "Id": 64,
-    "BreachId": 21040015,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 64,
+    "breach_id": 21040015,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 8
@@ -793,15 +793,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 80000
+    "gold_consume": 80000
   },
   {
-    "Id": 65,
-    "BreachId": 21040015,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 65,
+    "breach_id": 21040015,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 12
@@ -811,38 +811,38 @@
         "value": 8
       }
     ],
-    "GoldConsume": 120000
+    "gold_consume": 120000
   },
   {
-    "Id": 66,
-    "BreachId": 21040015,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 66,
+    "breach_id": 21040015,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 68,
-    "BreachId": 21050015,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 68,
+    "breach_id": 21050015,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 6
       }
     ],
-    "GoldConsume": 10000
+    "gold_consume": 10000
   },
   {
-    "Id": 69,
-    "BreachId": 21050015,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 69,
+    "breach_id": 21050015,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 6
@@ -852,15 +852,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 20000
+    "gold_consume": 20000
   },
   {
-    "Id": 71,
-    "BreachId": 21050015,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 71,
+    "breach_id": 21050015,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 6
@@ -870,15 +870,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 60000
+    "gold_consume": 60000
   },
   {
-    "Id": 72,
-    "BreachId": 21050015,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 72,
+    "breach_id": 21050015,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 8
@@ -888,15 +888,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 80000
+    "gold_consume": 80000
   },
   {
-    "Id": 73,
-    "BreachId": 21050015,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 73,
+    "breach_id": 21050015,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 12
@@ -906,38 +906,38 @@
         "value": 8
       }
     ],
-    "GoldConsume": 120000
+    "gold_consume": 120000
   },
   {
-    "Id": 74,
-    "BreachId": 21050015,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 74,
+    "breach_id": 21050015,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 158,
-    "BreachId": 21010024,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 158,
+    "breach_id": 21010024,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 161,
-    "BreachId": 21010024,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 161,
+    "breach_id": 21010024,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 5
@@ -947,15 +947,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 162,
-    "BreachId": 21010024,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 162,
+    "breach_id": 21010024,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 7
@@ -965,15 +965,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 163,
-    "BreachId": 21010024,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 163,
+    "breach_id": 21010024,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 10
@@ -983,38 +983,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 164,
-    "BreachId": 21010024,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 164,
+    "breach_id": 21010024,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 166,
-    "BreachId": 21020024,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 166,
+    "breach_id": 21020024,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 167,
-    "BreachId": 21020024,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 167,
+    "breach_id": 21020024,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 5
@@ -1024,15 +1024,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 169,
-    "BreachId": 21020024,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 169,
+    "breach_id": 21020024,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 5
@@ -1042,15 +1042,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 170,
-    "BreachId": 21020024,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 170,
+    "breach_id": 21020024,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 7
@@ -1060,15 +1060,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 171,
-    "BreachId": 21020024,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 171,
+    "breach_id": 21020024,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 10
@@ -1078,38 +1078,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 172,
-    "BreachId": 21020024,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 172,
+    "breach_id": 21020024,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 174,
-    "BreachId": 21030024,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 174,
+    "breach_id": 21030024,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 175,
-    "BreachId": 21030024,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 175,
+    "breach_id": 21030024,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 5
@@ -1119,15 +1119,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 177,
-    "BreachId": 21030024,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 177,
+    "breach_id": 21030024,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 5
@@ -1137,15 +1137,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 178,
-    "BreachId": 21030024,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 178,
+    "breach_id": 21030024,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 7
@@ -1155,15 +1155,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 179,
-    "BreachId": 21030024,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 179,
+    "breach_id": 21030024,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 10
@@ -1173,38 +1173,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 180,
-    "BreachId": 21030024,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 180,
+    "breach_id": 21030024,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 182,
-    "BreachId": 21040024,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 182,
+    "breach_id": 21040024,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 183,
-    "BreachId": 21040024,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 183,
+    "breach_id": 21040024,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 5
@@ -1214,15 +1214,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 185,
-    "BreachId": 21040024,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 185,
+    "breach_id": 21040024,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 5
@@ -1232,15 +1232,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 186,
-    "BreachId": 21040024,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 186,
+    "breach_id": 21040024,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 7
@@ -1250,15 +1250,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 187,
-    "BreachId": 21040024,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 187,
+    "breach_id": 21040024,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 10
@@ -1268,38 +1268,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 188,
-    "BreachId": 21040024,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 188,
+    "breach_id": 21040024,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 190,
-    "BreachId": 21050024,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 190,
+    "breach_id": 21050024,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 191,
-    "BreachId": 21050024,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 191,
+    "breach_id": 21050024,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 5
@@ -1309,15 +1309,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 193,
-    "BreachId": 21050024,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 193,
+    "breach_id": 21050024,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 5
@@ -1327,15 +1327,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 194,
-    "BreachId": 21050024,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 194,
+    "breach_id": 21050024,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 7
@@ -1345,15 +1345,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 195,
-    "BreachId": 21050024,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 195,
+    "breach_id": 21050024,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 10
@@ -1363,38 +1363,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 196,
-    "BreachId": 21050024,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 196,
+    "breach_id": 21050024,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 198,
-    "BreachId": 21010034,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 198,
+    "breach_id": 21010034,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 199,
-    "BreachId": 21010034,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 199,
+    "breach_id": 21010034,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 5
@@ -1404,15 +1404,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 202,
-    "BreachId": 21010034,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 202,
+    "breach_id": 21010034,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 7
@@ -1422,15 +1422,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 203,
-    "BreachId": 21010034,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 203,
+    "breach_id": 21010034,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 10
@@ -1440,38 +1440,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 204,
-    "BreachId": 21010034,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 204,
+    "breach_id": 21010034,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 206,
-    "BreachId": 21020034,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 206,
+    "breach_id": 21020034,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 207,
-    "BreachId": 21020034,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 207,
+    "breach_id": 21020034,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 5
@@ -1481,15 +1481,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 208,
-    "BreachId": 21020034,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 208,
+    "breach_id": 21020034,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 7
@@ -1499,15 +1499,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 209,
-    "BreachId": 21020034,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 209,
+    "breach_id": 21020034,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 5
@@ -1517,15 +1517,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 210,
-    "BreachId": 21020034,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 210,
+    "breach_id": 21020034,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 7
@@ -1535,15 +1535,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 211,
-    "BreachId": 21020034,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 211,
+    "breach_id": 21020034,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 10
@@ -1553,38 +1553,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 212,
-    "BreachId": 21020034,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 212,
+    "breach_id": 21020034,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 214,
-    "BreachId": 21030034,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 214,
+    "breach_id": 21030034,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 215,
-    "BreachId": 21030034,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 215,
+    "breach_id": 21030034,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 5
@@ -1594,15 +1594,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 216,
-    "BreachId": 21030034,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 216,
+    "breach_id": 21030034,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 7
@@ -1612,15 +1612,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 217,
-    "BreachId": 21030034,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 217,
+    "breach_id": 21030034,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 5
@@ -1630,15 +1630,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 218,
-    "BreachId": 21030034,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 218,
+    "breach_id": 21030034,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 7
@@ -1648,15 +1648,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 219,
-    "BreachId": 21030034,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 219,
+    "breach_id": 21030034,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 10
@@ -1666,38 +1666,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 220,
-    "BreachId": 21030034,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 220,
+    "breach_id": 21030034,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 222,
-    "BreachId": 21040034,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 222,
+    "breach_id": 21040034,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 223,
-    "BreachId": 21040034,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 223,
+    "breach_id": 21040034,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 5
@@ -1707,15 +1707,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 224,
-    "BreachId": 21040034,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 224,
+    "breach_id": 21040034,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 7
@@ -1725,15 +1725,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 225,
-    "BreachId": 21040034,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 225,
+    "breach_id": 21040034,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 5
@@ -1743,15 +1743,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 226,
-    "BreachId": 21040034,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 226,
+    "breach_id": 21040034,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 7
@@ -1761,38 +1761,38 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 228,
-    "BreachId": 21040034,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 228,
+    "breach_id": 21040034,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 230,
-    "BreachId": 21050034,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 230,
+    "breach_id": 21050034,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 231,
-    "BreachId": 21050034,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 231,
+    "breach_id": 21050034,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 5
@@ -1802,15 +1802,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 232,
-    "BreachId": 21050034,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 232,
+    "breach_id": 21050034,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 7
@@ -1820,15 +1820,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 233,
-    "BreachId": 21050034,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 233,
+    "breach_id": 21050034,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 5
@@ -1838,15 +1838,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 234,
-    "BreachId": 21050034,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 234,
+    "breach_id": 21050034,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 7
@@ -1856,15 +1856,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 235,
-    "BreachId": 21050034,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 235,
+    "breach_id": 21050034,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 10
@@ -1874,38 +1874,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 236,
-    "BreachId": 21050034,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 236,
+    "breach_id": 21050034,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 238,
-    "BreachId": 21010044,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 238,
+    "breach_id": 21010044,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 239,
-    "BreachId": 21010044,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 239,
+    "breach_id": 21010044,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 5
@@ -1915,15 +1915,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 240,
-    "BreachId": 21010044,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 240,
+    "breach_id": 21010044,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 7
@@ -1933,15 +1933,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 241,
-    "BreachId": 21010044,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 241,
+    "breach_id": 21010044,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 5
@@ -1951,15 +1951,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 242,
-    "BreachId": 21010044,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 242,
+    "breach_id": 21010044,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 7
@@ -1969,15 +1969,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 243,
-    "BreachId": 21010044,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 243,
+    "breach_id": 21010044,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 10
@@ -1987,38 +1987,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 244,
-    "BreachId": 21010044,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 244,
+    "breach_id": 21010044,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 246,
-    "BreachId": 21020044,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 246,
+    "breach_id": 21020044,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 247,
-    "BreachId": 21020044,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 247,
+    "breach_id": 21020044,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 5
@@ -2028,15 +2028,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 248,
-    "BreachId": 21020044,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 248,
+    "breach_id": 21020044,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 7
@@ -2046,15 +2046,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 249,
-    "BreachId": 21020044,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 249,
+    "breach_id": 21020044,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 5
@@ -2064,15 +2064,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 250,
-    "BreachId": 21020044,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 250,
+    "breach_id": 21020044,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 7
@@ -2082,15 +2082,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 251,
-    "BreachId": 21020044,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 251,
+    "breach_id": 21020044,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 10
@@ -2100,38 +2100,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 252,
-    "BreachId": 21020044,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 252,
+    "breach_id": 21020044,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 6,
-    "BreachId": 10002,
-    "Level": 0,
-    "ConditionId": 0,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 6,
+    "breach_id": 10002,
+    "level": 0,
+    "condition_id": 0,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 6
       }
     ],
-    "GoldConsume": 3000
+    "gold_consume": 3000
   },
   {
-    "Id": 7,
-    "BreachId": 10002,
-    "Level": 1,
-    "ConditionId": 504001,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 7,
+    "breach_id": 10002,
+    "level": 1,
+    "condition_id": 504001,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020012,
         "value": 3
@@ -2141,15 +2141,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 14000
+    "gold_consume": 14000
   },
   {
-    "Id": 13,
-    "BreachId": 10003,
-    "Level": 2,
-    "ConditionId": 504002,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 13,
+    "breach_id": 10003,
+    "level": 2,
+    "condition_id": 504002,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 12
@@ -2159,15 +2159,15 @@
         "value": 12
       }
     ],
-    "GoldConsume": 54000
+    "gold_consume": 54000
   },
   {
-    "Id": 14,
-    "BreachId": 10003,
-    "Level": 3,
-    "ConditionId": 504003,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 14,
+    "breach_id": 10003,
+    "level": 3,
+    "condition_id": 504003,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 6
@@ -2177,15 +2177,15 @@
         "value": 9
       }
     ],
-    "GoldConsume": 86000
+    "gold_consume": 86000
   },
   {
-    "Id": 46,
-    "BreachId": 21020015,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 46,
+    "breach_id": 21020015,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 8
@@ -2195,15 +2195,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 40000
+    "gold_consume": 40000
   },
   {
-    "Id": 54,
-    "BreachId": 21030015,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 54,
+    "breach_id": 21030015,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 8
@@ -2213,15 +2213,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 40000
+    "gold_consume": 40000
   },
   {
-    "Id": 62,
-    "BreachId": 21040015,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 62,
+    "breach_id": 21040015,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 8
@@ -2231,15 +2231,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 40000
+    "gold_consume": 40000
   },
   {
-    "Id": 70,
-    "BreachId": 21050015,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 70,
+    "breach_id": 21050015,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 8
@@ -2249,15 +2249,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 40000
+    "gold_consume": 40000
   },
   {
-    "Id": 159,
-    "BreachId": 21010024,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 159,
+    "breach_id": 21010024,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 5
@@ -2267,15 +2267,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 160,
-    "BreachId": 21010024,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 160,
+    "breach_id": 21010024,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 7
@@ -2285,15 +2285,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 168,
-    "BreachId": 21020024,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 168,
+    "breach_id": 21020024,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 7
@@ -2303,15 +2303,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 176,
-    "BreachId": 21030024,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 176,
+    "breach_id": 21030024,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 7
@@ -2321,15 +2321,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 184,
-    "BreachId": 21040024,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 184,
+    "breach_id": 21040024,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 7
@@ -2339,15 +2339,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 192,
-    "BreachId": 21050024,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 192,
+    "breach_id": 21050024,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 7
@@ -2357,15 +2357,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 200,
-    "BreachId": 21010034,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 200,
+    "breach_id": 21010034,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 7
@@ -2375,15 +2375,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 201,
-    "BreachId": 21010034,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 201,
+    "breach_id": 21010034,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 5
@@ -2393,15 +2393,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 227,
-    "BreachId": 21040034,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 227,
+    "breach_id": 21040034,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 10
@@ -2411,29 +2411,29 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 254,
-    "BreachId": 21030044,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 254,
+    "breach_id": 21030044,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 255,
-    "BreachId": 21030044,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 255,
+    "breach_id": 21030044,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 5
@@ -2443,15 +2443,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 256,
-    "BreachId": 21030044,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 256,
+    "breach_id": 21030044,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 7
@@ -2461,15 +2461,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 257,
-    "BreachId": 21030044,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 257,
+    "breach_id": 21030044,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 5
@@ -2479,15 +2479,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 258,
-    "BreachId": 21030044,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 258,
+    "breach_id": 21030044,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 7
@@ -2497,15 +2497,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 259,
-    "BreachId": 21030044,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 259,
+    "breach_id": 21030044,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 10
@@ -2515,38 +2515,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 260,
-    "BreachId": 21030044,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 260,
+    "breach_id": 21030044,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 262,
-    "BreachId": 21040044,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 262,
+    "breach_id": 21040044,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 263,
-    "BreachId": 21040044,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 263,
+    "breach_id": 21040044,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 5
@@ -2556,15 +2556,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 264,
-    "BreachId": 21040044,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 264,
+    "breach_id": 21040044,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 7
@@ -2574,15 +2574,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 265,
-    "BreachId": 21040044,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 265,
+    "breach_id": 21040044,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 5
@@ -2592,15 +2592,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 266,
-    "BreachId": 21040044,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 266,
+    "breach_id": 21040044,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 7
@@ -2610,15 +2610,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 267,
-    "BreachId": 21040044,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 267,
+    "breach_id": 21040044,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 10
@@ -2628,38 +2628,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 268,
-    "BreachId": 21040044,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 268,
+    "breach_id": 21040044,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 270,
-    "BreachId": 21050044,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 270,
+    "breach_id": 21050044,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 271,
-    "BreachId": 21050044,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 271,
+    "breach_id": 21050044,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 5
@@ -2669,15 +2669,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 272,
-    "BreachId": 21050044,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 272,
+    "breach_id": 21050044,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 7
@@ -2687,15 +2687,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 273,
-    "BreachId": 21050044,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 273,
+    "breach_id": 21050044,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 5
@@ -2705,15 +2705,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 274,
-    "BreachId": 21050044,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 274,
+    "breach_id": 21050044,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 7
@@ -2723,15 +2723,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 275,
-    "BreachId": 21050044,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 275,
+    "breach_id": 21050044,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 10
@@ -2741,38 +2741,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 276,
-    "BreachId": 21050044,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 276,
+    "breach_id": 21050044,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 279,
-    "BreachId": 21010013,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 279,
+    "breach_id": 21010013,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 280,
-    "BreachId": 21010013,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 280,
+    "breach_id": 21010013,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 4
@@ -2782,15 +2782,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 281,
-    "BreachId": 21010013,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 281,
+    "breach_id": 21010013,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 5
@@ -2800,15 +2800,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 282,
-    "BreachId": 21010013,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 282,
+    "breach_id": 21010013,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 4
@@ -2818,15 +2818,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 283,
-    "BreachId": 21010013,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 283,
+    "breach_id": 21010013,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 5
@@ -2836,15 +2836,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 284,
-    "BreachId": 21010013,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 284,
+    "breach_id": 21010013,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 8
@@ -2854,38 +2854,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 285,
-    "BreachId": 21010013,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 285,
+    "breach_id": 21010013,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 287,
-    "BreachId": 21020013,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 287,
+    "breach_id": 21020013,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 288,
-    "BreachId": 21020013,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 288,
+    "breach_id": 21020013,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 4
@@ -2895,15 +2895,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 289,
-    "BreachId": 21020013,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 289,
+    "breach_id": 21020013,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 5
@@ -2913,15 +2913,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 290,
-    "BreachId": 21020013,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 290,
+    "breach_id": 21020013,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 4
@@ -2931,15 +2931,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 291,
-    "BreachId": 21020013,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 291,
+    "breach_id": 21020013,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 5
@@ -2949,15 +2949,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 292,
-    "BreachId": 21020013,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 292,
+    "breach_id": 21020013,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 8
@@ -2967,38 +2967,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 293,
-    "BreachId": 21020013,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 293,
+    "breach_id": 21020013,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 295,
-    "BreachId": 21030013,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 295,
+    "breach_id": 21030013,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 296,
-    "BreachId": 21030013,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 296,
+    "breach_id": 21030013,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 4
@@ -3008,15 +3008,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 297,
-    "BreachId": 21030013,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 297,
+    "breach_id": 21030013,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 5
@@ -3026,15 +3026,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 298,
-    "BreachId": 21030013,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 298,
+    "breach_id": 21030013,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 4
@@ -3044,15 +3044,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 299,
-    "BreachId": 21030013,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 299,
+    "breach_id": 21030013,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 5
@@ -3062,15 +3062,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 300,
-    "BreachId": 21030013,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 300,
+    "breach_id": 21030013,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 8
@@ -3080,38 +3080,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 301,
-    "BreachId": 21030013,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 301,
+    "breach_id": 21030013,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 303,
-    "BreachId": 21040013,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 303,
+    "breach_id": 21040013,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 304,
-    "BreachId": 21040013,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 304,
+    "breach_id": 21040013,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 4
@@ -3121,15 +3121,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 305,
-    "BreachId": 21040013,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 305,
+    "breach_id": 21040013,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 5
@@ -3139,15 +3139,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 306,
-    "BreachId": 21040013,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 306,
+    "breach_id": 21040013,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 4
@@ -3157,15 +3157,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 307,
-    "BreachId": 21040013,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 307,
+    "breach_id": 21040013,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 5
@@ -3175,15 +3175,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 308,
-    "BreachId": 21040013,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 308,
+    "breach_id": 21040013,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 8
@@ -3193,38 +3193,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 309,
-    "BreachId": 21040013,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 309,
+    "breach_id": 21040013,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 311,
-    "BreachId": 21050013,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 311,
+    "breach_id": 21050013,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 312,
-    "BreachId": 21050013,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 312,
+    "breach_id": 21050013,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 4
@@ -3234,15 +3234,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 313,
-    "BreachId": 21050013,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 313,
+    "breach_id": 21050013,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 5
@@ -3252,15 +3252,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 314,
-    "BreachId": 21050013,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 314,
+    "breach_id": 21050013,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 4
@@ -3270,15 +3270,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 315,
-    "BreachId": 21050013,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 315,
+    "breach_id": 21050013,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 5
@@ -3288,15 +3288,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 316,
-    "BreachId": 21050013,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 316,
+    "breach_id": 21050013,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 8
@@ -3306,38 +3306,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 317,
-    "BreachId": 21050013,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 317,
+    "breach_id": 21050013,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 319,
-    "BreachId": 21010023,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 319,
+    "breach_id": 21010023,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 320,
-    "BreachId": 21010023,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 320,
+    "breach_id": 21010023,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 4
@@ -3347,15 +3347,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 321,
-    "BreachId": 21010023,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 321,
+    "breach_id": 21010023,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 5
@@ -3365,15 +3365,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 322,
-    "BreachId": 21010023,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 322,
+    "breach_id": 21010023,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 4
@@ -3383,15 +3383,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 323,
-    "BreachId": 21010023,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 323,
+    "breach_id": 21010023,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 5
@@ -3401,15 +3401,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 324,
-    "BreachId": 21010023,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 324,
+    "breach_id": 21010023,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 8
@@ -3419,38 +3419,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 325,
-    "BreachId": 21010023,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 325,
+    "breach_id": 21010023,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 327,
-    "BreachId": 21020023,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 327,
+    "breach_id": 21020023,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 328,
-    "BreachId": 21020023,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 328,
+    "breach_id": 21020023,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 4
@@ -3460,15 +3460,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 329,
-    "BreachId": 21020023,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 329,
+    "breach_id": 21020023,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 5
@@ -3478,15 +3478,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 330,
-    "BreachId": 21020023,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 330,
+    "breach_id": 21020023,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 4
@@ -3496,15 +3496,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 331,
-    "BreachId": 21020023,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 331,
+    "breach_id": 21020023,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 5
@@ -3514,15 +3514,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 332,
-    "BreachId": 21020023,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 332,
+    "breach_id": 21020023,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 8
@@ -3532,38 +3532,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 333,
-    "BreachId": 21020023,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 333,
+    "breach_id": 21020023,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 335,
-    "BreachId": 21030023,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 335,
+    "breach_id": 21030023,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 336,
-    "BreachId": 21030023,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 336,
+    "breach_id": 21030023,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 4
@@ -3573,15 +3573,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 337,
-    "BreachId": 21030023,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 337,
+    "breach_id": 21030023,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 5
@@ -3591,15 +3591,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 338,
-    "BreachId": 21030023,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 338,
+    "breach_id": 21030023,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 4
@@ -3609,15 +3609,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 339,
-    "BreachId": 21030023,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 339,
+    "breach_id": 21030023,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 5
@@ -3627,15 +3627,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 340,
-    "BreachId": 21030023,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 340,
+    "breach_id": 21030023,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 8
@@ -3645,38 +3645,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 341,
-    "BreachId": 21030023,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 341,
+    "breach_id": 21030023,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 343,
-    "BreachId": 21040023,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 343,
+    "breach_id": 21040023,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 344,
-    "BreachId": 21040023,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 344,
+    "breach_id": 21040023,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 4
@@ -3686,15 +3686,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 345,
-    "BreachId": 21040023,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 345,
+    "breach_id": 21040023,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 5
@@ -3704,15 +3704,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 346,
-    "BreachId": 21040023,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 346,
+    "breach_id": 21040023,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 4
@@ -3722,15 +3722,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 347,
-    "BreachId": 21040023,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 347,
+    "breach_id": 21040023,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 5
@@ -3740,15 +3740,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 348,
-    "BreachId": 21040023,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 348,
+    "breach_id": 21040023,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 8
@@ -3758,38 +3758,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 349,
-    "BreachId": 21040023,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 349,
+    "breach_id": 21040023,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 351,
-    "BreachId": 21050023,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 351,
+    "breach_id": 21050023,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 352,
-    "BreachId": 21050023,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 352,
+    "breach_id": 21050023,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 4
@@ -3799,15 +3799,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 353,
-    "BreachId": 21050023,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 353,
+    "breach_id": 21050023,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 5
@@ -3817,15 +3817,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 354,
-    "BreachId": 21050023,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 354,
+    "breach_id": 21050023,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 4
@@ -3835,15 +3835,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 355,
-    "BreachId": 21050023,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 355,
+    "breach_id": 21050023,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 5
@@ -3853,15 +3853,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 356,
-    "BreachId": 21050023,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 356,
+    "breach_id": 21050023,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 8
@@ -3871,38 +3871,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 357,
-    "BreachId": 21050023,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 357,
+    "breach_id": 21050023,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 360,
-    "BreachId": 21010012,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 360,
+    "breach_id": 21010012,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 3
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 361,
-    "BreachId": 21010012,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 361,
+    "breach_id": 21010012,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 3
@@ -3912,15 +3912,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 362,
-    "BreachId": 21010012,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 362,
+    "breach_id": 21010012,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 4
@@ -3930,15 +3930,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 363,
-    "BreachId": 21010012,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 363,
+    "breach_id": 21010012,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 3
@@ -3948,15 +3948,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 364,
-    "BreachId": 21010012,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 364,
+    "breach_id": 21010012,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 4
@@ -3966,29 +3966,29 @@
         "value": 2
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 365,
-    "BreachId": 21020012,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 365,
+    "breach_id": 21020012,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 3
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 366,
-    "BreachId": 21020012,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 366,
+    "breach_id": 21020012,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 3
@@ -3998,15 +3998,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 367,
-    "BreachId": 21020012,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 367,
+    "breach_id": 21020012,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 4
@@ -4016,15 +4016,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 368,
-    "BreachId": 21020012,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 368,
+    "breach_id": 21020012,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 3
@@ -4034,15 +4034,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 369,
-    "BreachId": 21020012,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 369,
+    "breach_id": 21020012,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 4
@@ -4052,29 +4052,29 @@
         "value": 2
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 370,
-    "BreachId": 21030012,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 370,
+    "breach_id": 21030012,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 3
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 371,
-    "BreachId": 21030012,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 371,
+    "breach_id": 21030012,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 3
@@ -4084,15 +4084,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 372,
-    "BreachId": 21030012,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 372,
+    "breach_id": 21030012,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 4
@@ -4102,15 +4102,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 373,
-    "BreachId": 21030012,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 373,
+    "breach_id": 21030012,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 3
@@ -4120,15 +4120,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 374,
-    "BreachId": 21030012,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 374,
+    "breach_id": 21030012,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 4
@@ -4138,29 +4138,29 @@
         "value": 2
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 375,
-    "BreachId": 21040012,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 375,
+    "breach_id": 21040012,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 3
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 376,
-    "BreachId": 21040012,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 376,
+    "breach_id": 21040012,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 3
@@ -4170,15 +4170,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 377,
-    "BreachId": 21040012,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 377,
+    "breach_id": 21040012,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 4
@@ -4188,15 +4188,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 378,
-    "BreachId": 21040012,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 378,
+    "breach_id": 21040012,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 3
@@ -4206,15 +4206,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 379,
-    "BreachId": 21040012,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 379,
+    "breach_id": 21040012,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 4
@@ -4224,29 +4224,29 @@
         "value": 2
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 380,
-    "BreachId": 21050012,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 380,
+    "breach_id": 21050012,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 3
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 381,
-    "BreachId": 21050012,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 381,
+    "breach_id": 21050012,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 3
@@ -4256,15 +4256,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 382,
-    "BreachId": 21050012,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 382,
+    "breach_id": 21050012,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 4
@@ -4274,15 +4274,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 383,
-    "BreachId": 21050012,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 383,
+    "breach_id": 21050012,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 3
@@ -4292,15 +4292,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 384,
-    "BreachId": 21050012,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 384,
+    "breach_id": 21050012,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 4
@@ -4310,29 +4310,29 @@
         "value": 2
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 386,
-    "BreachId": 21010011,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 386,
+    "breach_id": 21010011,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 2
       }
     ],
-    "GoldConsume": 2000
+    "gold_consume": 2000
   },
   {
-    "Id": 387,
-    "BreachId": 21010011,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 387,
+    "breach_id": 21010011,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 2
@@ -4342,15 +4342,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 388,
-    "BreachId": 21010011,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 388,
+    "breach_id": 21010011,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 2
@@ -4360,15 +4360,15 @@
         "value": 1
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 389,
-    "BreachId": 21010011,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 389,
+    "breach_id": 21010011,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 2
@@ -4378,15 +4378,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 390,
-    "BreachId": 21010011,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 390,
+    "breach_id": 21010011,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 2
@@ -4396,29 +4396,29 @@
         "value": 1
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 391,
-    "BreachId": 21020011,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 391,
+    "breach_id": 21020011,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 2
       }
     ],
-    "GoldConsume": 2000
+    "gold_consume": 2000
   },
   {
-    "Id": 392,
-    "BreachId": 21020011,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 392,
+    "breach_id": 21020011,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 2
@@ -4428,15 +4428,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 393,
-    "BreachId": 21020011,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 393,
+    "breach_id": 21020011,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 2
@@ -4446,15 +4446,15 @@
         "value": 1
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 394,
-    "BreachId": 21020011,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 394,
+    "breach_id": 21020011,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 2
@@ -4464,15 +4464,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 395,
-    "BreachId": 21020011,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 395,
+    "breach_id": 21020011,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 2
@@ -4482,29 +4482,29 @@
         "value": 1
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 396,
-    "BreachId": 21030011,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 396,
+    "breach_id": 21030011,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 2
       }
     ],
-    "GoldConsume": 2000
+    "gold_consume": 2000
   },
   {
-    "Id": 397,
-    "BreachId": 21030011,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 397,
+    "breach_id": 21030011,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 2
@@ -4514,15 +4514,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 398,
-    "BreachId": 21030011,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 398,
+    "breach_id": 21030011,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 2
@@ -4532,15 +4532,15 @@
         "value": 1
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 399,
-    "BreachId": 21030011,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 399,
+    "breach_id": 21030011,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 2
@@ -4550,15 +4550,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 400,
-    "BreachId": 21030011,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 400,
+    "breach_id": 21030011,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 2
@@ -4568,29 +4568,29 @@
         "value": 1
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 401,
-    "BreachId": 21040011,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 401,
+    "breach_id": 21040011,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 2
       }
     ],
-    "GoldConsume": 2000
+    "gold_consume": 2000
   },
   {
-    "Id": 402,
-    "BreachId": 21040011,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 402,
+    "breach_id": 21040011,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 2
@@ -4600,15 +4600,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 403,
-    "BreachId": 21040011,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 403,
+    "breach_id": 21040011,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 2
@@ -4618,15 +4618,15 @@
         "value": 1
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 404,
-    "BreachId": 21040011,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 404,
+    "breach_id": 21040011,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 2
@@ -4636,15 +4636,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 405,
-    "BreachId": 21040011,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 405,
+    "breach_id": 21040011,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 2
@@ -4654,29 +4654,29 @@
         "value": 1
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 406,
-    "BreachId": 21050011,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 406,
+    "breach_id": 21050011,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 2
       }
     ],
-    "GoldConsume": 2000
+    "gold_consume": 2000
   },
   {
-    "Id": 407,
-    "BreachId": 21050011,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 407,
+    "breach_id": 21050011,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 2
@@ -4686,15 +4686,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 4000
+    "gold_consume": 4000
   },
   {
-    "Id": 408,
-    "BreachId": 21050011,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 408,
+    "breach_id": 21050011,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 2
@@ -4704,15 +4704,15 @@
         "value": 1
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 409,
-    "BreachId": 21050011,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 409,
+    "breach_id": 21050011,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 2
@@ -4722,15 +4722,15 @@
         "value": 2
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 410,
-    "BreachId": 21050011,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 410,
+    "breach_id": 21050011,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 2
@@ -4740,29 +4740,29 @@
         "value": 1
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 412,
-    "BreachId": 21010043,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 412,
+    "breach_id": 21010043,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 413,
-    "BreachId": 21010043,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 413,
+    "breach_id": 21010043,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 4
@@ -4772,15 +4772,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 414,
-    "BreachId": 21010043,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 414,
+    "breach_id": 21010043,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 5
@@ -4790,15 +4790,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 415,
-    "BreachId": 21010043,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 415,
+    "breach_id": 21010043,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 4
@@ -4808,15 +4808,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 416,
-    "BreachId": 21010043,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 416,
+    "breach_id": 21010043,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 5
@@ -4826,15 +4826,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 417,
-    "BreachId": 21010043,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 417,
+    "breach_id": 21010043,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 8
@@ -4844,38 +4844,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 418,
-    "BreachId": 21010043,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 418,
+    "breach_id": 21010043,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 420,
-    "BreachId": 21020043,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 420,
+    "breach_id": 21020043,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 421,
-    "BreachId": 21020043,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 421,
+    "breach_id": 21020043,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 4
@@ -4885,15 +4885,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 422,
-    "BreachId": 21020043,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 422,
+    "breach_id": 21020043,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 5
@@ -4903,15 +4903,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 423,
-    "BreachId": 21020043,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 423,
+    "breach_id": 21020043,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 4
@@ -4921,15 +4921,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 424,
-    "BreachId": 21020043,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 424,
+    "breach_id": 21020043,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 5
@@ -4939,15 +4939,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 425,
-    "BreachId": 21020043,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 425,
+    "breach_id": 21020043,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 8
@@ -4957,38 +4957,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 426,
-    "BreachId": 21020043,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 426,
+    "breach_id": 21020043,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 428,
-    "BreachId": 21050043,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 428,
+    "breach_id": 21050043,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 429,
-    "BreachId": 21050043,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 429,
+    "breach_id": 21050043,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 4
@@ -4998,15 +4998,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 430,
-    "BreachId": 21050043,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 430,
+    "breach_id": 21050043,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 5
@@ -5016,15 +5016,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 431,
-    "BreachId": 21050043,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 431,
+    "breach_id": 21050043,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 4
@@ -5034,15 +5034,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 432,
-    "BreachId": 21050043,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 432,
+    "breach_id": 21050043,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 5
@@ -5052,15 +5052,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 433,
-    "BreachId": 21050043,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 433,
+    "breach_id": 21050043,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 8
@@ -5070,38 +5070,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 434,
-    "BreachId": 21050043,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 434,
+    "breach_id": 21050043,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 437,
-    "BreachId": 21010053,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 437,
+    "breach_id": 21010053,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 438,
-    "BreachId": 21010053,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 438,
+    "breach_id": 21010053,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 4
@@ -5111,15 +5111,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 439,
-    "BreachId": 21010053,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 439,
+    "breach_id": 21010053,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 5
@@ -5129,15 +5129,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 440,
-    "BreachId": 21010053,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 440,
+    "breach_id": 21010053,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 4
@@ -5147,15 +5147,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 441,
-    "BreachId": 21010053,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 441,
+    "breach_id": 21010053,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 5
@@ -5165,15 +5165,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 442,
-    "BreachId": 21010053,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 442,
+    "breach_id": 21010053,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 8
@@ -5183,38 +5183,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 443,
-    "BreachId": 21010053,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 443,
+    "breach_id": 21010053,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 445,
-    "BreachId": 21020053,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 445,
+    "breach_id": 21020053,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 446,
-    "BreachId": 21020053,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 446,
+    "breach_id": 21020053,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 4
@@ -5224,15 +5224,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 447,
-    "BreachId": 21020053,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 447,
+    "breach_id": 21020053,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 5
@@ -5242,15 +5242,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 448,
-    "BreachId": 21020053,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 448,
+    "breach_id": 21020053,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 4
@@ -5260,15 +5260,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 449,
-    "BreachId": 21020053,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 449,
+    "breach_id": 21020053,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 5
@@ -5278,15 +5278,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 450,
-    "BreachId": 21020053,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 450,
+    "breach_id": 21020053,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 8
@@ -5296,38 +5296,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 451,
-    "BreachId": 21020053,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 451,
+    "breach_id": 21020053,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 453,
-    "BreachId": 21030053,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 453,
+    "breach_id": 21030053,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 454,
-    "BreachId": 21030053,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 454,
+    "breach_id": 21030053,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 4
@@ -5337,15 +5337,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 455,
-    "BreachId": 21030053,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 455,
+    "breach_id": 21030053,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 5
@@ -5355,15 +5355,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 456,
-    "BreachId": 21030053,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 456,
+    "breach_id": 21030053,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 4
@@ -5373,15 +5373,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 457,
-    "BreachId": 21030053,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 457,
+    "breach_id": 21030053,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 5
@@ -5391,15 +5391,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 458,
-    "BreachId": 21030053,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 458,
+    "breach_id": 21030053,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 8
@@ -5409,38 +5409,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 459,
-    "BreachId": 21030053,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 459,
+    "breach_id": 21030053,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 461,
-    "BreachId": 21040053,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 461,
+    "breach_id": 21040053,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 462,
-    "BreachId": 21040053,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 462,
+    "breach_id": 21040053,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 4
@@ -5450,15 +5450,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 463,
-    "BreachId": 21040053,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 463,
+    "breach_id": 21040053,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 5
@@ -5468,15 +5468,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 464,
-    "BreachId": 21040053,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 464,
+    "breach_id": 21040053,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 4
@@ -5486,15 +5486,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 465,
-    "BreachId": 21040053,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 465,
+    "breach_id": 21040053,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 5
@@ -5504,15 +5504,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 466,
-    "BreachId": 21040053,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 466,
+    "breach_id": 21040053,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 8
@@ -5522,38 +5522,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 467,
-    "BreachId": 21040053,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 467,
+    "breach_id": 21040053,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 469,
-    "BreachId": 21050053,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 469,
+    "breach_id": 21050053,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 470,
-    "BreachId": 21050053,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 470,
+    "breach_id": 21050053,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 4
@@ -5563,15 +5563,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 471,
-    "BreachId": 21050053,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 471,
+    "breach_id": 21050053,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 5
@@ -5581,15 +5581,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 472,
-    "BreachId": 21050053,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 472,
+    "breach_id": 21050053,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 4
@@ -5599,15 +5599,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 473,
-    "BreachId": 21050053,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 473,
+    "breach_id": 21050053,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 5
@@ -5617,15 +5617,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 474,
-    "BreachId": 21050053,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 474,
+    "breach_id": 21050053,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 8
@@ -5635,38 +5635,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 475,
-    "BreachId": 21050053,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 475,
+    "breach_id": 21050053,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 478,
-    "BreachId": 21010054,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 478,
+    "breach_id": 21010054,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 479,
-    "BreachId": 21010054,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 479,
+    "breach_id": 21010054,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 5
@@ -5676,15 +5676,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 480,
-    "BreachId": 21010054,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 480,
+    "breach_id": 21010054,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 7
@@ -5694,15 +5694,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 481,
-    "BreachId": 21010054,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 481,
+    "breach_id": 21010054,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 5
@@ -5712,15 +5712,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 482,
-    "BreachId": 21010054,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 482,
+    "breach_id": 21010054,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 7
@@ -5730,15 +5730,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 483,
-    "BreachId": 21010054,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 483,
+    "breach_id": 21010054,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 10
@@ -5748,38 +5748,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 484,
-    "BreachId": 21010054,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 484,
+    "breach_id": 21010054,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 486,
-    "BreachId": 21020054,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 486,
+    "breach_id": 21020054,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 487,
-    "BreachId": 21020054,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 487,
+    "breach_id": 21020054,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 5
@@ -5789,15 +5789,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 488,
-    "BreachId": 21020054,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 488,
+    "breach_id": 21020054,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 7
@@ -5807,15 +5807,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 489,
-    "BreachId": 21020054,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 489,
+    "breach_id": 21020054,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 5
@@ -5825,15 +5825,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 490,
-    "BreachId": 21020054,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 490,
+    "breach_id": 21020054,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 7
@@ -5843,15 +5843,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 491,
-    "BreachId": 21020054,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 491,
+    "breach_id": 21020054,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 10
@@ -5861,38 +5861,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 492,
-    "BreachId": 21020054,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 492,
+    "breach_id": 21020054,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 494,
-    "BreachId": 21030054,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 494,
+    "breach_id": 21030054,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 495,
-    "BreachId": 21030054,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 495,
+    "breach_id": 21030054,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 5
@@ -5902,15 +5902,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 496,
-    "BreachId": 21030054,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 496,
+    "breach_id": 21030054,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 7
@@ -5920,15 +5920,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 497,
-    "BreachId": 21030054,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 497,
+    "breach_id": 21030054,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 5
@@ -5938,15 +5938,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 498,
-    "BreachId": 21030054,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 498,
+    "breach_id": 21030054,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 7
@@ -5956,15 +5956,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 499,
-    "BreachId": 21030054,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 499,
+    "breach_id": 21030054,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 10
@@ -5974,38 +5974,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 500,
-    "BreachId": 21030054,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 500,
+    "breach_id": 21030054,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 502,
-    "BreachId": 21050054,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 502,
+    "breach_id": 21050054,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 503,
-    "BreachId": 21050054,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 503,
+    "breach_id": 21050054,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 5
@@ -6015,15 +6015,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 504,
-    "BreachId": 21050054,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 504,
+    "breach_id": 21050054,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 7
@@ -6033,15 +6033,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 505,
-    "BreachId": 21050054,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 505,
+    "breach_id": 21050054,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 5
@@ -6051,15 +6051,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 506,
-    "BreachId": 21050054,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 506,
+    "breach_id": 21050054,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 7
@@ -6069,15 +6069,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 507,
-    "BreachId": 21050054,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 507,
+    "breach_id": 21050054,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 10
@@ -6087,38 +6087,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 508,
-    "BreachId": 21050054,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 508,
+    "breach_id": 21050054,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 511,
-    "BreachId": 21010064,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 511,
+    "breach_id": 21010064,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 512,
-    "BreachId": 21010064,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 512,
+    "breach_id": 21010064,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 5
@@ -6128,15 +6128,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 513,
-    "BreachId": 21010064,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 513,
+    "breach_id": 21010064,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 7
@@ -6146,15 +6146,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 514,
-    "BreachId": 21010064,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 514,
+    "breach_id": 21010064,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 5
@@ -6164,15 +6164,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 515,
-    "BreachId": 21010064,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 515,
+    "breach_id": 21010064,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 7
@@ -6182,15 +6182,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 516,
-    "BreachId": 21010064,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 516,
+    "breach_id": 21010064,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 10
@@ -6200,38 +6200,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 517,
-    "BreachId": 21010064,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 517,
+    "breach_id": 21010064,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 519,
-    "BreachId": 21020064,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 519,
+    "breach_id": 21020064,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 520,
-    "BreachId": 21020064,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 520,
+    "breach_id": 21020064,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 5
@@ -6241,15 +6241,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 521,
-    "BreachId": 21020064,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 521,
+    "breach_id": 21020064,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 7
@@ -6259,15 +6259,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 522,
-    "BreachId": 21020064,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 522,
+    "breach_id": 21020064,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 5
@@ -6277,15 +6277,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 523,
-    "BreachId": 21020064,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 523,
+    "breach_id": 21020064,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 7
@@ -6295,15 +6295,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 524,
-    "BreachId": 21020064,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 524,
+    "breach_id": 21020064,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 10
@@ -6313,38 +6313,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 525,
-    "BreachId": 21020064,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 525,
+    "breach_id": 21020064,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 527,
-    "BreachId": 21030064,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 527,
+    "breach_id": 21030064,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 528,
-    "BreachId": 21030064,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 528,
+    "breach_id": 21030064,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 5
@@ -6354,15 +6354,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 529,
-    "BreachId": 21030064,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 529,
+    "breach_id": 21030064,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 7
@@ -6372,15 +6372,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 530,
-    "BreachId": 21030064,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 530,
+    "breach_id": 21030064,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 5
@@ -6390,15 +6390,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 531,
-    "BreachId": 21030064,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 531,
+    "breach_id": 21030064,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 7
@@ -6408,15 +6408,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 532,
-    "BreachId": 21030064,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 532,
+    "breach_id": 21030064,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 10
@@ -6426,38 +6426,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 533,
-    "BreachId": 21030064,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 533,
+    "breach_id": 21030064,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 535,
-    "BreachId": 21050064,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 535,
+    "breach_id": 21050064,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 536,
-    "BreachId": 21050064,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 536,
+    "breach_id": 21050064,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 5
@@ -6467,15 +6467,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 537,
-    "BreachId": 21050064,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 537,
+    "breach_id": 21050064,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 7
@@ -6485,15 +6485,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 538,
-    "BreachId": 21050064,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 538,
+    "breach_id": 21050064,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 5
@@ -6503,15 +6503,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 539,
-    "BreachId": 21050064,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 539,
+    "breach_id": 21050064,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 7
@@ -6521,15 +6521,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 540,
-    "BreachId": 21050064,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 540,
+    "breach_id": 21050064,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 10
@@ -6539,38 +6539,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 541,
-    "BreachId": 21050064,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 541,
+    "breach_id": 21050064,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 543,
-    "BreachId": 21010074,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 543,
+    "breach_id": 21010074,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 544,
-    "BreachId": 21010074,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 544,
+    "breach_id": 21010074,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 5
@@ -6580,15 +6580,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 545,
-    "BreachId": 21010074,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 545,
+    "breach_id": 21010074,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 7
@@ -6598,15 +6598,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 546,
-    "BreachId": 21010074,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 546,
+    "breach_id": 21010074,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 5
@@ -6616,15 +6616,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 547,
-    "BreachId": 21010074,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 547,
+    "breach_id": 21010074,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 7
@@ -6634,15 +6634,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 548,
-    "BreachId": 21010074,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 548,
+    "breach_id": 21010074,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 10
@@ -6652,38 +6652,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 549,
-    "BreachId": 21010074,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 549,
+    "breach_id": 21010074,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 551,
-    "BreachId": 21020074,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 551,
+    "breach_id": 21020074,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 552,
-    "BreachId": 21020074,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 552,
+    "breach_id": 21020074,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020011,
         "value": 5
@@ -6693,15 +6693,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 553,
-    "BreachId": 21020074,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 553,
+    "breach_id": 21020074,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020012,
         "value": 7
@@ -6711,15 +6711,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 554,
-    "BreachId": 21020074,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 554,
+    "breach_id": 21020074,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020013,
         "value": 5
@@ -6729,15 +6729,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 555,
-    "BreachId": 21020074,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 555,
+    "breach_id": 21020074,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020014,
         "value": 7
@@ -6747,15 +6747,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 556,
-    "BreachId": 21020074,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 556,
+    "breach_id": 21020074,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020014,
         "value": 10
@@ -6765,38 +6765,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 557,
-    "BreachId": 21020074,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 557,
+    "breach_id": 21020074,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 559,
-    "BreachId": 21030074,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 559,
+    "breach_id": 21030074,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 560,
-    "BreachId": 21030074,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 560,
+    "breach_id": 21030074,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 5
@@ -6806,15 +6806,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 561,
-    "BreachId": 21030074,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 561,
+    "breach_id": 21030074,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 7
@@ -6824,15 +6824,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 562,
-    "BreachId": 21030074,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 562,
+    "breach_id": 21030074,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 5
@@ -6842,15 +6842,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 563,
-    "BreachId": 21030074,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 563,
+    "breach_id": 21030074,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 7
@@ -6860,15 +6860,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 564,
-    "BreachId": 21030074,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 564,
+    "breach_id": 21030074,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 10
@@ -6878,38 +6878,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 565,
-    "BreachId": 21030074,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 565,
+    "breach_id": 21030074,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 567,
-    "BreachId": 21040074,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 567,
+    "breach_id": 21040074,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 568,
-    "BreachId": 21040074,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 568,
+    "breach_id": 21040074,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 5
@@ -6919,15 +6919,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 569,
-    "BreachId": 21040074,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 569,
+    "breach_id": 21040074,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 7
@@ -6937,15 +6937,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 570,
-    "BreachId": 21040074,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 570,
+    "breach_id": 21040074,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 5
@@ -6955,15 +6955,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 571,
-    "BreachId": 21040074,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 571,
+    "breach_id": 21040074,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 7
@@ -6973,15 +6973,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 572,
-    "BreachId": 21040074,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 572,
+    "breach_id": 21040074,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 10
@@ -6991,38 +6991,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 573,
-    "BreachId": 21040074,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 573,
+    "breach_id": 21040074,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 575,
-    "BreachId": 21050074,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 575,
+    "breach_id": 21050074,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 576,
-    "BreachId": 21050074,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 576,
+    "breach_id": 21050074,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 5
@@ -7032,15 +7032,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 577,
-    "BreachId": 21050074,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 577,
+    "breach_id": 21050074,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 7
@@ -7050,15 +7050,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 578,
-    "BreachId": 21050074,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 578,
+    "breach_id": 21050074,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 5
@@ -7068,15 +7068,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 579,
-    "BreachId": 21050074,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 579,
+    "breach_id": 21050074,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 7
@@ -7086,15 +7086,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 580,
-    "BreachId": 21050074,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 580,
+    "breach_id": 21050074,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 10
@@ -7104,38 +7104,38 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 581,
-    "BreachId": 21050074,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 581,
+    "breach_id": 21050074,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 623,
-    "BreachId": 21010016,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 623,
+    "breach_id": 21010016,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100011,
         "value": 6
       }
     ],
-    "GoldConsume": 10000
+    "gold_consume": 10000
   },
   {
-    "Id": 624,
-    "BreachId": 21010016,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 624,
+    "breach_id": 21010016,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020041,
         "value": 6
@@ -7145,15 +7145,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 20000
+    "gold_consume": 20000
   },
   {
-    "Id": 625,
-    "BreachId": 21010016,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 625,
+    "breach_id": 21010016,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020042,
         "value": 8
@@ -7163,15 +7163,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 40000
+    "gold_consume": 40000
   },
   {
-    "Id": 626,
-    "BreachId": 21010016,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 626,
+    "breach_id": 21010016,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020043,
         "value": 6
@@ -7181,15 +7181,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 60000
+    "gold_consume": 60000
   },
   {
-    "Id": 627,
-    "BreachId": 21010016,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 627,
+    "breach_id": 21010016,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020044,
         "value": 8
@@ -7199,15 +7199,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 80000
+    "gold_consume": 80000
   },
   {
-    "Id": 628,
-    "BreachId": 21010016,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 628,
+    "breach_id": 21010016,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020044,
         "value": 12
@@ -7217,38 +7217,38 @@
         "value": 8
       }
     ],
-    "GoldConsume": 120000
+    "gold_consume": 120000
   },
   {
-    "Id": 629,
-    "BreachId": 21010016,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 629,
+    "breach_id": 21010016,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 631,
-    "BreachId": 21050016,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 631,
+    "breach_id": 21050016,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 6
       }
     ],
-    "GoldConsume": 10000
+    "gold_consume": 10000
   },
   {
-    "Id": 632,
-    "BreachId": 21050016,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 632,
+    "breach_id": 21050016,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020031,
         "value": 6
@@ -7258,15 +7258,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 20000
+    "gold_consume": 20000
   },
   {
-    "Id": 633,
-    "BreachId": 21050016,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 633,
+    "breach_id": 21050016,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020032,
         "value": 8
@@ -7276,15 +7276,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 40000
+    "gold_consume": 40000
   },
   {
-    "Id": 634,
-    "BreachId": 21050016,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 634,
+    "breach_id": 21050016,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020033,
         "value": 6
@@ -7294,15 +7294,15 @@
         "value": 6
       }
     ],
-    "GoldConsume": 60000
+    "gold_consume": 60000
   },
   {
-    "Id": 635,
-    "BreachId": 21050016,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 635,
+    "breach_id": 21050016,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020034,
         "value": 8
@@ -7312,15 +7312,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 80000
+    "gold_consume": 80000
   },
   {
-    "Id": 636,
-    "BreachId": 21050016,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 636,
+    "breach_id": 21050016,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020034,
         "value": 12
@@ -7330,38 +7330,38 @@
         "value": 8
       }
     ],
-    "GoldConsume": 120000
+    "gold_consume": 120000
   },
   {
-    "Id": 637,
-    "BreachId": 21050016,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 637,
+    "breach_id": 21050016,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 640,
-    "BreachId": 21030043,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 640,
+    "breach_id": 21030043,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100031,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 641,
-    "BreachId": 21030043,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 641,
+    "breach_id": 21030043,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020021,
         "value": 4
@@ -7371,15 +7371,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 642,
-    "BreachId": 21030043,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 642,
+    "breach_id": 21030043,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020022,
         "value": 5
@@ -7389,15 +7389,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 643,
-    "BreachId": 21030043,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 643,
+    "breach_id": 21030043,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020023,
         "value": 4
@@ -7407,15 +7407,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 644,
-    "BreachId": 21030043,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 644,
+    "breach_id": 21030043,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020024,
         "value": 5
@@ -7425,15 +7425,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 645,
-    "BreachId": 21030043,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 645,
+    "breach_id": 21030043,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020024,
         "value": 8
@@ -7443,38 +7443,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 646,
-    "BreachId": 21030043,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 646,
+    "breach_id": 21030043,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 649,
-    "BreachId": 21040043,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 649,
+    "breach_id": 21040043,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 4
       }
     ],
-    "GoldConsume": 6000
+    "gold_consume": 6000
   },
   {
-    "Id": 650,
-    "BreachId": 21040043,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 650,
+    "breach_id": 21040043,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 4
@@ -7484,15 +7484,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 12000
+    "gold_consume": 12000
   },
   {
-    "Id": 651,
-    "BreachId": 21040043,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 651,
+    "breach_id": 21040043,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 5
@@ -7502,15 +7502,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 24000
+    "gold_consume": 24000
   },
   {
-    "Id": 652,
-    "BreachId": 21040043,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 652,
+    "breach_id": 21040043,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 4
@@ -7520,15 +7520,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 36000
+    "gold_consume": 36000
   },
   {
-    "Id": 653,
-    "BreachId": 21040043,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 653,
+    "breach_id": 21040043,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 5
@@ -7538,15 +7538,15 @@
         "value": 3
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 654,
-    "BreachId": 21040043,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 654,
+    "breach_id": 21040043,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 8
@@ -7556,38 +7556,38 @@
         "value": 5
       }
     ],
-    "GoldConsume": 72000
+    "gold_consume": 72000
   },
   {
-    "Id": 655,
-    "BreachId": 21040043,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 655,
+    "breach_id": 21040043,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   },
   {
-    "Id": 657,
-    "BreachId": 21040064,
-    "Level": 0,
-    "ConditionId": 504002,
-    "LevelLimit": 20,
-    "Consume": [
+    "id": 657,
+    "breach_id": 21040064,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
       {
         "key": 41100021,
         "value": 5
       }
     ],
-    "GoldConsume": 8000
+    "gold_consume": 8000
   },
   {
-    "Id": 658,
-    "BreachId": 21040064,
-    "Level": 1,
-    "ConditionId": 504003,
-    "LevelLimit": 40,
-    "Consume": [
+    "id": 658,
+    "breach_id": 21040064,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
       {
         "key": 43020051,
         "value": 5
@@ -7597,15 +7597,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 16000
+    "gold_consume": 16000
   },
   {
-    "Id": 659,
-    "BreachId": 21040064,
-    "Level": 2,
-    "ConditionId": 504004,
-    "LevelLimit": 50,
-    "Consume": [
+    "id": 659,
+    "breach_id": 21040064,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
       {
         "key": 43020052,
         "value": 7
@@ -7615,15 +7615,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 32000
+    "gold_consume": 32000
   },
   {
-    "Id": 660,
-    "BreachId": 21040064,
-    "Level": 3,
-    "ConditionId": 504005,
-    "LevelLimit": 60,
-    "Consume": [
+    "id": 660,
+    "breach_id": 21040064,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
       {
         "key": 43020053,
         "value": 5
@@ -7633,15 +7633,15 @@
         "value": 5
       }
     ],
-    "GoldConsume": 48000
+    "gold_consume": 48000
   },
   {
-    "Id": 661,
-    "BreachId": 21040064,
-    "Level": 4,
-    "ConditionId": 504006,
-    "LevelLimit": 70,
-    "Consume": [
+    "id": 661,
+    "breach_id": 21040064,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
       {
         "key": 43020054,
         "value": 7
@@ -7651,15 +7651,15 @@
         "value": 4
       }
     ],
-    "GoldConsume": 64000
+    "gold_consume": 64000
   },
   {
-    "Id": 662,
-    "BreachId": 21040064,
-    "Level": 5,
-    "ConditionId": 504007,
-    "LevelLimit": 80,
-    "Consume": [
+    "id": 662,
+    "breach_id": 21040064,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
       {
         "key": 43020054,
         "value": 10
@@ -7669,15 +7669,15 @@
         "value": 7
       }
     ],
-    "GoldConsume": 96000
+    "gold_consume": 96000
   },
   {
-    "Id": 663,
-    "BreachId": 21040064,
-    "Level": 6,
-    "ConditionId": 504007,
-    "LevelLimit": 90,
-    "Consume": [],
-    "GoldConsume": 0
+    "id": 663,
+    "breach_id": 21040064,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   }
 ]

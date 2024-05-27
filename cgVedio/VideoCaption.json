@@ -1,359 +1,359 @@
 [
   {
-    "CaptionId": 98,
-    "CgName": "LYSZW",
-    "ShowMoment": 595,
-    "Duration": 30,
-    "CaptionText": "VideoCaption_98_CaptionText"
+    "caption_id": 98,
+    "cg_name": "LYSZW",
+    "show_moment": 595,
+    "duration": 30,
+    "caption_text": "VideoCaption_98_CaptionText"
   },
   {
-    "CaptionId": 99,
-    "CgName": "LYSZW",
-    "ShowMoment": 1608,
-    "Duration": 33,
-    "CaptionText": "VideoCaption_99_CaptionText"
+    "caption_id": 99,
+    "cg_name": "LYSZW",
+    "show_moment": 1608,
+    "duration": 33,
+    "caption_text": "VideoCaption_99_CaptionText"
   },
   {
-    "CaptionId": 100,
-    "CgName": "C0002",
-    "ShowMoment": 18,
-    "Duration": 212,
-    "CaptionText": "Huanglong_main_1_4_199_44"
+    "caption_id": 100,
+    "cg_name": "C0002",
+    "show_moment": 18,
+    "duration": 212,
+    "caption_text": "Huanglong_main_1_4_199_44"
   },
   {
-    "CaptionId": 101,
-    "CgName": "C0002",
-    "ShowMoment": 281,
-    "Duration": 260,
-    "CaptionText": "Huanglong_main_1_4_199_45"
+    "caption_id": 101,
+    "cg_name": "C0002",
+    "show_moment": 281,
+    "duration": 260,
+    "caption_text": "Huanglong_main_1_4_199_45"
   },
   {
-    "CaptionId": 102,
-    "CgName": "C0002",
-    "ShowMoment": 589,
-    "Duration": 433,
-    "CaptionText": "Huanglong_main_1_4_199_46"
+    "caption_id": 102,
+    "cg_name": "C0002",
+    "show_moment": 589,
+    "duration": 433,
+    "caption_text": "Huanglong_main_1_4_199_46"
   },
   {
-    "CaptionId": 103,
-    "CgName": "C0002",
-    "ShowMoment": 1051,
-    "Duration": 562,
-    "CaptionText": "Huanglong_main_1_4_199_47"
+    "caption_id": 103,
+    "cg_name": "C0002",
+    "show_moment": 1051,
+    "duration": 562,
+    "caption_text": "Huanglong_main_1_4_199_47"
   },
   {
-    "CaptionId": 104,
-    "CgName": "C0002",
-    "ShowMoment": 1653,
-    "Duration": 294,
-    "CaptionText": "Huanglong_main_1_4_199_48"
+    "caption_id": 104,
+    "cg_name": "C0002",
+    "show_moment": 1653,
+    "duration": 294,
+    "caption_text": "Huanglong_main_1_4_199_48"
   },
   {
-    "CaptionId": 105,
-    "CgName": "C0002",
-    "ShowMoment": 1990,
-    "Duration": 167,
-    "CaptionText": "Huanglong_main_1_4_199_49"
+    "caption_id": 105,
+    "cg_name": "C0002",
+    "show_moment": 1990,
+    "duration": 167,
+    "caption_text": "Huanglong_main_1_4_199_49"
   },
   {
-    "CaptionId": 106,
-    "CgName": "C0002",
-    "ShowMoment": 2192,
-    "Duration": 407,
-    "CaptionText": "Huanglong_main_1_4_199_50"
+    "caption_id": 106,
+    "cg_name": "C0002",
+    "show_moment": 2192,
+    "duration": 407,
+    "caption_text": "Huanglong_main_1_4_199_50"
   },
   {
-    "CaptionId": 107,
-    "CgName": "C0002",
-    "ShowMoment": 2670,
-    "Duration": 378,
-    "CaptionText": "Huanglong_main_1_4_199_51"
+    "caption_id": 107,
+    "cg_name": "C0002",
+    "show_moment": 2670,
+    "duration": 378,
+    "caption_text": "Huanglong_main_1_4_199_51"
   },
   {
-    "CaptionId": 108,
-    "CgName": "C0002",
-    "ShowMoment": 3074,
-    "Duration": 158,
-    "CaptionText": "Huanglong_main_1_4_199_52"
+    "caption_id": 108,
+    "cg_name": "C0002",
+    "show_moment": 3074,
+    "duration": 158,
+    "caption_text": "Huanglong_main_1_4_199_52"
   },
   {
-    "CaptionId": 109,
-    "CgName": "C0002",
-    "ShowMoment": 3268,
-    "Duration": 225,
-    "CaptionText": "Huanglong_main_1_4_199_53"
+    "caption_id": 109,
+    "cg_name": "C0002",
+    "show_moment": 3268,
+    "duration": 225,
+    "caption_text": "Huanglong_main_1_4_199_53"
   },
   {
-    "CaptionId": 110,
-    "CgName": "C0002",
-    "ShowMoment": 3516,
-    "Duration": 305,
-    "CaptionText": "Huanglong_main_1_4_199_54"
+    "caption_id": 110,
+    "cg_name": "C0002",
+    "show_moment": 3516,
+    "duration": 305,
+    "caption_text": "Huanglong_main_1_4_199_54"
   },
   {
-    "CaptionId": 111,
-    "CgName": "C0002",
-    "ShowMoment": 3880,
-    "Duration": 154,
-    "CaptionText": "Huanglong_main_1_4_199_55"
+    "caption_id": 111,
+    "cg_name": "C0002",
+    "show_moment": 3880,
+    "duration": 154,
+    "caption_text": "Huanglong_main_1_4_199_55"
   },
   {
-    "CaptionId": 112,
-    "CgName": "C0002",
-    "ShowMoment": 4069,
-    "Duration": 282,
-    "CaptionText": "Huanglong_main_1_4_199_56"
+    "caption_id": 112,
+    "cg_name": "C0002",
+    "show_moment": 4069,
+    "duration": 282,
+    "caption_text": "Huanglong_main_1_4_199_56"
   },
   {
-    "CaptionId": 113,
-    "CgName": "C0002",
-    "ShowMoment": 4376,
-    "Duration": 408,
-    "CaptionText": "Huanglong_main_1_4_199_57"
+    "caption_id": 113,
+    "cg_name": "C0002",
+    "show_moment": 4376,
+    "duration": 408,
+    "caption_text": "Huanglong_main_1_4_199_57"
   },
   {
-    "CaptionId": 114,
-    "CgName": "C0002",
-    "ShowMoment": 4878,
-    "Duration": 293,
-    "CaptionText": "Huanglong_main_1_4_199_58"
+    "caption_id": 114,
+    "cg_name": "C0002",
+    "show_moment": 4878,
+    "duration": 293,
+    "caption_text": "Huanglong_main_1_4_199_58"
   },
   {
-    "CaptionId": 115,
-    "CgName": "C0002",
-    "ShowMoment": 5255,
-    "Duration": 296,
-    "CaptionText": "Huanglong_main_1_4_199_59"
+    "caption_id": 115,
+    "cg_name": "C0002",
+    "show_moment": 5255,
+    "duration": 296,
+    "caption_text": "Huanglong_main_1_4_199_59"
   },
   {
-    "CaptionId": 116,
-    "CgName": "C0001",
-    "ShowMoment": 0,
-    "Duration": 354,
-    "CaptionText": "Huanglong_main_1_6_5_1"
+    "caption_id": 116,
+    "cg_name": "C0001",
+    "show_moment": 0,
+    "duration": 354,
+    "caption_text": "Huanglong_main_1_6_5_1"
   },
   {
-    "CaptionId": 117,
-    "CgName": "C0001",
-    "ShowMoment": 388,
-    "Duration": 231,
-    "CaptionText": "Huanglong_main_1_6_5_2"
+    "caption_id": 117,
+    "cg_name": "C0001",
+    "show_moment": 388,
+    "duration": 231,
+    "caption_text": "Huanglong_main_1_6_5_2"
   },
   {
-    "CaptionId": 118,
-    "CgName": "C0001",
-    "ShowMoment": 648,
-    "Duration": 162,
-    "CaptionText": "Huanglong_main_1_6_5_3"
+    "caption_id": 118,
+    "cg_name": "C0001",
+    "show_moment": 648,
+    "duration": 162,
+    "caption_text": "Huanglong_main_1_6_5_3"
   },
   {
-    "CaptionId": 119,
-    "CgName": "C0001",
-    "ShowMoment": 836,
-    "Duration": 188,
-    "CaptionText": "Huanglong_main_1_6_5_4"
+    "caption_id": 119,
+    "cg_name": "C0001",
+    "show_moment": 836,
+    "duration": 188,
+    "caption_text": "Huanglong_main_1_6_5_4"
   },
   {
-    "CaptionId": 120,
-    "CgName": "C0001",
-    "ShowMoment": 1024,
-    "Duration": 146,
-    "CaptionText": "Huanglong_main_1_6_5_5"
+    "caption_id": 120,
+    "cg_name": "C0001",
+    "show_moment": 1024,
+    "duration": 146,
+    "caption_text": "Huanglong_main_1_6_5_5"
   },
   {
-    "CaptionId": 121,
-    "CgName": "C0001",
-    "ShowMoment": 1187,
-    "Duration": 342,
-    "CaptionText": "Huanglong_main_1_6_5_6"
+    "caption_id": 121,
+    "cg_name": "C0001",
+    "show_moment": 1187,
+    "duration": 342,
+    "caption_text": "Huanglong_main_1_6_5_6"
   },
   {
-    "CaptionId": 122,
-    "CgName": "C0001",
-    "ShowMoment": 1529,
-    "Duration": 204,
-    "CaptionText": "Huanglong_main_1_6_5_7"
+    "caption_id": 122,
+    "cg_name": "C0001",
+    "show_moment": 1529,
+    "duration": 204,
+    "caption_text": "Huanglong_main_1_6_5_7"
   },
   {
-    "CaptionId": 123,
-    "CgName": "C0001",
-    "ShowMoment": 1751,
-    "Duration": 281,
-    "CaptionText": "Huanglong_main_1_6_5_9"
+    "caption_id": 123,
+    "cg_name": "C0001",
+    "show_moment": 1751,
+    "duration": 281,
+    "caption_text": "Huanglong_main_1_6_5_9"
   },
   {
-    "CaptionId": 124,
-    "CgName": "C0001",
-    "ShowMoment": 2040,
-    "Duration": 407,
-    "CaptionText": "Huanglong_main_1_6_5_10"
+    "caption_id": 124,
+    "cg_name": "C0001",
+    "show_moment": 2040,
+    "duration": 407,
+    "caption_text": "Huanglong_main_1_6_5_10"
   },
   {
-    "CaptionId": 125,
-    "CgName": "C0001",
-    "ShowMoment": 2447,
-    "Duration": 192,
-    "CaptionText": "Huanglong_main_1_6_5_11"
+    "caption_id": 125,
+    "cg_name": "C0001",
+    "show_moment": 2447,
+    "duration": 192,
+    "caption_text": "Huanglong_main_1_6_5_11"
   },
   {
-    "CaptionId": 126,
-    "CgName": "C0001",
-    "ShowMoment": 2654,
-    "Duration": 266,
-    "CaptionText": "Huanglong_main_1_6_5_12"
+    "caption_id": 126,
+    "cg_name": "C0001",
+    "show_moment": 2654,
+    "duration": 266,
+    "caption_text": "Huanglong_main_1_6_5_12"
   },
   {
-    "CaptionId": 127,
-    "CgName": "C0001",
-    "ShowMoment": 2933,
-    "Duration": 239,
-    "CaptionText": "Huanglong_main_1_6_5_20"
+    "caption_id": 127,
+    "cg_name": "C0001",
+    "show_moment": 2933,
+    "duration": 239,
+    "caption_text": "Huanglong_main_1_6_5_20"
   },
   {
-    "CaptionId": 128,
-    "CgName": "C0001",
-    "ShowMoment": 3199,
-    "Duration": 325,
-    "CaptionText": "Huanglong_main_1_6_5_13"
+    "caption_id": 128,
+    "cg_name": "C0001",
+    "show_moment": 3199,
+    "duration": 325,
+    "caption_text": "Huanglong_main_1_6_5_13"
   },
   {
-    "CaptionId": 129,
-    "CgName": "C0001",
-    "ShowMoment": 3554,
-    "Duration": 461,
-    "CaptionText": "Huanglong_main_1_6_5_15"
+    "caption_id": 129,
+    "cg_name": "C0001",
+    "show_moment": 3554,
+    "duration": 461,
+    "caption_text": "Huanglong_main_1_6_5_15"
   },
   {
-    "CaptionId": 130,
-    "CgName": "C0001",
-    "ShowMoment": 4033,
-    "Duration": 410,
-    "CaptionText": "Huanglong_main_1_6_5_16"
+    "caption_id": 130,
+    "cg_name": "C0001",
+    "show_moment": 4033,
+    "duration": 410,
+    "caption_text": "Huanglong_main_1_6_5_16"
   },
   {
-    "CaptionId": 131,
-    "CgName": "C0001",
-    "ShowMoment": 4491,
-    "Duration": 421,
-    "CaptionText": "Huanglong_main_1_6_5_17"
+    "caption_id": 131,
+    "cg_name": "C0001",
+    "show_moment": 4491,
+    "duration": 421,
+    "caption_text": "Huanglong_main_1_6_5_17"
   },
   {
-    "CaptionId": 132,
-    "CgName": "C0001",
-    "ShowMoment": 4958,
-    "Duration": 346,
-    "CaptionText": "Huanglong_main_1_6_5_18"
+    "caption_id": 132,
+    "cg_name": "C0001",
+    "show_moment": 4958,
+    "duration": 346,
+    "caption_text": "Huanglong_main_1_6_5_18"
   },
   {
-    "CaptionId": 133,
-    "CgName": "C0001",
-    "ShowMoment": 5340,
-    "Duration": 471,
-    "CaptionText": "Huanglong_main_1_6_5_19"
+    "caption_id": 133,
+    "cg_name": "C0001",
+    "show_moment": 5340,
+    "duration": 471,
+    "caption_text": "Huanglong_main_1_6_5_19"
   },
   {
-    "CaptionId": 134,
-    "CgName": "C3jiyanfight",
-    "ShowMoment": 0,
-    "Duration": 200,
-    "CaptionText": "MainSeq_M021_3"
+    "caption_id": 134,
+    "cg_name": "C3jiyanfight",
+    "show_moment": 0,
+    "duration": 200,
+    "caption_text": "MainSeq_M021_3"
   },
   {
-    "CaptionId": 135,
-    "CgName": "C3jiyanfight",
-    "ShowMoment": 1526,
-    "Duration": 55,
-    "CaptionText": "MainSeq_M021_1"
+    "caption_id": 135,
+    "cg_name": "C3jiyanfight",
+    "show_moment": 1526,
+    "duration": 55,
+    "caption_text": "MainSeq_M021_1"
   },
   {
-    "CaptionId": 136,
-    "CgName": "C3jiyanfight",
-    "ShowMoment": 2350,
-    "Duration": 120,
-    "CaptionText": "MainSeq_M021_2"
+    "caption_id": 136,
+    "cg_name": "C3jiyanfight",
+    "show_moment": 2350,
+    "duration": 120,
+    "caption_text": "MainSeq_M021_2"
   },
   {
-    "CaptionId": 137,
-    "CgName": "M0234",
-    "ShowMoment": 0,
-    "Duration": 180,
-    "CaptionText": "Huanglong_main_1_7_178_1"
+    "caption_id": 137,
+    "cg_name": "M0234",
+    "show_moment": 0,
+    "duration": 180,
+    "caption_text": "Huanglong_main_1_7_178_1"
   },
   {
-    "CaptionId": 138,
-    "CgName": "M0234",
-    "ShowMoment": 186,
-    "Duration": 84,
-    "CaptionText": "Huanglong_main_1_7_178_2"
+    "caption_id": 138,
+    "cg_name": "M0234",
+    "show_moment": 186,
+    "duration": 84,
+    "caption_text": "Huanglong_main_1_7_178_2"
   },
   {
-    "CaptionId": 139,
-    "CgName": "M0234",
-    "ShowMoment": 292,
-    "Duration": 227,
-    "CaptionText": "Huanglong_main_1_7_178_3"
+    "caption_id": 139,
+    "cg_name": "M0234",
+    "show_moment": 292,
+    "duration": 227,
+    "caption_text": "Huanglong_main_1_7_178_3"
   },
   {
-    "CaptionId": 140,
-    "CgName": "M0234",
-    "ShowMoment": 586,
-    "Duration": 120,
-    "CaptionText": "Huanglong_main_1_7_178_4"
+    "caption_id": 140,
+    "cg_name": "M0234",
+    "show_moment": 586,
+    "duration": 120,
+    "caption_text": "Huanglong_main_1_7_178_4"
   },
   {
-    "CaptionId": 141,
-    "CgName": "M0234",
-    "ShowMoment": 717,
-    "Duration": 102,
-    "CaptionText": "Huanglong_main_1_7_178_5"
+    "caption_id": 141,
+    "cg_name": "M0234",
+    "show_moment": 717,
+    "duration": 102,
+    "caption_text": "Huanglong_main_1_7_178_5"
   },
   {
-    "CaptionId": 142,
-    "CgName": "M0234",
-    "ShowMoment": 840,
-    "Duration": 199,
-    "CaptionText": "Huanglong_main_1_7_178_6"
+    "caption_id": 142,
+    "cg_name": "M0234",
+    "show_moment": 840,
+    "duration": 199,
+    "caption_text": "Huanglong_main_1_7_178_6"
   },
   {
-    "CaptionId": 143,
-    "CgName": "M0234",
-    "ShowMoment": 1064,
-    "Duration": 234,
-    "CaptionText": "Huanglong_main_1_7_178_7"
+    "caption_id": 143,
+    "cg_name": "M0234",
+    "show_moment": 1064,
+    "duration": 234,
+    "caption_text": "Huanglong_main_1_7_178_7"
   },
   {
-    "CaptionId": 144,
-    "CgName": "M0234",
-    "ShowMoment": 1340,
-    "Duration": 211,
-    "CaptionText": "Huanglong_main_1_7_178_8"
+    "caption_id": 144,
+    "cg_name": "M0234",
+    "show_moment": 1340,
+    "duration": 211,
+    "caption_text": "Huanglong_main_1_7_178_8"
   },
   {
-    "CaptionId": 145,
-    "CgName": "M0234",
-    "ShowMoment": 1654,
-    "Duration": 270,
-    "CaptionText": "Huanglong_main_1_7_178_9"
+    "caption_id": 145,
+    "cg_name": "M0234",
+    "show_moment": 1654,
+    "duration": 270,
+    "caption_text": "Huanglong_main_1_7_178_9"
   },
   {
-    "CaptionId": 146,
-    "CgName": "M0234",
-    "ShowMoment": 1954,
-    "Duration": 166,
-    "CaptionText": "Huanglong_main_1_7_178_10"
+    "caption_id": 146,
+    "cg_name": "M0234",
+    "show_moment": 1954,
+    "duration": 166,
+    "caption_text": "Huanglong_main_1_7_178_10"
   },
   {
-    "CaptionId": 147,
-    "CgName": "M0234",
-    "ShowMoment": 2140,
-    "Duration": 172,
-    "CaptionText": "Huanglong_main_1_7_178_11"
+    "caption_id": 147,
+    "cg_name": "M0234",
+    "show_moment": 2140,
+    "duration": 172,
+    "caption_text": "Huanglong_main_1_7_178_11"
   },
   {
-    "CaptionId": 148,
-    "CgName": "M0234",
-    "ShowMoment": 2432,
-    "Duration": 218,
-    "CaptionText": "Huanglong_main_1_7_178_12"
+    "caption_id": 148,
+    "cg_name": "M0234",
+    "show_moment": 2432,
+    "duration": 218,
+    "caption_text": "Huanglong_main_1_7_178_12"
   }
 ]

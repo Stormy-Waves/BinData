@@ -1,11 +1,11 @@
 [
   {
-    "Id": 1,
-    "PackageType": 0,
-    "Language": [
+    "id": 1,
+    "package_type": 0,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       18,
       19,
       56,
@@ -14,12 +14,12 @@
     ]
   },
   {
-    "Id": 2,
-    "PackageType": 1,
-    "Language": [
+    "id": 2,
+    "package_type": 1,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       0
     ]
   }

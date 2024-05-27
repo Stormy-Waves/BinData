@@ -1,13 +1,13 @@
 [
   {
-    "Id": 0,
-    "DesktopButtonTypeList": [
+    "id": 0,
+    "desktop_button_type_list": [
       7,
       6,
       9,
       8
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       6,
       9,
@@ -18,7 +18,7 @@
       10,
       11
     ],
-    "DesktopButtonTypeMap": [
+    "desktop_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -63,7 +63,7 @@
         }
       }
     ],
-    "PadButtonTypeMap": [
+    "pad_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -123,12 +123,12 @@
     ]
   },
   {
-    "Id": 5008,
-    "DesktopButtonTypeList": [
+    "id": 5008,
+    "desktop_button_type_list": [
       4,
       5
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       0,
       0,
@@ -136,16 +136,16 @@
       0,
       5
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5009,
-    "DesktopButtonTypeList": [
+    "id": 5009,
+    "desktop_button_type_list": [
       4,
       5
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       0,
       0,
@@ -153,17 +153,17 @@
       0,
       5
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5010,
-    "DesktopButtonTypeList": [
+    "id": 5010,
+    "desktop_button_type_list": [
       4,
       5,
       6
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       6,
       0,
@@ -172,28 +172,28 @@
       0,
       5
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5012,
-    "DesktopButtonTypeList": [
+    "id": 5012,
+    "desktop_button_type_list": [
       4
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5011,
-    "DesktopButtonTypeList": [
+    "id": 5011,
+    "desktop_button_type_list": [
       4,
       5,
       1
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       0,
       0,
@@ -202,16 +202,16 @@
       5,
       1
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5006,
-    "DesktopButtonTypeList": [
+    "id": 5006,
+    "desktop_button_type_list": [
       5,
       1
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       0,
       0,
       0,
@@ -220,18 +220,18 @@
       5,
       1
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5007,
-    "DesktopButtonTypeList": [
+    "id": 5007,
+    "desktop_button_type_list": [
       0,
       6,
       9,
       8
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       6,
       9,
@@ -239,38 +239,38 @@
       8,
       5
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5013,
-    "DesktopButtonTypeList": [
+    "id": 5013,
+    "desktop_button_type_list": [
       5
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       5
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5014,
-    "DesktopButtonTypeList": [
+    "id": 5014,
+    "desktop_button_type_list": [
       5
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       5
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5002,
-    "DesktopButtonTypeList": [
+    "id": 5002,
+    "desktop_button_type_list": [
       6,
       1
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       0,
       6,
       0,
@@ -279,18 +279,18 @@
       0,
       1
     ],
-    "DesktopButtonTypeMap": [],
-    "PadButtonTypeMap": []
+    "desktop_button_type_map": [],
+    "pad_button_type_map": []
   },
   {
-    "Id": 5001,
-    "DesktopButtonTypeList": [
+    "id": 5001,
+    "desktop_button_type_list": [
       7,
       6,
       9,
       8
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       6,
       9,
@@ -301,7 +301,7 @@
       10,
       11
     ],
-    "DesktopButtonTypeMap": [
+    "desktop_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "PadButtonTypeMap": [
+    "pad_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -406,14 +406,14 @@
     ]
   },
   {
-    "Id": 5003,
-    "DesktopButtonTypeList": [
+    "id": 5003,
+    "desktop_button_type_list": [
       7,
       6,
       9,
       8
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       6,
       9,
@@ -424,7 +424,7 @@
       10,
       11
     ],
-    "DesktopButtonTypeMap": [
+    "desktop_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -469,7 +469,7 @@
         }
       }
     ],
-    "PadButtonTypeMap": [
+    "pad_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -529,14 +529,14 @@
     ]
   },
   {
-    "Id": 5004,
-    "DesktopButtonTypeList": [
+    "id": 5004,
+    "desktop_button_type_list": [
       7,
       6,
       9,
       8
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       6,
       9,
@@ -547,7 +547,7 @@
       10,
       11
     ],
-    "DesktopButtonTypeMap": [
+    "desktop_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -592,7 +592,7 @@
         }
       }
     ],
-    "PadButtonTypeMap": [
+    "pad_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -652,14 +652,14 @@
     ]
   },
   {
-    "Id": 5005,
-    "DesktopButtonTypeList": [
+    "id": 5005,
+    "desktop_button_type_list": [
       7,
       6,
       9,
       8
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       6,
       9,
@@ -670,7 +670,7 @@
       10,
       11
     ],
-    "DesktopButtonTypeMap": [
+    "desktop_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -715,7 +715,7 @@
         }
       }
     ],
-    "PadButtonTypeMap": [
+    "pad_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -775,14 +775,14 @@
     ]
   },
   {
-    "Id": 5015,
-    "DesktopButtonTypeList": [
+    "id": 5015,
+    "desktop_button_type_list": [
       7,
       6,
       9,
       8
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       6,
       9,
@@ -793,7 +793,7 @@
       10,
       11
     ],
-    "DesktopButtonTypeMap": [
+    "desktop_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -838,7 +838,7 @@
         }
       }
     ],
-    "PadButtonTypeMap": [
+    "pad_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -898,14 +898,14 @@
     ]
   },
   {
-    "Id": 5016,
-    "DesktopButtonTypeList": [
+    "id": 5016,
+    "desktop_button_type_list": [
       7,
       6,
       9,
       8
     ],
-    "PadButtonTypeList": [
+    "pad_button_type_list": [
       4,
       6,
       9,
@@ -916,7 +916,7 @@
       10,
       11
     ],
-    "DesktopButtonTypeMap": [
+    "desktop_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {
@@ -961,7 +961,7 @@
         }
       }
     ],
-    "PadButtonTypeMap": [
+    "pad_button_type_map": [
       {
         "key": "行为状态.位置状态.攀爬",
         "value": {

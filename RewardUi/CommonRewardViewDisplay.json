@@ -1,74 +1,74 @@
 [
   {
-    "Id": 1001,
-    "Title": "CommonRewardViewDisplay_1001_Title",
-    "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
-    "IsItemVisible": true,
-    "IsSuccess": true,
-    "AudioId": ""
+    "id": 1001,
+    "title": "CommonRewardViewDisplay_1001_Title",
+    "continue_text": "CommonRewardViewDisplay_1001_ContinueText",
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": ""
   },
   {
-    "Id": 1003,
-    "Title": "CommonRewardViewDisplay_1001_Title",
-    "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
-    "IsItemVisible": true,
-    "IsSuccess": true,
-    "AudioId": ""
+    "id": 1003,
+    "title": "CommonRewardViewDisplay_1001_Title",
+    "continue_text": "CommonRewardViewDisplay_1001_ContinueText",
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": ""
   },
   {
-    "Id": 1004,
-    "Title": "CommonRewardViewDisplay_1001_Title",
-    "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
-    "IsItemVisible": true,
-    "IsSuccess": true,
-    "AudioId": ""
+    "id": 1004,
+    "title": "CommonRewardViewDisplay_1001_Title",
+    "continue_text": "CommonRewardViewDisplay_1001_ContinueText",
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": ""
   },
   {
-    "Id": 1005,
-    "Title": "CommonRewardViewDisplay_1001_Title",
-    "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
-    "IsItemVisible": true,
-    "IsSuccess": true,
-    "AudioId": ""
+    "id": 1005,
+    "title": "CommonRewardViewDisplay_1001_Title",
+    "continue_text": "CommonRewardViewDisplay_1001_ContinueText",
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": ""
   },
   {
-    "Id": 1006,
-    "Title": "CommonRewardViewDisplay_1001_Title",
-    "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
-    "IsItemVisible": true,
-    "IsSuccess": true,
-    "AudioId": "play_ui_fx_spl_gen_robot_success_vo"
+    "id": 1006,
+    "title": "CommonRewardViewDisplay_1001_Title",
+    "continue_text": "CommonRewardViewDisplay_1001_ContinueText",
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": "play_ui_fx_spl_gen_robot_success_vo"
   },
   {
-    "Id": 1007,
-    "Title": "CommonRewardViewDisplay_1001_Title",
-    "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
-    "IsItemVisible": true,
-    "IsSuccess": true,
-    "AudioId": ""
+    "id": 1007,
+    "title": "CommonRewardViewDisplay_1001_Title",
+    "continue_text": "CommonRewardViewDisplay_1001_ContinueText",
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": ""
   },
   {
-    "Id": 1008,
-    "Title": "CommonRewardViewDisplay_1002_Title",
-    "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
-    "IsItemVisible": true,
-    "IsSuccess": true,
-    "AudioId": ""
+    "id": 1008,
+    "title": "CommonRewardViewDisplay_1002_Title",
+    "continue_text": "CommonRewardViewDisplay_1001_ContinueText",
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": ""
   },
   {
-    "Id": 1009,
-    "Title": "CommonRewardViewDisplay_1001_Title",
-    "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
-    "IsItemVisible": true,
-    "IsSuccess": true,
-    "AudioId": ""
+    "id": 1009,
+    "title": "CommonRewardViewDisplay_1001_Title",
+    "continue_text": "CommonRewardViewDisplay_1001_ContinueText",
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": ""
   },
   {
-    "Id": 1010,
-    "Title": "CommonRewardViewDisplay_1002_Title",
-    "ContinueText": "CommonRewardViewDisplay_1001_ContinueText",
-    "IsItemVisible": true,
-    "IsSuccess": true,
-    "AudioId": ""
+    "id": 1010,
+    "title": "CommonRewardViewDisplay_1002_Title",
+    "continue_text": "CommonRewardViewDisplay_1001_ContinueText",
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": ""
   }
 ]

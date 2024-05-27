@@ -1,16 +1,16 @@
 [
   {
-    "Id": 100700001,
-    "Type": 1,
-    "Count": 3,
-    "UpRate": 2,
-    "Prefab": "UiItem_ActivityDoubleReward"
+    "id": 100700001,
+    "type": 1,
+    "count": 3,
+    "up_rate": 2,
+    "prefab": "UiItem_ActivityDoubleReward"
   },
   {
-    "Id": 100700002,
-    "Type": 3,
-    "Count": 3,
-    "UpRate": 2,
-    "Prefab": "UiItem_ActivityDoubleReward_3"
+    "id": 100700002,
+    "type": 3,
+    "count": 3,
+    "up_rate": 2,
+    "prefab": "UiItem_ActivityDoubleReward_3"
   }
 ]

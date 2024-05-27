@@ -1,42 +1,42 @@
 [
   {
-    "Id": 1,
-    "MonsterSizeTag": [
+    "id": 1,
+    "monster_size_tag": [
       "怪物.LockOnTag.小体型怪物"
     ]
   },
   {
-    "Id": 2,
-    "MonsterSizeTag": [
+    "id": 2,
+    "monster_size_tag": [
       "怪物.LockOnTag.基础体型怪物"
     ]
   },
   {
-    "Id": 3,
-    "MonsterSizeTag": [
+    "id": 3,
+    "monster_size_tag": [
       "怪物.LockOnTag.大体型怪物"
     ]
   },
   {
-    "Id": 4,
-    "MonsterSizeTag": [
+    "id": 4,
+    "monster_size_tag": [
       "怪物.LockOnTag.超大体型怪物"
     ]
   },
   {
-    "Id": 5,
-    "MonsterSizeTag": [
+    "id": 5,
+    "monster_size_tag": [
       "怪物.LockOnTag.小体型飞行怪物"
     ]
   },
   {
-    "Id": 6,
-    "MonsterSizeTag": [
+    "id": 6,
+    "monster_size_tag": [
       "怪物.LockOnTag.大体型飞行怪物"
     ]
   },
   {
-    "Id": 7,
-    "MonsterSizeTag": []
+    "id": 7,
+    "monster_size_tag": []
   }
 ]

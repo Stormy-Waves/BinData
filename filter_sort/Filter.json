@@ -1,149 +1,149 @@
 [
   {
-    "Id": 1,
-    "DataType": 1,
-    "RuleList": [
+    "id": 1,
+    "data_type": 1,
+    "rule_list": [
       1,
       2
     ],
-    "IsSupportSelectAll": false,
-    "IsShowIcon": true,
-    "GridType": "UiItem_FliterGridS"
+    "is_support_select_all": false,
+    "is_show_icon": true,
+    "grid_type": "UiItem_FliterGridS"
   },
   {
-    "Id": 2,
-    "DataType": 2,
-    "RuleList": [
+    "id": 2,
+    "data_type": 2,
+    "rule_list": [
       22,
       23,
       24,
       25
     ],
-    "IsSupportSelectAll": true,
-    "IsShowIcon": true,
-    "GridType": "UiItem_FliterGridB"
+    "is_support_select_all": true,
+    "is_show_icon": true,
+    "grid_type": "UiItem_FliterGridB"
   },
   {
-    "Id": 3,
-    "DataType": 3,
-    "RuleList": [
+    "id": 3,
+    "data_type": 3,
+    "rule_list": [
       22,
       23,
       24,
       25
     ],
-    "IsSupportSelectAll": true,
-    "IsShowIcon": true,
-    "GridType": "UiItem_FliterGridB"
+    "is_support_select_all": true,
+    "is_show_icon": true,
+    "grid_type": "UiItem_FliterGridB"
   },
   {
-    "Id": 4,
-    "DataType": 4,
-    "RuleList": [
+    "id": 4,
+    "data_type": 4,
+    "rule_list": [
       22,
       23,
       24,
       25
     ],
-    "IsSupportSelectAll": true,
-    "IsShowIcon": true,
-    "GridType": "UiItem_FliterGridB"
+    "is_support_select_all": true,
+    "is_show_icon": true,
+    "grid_type": "UiItem_FliterGridB"
   },
   {
-    "Id": 5,
-    "DataType": 5,
-    "RuleList": [
+    "id": 5,
+    "data_type": 5,
+    "rule_list": [
       22,
       23,
       24,
       25
     ],
-    "IsSupportSelectAll": true,
-    "IsShowIcon": true,
-    "GridType": "UiItem_FliterGridB"
+    "is_support_select_all": true,
+    "is_show_icon": true,
+    "grid_type": "UiItem_FliterGridB"
   },
   {
-    "Id": 6,
-    "DataType": 6,
-    "RuleList": [
+    "id": 6,
+    "data_type": 6,
+    "rule_list": [
       11,
       21
     ],
-    "IsSupportSelectAll": false,
-    "IsShowIcon": false,
-    "GridType": "UiItem_FliterGridS"
+    "is_support_select_all": false,
+    "is_show_icon": false,
+    "grid_type": "UiItem_FliterGridS"
   },
   {
-    "Id": 7,
-    "DataType": 7,
-    "RuleList": [
+    "id": 7,
+    "data_type": 7,
+    "rule_list": [
       12
     ],
-    "IsSupportSelectAll": false,
-    "IsShowIcon": false,
-    "GridType": "UiItem_FliterGridS"
+    "is_support_select_all": false,
+    "is_show_icon": false,
+    "grid_type": "UiItem_FliterGridS"
   },
   {
-    "Id": 8,
-    "DataType": 8,
-    "RuleList": [
+    "id": 8,
+    "data_type": 8,
+    "rule_list": [
       13
     ],
-    "IsSupportSelectAll": false,
-    "IsShowIcon": false,
-    "GridType": "UiItem_FliterGridS"
+    "is_support_select_all": false,
+    "is_show_icon": false,
+    "grid_type": "UiItem_FliterGridS"
   },
   {
-    "Id": 9,
-    "DataType": 9,
-    "RuleList": [
+    "id": 9,
+    "data_type": 9,
+    "rule_list": [
       15
     ],
-    "IsSupportSelectAll": false,
-    "IsShowIcon": false,
-    "GridType": "UiItem_FliterGridS"
+    "is_support_select_all": false,
+    "is_show_icon": false,
+    "grid_type": "UiItem_FliterGridS"
   },
   {
-    "Id": 10,
-    "DataType": 10,
-    "RuleList": [
+    "id": 10,
+    "data_type": 10,
+    "rule_list": [
       16
     ],
-    "IsSupportSelectAll": false,
-    "IsShowIcon": false,
-    "GridType": "UiItem_FliterGridS"
+    "is_support_select_all": false,
+    "is_show_icon": false,
+    "grid_type": "UiItem_FliterGridS"
   },
   {
-    "Id": 11,
-    "DataType": 11,
-    "RuleList": [
+    "id": 11,
+    "data_type": 11,
+    "rule_list": [
       17
     ],
-    "IsSupportSelectAll": false,
-    "IsShowIcon": false,
-    "GridType": "UiItem_FliterGridS"
+    "is_support_select_all": false,
+    "is_show_icon": false,
+    "grid_type": "UiItem_FliterGridS"
   },
   {
-    "Id": 12,
-    "DataType": 13,
-    "RuleList": [
+    "id": 12,
+    "data_type": 13,
+    "rule_list": [
       28,
       27,
       30
     ],
-    "IsSupportSelectAll": true,
-    "IsShowIcon": true,
-    "GridType": "UiItem_FliterGridS"
+    "is_support_select_all": true,
+    "is_show_icon": true,
+    "grid_type": "UiItem_FliterGridS"
   },
   {
-    "Id": 13,
-    "DataType": 12,
-    "RuleList": [
+    "id": 13,
+    "data_type": 12,
+    "rule_list": [
       26,
       2
     ],
-    "IsSupportSelectAll": false,
-    "IsShowIcon": true,
-    "GridType": "UiItem_FliterGridS"
+    "is_support_select_all": false,
+    "is_show_icon": true,
+    "grid_type": "UiItem_FliterGridS"
   }
 ]

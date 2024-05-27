@@ -1,258 +1,258 @@
 [
   {
-    "Id": 1001,
-    "RoleId": 1601,
-    "Quality": 1,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1601_Name",
-    "RoleBigIcon": ""
+    "id": 1001,
+    "role_id": 1601,
+    "quality": 1,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1601_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 1002,
-    "RoleId": 1601,
-    "Quality": 2,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1601_Name",
-    "RoleBigIcon": ""
+    "id": 1002,
+    "role_id": 1601,
+    "quality": 2,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1601_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 1003,
-    "RoleId": 1601,
-    "Quality": 3,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1601_Name",
-    "RoleBigIcon": ""
+    "id": 1003,
+    "role_id": 1601,
+    "quality": 3,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1601_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 1004,
-    "RoleId": 1601,
-    "Quality": 4,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1601_Name",
-    "RoleBigIcon": ""
+    "id": 1004,
+    "role_id": 1601,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1601_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 2001,
-    "RoleId": 1402,
-    "Quality": 1,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1402_Name",
-    "RoleBigIcon": ""
+    "id": 2001,
+    "role_id": 1402,
+    "quality": 1,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1402_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 2002,
-    "RoleId": 1402,
-    "Quality": 2,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1402_Name",
-    "RoleBigIcon": ""
+    "id": 2002,
+    "role_id": 1402,
+    "quality": 2,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1402_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 2003,
-    "RoleId": 1402,
-    "Quality": 3,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1402_Name",
-    "RoleBigIcon": ""
+    "id": 2003,
+    "role_id": 1402,
+    "quality": 3,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1402_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 2004,
-    "RoleId": 1402,
-    "Quality": 4,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1402_Name",
-    "RoleBigIcon": ""
+    "id": 2004,
+    "role_id": 1402,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1402_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 3001,
-    "RoleId": 1202,
-    "Quality": 1,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1202_Name",
-    "RoleBigIcon": ""
+    "id": 3001,
+    "role_id": 1202,
+    "quality": 1,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1202_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 3002,
-    "RoleId": 1202,
-    "Quality": 2,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1202_Name",
-    "RoleBigIcon": ""
+    "id": 3002,
+    "role_id": 1202,
+    "quality": 2,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1202_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 3003,
-    "RoleId": 1202,
-    "Quality": 3,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1202_Name",
-    "RoleBigIcon": ""
+    "id": 3003,
+    "role_id": 1202,
+    "quality": 3,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1202_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 3004,
-    "RoleId": 1202,
-    "Quality": 4,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1202_Name",
-    "RoleBigIcon": ""
+    "id": 3004,
+    "role_id": 1202,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1202_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 4001,
-    "RoleId": 1501,
-    "Quality": 1,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1501_Name",
-    "RoleBigIcon": ""
+    "id": 4001,
+    "role_id": 1501,
+    "quality": 1,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1501_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 4002,
-    "RoleId": 1501,
-    "Quality": 2,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1501_Name",
-    "RoleBigIcon": ""
+    "id": 4002,
+    "role_id": 1501,
+    "quality": 2,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1501_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 4003,
-    "RoleId": 1501,
-    "Quality": 3,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1501_Name",
-    "RoleBigIcon": ""
+    "id": 4003,
+    "role_id": 1501,
+    "quality": 3,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1501_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 4004,
-    "RoleId": 1501,
-    "Quality": 4,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1501_Name",
-    "RoleBigIcon": ""
+    "id": 4004,
+    "role_id": 1501,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1501_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 5001,
-    "RoleId": 1502,
-    "Quality": 1,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1502_Name",
-    "RoleBigIcon": ""
+    "id": 5001,
+    "role_id": 1502,
+    "quality": 1,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1502_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 5002,
-    "RoleId": 1502,
-    "Quality": 2,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1502_Name",
-    "RoleBigIcon": ""
+    "id": 5002,
+    "role_id": 1502,
+    "quality": 2,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1502_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 5003,
-    "RoleId": 1502,
-    "Quality": 3,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1502_Name",
-    "RoleBigIcon": ""
+    "id": 5003,
+    "role_id": 1502,
+    "quality": 3,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1502_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 5004,
-    "RoleId": 1502,
-    "Quality": 4,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1502_Name",
-    "RoleBigIcon": ""
+    "id": 5004,
+    "role_id": 1502,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1502_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 6001,
-    "RoleId": 1103,
-    "Quality": 1,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1103_Name",
-    "RoleBigIcon": ""
+    "id": 6001,
+    "role_id": 1103,
+    "quality": 1,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1103_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 6002,
-    "RoleId": 1103,
-    "Quality": 2,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1103_Name",
-    "RoleBigIcon": ""
+    "id": 6002,
+    "role_id": 1103,
+    "quality": 2,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1103_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 6003,
-    "RoleId": 1103,
-    "Quality": 3,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1103_Name",
-    "RoleBigIcon": ""
+    "id": 6003,
+    "role_id": 1103,
+    "quality": 3,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1103_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 6004,
-    "RoleId": 1103,
-    "Quality": 4,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1103_Name",
-    "RoleBigIcon": ""
+    "id": 6004,
+    "role_id": 1103,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1103_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 7001,
-    "RoleId": 1404,
-    "Quality": 1,
-    "RoleIcon": "",
-    "RoleName": "RoleInfo_1404_Name",
-    "RoleBigIcon": ""
+    "id": 7001,
+    "role_id": 1404,
+    "quality": 1,
+    "role_icon": "",
+    "role_name": "RoleInfo_1404_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 7002,
-    "RoleId": 1404,
-    "Quality": 2,
-    "RoleIcon": "",
-    "RoleName": "RoleInfo_1404_Name",
-    "RoleBigIcon": ""
+    "id": 7002,
+    "role_id": 1404,
+    "quality": 2,
+    "role_icon": "",
+    "role_name": "RoleInfo_1404_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 7003,
-    "RoleId": 1404,
-    "Quality": 3,
-    "RoleIcon": "",
-    "RoleName": "RoleInfo_1404_Name",
-    "RoleBigIcon": ""
+    "id": 7003,
+    "role_id": 1404,
+    "quality": 3,
+    "role_icon": "",
+    "role_name": "RoleInfo_1404_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 7004,
-    "RoleId": 1404,
-    "Quality": 4,
-    "RoleIcon": "",
-    "RoleName": "RoleInfo_1404_Name",
-    "RoleBigIcon": ""
+    "id": 7004,
+    "role_id": 1404,
+    "quality": 4,
+    "role_icon": "",
+    "role_name": "RoleInfo_1404_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 8001,
-    "RoleId": 1302,
-    "Quality": 1,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1601_Name",
-    "RoleBigIcon": ""
+    "id": 8001,
+    "role_id": 1302,
+    "quality": 1,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1601_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 8002,
-    "RoleId": 1302,
-    "Quality": 2,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1601_Name",
-    "RoleBigIcon": ""
+    "id": 8002,
+    "role_id": 1302,
+    "quality": 2,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1601_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 8003,
-    "RoleId": 1302,
-    "Quality": 3,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1601_Name",
-    "RoleBigIcon": ""
+    "id": 8003,
+    "role_id": 1302,
+    "quality": 3,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1601_Name",
+    "role_big_icon": ""
   },
   {
-    "Id": 8004,
-    "RoleId": 1302,
-    "Quality": 4,
-    "RoleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
-    "RoleName": "RoleInfo_1601_Name",
-    "RoleBigIcon": ""
+    "id": 8004,
+    "role_id": 1302,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1601_Name",
+    "role_big_icon": ""
   }
 ]

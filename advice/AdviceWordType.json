@@ -1,30 +1,30 @@
 [
   {
-    "Id": 1,
-    "Name": "AdviceWordType_1_Name"
+    "id": 1,
+    "name": "AdviceWordType_1_Name"
   },
   {
-    "Id": 2,
-    "Name": "AdviceWordType_2_Name"
+    "id": 2,
+    "name": "AdviceWordType_2_Name"
   },
   {
-    "Id": 3,
-    "Name": "AdviceWordType_3_Name"
+    "id": 3,
+    "name": "AdviceWordType_3_Name"
   },
   {
-    "Id": 4,
-    "Name": "AdviceWordType_4_Name"
+    "id": 4,
+    "name": "AdviceWordType_4_Name"
   },
   {
-    "Id": 5,
-    "Name": "AdviceWordType_5_Name"
+    "id": 5,
+    "name": "AdviceWordType_5_Name"
   },
   {
-    "Id": 6,
-    "Name": "AdviceWordType_6_Name"
+    "id": 6,
+    "name": "AdviceWordType_6_Name"
   },
   {
-    "Id": 7,
-    "Name": "AdviceWordType_7_Name"
+    "id": 7,
+    "name": "AdviceWordType_7_Name"
   }
 ]

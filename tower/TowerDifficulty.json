@@ -1,7 +1,7 @@
 [
   {
-    "Difficulty": 1,
-    "Reward": [
+    "difficulty": 1,
+    "reward": [
       {
         "item1": 1,
         "item2": 3501
@@ -37,8 +37,8 @@
     ]
   },
   {
-    "Difficulty": 2,
-    "Reward": [
+    "difficulty": 2,
+    "reward": [
       {
         "item1": 1,
         "item2": 3509
@@ -82,8 +82,8 @@
     ]
   },
   {
-    "Difficulty": 3,
-    "Reward": [
+    "difficulty": 3,
+    "reward": [
       {
         "item1": 3,
         "item2": 3519

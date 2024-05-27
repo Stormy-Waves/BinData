@@ -1,81 +1,81 @@
 [
   {
-    "Id": 2,
-    "Type": 0,
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_06_UI.SP_IconMap_Play_06_UI",
-    "Desc": "MapNote_2_Desc",
-    "Priority": 1,
-    "Rank": 1,
-    "MarkIdMap": [
+    "id": 2,
+    "type": 0,
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_06_UI.SP_IconMap_Play_06_UI",
+    "desc": "MapNote_2_Desc",
+    "priority": 1,
+    "rank": 1,
+    "mark_id_map": [
       {
         "key": 1,
         "value": 3000
       }
     ],
-    "MarkId": [],
-    "ConditionId": 0,
-    "QuestIdList": []
+    "mark_id": [],
+    "condition_id": 0,
+    "quest_id_list": []
   },
   {
-    "Id": 3,
-    "Type": 0,
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_06_1_UI.SP_IconMap_Play_06_1_UI",
-    "Desc": "MapNote_3_Desc",
-    "Priority": 2,
-    "Rank": 2,
-    "MarkIdMap": [
+    "id": 3,
+    "type": 0,
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_06_1_UI.SP_IconMap_Play_06_1_UI",
+    "desc": "MapNote_3_Desc",
+    "priority": 2,
+    "rank": 2,
+    "mark_id_map": [
       {
         "key": 1,
         "value": 301203
       }
     ],
-    "MarkId": [],
-    "ConditionId": 0,
-    "QuestIdList": []
+    "mark_id": [],
+    "condition_id": 0,
+    "quest_id_list": []
   },
   {
-    "Id": 4,
-    "Type": 1,
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconBreakthrough.SP_IconBreakthrough",
-    "Desc": "WorldLevelUpgradeNotice_Mapnote",
-    "Priority": 3,
-    "Rank": 3,
-    "MarkIdMap": [],
-    "MarkId": [],
-    "ConditionId": 0,
-    "QuestIdList": [
+    "id": 4,
+    "type": 1,
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconBreakthrough.SP_IconBreakthrough",
+    "desc": "WorldLevelUpgradeNotice_Mapnote",
+    "priority": 3,
+    "rank": 3,
+    "mark_id_map": [],
+    "mark_id": [],
+    "condition_id": 0,
+    "quest_id_list": [
       880000001,
       880000002,
       880000003
     ]
   },
   {
-    "Id": 5,
-    "Type": 1,
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_07_UI.SP_IconMap_Play_07_UI",
-    "Desc": "HuangLongExploreLevelReward_Text",
-    "Priority": 4,
-    "Rank": 4,
-    "MarkIdMap": [
+    "id": 5,
+    "type": 1,
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_07_UI.SP_IconMap_Play_07_UI",
+    "desc": "HuangLongExploreLevelReward_Text",
+    "priority": 4,
+    "rank": 4,
+    "mark_id_map": [
       {
         "key": 1,
         "value": 3
       }
     ],
-    "MarkId": [],
-    "ConditionId": 0,
-    "QuestIdList": []
+    "mark_id": [],
+    "condition_id": 0,
+    "quest_id_list": []
   },
   {
-    "Id": 8,
-    "Type": 1,
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_10_UI.SP_IconMap_Play_10_UI",
-    "Desc": "MapNote_LordGym_Desc",
-    "Priority": 4,
-    "Rank": 4,
-    "MarkIdMap": [],
-    "MarkId": [],
-    "ConditionId": 0,
-    "QuestIdList": []
+    "id": 8,
+    "type": 1,
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_10_UI.SP_IconMap_Play_10_UI",
+    "desc": "MapNote_LordGym_Desc",
+    "priority": 4,
+    "rank": 4,
+    "mark_id_map": [],
+    "mark_id": [],
+    "condition_id": 0,
+    "quest_id_list": []
   }
 ]

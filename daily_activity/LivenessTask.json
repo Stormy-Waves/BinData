@@ -1,321 +1,321 @@
 [
   {
-    "TaskId": 101,
-    "TaskName": "LivenessTask_101_TaskName",
-    "UpdateType": 0,
-    "TaskReward": [
+    "task_id": 101,
+    "task_name": "LivenessTask_101_TaskName",
+    "update_type": 0,
+    "task_reward": [
       {
         "key": 9,
         "value": 40
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "2"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 102,
-    "TaskName": "LivenessTask_102_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 102,
+    "task_name": "LivenessTask_102_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "4",
       "NewSoundAreaView",
       "19"
     ],
-    "UnlockCondition": 12005124
+    "unlock_condition": 12005124
   },
   {
-    "TaskId": 103,
-    "TaskName": "LivenessTask_103_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 103,
+    "task_name": "LivenessTask_103_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "4",
       "NewSoundAreaView",
       "4"
     ],
-    "UnlockCondition": 12005118
+    "unlock_condition": 12005118
   },
   {
-    "TaskId": 104,
-    "TaskName": "LivenessTask_104_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 104,
+    "task_name": "LivenessTask_104_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "4",
       "NewSoundAreaView",
       "22"
     ],
-    "UnlockCondition": 12005113
+    "unlock_condition": 12005113
   },
   {
-    "TaskId": 107,
-    "TaskName": "LivenessTask_107_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 107,
+    "task_name": "LivenessTask_107_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "5",
       "RolePhantomTabView"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 108,
-    "TaskName": "LivenessTask_108_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 108,
+    "task_name": "LivenessTask_108_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "5",
       "RolePhantomTabView"
     ],
-    "UnlockCondition": 1020
+    "unlock_condition": 1020
   },
   {
-    "TaskId": 109,
-    "TaskName": "LivenessTask_109_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 109,
+    "task_name": "LivenessTask_109_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "5",
       "RoleWeaponTabView"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 110,
-    "TaskName": "LivenessTask_110_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 110,
+    "task_name": "LivenessTask_110_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "4",
       "MonsterDetectView",
       "-3"
     ],
-    "UnlockCondition": 12005106
+    "unlock_condition": 12005106
   },
   {
-    "TaskId": 105,
-    "TaskName": "LivenessTask_105_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 105,
+    "task_name": "LivenessTask_105_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "4",
       "NewSoundAreaView",
       "21"
     ],
-    "UnlockCondition": 12005111
+    "unlock_condition": 12005111
   },
   {
-    "TaskId": 106,
-    "TaskName": "LivenessTask_106_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 106,
+    "task_name": "LivenessTask_106_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "4",
       "NewSoundAreaView",
       "7"
     ],
-    "UnlockCondition": 12005120
+    "unlock_condition": 12005120
   },
   {
-    "TaskId": 111,
-    "TaskName": "LivenessTask_111_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 111,
+    "task_name": "LivenessTask_111_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "1"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 112,
-    "TaskName": "LivenessTask_112_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 112,
+    "task_name": "LivenessTask_112_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "3",
       "3003"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 113,
-    "TaskName": "LivenessTask_113_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 113,
+    "task_name": "LivenessTask_113_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "3",
       "3010"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 114,
-    "TaskName": "LivenessTask_114_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 114,
+    "task_name": "LivenessTask_114_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "3",
       "3002"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 115,
-    "TaskName": "LivenessTask_115_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 115,
+    "task_name": "LivenessTask_115_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "1"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 116,
-    "TaskName": "LivenessTask_116_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 116,
+    "task_name": "LivenessTask_116_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 10
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "1"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 117,
-    "TaskName": "LivenessTask_117_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 117,
+    "task_name": "LivenessTask_117_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 10
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "1"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 118,
-    "TaskName": "LivenessTask_118_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 118,
+    "task_name": "LivenessTask_118_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 10
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "1"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 119,
-    "TaskName": "LivenessTask_119_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 119,
+    "task_name": "LivenessTask_119_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 10
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "1"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   },
   {
-    "TaskId": 120,
-    "TaskName": "LivenessTask_120_TaskName",
-    "UpdateType": 1,
-    "TaskReward": [
+    "task_id": 120,
+    "task_name": "LivenessTask_120_TaskName",
+    "update_type": 1,
+    "task_reward": [
       {
         "key": 9,
         "value": 20
       }
     ],
-    "TaskFunc": [
+    "task_func": [
       "5",
       "RoleAttributeTabView"
     ],
-    "UnlockCondition": 0
+    "unlock_condition": 0
   }
 ]

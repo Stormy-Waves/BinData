@@ -1,14 +1,14 @@
 [
   {
-    "Id": "QualitySquareS",
-    "ConfigParam": "VerticalGradientSprite"
+    "id": "QualitySquareS",
+    "config_param": "VerticalGradientSprite"
   },
   {
-    "Id": "QualitySquareL",
-    "ConfigParam": "BackgroundSprite"
+    "id": "QualitySquareL",
+    "config_param": "BackgroundSprite"
   },
   {
-    "Id": "QualityStrip",
-    "ConfigParam": "TipsSprite"
+    "id": "QualityStrip",
+    "config_param": "TipsSprite"
   }
 ]

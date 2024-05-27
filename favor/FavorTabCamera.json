@@ -1,18 +1,18 @@
 [
   {
-    "Id": 0,
-    "CameraSettingsName": "1063"
+    "id": 0,
+    "camera_settings_name": "1063"
   },
   {
-    "Id": 1,
-    "CameraSettingsName": "1063"
+    "id": 1,
+    "camera_settings_name": "1063"
   },
   {
-    "Id": 2,
-    "CameraSettingsName": "1063"
+    "id": 2,
+    "camera_settings_name": "1063"
   },
   {
-    "Id": 3,
-    "CameraSettingsName": "1063"
+    "id": 3,
+    "camera_settings_name": "1063"
   }
 ]

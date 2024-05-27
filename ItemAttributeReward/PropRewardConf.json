@@ -1,13 +1,13 @@
 [
   {
-    "Id": 1,
-    "Props": [
+    "id": 1,
+    "props": [
       {
         "id": 69,
         "value": 1000.0,
         "is_ratio": false
       }
     ],
-    "Tips": []
+    "tips": []
   }
 ]

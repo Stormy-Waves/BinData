@@ -1,62 +1,62 @@
 [
   {
-    "Id": 1,
-    "Desc": "怪物落地",
-    "AddTag": "怪物.common.关卡.通信专用.幻象落地开启",
-    "FinishTag": ""
+    "id": 1,
+    "desc": "怪物落地",
+    "add_tag": "怪物.common.关卡.通信专用.幻象落地开启",
+    "finish_tag": ""
   },
   {
-    "Id": 3,
-    "Desc": "开始巡逻",
-    "AddTag": "怪物.common.关卡.通信专用.开始巡逻",
-    "FinishTag": ""
+    "id": 3,
+    "desc": "开始巡逻",
+    "add_tag": "怪物.common.关卡.通信专用.开始巡逻",
+    "finish_tag": ""
   },
   {
-    "Id": 4,
-    "Desc": "结束巡逻",
-    "AddTag": "怪物.common.关卡.通信专用.结束巡逻",
-    "FinishTag": ""
+    "id": 4,
+    "desc": "结束巡逻",
+    "add_tag": "怪物.common.关卡.通信专用.结束巡逻",
+    "finish_tag": ""
   },
   {
-    "Id": 5,
-    "Desc": "信号1",
-    "AddTag": "怪物.common.关卡.通信专用.信号1",
-    "FinishTag": ""
+    "id": 5,
+    "desc": "信号1",
+    "add_tag": "怪物.common.关卡.通信专用.信号1",
+    "finish_tag": ""
   },
   {
-    "Id": 6,
-    "Desc": "信号2",
-    "AddTag": "怪物.common.关卡.通信专用.信号2",
-    "FinishTag": ""
+    "id": 6,
+    "desc": "信号2",
+    "add_tag": "怪物.common.关卡.通信专用.信号2",
+    "finish_tag": ""
   },
   {
-    "Id": 7,
-    "Desc": "信号3",
-    "AddTag": "怪物.common.关卡.通信专用.信号3",
-    "FinishTag": ""
+    "id": 7,
+    "desc": "信号3",
+    "add_tag": "怪物.common.关卡.通信专用.信号3",
+    "finish_tag": ""
   },
   {
-    "Id": 8,
-    "Desc": "领主挑战.哀声孤鸳.进战",
-    "AddTag": "怪物.AiShengGuYuan.领主挑战出生结束",
-    "FinishTag": ""
+    "id": 8,
+    "desc": "领主挑战.哀声孤鸳.进战",
+    "add_tag": "怪物.AiShengGuYuan.领主挑战出生结束",
+    "finish_tag": ""
   },
   {
-    "Id": 9,
-    "Desc": "怪物朝目标点移动",
-    "AddTag": "怪物.common.关卡.朝目标点移动.跑",
-    "FinishTag": ""
+    "id": 9,
+    "desc": "怪物朝目标点移动",
+    "add_tag": "怪物.common.关卡.朝目标点移动.跑",
+    "finish_tag": ""
   },
   {
-    "Id": 10,
-    "Desc": "怪物脱战销毁表演",
-    "AddTag": "怪物.common.关卡.通信专用.销毁表演开始",
-    "FinishTag": "怪物.common.关卡.通信专用.销毁表演结束"
+    "id": 10,
+    "desc": "怪物脱战销毁表演",
+    "add_tag": "怪物.common.关卡.通信专用.销毁表演开始",
+    "finish_tag": "怪物.common.关卡.通信专用.销毁表演结束"
   },
   {
-    "Id": 800001,
-    "Desc": "BOSS进入战斗状态",
-    "AddTag": "怪物.ML1QunnieMd00401.关卡.信号1",
-    "FinishTag": "怪物.ML1QunnieMd00401.关卡.信号1"
+    "id": 800001,
+    "desc": "BOSS进入战斗状态",
+    "add_tag": "怪物.ML1QunnieMd00401.关卡.信号1",
+    "finish_tag": "怪物.ML1QunnieMd00401.关卡.信号1"
   }
 ]

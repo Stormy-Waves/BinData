@@ -1,17 +1,17 @@
 [
   {
-    "Id": 1,
-    "LimitRole": [
+    "id": 1,
+    "limit_role": [
       1402,
       1202,
       1503
     ],
-    "LimitCount": [
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [
+    "litmit_element": [
       1,
       2,
       3,
@@ -19,561 +19,561 @@
       5,
       6
     ],
-    "Content": "FightFormation_1_Content",
-    "RecommendFormation": [
+    "content": "FightFormation_1_Content",
+    "recommend_formation": [
       1402,
       1202,
       1503
     ],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 2,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 2,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 3,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 3,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 4,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 4,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 5,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 5,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 6,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 6,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 7,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 7,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 12,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 12,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100100
     ],
-    "AutoRole": [
+    "auto_role": [
       100100
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 17,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 17,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100401,
       100402
     ],
-    "AutoRole": [
+    "auto_role": [
       100401,
       100402
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 18,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 18,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100411,
       100406
     ],
-    "AutoRole": [
+    "auto_role": [
       100411,
       100406
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 19,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 19,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100401,
       100406
     ],
-    "AutoRole": [
+    "auto_role": [
       100401,
       100406
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 20,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 20,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100407,
       100401
     ],
-    "AutoRole": [
+    "auto_role": [
       100407,
       100401
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 101,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 101,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100601
     ],
-    "AutoRole": [
+    "auto_role": [
       100601
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 102,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 102,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100602
     ],
-    "AutoRole": [
+    "auto_role": [
       100602
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 104,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 104,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100604
     ],
-    "AutoRole": [
+    "auto_role": [
       100604
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 105,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 105,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100605
     ],
-    "AutoRole": [
+    "auto_role": [
       100605
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 106,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 106,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100606
     ],
-    "AutoRole": [
+    "auto_role": [
       100606
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 107,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 107,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100607
     ],
-    "AutoRole": [
+    "auto_role": [
       100607
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 108,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 108,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100608
     ],
-    "AutoRole": [
+    "auto_role": [
       100608
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 109,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 109,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100609
     ],
-    "AutoRole": [
+    "auto_role": [
       100609
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 110,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 110,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100610
     ],
-    "AutoRole": [
+    "auto_role": [
       100610
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 111,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 111,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100611
     ],
-    "AutoRole": [
+    "auto_role": [
       100611
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 112,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 112,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100612
     ],
-    "AutoRole": [
+    "auto_role": [
       100612
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 113,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 113,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100613
     ],
-    "AutoRole": [
+    "auto_role": [
       100613
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 114,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 114,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100614
     ],
-    "AutoRole": [
+    "auto_role": [
       100614
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 115,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 115,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100615
     ],
-    "AutoRole": [
+    "auto_role": [
       100615
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 116,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 116,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100616
     ],
-    "AutoRole": [
+    "auto_role": [
       100616
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 117,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 117,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100617
     ],
-    "AutoRole": [
+    "auto_role": [
       100617
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 22,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 22,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100407,
       100411
     ],
-    "AutoRole": [
+    "auto_role": [
       100407,
       100411
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 301,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 301,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14024002,
       12024002,
       15034002,
@@ -592,21 +592,21 @@
       11044002,
       13034002
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 302,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 302,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14026002,
       12026002,
       15036002,
@@ -625,44 +625,44 @@
       11046002,
       13036002
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8001,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8001,
+    "limit_role": [],
+    "limit_count": [
       1
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 23,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 23,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       15023000
     ],
-    "AutoRole": [
+    "auto_role": [
       15023000
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 8002,
-    "LimitRole": [
+    "id": 8002,
+    "limit_role": [
       1501,
       1502,
       1601,
@@ -672,34 +672,34 @@
       1202,
       1302
     ],
-    "LimitCount": [
+    "limit_count": [
       1
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [
       1404,
       1501,
       1502
     ],
-    "TrialRole": [
+    "trial_role": [
       5200025
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 303,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 303,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14025002,
       12025002,
       15035002,
@@ -718,57 +718,57 @@
       11045002,
       13035002
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 4040,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 4040,
+    "limit_role": [],
+    "limit_count": [
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 123,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 123,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14022000,
       12022000,
       15012000
     ],
-    "AutoRole": [
+    "auto_role": [
       14022000,
       12022000,
       15012000
     ],
-    "ChooseRole": true
+    "choose_role": true
   },
   {
-    "Id": 304,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 304,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14020002,
       12020002,
       15030002,
@@ -787,21 +787,21 @@
       11040002,
       13030002
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 305,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 305,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14026004,
       12026004,
       15036004,
@@ -820,274 +820,274 @@
       11046004,
       13036004
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 118,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 118,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100618
     ],
-    "AutoRole": [
+    "auto_role": [
       100618
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 119,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 119,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100619
     ],
-    "AutoRole": [
+    "auto_role": [
       100619
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 120,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 120,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100620
     ],
-    "AutoRole": [
+    "auto_role": [
       100620
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 121,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 121,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100621
     ],
-    "AutoRole": [
+    "auto_role": [
       100621
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 9001,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 9001,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14047004,
       12047004,
       11037004
     ],
-    "AutoRole": [
+    "auto_role": [
       14047004,
       12047004,
       11037004
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 9002,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 9002,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       12047004,
       14027004,
       16017004
     ],
-    "AutoRole": [
+    "auto_role": [
       12047004,
       14027004,
       16017004
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 9003,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 9003,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       16027004,
       15017004,
       16017004,
       15027004
     ],
-    "AutoRole": [
+    "auto_role": [
       16027004,
       15017004,
       16017004
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 9004,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 9004,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       12027004,
       14027004,
       16017004
     ],
-    "AutoRole": [
+    "auto_role": [
       12027004,
       14027004,
       16017004
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 9005,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 9005,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       13027004,
       13037004,
       11037004
     ],
-    "AutoRole": [
+    "auto_role": [
       13027004,
       13037004,
       11037004
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 9006,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 9006,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       16017004,
       15017004,
       14027004,
       15027004
     ],
-    "AutoRole": [
+    "auto_role": [
       16017004,
       15017004,
       14027004
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 9007,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 9007,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14037004,
       12027004,
       14027004
     ],
-    "AutoRole": [
+    "auto_role": [
       14037004,
       12027004,
       14027004
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 9008,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 9008,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       13037004,
       14027004,
       11037004
     ],
-    "AutoRole": [
+    "auto_role": [
       13037004,
       14027004,
       11037004
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 8003,
-    "LimitRole": [
+    "id": 8003,
+    "limit_role": [
       1501,
       1502,
       1601,
@@ -1097,25 +1097,25 @@
       1202,
       1302
     ],
-    "LimitCount": [
+    "limit_count": [
       1
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [
       1404,
       1501,
       1502
     ],
-    "TrialRole": [
+    "trial_role": [
       5200026
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8004,
-    "LimitRole": [
+    "id": 8004,
+    "limit_role": [
       1501,
       1502,
       1601,
@@ -1125,106 +1125,106 @@
       1202,
       1302
     ],
-    "LimitCount": [
+    "limit_count": [
       1
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [
       1404,
       1501,
       1502
     ],
-    "TrialRole": [
+    "trial_role": [
       5200027,
       5200028
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8100,
-    "LimitRole": [
+    "id": 8100,
+    "limit_role": [
       1501,
       1502
     ],
-    "LimitCount": [
+    "limit_count": [
       1
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       5200011,
       5200012
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 4006,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 4006,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100401
     ],
-    "AutoRole": [
+    "auto_role": [
       100401
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 4007,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 4007,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100411,
       100406
     ],
-    "AutoRole": [
+    "auto_role": [
       100411,
       100406
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 4008,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 4008,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       100402,
       100401
     ],
-    "AutoRole": [
+    "auto_role": [
       100402,
       100401
     ],
-    "ChooseRole": false
+    "choose_role": false
   },
   {
-    "Id": 8005,
-    "LimitRole": [
+    "id": 8005,
+    "limit_role": [
       1501,
       1502,
       1601,
@@ -1234,26 +1234,26 @@
       1202,
       1302
     ],
-    "LimitCount": [
+    "limit_count": [
       1
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [
       1404,
       1501,
       1502
     ],
-    "TrialRole": [
+    "trial_role": [
       5200029,
       5200030
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8006,
-    "LimitRole": [
+    "id": 8006,
+    "limit_role": [
       1501,
       1502,
       1601,
@@ -1263,208 +1263,208 @@
       1202,
       1302
     ],
-    "LimitCount": [
+    "limit_count": [
       1
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [
       1404,
       1501,
       1502
     ],
-    "TrialRole": [],
-    "AutoRole": [],
-    "ChooseRole": true
+    "trial_role": [],
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8151,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8151,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14020007,
       15030007,
       14040007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8152,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8152,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       11020007,
       16020007,
       11040007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8153,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8153,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       12020007,
       13020007,
       12030007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8154,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8154,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       13020007,
       11020007,
       12020007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8155,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8155,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14020007,
       12040007,
       14040007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8156,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8156,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       13020007,
       11020007,
       14030007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8157,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8157,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       11020007,
       14040007,
       12040007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8158,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8158,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       12030007,
       14020007,
       11020007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8159,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8159,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       13010007,
       13030007,
       16010007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   },
   {
-    "Id": 8160,
-    "LimitRole": [],
-    "LimitCount": [
+    "id": 8160,
+    "limit_role": [],
+    "limit_count": [
       1,
       2,
       3
     ],
-    "LitmitElement": [],
-    "Content": "",
-    "RecommendFormation": [],
-    "TrialRole": [
+    "litmit_element": [],
+    "content": "",
+    "recommend_formation": [],
+    "trial_role": [
       14040007,
       12040007,
       14020007
     ],
-    "AutoRole": [],
-    "ChooseRole": true
+    "auto_role": [],
+    "choose_role": true
   }
 ]

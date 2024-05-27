@@ -1,11 +1,11 @@
 [
   {
-    "Id": 1,
-    "MarkId": 10000,
-    "BackGroundTexture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab011.T_ActivityParkourTab011",
-    "Title": "ParkourChallenge_1_Title",
-    "LevelPlayId": 124000078,
-    "Rewards": [
+    "id": 1,
+    "mark_id": 10000,
+    "back_ground_texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab011.T_ActivityParkourTab011",
+    "title": "ParkourChallenge_1_Title",
+    "level_play_id": 124000078,
+    "rewards": [
       {
         "key": 600,
         "value": 5020101
@@ -19,7 +19,7 @@
         "value": 5020103
       }
     ],
-    "RewardList": [
+    "reward_list": [
       {
         "item1": 600,
         "item2": 5020101
@@ -33,15 +33,15 @@
         "item2": 5020103
       }
     ],
-    "LocationEntityConfigId": 124003600
+    "location_entity_config_id": 124003600
   },
   {
-    "Id": 2,
-    "MarkId": 10001,
-    "BackGroundTexture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab023.T_ActivityParkourTab023",
-    "Title": "ParkourChallenge_2_Title",
-    "LevelPlayId": 124000079,
-    "Rewards": [
+    "id": 2,
+    "mark_id": 10001,
+    "back_ground_texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab023.T_ActivityParkourTab023",
+    "title": "ParkourChallenge_2_Title",
+    "level_play_id": 124000079,
+    "rewards": [
       {
         "key": 600,
         "value": 5020104
@@ -55,7 +55,7 @@
         "value": 5020106
       }
     ],
-    "RewardList": [
+    "reward_list": [
       {
         "item1": 600,
         "item2": 5020104
@@ -69,15 +69,15 @@
         "item2": 5020106
       }
     ],
-    "LocationEntityConfigId": 124003599
+    "location_entity_config_id": 124003599
   },
   {
-    "Id": 3,
-    "MarkId": 10002,
-    "BackGroundTexture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab031.T_ActivityParkourTab031",
-    "Title": "ParkourChallenge_3_Title",
-    "LevelPlayId": 124000080,
-    "Rewards": [
+    "id": 3,
+    "mark_id": 10002,
+    "back_ground_texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab031.T_ActivityParkourTab031",
+    "title": "ParkourChallenge_3_Title",
+    "level_play_id": 124000080,
+    "rewards": [
       {
         "key": 600,
         "value": 5020107
@@ -91,7 +91,7 @@
         "value": 5020109
       }
     ],
-    "RewardList": [
+    "reward_list": [
       {
         "item1": 600,
         "item2": 5020107
@@ -105,15 +105,15 @@
         "item2": 5020109
       }
     ],
-    "LocationEntityConfigId": 135000573
+    "location_entity_config_id": 135000573
   },
   {
-    "Id": 4,
-    "MarkId": 10003,
-    "BackGroundTexture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab042.T_ActivityParkourTab042",
-    "Title": "ParkourChallenge_4_Title",
-    "LevelPlayId": 124000081,
-    "Rewards": [
+    "id": 4,
+    "mark_id": 10003,
+    "back_ground_texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab042.T_ActivityParkourTab042",
+    "title": "ParkourChallenge_4_Title",
+    "level_play_id": 124000081,
+    "rewards": [
       {
         "key": 600,
         "value": 5020110
@@ -127,7 +127,7 @@
         "value": 5020112
       }
     ],
-    "RewardList": [
+    "reward_list": [
       {
         "item1": 600,
         "item2": 5020110
@@ -141,15 +141,15 @@
         "item2": 5020112
       }
     ],
-    "LocationEntityConfigId": 135000594
+    "location_entity_config_id": 135000594
   },
   {
-    "Id": 6,
-    "MarkId": 10006,
-    "BackGroundTexture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab072.T_ActivityParkourTab072",
-    "Title": "ParkourChallenge_7_Title",
-    "LevelPlayId": 135000010,
-    "Rewards": [
+    "id": 6,
+    "mark_id": 10006,
+    "back_ground_texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab072.T_ActivityParkourTab072",
+    "title": "ParkourChallenge_7_Title",
+    "level_play_id": 135000010,
+    "rewards": [
       {
         "key": 1200,
         "value": 5020116
@@ -163,7 +163,7 @@
         "value": 5020118
       }
     ],
-    "RewardList": [
+    "reward_list": [
       {
         "item1": 1200,
         "item2": 5020116
@@ -177,15 +177,15 @@
         "item2": 5020118
       }
     ],
-    "LocationEntityConfigId": 135000607
+    "location_entity_config_id": 135000607
   },
   {
-    "Id": 5,
-    "MarkId": 10005,
-    "BackGroundTexture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab062.T_ActivityParkourTab062",
-    "Title": "ParkourChallenge_6_Title",
-    "LevelPlayId": 135000011,
-    "Rewards": [
+    "id": 5,
+    "mark_id": 10005,
+    "back_ground_texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityParkour/T_ActivityParkourTab062.T_ActivityParkourTab062",
+    "title": "ParkourChallenge_6_Title",
+    "level_play_id": 135000011,
+    "rewards": [
       {
         "key": 1000,
         "value": 5020113
@@ -199,7 +199,7 @@
         "value": 5020115
       }
     ],
-    "RewardList": [
+    "reward_list": [
       {
         "item1": 1000,
         "item2": 5020113
@@ -213,6 +213,6 @@
         "item2": 5020115
       }
     ],
-    "LocationEntityConfigId": 135000606
+    "location_entity_config_id": 135000606
   }
 ]

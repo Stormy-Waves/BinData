@@ -1,66 +1,66 @@
 [
   {
-    "Id": 1,
-    "LevelRange": [
+    "id": 1,
+    "level_range": [
       2,
       999
     ],
-    "AreaId": [],
-    "MapId": [
+    "area_id": [],
+    "map_id": [
       8
     ],
-    "ConditionGroup": 0,
-    "IsLimitShow": false,
-    "BeginTime": 0,
-    "EndTime": 0,
-    "ActivityId": 0
+    "condition_group": 0,
+    "is_limit_show": false,
+    "begin_time": 0,
+    "end_time": 0,
+    "activity_id": 0
   },
   {
-    "Id": 800201,
-    "LevelRange": [
+    "id": 800201,
+    "level_range": [
       1,
       999
     ],
-    "AreaId": [],
-    "MapId": [
+    "area_id": [],
+    "map_id": [
       8002
     ],
-    "ConditionGroup": 0,
-    "IsLimitShow": false,
-    "BeginTime": 0,
-    "EndTime": 0,
-    "ActivityId": 0
+    "condition_group": 0,
+    "is_limit_show": false,
+    "begin_time": 0,
+    "end_time": 0,
+    "activity_id": 0
   },
   {
-    "Id": 6801,
-    "LevelRange": [
+    "id": 6801,
+    "level_range": [
       1,
       999
     ],
-    "AreaId": [],
-    "MapId": [
+    "area_id": [],
+    "map_id": [
       68
     ],
-    "ConditionGroup": 0,
-    "IsLimitShow": false,
-    "BeginTime": 0,
-    "EndTime": 0,
-    "ActivityId": 0
+    "condition_group": 0,
+    "is_limit_show": false,
+    "begin_time": 0,
+    "end_time": 0,
+    "activity_id": 0
   },
   {
-    "Id": 99999,
-    "LevelRange": [
+    "id": 99999,
+    "level_range": [
       1,
       1
     ],
-    "AreaId": [],
-    "MapId": [
+    "area_id": [],
+    "map_id": [
       8
     ],
-    "ConditionGroup": 0,
-    "IsLimitShow": false,
-    "BeginTime": 0,
-    "EndTime": 0,
-    "ActivityId": 0
+    "condition_group": 0,
+    "is_limit_show": false,
+    "begin_time": 0,
+    "end_time": 0,
+    "activity_id": 0
   }
 ]

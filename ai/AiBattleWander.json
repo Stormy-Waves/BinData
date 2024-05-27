@@ -1,313 +1,313 @@
 [
   {
-    "Id": 1,
-    "GroupIds": [
+    "id": 1,
+    "group_ids": [
       1
     ]
   },
   {
-    "Id": 2,
-    "GroupIds": [
+    "id": 2,
+    "group_ids": [
       2
     ]
   },
   {
-    "Id": 70051,
-    "GroupIds": [
+    "id": 70051,
+    "group_ids": [
       70051,
       70052
     ]
   },
   {
-    "Id": 70053,
-    "GroupIds": [
+    "id": 70053,
+    "group_ids": [
       70053
     ]
   },
   {
-    "Id": 70055,
-    "GroupIds": [
+    "id": 70055,
+    "group_ids": [
       70055
     ]
   },
   {
-    "Id": 70065,
-    "GroupIds": [
+    "id": 70065,
+    "group_ids": [
       70065
     ]
   },
   {
-    "Id": 70066,
-    "GroupIds": [
+    "id": 70066,
+    "group_ids": [
       70066
     ]
   },
   {
-    "Id": 70068,
-    "GroupIds": [
+    "id": 70068,
+    "group_ids": [
       70068
     ]
   },
   {
-    "Id": 70070,
-    "GroupIds": [
+    "id": 70070,
+    "group_ids": [
       70070
     ]
   },
   {
-    "Id": 70072,
-    "GroupIds": [
+    "id": 70072,
+    "group_ids": [
       70072,
       70072001
     ]
   },
   {
-    "Id": 700727,
-    "GroupIds": [
+    "id": 700727,
+    "group_ids": [
       700727
     ]
   },
   {
-    "Id": 70074,
-    "GroupIds": [
+    "id": 70074,
+    "group_ids": [
       70074
     ]
   },
   {
-    "Id": 70075,
-    "GroupIds": [
+    "id": 70075,
+    "group_ids": [
       70075
     ]
   },
   {
-    "Id": 70076,
-    "GroupIds": [
+    "id": 70076,
+    "group_ids": [
       70076
     ]
   },
   {
-    "Id": 70092,
-    "GroupIds": [
+    "id": 70092,
+    "group_ids": [
       70092,
       70092001
     ]
   },
   {
-    "Id": 70094,
-    "GroupIds": [
+    "id": 70094,
+    "group_ids": [
       70094
     ]
   },
   {
-    "Id": 70100,
-    "GroupIds": [
+    "id": 70100,
+    "group_ids": [
       70100
     ]
   },
   {
-    "Id": 77005,
-    "GroupIds": [
+    "id": 77005,
+    "group_ids": [
       77005
     ]
   },
   {
-    "Id": 77012,
-    "GroupIds": [
+    "id": 77012,
+    "group_ids": [
       77012
     ]
   },
   {
-    "Id": 77021,
-    "GroupIds": [
+    "id": 77021,
+    "group_ids": [
       77021
     ]
   },
   {
-    "Id": 77022,
-    "GroupIds": [
+    "id": 77022,
+    "group_ids": [
       77022
     ]
   },
   {
-    "Id": 77024,
-    "GroupIds": [
+    "id": 77024,
+    "group_ids": [
       77024
     ]
   },
   {
-    "Id": 77025,
-    "GroupIds": [
+    "id": 77025,
+    "group_ids": [
       77025
     ]
   },
   {
-    "Id": 77026,
-    "GroupIds": [
+    "id": 77026,
+    "group_ids": [
       77026
     ]
   },
   {
-    "Id": 77027,
-    "GroupIds": [
+    "id": 77027,
+    "group_ids": [
       77027
     ]
   },
   {
-    "Id": 77028,
-    "GroupIds": [
+    "id": 77028,
+    "group_ids": [
       77028
     ]
   },
   {
-    "Id": 77029,
-    "GroupIds": [
+    "id": 77029,
+    "group_ids": [
       77029
     ]
   },
   {
-    "Id": 77033,
-    "GroupIds": [
+    "id": 77033,
+    "group_ids": [
       77033
     ]
   },
   {
-    "Id": 77036,
-    "GroupIds": [
+    "id": 77036,
+    "group_ids": [
       77036
     ]
   },
   {
-    "Id": 77038,
-    "GroupIds": [
+    "id": 77038,
+    "group_ids": [
       77038
     ]
   },
   {
-    "Id": 80002,
-    "GroupIds": [
+    "id": 80002,
+    "group_ids": [
       80002
     ]
   },
   {
-    "Id": 80003,
-    "GroupIds": [
+    "id": 80003,
+    "group_ids": [
       80003
     ]
   },
   {
-    "Id": 80004,
-    "GroupIds": [
+    "id": 80004,
+    "group_ids": [
       80004001,
       80004002,
       80004003
     ]
   },
   {
-    "Id": 80004001,
-    "GroupIds": [
+    "id": 80004001,
+    "group_ids": [
       80004001
     ]
   },
   {
-    "Id": 80008,
-    "GroupIds": [
+    "id": 80008,
+    "group_ids": [
       80008
     ]
   },
   {
-    "Id": 80009,
-    "GroupIds": [
+    "id": 80009,
+    "group_ids": [
       80009
     ]
   },
   {
-    "Id": 80015,
-    "GroupIds": [
+    "id": 80015,
+    "group_ids": [
       80015
     ]
   },
   {
-    "Id": 80016,
-    "GroupIds": [
+    "id": 80016,
+    "group_ids": [
       80016
     ]
   },
   {
-    "Id": 80011,
-    "GroupIds": [
+    "id": 80011,
+    "group_ids": [
       80011
     ]
   },
   {
-    "Id": 77041,
-    "GroupIds": [
+    "id": 77041,
+    "group_ids": [
       77041
     ]
   },
   {
-    "Id": 77045,
-    "GroupIds": [
+    "id": 77045,
+    "group_ids": [
       77045
     ]
   },
   {
-    "Id": 70108,
-    "GroupIds": [
+    "id": 70108,
+    "group_ids": [
       70108
     ]
   },
   {
-    "Id": 70078,
-    "GroupIds": [
+    "id": 70078,
+    "group_ids": [
       70078
     ]
   },
   {
-    "Id": 80014,
-    "GroupIds": [
+    "id": 80014,
+    "group_ids": [
       80014001
     ]
   },
   {
-    "Id": 70111,
-    "GroupIds": [
+    "id": 70111,
+    "group_ids": [
       70111
     ]
   },
   {
-    "Id": 70113,
-    "GroupIds": [
+    "id": 70113,
+    "group_ids": [
       70113
     ]
   },
   {
-    "Id": 77047,
-    "GroupIds": [
+    "id": 77047,
+    "group_ids": [
       77047
     ]
   },
   {
-    "Id": 70116,
-    "GroupIds": [
+    "id": 70116,
+    "group_ids": [
       70116,
       701161
     ]
   },
   {
-    "Id": 77048,
-    "GroupIds": [
+    "id": 77048,
+    "group_ids": [
       77048
     ]
   },
   {
-    "Id": 70119,
-    "GroupIds": [
+    "id": 70119,
+    "group_ids": [
       70119
     ]
   },
   {
-    "Id": 70109,
-    "GroupIds": [
+    "id": 70109,
+    "group_ids": [
       70109
     ]
   }

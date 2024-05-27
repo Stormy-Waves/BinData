@@ -1,7 +1,7 @@
 [
   {
-    "Area": 2,
-    "ExploreScore": [
+    "area": 2,
+    "explore_score": [
       {
         "key": 20,
         "value": 35
@@ -25,8 +25,8 @@
     ]
   },
   {
-    "Area": 3,
-    "ExploreScore": [
+    "area": 3,
+    "explore_score": [
       {
         "key": 20,
         "value": 50
@@ -50,8 +50,8 @@
     ]
   },
   {
-    "Area": 4,
-    "ExploreScore": [
+    "area": 4,
+    "explore_score": [
       {
         "key": 20,
         "value": 150
@@ -75,8 +75,8 @@
     ]
   },
   {
-    "Area": 5,
-    "ExploreScore": [
+    "area": 5,
+    "explore_score": [
       {
         "key": 20,
         "value": 90
@@ -100,8 +100,8 @@
     ]
   },
   {
-    "Area": 6,
-    "ExploreScore": [
+    "area": 6,
+    "explore_score": [
       {
         "key": 20,
         "value": 120
@@ -125,8 +125,8 @@
     ]
   },
   {
-    "Area": 7,
-    "ExploreScore": [
+    "area": 7,
+    "explore_score": [
       {
         "key": 20,
         "value": 100
@@ -150,8 +150,8 @@
     ]
   },
   {
-    "Area": 8,
-    "ExploreScore": [
+    "area": 8,
+    "explore_score": [
       {
         "key": 20,
         "value": 60
@@ -175,8 +175,8 @@
     ]
   },
   {
-    "Area": 9,
-    "ExploreScore": [
+    "area": 9,
+    "explore_score": [
       {
         "key": 20,
         "value": 70
@@ -200,8 +200,8 @@
     ]
   },
   {
-    "Area": 10,
-    "ExploreScore": [
+    "area": 10,
+    "explore_score": [
       {
         "key": 20,
         "value": 160
@@ -225,8 +225,8 @@
     ]
   },
   {
-    "Area": 12,
-    "ExploreScore": [
+    "area": 12,
+    "explore_score": [
       {
         "key": 20,
         "value": 35

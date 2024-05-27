@@ -1,2702 +1,2702 @@
 [
   {
-    "Id": 1,
-    "LevelId": 5,
-    "Level": 1,
-    "Exp": 600
+    "id": 1,
+    "level_id": 5,
+    "level": 1,
+    "exp": 600
   },
   {
-    "Id": 2,
-    "LevelId": 5,
-    "Level": 2,
-    "Exp": 700
+    "id": 2,
+    "level_id": 5,
+    "level": 2,
+    "exp": 700
   },
   {
-    "Id": 3,
-    "LevelId": 5,
-    "Level": 3,
-    "Exp": 800
+    "id": 3,
+    "level_id": 5,
+    "level": 3,
+    "exp": 800
   },
   {
-    "Id": 4,
-    "LevelId": 5,
-    "Level": 4,
-    "Exp": 900
+    "id": 4,
+    "level_id": 5,
+    "level": 4,
+    "exp": 900
   },
   {
-    "Id": 5,
-    "LevelId": 5,
-    "Level": 5,
-    "Exp": 1000
+    "id": 5,
+    "level_id": 5,
+    "level": 5,
+    "exp": 1000
   },
   {
-    "Id": 6,
-    "LevelId": 5,
-    "Level": 6,
-    "Exp": 1100
+    "id": 6,
+    "level_id": 5,
+    "level": 6,
+    "exp": 1100
   },
   {
-    "Id": 7,
-    "LevelId": 5,
-    "Level": 7,
-    "Exp": 1300
+    "id": 7,
+    "level_id": 5,
+    "level": 7,
+    "exp": 1300
   },
   {
-    "Id": 8,
-    "LevelId": 5,
-    "Level": 8,
-    "Exp": 1400
+    "id": 8,
+    "level_id": 5,
+    "level": 8,
+    "exp": 1400
   },
   {
-    "Id": 9,
-    "LevelId": 5,
-    "Level": 9,
-    "Exp": 1600
+    "id": 9,
+    "level_id": 5,
+    "level": 9,
+    "exp": 1600
   },
   {
-    "Id": 10,
-    "LevelId": 5,
-    "Level": 10,
-    "Exp": 1800
+    "id": 10,
+    "level_id": 5,
+    "level": 10,
+    "exp": 1800
   },
   {
-    "Id": 11,
-    "LevelId": 5,
-    "Level": 11,
-    "Exp": 2000
+    "id": 11,
+    "level_id": 5,
+    "level": 11,
+    "exp": 2000
   },
   {
-    "Id": 12,
-    "LevelId": 5,
-    "Level": 12,
-    "Exp": 2200
+    "id": 12,
+    "level_id": 5,
+    "level": 12,
+    "exp": 2200
   },
   {
-    "Id": 13,
-    "LevelId": 5,
-    "Level": 13,
-    "Exp": 2500
+    "id": 13,
+    "level_id": 5,
+    "level": 13,
+    "exp": 2500
   },
   {
-    "Id": 14,
-    "LevelId": 5,
-    "Level": 14,
-    "Exp": 2700
+    "id": 14,
+    "level_id": 5,
+    "level": 14,
+    "exp": 2700
   },
   {
-    "Id": 15,
-    "LevelId": 5,
-    "Level": 15,
-    "Exp": 3000
+    "id": 15,
+    "level_id": 5,
+    "level": 15,
+    "exp": 3000
   },
   {
-    "Id": 16,
-    "LevelId": 5,
-    "Level": 16,
-    "Exp": 3300
+    "id": 16,
+    "level_id": 5,
+    "level": 16,
+    "exp": 3300
   },
   {
-    "Id": 17,
-    "LevelId": 5,
-    "Level": 17,
-    "Exp": 3600
+    "id": 17,
+    "level_id": 5,
+    "level": 17,
+    "exp": 3600
   },
   {
-    "Id": 18,
-    "LevelId": 5,
-    "Level": 18,
-    "Exp": 3900
+    "id": 18,
+    "level_id": 5,
+    "level": 18,
+    "exp": 3900
   },
   {
-    "Id": 19,
-    "LevelId": 5,
-    "Level": 19,
-    "Exp": 4300
+    "id": 19,
+    "level_id": 5,
+    "level": 19,
+    "exp": 4300
   },
   {
-    "Id": 20,
-    "LevelId": 5,
-    "Level": 20,
-    "Exp": 4600
+    "id": 20,
+    "level_id": 5,
+    "level": 20,
+    "exp": 4600
   },
   {
-    "Id": 21,
-    "LevelId": 5,
-    "Level": 21,
-    "Exp": 5000
+    "id": 21,
+    "level_id": 5,
+    "level": 21,
+    "exp": 5000
   },
   {
-    "Id": 22,
-    "LevelId": 5,
-    "Level": 22,
-    "Exp": 5400
+    "id": 22,
+    "level_id": 5,
+    "level": 22,
+    "exp": 5400
   },
   {
-    "Id": 23,
-    "LevelId": 5,
-    "Level": 23,
-    "Exp": 5800
+    "id": 23,
+    "level_id": 5,
+    "level": 23,
+    "exp": 5800
   },
   {
-    "Id": 24,
-    "LevelId": 5,
-    "Level": 24,
-    "Exp": 6300
+    "id": 24,
+    "level_id": 5,
+    "level": 24,
+    "exp": 6300
   },
   {
-    "Id": 25,
-    "LevelId": 5,
-    "Level": 25,
-    "Exp": 6700
+    "id": 25,
+    "level_id": 5,
+    "level": 25,
+    "exp": 6700
   },
   {
-    "Id": 26,
-    "LevelId": 5,
-    "Level": 26,
-    "Exp": 7200
+    "id": 26,
+    "level_id": 5,
+    "level": 26,
+    "exp": 7200
   },
   {
-    "Id": 27,
-    "LevelId": 5,
-    "Level": 27,
-    "Exp": 7700
+    "id": 27,
+    "level_id": 5,
+    "level": 27,
+    "exp": 7700
   },
   {
-    "Id": 28,
-    "LevelId": 5,
-    "Level": 28,
-    "Exp": 8200
+    "id": 28,
+    "level_id": 5,
+    "level": 28,
+    "exp": 8200
   },
   {
-    "Id": 29,
-    "LevelId": 5,
-    "Level": 29,
-    "Exp": 8700
+    "id": 29,
+    "level_id": 5,
+    "level": 29,
+    "exp": 8700
   },
   {
-    "Id": 30,
-    "LevelId": 5,
-    "Level": 30,
-    "Exp": 9300
+    "id": 30,
+    "level_id": 5,
+    "level": 30,
+    "exp": 9300
   },
   {
-    "Id": 31,
-    "LevelId": 5,
-    "Level": 31,
-    "Exp": 9900
+    "id": 31,
+    "level_id": 5,
+    "level": 31,
+    "exp": 9900
   },
   {
-    "Id": 32,
-    "LevelId": 5,
-    "Level": 32,
-    "Exp": 10500
+    "id": 32,
+    "level_id": 5,
+    "level": 32,
+    "exp": 10500
   },
   {
-    "Id": 33,
-    "LevelId": 5,
-    "Level": 33,
-    "Exp": 11100
+    "id": 33,
+    "level_id": 5,
+    "level": 33,
+    "exp": 11100
   },
   {
-    "Id": 34,
-    "LevelId": 5,
-    "Level": 34,
-    "Exp": 11800
+    "id": 34,
+    "level_id": 5,
+    "level": 34,
+    "exp": 11800
   },
   {
-    "Id": 35,
-    "LevelId": 5,
-    "Level": 35,
-    "Exp": 12400
+    "id": 35,
+    "level_id": 5,
+    "level": 35,
+    "exp": 12400
   },
   {
-    "Id": 36,
-    "LevelId": 5,
-    "Level": 36,
-    "Exp": 13100
+    "id": 36,
+    "level_id": 5,
+    "level": 36,
+    "exp": 13100
   },
   {
-    "Id": 37,
-    "LevelId": 5,
-    "Level": 37,
-    "Exp": 13800
+    "id": 37,
+    "level_id": 5,
+    "level": 37,
+    "exp": 13800
   },
   {
-    "Id": 38,
-    "LevelId": 5,
-    "Level": 38,
-    "Exp": 14600
+    "id": 38,
+    "level_id": 5,
+    "level": 38,
+    "exp": 14600
   },
   {
-    "Id": 39,
-    "LevelId": 5,
-    "Level": 39,
-    "Exp": 15300
+    "id": 39,
+    "level_id": 5,
+    "level": 39,
+    "exp": 15300
   },
   {
-    "Id": 40,
-    "LevelId": 5,
-    "Level": 40,
-    "Exp": 16100
+    "id": 40,
+    "level_id": 5,
+    "level": 40,
+    "exp": 16100
   },
   {
-    "Id": 41,
-    "LevelId": 5,
-    "Level": 41,
-    "Exp": 16900
+    "id": 41,
+    "level_id": 5,
+    "level": 41,
+    "exp": 16900
   },
   {
-    "Id": 42,
-    "LevelId": 5,
-    "Level": 42,
-    "Exp": 17700
+    "id": 42,
+    "level_id": 5,
+    "level": 42,
+    "exp": 17700
   },
   {
-    "Id": 43,
-    "LevelId": 5,
-    "Level": 43,
-    "Exp": 18600
+    "id": 43,
+    "level_id": 5,
+    "level": 43,
+    "exp": 18600
   },
   {
-    "Id": 44,
-    "LevelId": 5,
-    "Level": 44,
-    "Exp": 19400
+    "id": 44,
+    "level_id": 5,
+    "level": 44,
+    "exp": 19400
   },
   {
-    "Id": 45,
-    "LevelId": 5,
-    "Level": 45,
-    "Exp": 20300
+    "id": 45,
+    "level_id": 5,
+    "level": 45,
+    "exp": 20300
   },
   {
-    "Id": 46,
-    "LevelId": 5,
-    "Level": 46,
-    "Exp": 21300
+    "id": 46,
+    "level_id": 5,
+    "level": 46,
+    "exp": 21300
   },
   {
-    "Id": 47,
-    "LevelId": 5,
-    "Level": 47,
-    "Exp": 22200
+    "id": 47,
+    "level_id": 5,
+    "level": 47,
+    "exp": 22200
   },
   {
-    "Id": 48,
-    "LevelId": 5,
-    "Level": 48,
-    "Exp": 23200
+    "id": 48,
+    "level_id": 5,
+    "level": 48,
+    "exp": 23200
   },
   {
-    "Id": 49,
-    "LevelId": 5,
-    "Level": 49,
-    "Exp": 24200
+    "id": 49,
+    "level_id": 5,
+    "level": 49,
+    "exp": 24200
   },
   {
-    "Id": 50,
-    "LevelId": 5,
-    "Level": 50,
-    "Exp": 25200
+    "id": 50,
+    "level_id": 5,
+    "level": 50,
+    "exp": 25200
   },
   {
-    "Id": 51,
-    "LevelId": 5,
-    "Level": 51,
-    "Exp": 26300
+    "id": 51,
+    "level_id": 5,
+    "level": 51,
+    "exp": 26300
   },
   {
-    "Id": 52,
-    "LevelId": 5,
-    "Level": 52,
-    "Exp": 27300
+    "id": 52,
+    "level_id": 5,
+    "level": 52,
+    "exp": 27300
   },
   {
-    "Id": 53,
-    "LevelId": 5,
-    "Level": 53,
-    "Exp": 28400
+    "id": 53,
+    "level_id": 5,
+    "level": 53,
+    "exp": 28400
   },
   {
-    "Id": 54,
-    "LevelId": 5,
-    "Level": 54,
-    "Exp": 29600
+    "id": 54,
+    "level_id": 5,
+    "level": 54,
+    "exp": 29600
   },
   {
-    "Id": 55,
-    "LevelId": 5,
-    "Level": 55,
-    "Exp": 30700
+    "id": 55,
+    "level_id": 5,
+    "level": 55,
+    "exp": 30700
   },
   {
-    "Id": 56,
-    "LevelId": 5,
-    "Level": 56,
-    "Exp": 31900
+    "id": 56,
+    "level_id": 5,
+    "level": 56,
+    "exp": 31900
   },
   {
-    "Id": 57,
-    "LevelId": 5,
-    "Level": 57,
-    "Exp": 33100
+    "id": 57,
+    "level_id": 5,
+    "level": 57,
+    "exp": 33100
   },
   {
-    "Id": 58,
-    "LevelId": 5,
-    "Level": 58,
-    "Exp": 34300
+    "id": 58,
+    "level_id": 5,
+    "level": 58,
+    "exp": 34300
   },
   {
-    "Id": 59,
-    "LevelId": 5,
-    "Level": 59,
-    "Exp": 35600
+    "id": 59,
+    "level_id": 5,
+    "level": 59,
+    "exp": 35600
   },
   {
-    "Id": 60,
-    "LevelId": 5,
-    "Level": 60,
-    "Exp": 36900
+    "id": 60,
+    "level_id": 5,
+    "level": 60,
+    "exp": 36900
   },
   {
-    "Id": 61,
-    "LevelId": 5,
-    "Level": 61,
-    "Exp": 38200
+    "id": 61,
+    "level_id": 5,
+    "level": 61,
+    "exp": 38200
   },
   {
-    "Id": 62,
-    "LevelId": 5,
-    "Level": 62,
-    "Exp": 39600
+    "id": 62,
+    "level_id": 5,
+    "level": 62,
+    "exp": 39600
   },
   {
-    "Id": 63,
-    "LevelId": 5,
-    "Level": 63,
-    "Exp": 41000
+    "id": 63,
+    "level_id": 5,
+    "level": 63,
+    "exp": 41000
   },
   {
-    "Id": 64,
-    "LevelId": 5,
-    "Level": 64,
-    "Exp": 42400
+    "id": 64,
+    "level_id": 5,
+    "level": 64,
+    "exp": 42400
   },
   {
-    "Id": 65,
-    "LevelId": 5,
-    "Level": 65,
-    "Exp": 43800
+    "id": 65,
+    "level_id": 5,
+    "level": 65,
+    "exp": 43800
   },
   {
-    "Id": 66,
-    "LevelId": 5,
-    "Level": 66,
-    "Exp": 45300
+    "id": 66,
+    "level_id": 5,
+    "level": 66,
+    "exp": 45300
   },
   {
-    "Id": 67,
-    "LevelId": 5,
-    "Level": 67,
-    "Exp": 46800
+    "id": 67,
+    "level_id": 5,
+    "level": 67,
+    "exp": 46800
   },
   {
-    "Id": 68,
-    "LevelId": 5,
-    "Level": 68,
-    "Exp": 48300
+    "id": 68,
+    "level_id": 5,
+    "level": 68,
+    "exp": 48300
   },
   {
-    "Id": 69,
-    "LevelId": 5,
-    "Level": 69,
-    "Exp": 49800
+    "id": 69,
+    "level_id": 5,
+    "level": 69,
+    "exp": 49800
   },
   {
-    "Id": 70,
-    "LevelId": 5,
-    "Level": 70,
-    "Exp": 51400
+    "id": 70,
+    "level_id": 5,
+    "level": 70,
+    "exp": 51400
   },
   {
-    "Id": 71,
-    "LevelId": 5,
-    "Level": 71,
-    "Exp": 53000
+    "id": 71,
+    "level_id": 5,
+    "level": 71,
+    "exp": 53000
   },
   {
-    "Id": 72,
-    "LevelId": 5,
-    "Level": 72,
-    "Exp": 54700
+    "id": 72,
+    "level_id": 5,
+    "level": 72,
+    "exp": 54700
   },
   {
-    "Id": 73,
-    "LevelId": 5,
-    "Level": 73,
-    "Exp": 56400
+    "id": 73,
+    "level_id": 5,
+    "level": 73,
+    "exp": 56400
   },
   {
-    "Id": 74,
-    "LevelId": 5,
-    "Level": 74,
-    "Exp": 58100
+    "id": 74,
+    "level_id": 5,
+    "level": 74,
+    "exp": 58100
   },
   {
-    "Id": 75,
-    "LevelId": 5,
-    "Level": 75,
-    "Exp": 59800
+    "id": 75,
+    "level_id": 5,
+    "level": 75,
+    "exp": 59800
   },
   {
-    "Id": 76,
-    "LevelId": 5,
-    "Level": 76,
-    "Exp": 61600
+    "id": 76,
+    "level_id": 5,
+    "level": 76,
+    "exp": 61600
   },
   {
-    "Id": 77,
-    "LevelId": 5,
-    "Level": 77,
-    "Exp": 63400
+    "id": 77,
+    "level_id": 5,
+    "level": 77,
+    "exp": 63400
   },
   {
-    "Id": 78,
-    "LevelId": 5,
-    "Level": 78,
-    "Exp": 65200
+    "id": 78,
+    "level_id": 5,
+    "level": 78,
+    "exp": 65200
   },
   {
-    "Id": 79,
-    "LevelId": 5,
-    "Level": 79,
-    "Exp": 67100
+    "id": 79,
+    "level_id": 5,
+    "level": 79,
+    "exp": 67100
   },
   {
-    "Id": 80,
-    "LevelId": 5,
-    "Level": 80,
-    "Exp": 71600
+    "id": 80,
+    "level_id": 5,
+    "level": 80,
+    "exp": 71600
   },
   {
-    "Id": 81,
-    "LevelId": 5,
-    "Level": 81,
-    "Exp": 73900
+    "id": 81,
+    "level_id": 5,
+    "level": 81,
+    "exp": 73900
   },
   {
-    "Id": 82,
-    "LevelId": 5,
-    "Level": 82,
-    "Exp": 76900
+    "id": 82,
+    "level_id": 5,
+    "level": 82,
+    "exp": 76900
   },
   {
-    "Id": 83,
-    "LevelId": 5,
-    "Level": 83,
-    "Exp": 80600
+    "id": 83,
+    "level_id": 5,
+    "level": 83,
+    "exp": 80600
   },
   {
-    "Id": 84,
-    "LevelId": 5,
-    "Level": 84,
-    "Exp": 85300
+    "id": 84,
+    "level_id": 5,
+    "level": 84,
+    "exp": 85300
   },
   {
-    "Id": 85,
-    "LevelId": 5,
-    "Level": 85,
-    "Exp": 91400
+    "id": 85,
+    "level_id": 5,
+    "level": 85,
+    "exp": 91400
   },
   {
-    "Id": 86,
-    "LevelId": 5,
-    "Level": 86,
-    "Exp": 99000
+    "id": 86,
+    "level_id": 5,
+    "level": 86,
+    "exp": 99000
   },
   {
-    "Id": 87,
-    "LevelId": 5,
-    "Level": 87,
-    "Exp": 108400
+    "id": 87,
+    "level_id": 5,
+    "level": 87,
+    "exp": 108400
   },
   {
-    "Id": 88,
-    "LevelId": 5,
-    "Level": 88,
-    "Exp": 120000
+    "id": 88,
+    "level_id": 5,
+    "level": 88,
+    "exp": 120000
   },
   {
-    "Id": 89,
-    "LevelId": 5,
-    "Level": 89,
-    "Exp": 134100
+    "id": 89,
+    "level_id": 5,
+    "level": 89,
+    "exp": 134100
   },
   {
-    "Id": 90,
-    "LevelId": 5,
-    "Level": 90,
-    "Exp": 0
+    "id": 90,
+    "level_id": 5,
+    "level": 90,
+    "exp": 0
   },
   {
-    "Id": 101,
-    "LevelId": 4,
-    "Level": 1,
-    "Exp": 400
+    "id": 101,
+    "level_id": 4,
+    "level": 1,
+    "exp": 400
   },
   {
-    "Id": 102,
-    "LevelId": 4,
-    "Level": 2,
-    "Exp": 500
+    "id": 102,
+    "level_id": 4,
+    "level": 2,
+    "exp": 500
   },
   {
-    "Id": 103,
-    "LevelId": 4,
-    "Level": 3,
-    "Exp": 700
+    "id": 103,
+    "level_id": 4,
+    "level": 3,
+    "exp": 700
   },
   {
-    "Id": 104,
-    "LevelId": 4,
-    "Level": 4,
-    "Exp": 800
+    "id": 104,
+    "level_id": 4,
+    "level": 4,
+    "exp": 800
   },
   {
-    "Id": 105,
-    "LevelId": 4,
-    "Level": 5,
-    "Exp": 1000
+    "id": 105,
+    "level_id": 4,
+    "level": 5,
+    "exp": 1000
   },
   {
-    "Id": 106,
-    "LevelId": 4,
-    "Level": 6,
-    "Exp": 1100
+    "id": 106,
+    "level_id": 4,
+    "level": 6,
+    "exp": 1100
   },
   {
-    "Id": 107,
-    "LevelId": 4,
-    "Level": 7,
-    "Exp": 1300
+    "id": 107,
+    "level_id": 4,
+    "level": 7,
+    "exp": 1300
   },
   {
-    "Id": 108,
-    "LevelId": 4,
-    "Level": 8,
-    "Exp": 1500
+    "id": 108,
+    "level_id": 4,
+    "level": 8,
+    "exp": 1500
   },
   {
-    "Id": 109,
-    "LevelId": 4,
-    "Level": 9,
-    "Exp": 1600
+    "id": 109,
+    "level_id": 4,
+    "level": 9,
+    "exp": 1600
   },
   {
-    "Id": 110,
-    "LevelId": 4,
-    "Level": 10,
-    "Exp": 1800
+    "id": 110,
+    "level_id": 4,
+    "level": 10,
+    "exp": 1800
   },
   {
-    "Id": 111,
-    "LevelId": 4,
-    "Level": 11,
-    "Exp": 2000
+    "id": 111,
+    "level_id": 4,
+    "level": 11,
+    "exp": 2000
   },
   {
-    "Id": 112,
-    "LevelId": 4,
-    "Level": 12,
-    "Exp": 2200
+    "id": 112,
+    "level_id": 4,
+    "level": 12,
+    "exp": 2200
   },
   {
-    "Id": 113,
-    "LevelId": 4,
-    "Level": 13,
-    "Exp": 2400
+    "id": 113,
+    "level_id": 4,
+    "level": 13,
+    "exp": 2400
   },
   {
-    "Id": 114,
-    "LevelId": 4,
-    "Level": 14,
-    "Exp": 2700
+    "id": 114,
+    "level_id": 4,
+    "level": 14,
+    "exp": 2700
   },
   {
-    "Id": 115,
-    "LevelId": 4,
-    "Level": 15,
-    "Exp": 2900
+    "id": 115,
+    "level_id": 4,
+    "level": 15,
+    "exp": 2900
   },
   {
-    "Id": 116,
-    "LevelId": 4,
-    "Level": 16,
-    "Exp": 3100
+    "id": 116,
+    "level_id": 4,
+    "level": 16,
+    "exp": 3100
   },
   {
-    "Id": 117,
-    "LevelId": 4,
-    "Level": 17,
-    "Exp": 3400
+    "id": 117,
+    "level_id": 4,
+    "level": 17,
+    "exp": 3400
   },
   {
-    "Id": 118,
-    "LevelId": 4,
-    "Level": 18,
-    "Exp": 3600
+    "id": 118,
+    "level_id": 4,
+    "level": 18,
+    "exp": 3600
   },
   {
-    "Id": 119,
-    "LevelId": 4,
-    "Level": 19,
-    "Exp": 3900
+    "id": 119,
+    "level_id": 4,
+    "level": 19,
+    "exp": 3900
   },
   {
-    "Id": 120,
-    "LevelId": 4,
-    "Level": 20,
-    "Exp": 4200
+    "id": 120,
+    "level_id": 4,
+    "level": 20,
+    "exp": 4200
   },
   {
-    "Id": 121,
-    "LevelId": 4,
-    "Level": 21,
-    "Exp": 4400
+    "id": 121,
+    "level_id": 4,
+    "level": 21,
+    "exp": 4400
   },
   {
-    "Id": 122,
-    "LevelId": 4,
-    "Level": 22,
-    "Exp": 4700
+    "id": 122,
+    "level_id": 4,
+    "level": 22,
+    "exp": 4700
   },
   {
-    "Id": 123,
-    "LevelId": 4,
-    "Level": 23,
-    "Exp": 5000
+    "id": 123,
+    "level_id": 4,
+    "level": 23,
+    "exp": 5000
   },
   {
-    "Id": 124,
-    "LevelId": 4,
-    "Level": 24,
-    "Exp": 5400
+    "id": 124,
+    "level_id": 4,
+    "level": 24,
+    "exp": 5400
   },
   {
-    "Id": 125,
-    "LevelId": 4,
-    "Level": 25,
-    "Exp": 5700
+    "id": 125,
+    "level_id": 4,
+    "level": 25,
+    "exp": 5700
   },
   {
-    "Id": 126,
-    "LevelId": 4,
-    "Level": 26,
-    "Exp": 6000
+    "id": 126,
+    "level_id": 4,
+    "level": 26,
+    "exp": 6000
   },
   {
-    "Id": 127,
-    "LevelId": 4,
-    "Level": 27,
-    "Exp": 6400
+    "id": 127,
+    "level_id": 4,
+    "level": 27,
+    "exp": 6400
   },
   {
-    "Id": 128,
-    "LevelId": 4,
-    "Level": 28,
-    "Exp": 6700
+    "id": 128,
+    "level_id": 4,
+    "level": 28,
+    "exp": 6700
   },
   {
-    "Id": 129,
-    "LevelId": 4,
-    "Level": 29,
-    "Exp": 7100
+    "id": 129,
+    "level_id": 4,
+    "level": 29,
+    "exp": 7100
   },
   {
-    "Id": 130,
-    "LevelId": 4,
-    "Level": 30,
-    "Exp": 7500
+    "id": 130,
+    "level_id": 4,
+    "level": 30,
+    "exp": 7500
   },
   {
-    "Id": 131,
-    "LevelId": 4,
-    "Level": 31,
-    "Exp": 7900
+    "id": 131,
+    "level_id": 4,
+    "level": 31,
+    "exp": 7900
   },
   {
-    "Id": 132,
-    "LevelId": 4,
-    "Level": 32,
-    "Exp": 8300
+    "id": 132,
+    "level_id": 4,
+    "level": 32,
+    "exp": 8300
   },
   {
-    "Id": 133,
-    "LevelId": 4,
-    "Level": 33,
-    "Exp": 8800
+    "id": 133,
+    "level_id": 4,
+    "level": 33,
+    "exp": 8800
   },
   {
-    "Id": 134,
-    "LevelId": 4,
-    "Level": 34,
-    "Exp": 9200
+    "id": 134,
+    "level_id": 4,
+    "level": 34,
+    "exp": 9200
   },
   {
-    "Id": 135,
-    "LevelId": 4,
-    "Level": 35,
-    "Exp": 9700
+    "id": 135,
+    "level_id": 4,
+    "level": 35,
+    "exp": 9700
   },
   {
-    "Id": 136,
-    "LevelId": 4,
-    "Level": 36,
-    "Exp": 10200
+    "id": 136,
+    "level_id": 4,
+    "level": 36,
+    "exp": 10200
   },
   {
-    "Id": 137,
-    "LevelId": 4,
-    "Level": 37,
-    "Exp": 10700
+    "id": 137,
+    "level_id": 4,
+    "level": 37,
+    "exp": 10700
   },
   {
-    "Id": 138,
-    "LevelId": 4,
-    "Level": 38,
-    "Exp": 11200
+    "id": 138,
+    "level_id": 4,
+    "level": 38,
+    "exp": 11200
   },
   {
-    "Id": 139,
-    "LevelId": 4,
-    "Level": 39,
-    "Exp": 11700
+    "id": 139,
+    "level_id": 4,
+    "level": 39,
+    "exp": 11700
   },
   {
-    "Id": 140,
-    "LevelId": 4,
-    "Level": 40,
-    "Exp": 12300
+    "id": 140,
+    "level_id": 4,
+    "level": 40,
+    "exp": 12300
   },
   {
-    "Id": 141,
-    "LevelId": 4,
-    "Level": 41,
-    "Exp": 12800
+    "id": 141,
+    "level_id": 4,
+    "level": 41,
+    "exp": 12800
   },
   {
-    "Id": 142,
-    "LevelId": 4,
-    "Level": 42,
-    "Exp": 13400
+    "id": 142,
+    "level_id": 4,
+    "level": 42,
+    "exp": 13400
   },
   {
-    "Id": 143,
-    "LevelId": 4,
-    "Level": 43,
-    "Exp": 14000
+    "id": 143,
+    "level_id": 4,
+    "level": 43,
+    "exp": 14000
   },
   {
-    "Id": 144,
-    "LevelId": 4,
-    "Level": 44,
-    "Exp": 14700
+    "id": 144,
+    "level_id": 4,
+    "level": 44,
+    "exp": 14700
   },
   {
-    "Id": 145,
-    "LevelId": 4,
-    "Level": 45,
-    "Exp": 15300
+    "id": 145,
+    "level_id": 4,
+    "level": 45,
+    "exp": 15300
   },
   {
-    "Id": 146,
-    "LevelId": 4,
-    "Level": 46,
-    "Exp": 16000
+    "id": 146,
+    "level_id": 4,
+    "level": 46,
+    "exp": 16000
   },
   {
-    "Id": 147,
-    "LevelId": 4,
-    "Level": 47,
-    "Exp": 16700
+    "id": 147,
+    "level_id": 4,
+    "level": 47,
+    "exp": 16700
   },
   {
-    "Id": 148,
-    "LevelId": 4,
-    "Level": 48,
-    "Exp": 17400
+    "id": 148,
+    "level_id": 4,
+    "level": 48,
+    "exp": 17400
   },
   {
-    "Id": 149,
-    "LevelId": 4,
-    "Level": 49,
-    "Exp": 18200
+    "id": 149,
+    "level_id": 4,
+    "level": 49,
+    "exp": 18200
   },
   {
-    "Id": 150,
-    "LevelId": 4,
-    "Level": 50,
-    "Exp": 18900
+    "id": 150,
+    "level_id": 4,
+    "level": 50,
+    "exp": 18900
   },
   {
-    "Id": 151,
-    "LevelId": 4,
-    "Level": 51,
-    "Exp": 19700
+    "id": 151,
+    "level_id": 4,
+    "level": 51,
+    "exp": 19700
   },
   {
-    "Id": 152,
-    "LevelId": 4,
-    "Level": 52,
-    "Exp": 20500
+    "id": 152,
+    "level_id": 4,
+    "level": 52,
+    "exp": 20500
   },
   {
-    "Id": 153,
-    "LevelId": 4,
-    "Level": 53,
-    "Exp": 21400
+    "id": 153,
+    "level_id": 4,
+    "level": 53,
+    "exp": 21400
   },
   {
-    "Id": 154,
-    "LevelId": 4,
-    "Level": 54,
-    "Exp": 22200
+    "id": 154,
+    "level_id": 4,
+    "level": 54,
+    "exp": 22200
   },
   {
-    "Id": 155,
-    "LevelId": 4,
-    "Level": 55,
-    "Exp": 23100
+    "id": 155,
+    "level_id": 4,
+    "level": 55,
+    "exp": 23100
   },
   {
-    "Id": 156,
-    "LevelId": 4,
-    "Level": 56,
-    "Exp": 24100
+    "id": 156,
+    "level_id": 4,
+    "level": 56,
+    "exp": 24100
   },
   {
-    "Id": 157,
-    "LevelId": 4,
-    "Level": 57,
-    "Exp": 25000
+    "id": 157,
+    "level_id": 4,
+    "level": 57,
+    "exp": 25000
   },
   {
-    "Id": 158,
-    "LevelId": 4,
-    "Level": 58,
-    "Exp": 26000
+    "id": 158,
+    "level_id": 4,
+    "level": 58,
+    "exp": 26000
   },
   {
-    "Id": 159,
-    "LevelId": 4,
-    "Level": 59,
-    "Exp": 27000
+    "id": 159,
+    "level_id": 4,
+    "level": 59,
+    "exp": 27000
   },
   {
-    "Id": 160,
-    "LevelId": 4,
-    "Level": 60,
-    "Exp": 28100
+    "id": 160,
+    "level_id": 4,
+    "level": 60,
+    "exp": 28100
   },
   {
-    "Id": 161,
-    "LevelId": 4,
-    "Level": 61,
-    "Exp": 29200
+    "id": 161,
+    "level_id": 4,
+    "level": 61,
+    "exp": 29200
   },
   {
-    "Id": 162,
-    "LevelId": 4,
-    "Level": 62,
-    "Exp": 30300
+    "id": 162,
+    "level_id": 4,
+    "level": 62,
+    "exp": 30300
   },
   {
-    "Id": 163,
-    "LevelId": 4,
-    "Level": 63,
-    "Exp": 31400
+    "id": 163,
+    "level_id": 4,
+    "level": 63,
+    "exp": 31400
   },
   {
-    "Id": 164,
-    "LevelId": 4,
-    "Level": 64,
-    "Exp": 32600
+    "id": 164,
+    "level_id": 4,
+    "level": 64,
+    "exp": 32600
   },
   {
-    "Id": 165,
-    "LevelId": 4,
-    "Level": 65,
-    "Exp": 33800
+    "id": 165,
+    "level_id": 4,
+    "level": 65,
+    "exp": 33800
   },
   {
-    "Id": 166,
-    "LevelId": 4,
-    "Level": 66,
-    "Exp": 35100
+    "id": 166,
+    "level_id": 4,
+    "level": 66,
+    "exp": 35100
   },
   {
-    "Id": 167,
-    "LevelId": 4,
-    "Level": 67,
-    "Exp": 36400
+    "id": 167,
+    "level_id": 4,
+    "level": 67,
+    "exp": 36400
   },
   {
-    "Id": 168,
-    "LevelId": 4,
-    "Level": 68,
-    "Exp": 37700
+    "id": 168,
+    "level_id": 4,
+    "level": 68,
+    "exp": 37700
   },
   {
-    "Id": 169,
-    "LevelId": 4,
-    "Level": 69,
-    "Exp": 39000
+    "id": 169,
+    "level_id": 4,
+    "level": 69,
+    "exp": 39000
   },
   {
-    "Id": 170,
-    "LevelId": 4,
-    "Level": 70,
-    "Exp": 40500
+    "id": 170,
+    "level_id": 4,
+    "level": 70,
+    "exp": 40500
   },
   {
-    "Id": 171,
-    "LevelId": 4,
-    "Level": 71,
-    "Exp": 41900
+    "id": 171,
+    "level_id": 4,
+    "level": 71,
+    "exp": 41900
   },
   {
-    "Id": 172,
-    "LevelId": 4,
-    "Level": 72,
-    "Exp": 43400
+    "id": 172,
+    "level_id": 4,
+    "level": 72,
+    "exp": 43400
   },
   {
-    "Id": 173,
-    "LevelId": 4,
-    "Level": 73,
-    "Exp": 44900
+    "id": 173,
+    "level_id": 4,
+    "level": 73,
+    "exp": 44900
   },
   {
-    "Id": 174,
-    "LevelId": 4,
-    "Level": 74,
-    "Exp": 46500
+    "id": 174,
+    "level_id": 4,
+    "level": 74,
+    "exp": 46500
   },
   {
-    "Id": 175,
-    "LevelId": 4,
-    "Level": 75,
-    "Exp": 48100
+    "id": 175,
+    "level_id": 4,
+    "level": 75,
+    "exp": 48100
   },
   {
-    "Id": 176,
-    "LevelId": 4,
-    "Level": 76,
-    "Exp": 49800
+    "id": 176,
+    "level_id": 4,
+    "level": 76,
+    "exp": 49800
   },
   {
-    "Id": 177,
-    "LevelId": 4,
-    "Level": 77,
-    "Exp": 51500
+    "id": 177,
+    "level_id": 4,
+    "level": 77,
+    "exp": 51500
   },
   {
-    "Id": 178,
-    "LevelId": 4,
-    "Level": 78,
-    "Exp": 53200
+    "id": 178,
+    "level_id": 4,
+    "level": 78,
+    "exp": 53200
   },
   {
-    "Id": 179,
-    "LevelId": 4,
-    "Level": 79,
-    "Exp": 55000
+    "id": 179,
+    "level_id": 4,
+    "level": 79,
+    "exp": 55000
   },
   {
-    "Id": 180,
-    "LevelId": 4,
-    "Level": 80,
-    "Exp": 60500
+    "id": 180,
+    "level_id": 4,
+    "level": 80,
+    "exp": 60500
   },
   {
-    "Id": 181,
-    "LevelId": 4,
-    "Level": 81,
-    "Exp": 63200
+    "id": 181,
+    "level_id": 4,
+    "level": 81,
+    "exp": 63200
   },
   {
-    "Id": 182,
-    "LevelId": 4,
-    "Level": 82,
-    "Exp": 67000
+    "id": 182,
+    "level_id": 4,
+    "level": 82,
+    "exp": 67000
   },
   {
-    "Id": 183,
-    "LevelId": 4,
-    "Level": 83,
-    "Exp": 72100
+    "id": 183,
+    "level_id": 4,
+    "level": 83,
+    "exp": 72100
   },
   {
-    "Id": 184,
-    "LevelId": 4,
-    "Level": 84,
-    "Exp": 78700
+    "id": 184,
+    "level_id": 4,
+    "level": 84,
+    "exp": 78700
   },
   {
-    "Id": 185,
-    "LevelId": 4,
-    "Level": 85,
-    "Exp": 87200
+    "id": 185,
+    "level_id": 4,
+    "level": 85,
+    "exp": 87200
   },
   {
-    "Id": 186,
-    "LevelId": 4,
-    "Level": 86,
-    "Exp": 97900
+    "id": 186,
+    "level_id": 4,
+    "level": 86,
+    "exp": 97900
   },
   {
-    "Id": 187,
-    "LevelId": 4,
-    "Level": 87,
-    "Exp": 111400
+    "id": 187,
+    "level_id": 4,
+    "level": 87,
+    "exp": 111400
   },
   {
-    "Id": 188,
-    "LevelId": 4,
-    "Level": 88,
-    "Exp": 128000
+    "id": 188,
+    "level_id": 4,
+    "level": 88,
+    "exp": 128000
   },
   {
-    "Id": 189,
-    "LevelId": 4,
-    "Level": 89,
-    "Exp": 148400
+    "id": 189,
+    "level_id": 4,
+    "level": 89,
+    "exp": 148400
   },
   {
-    "Id": 190,
-    "LevelId": 4,
-    "Level": 90,
-    "Exp": 0
+    "id": 190,
+    "level_id": 4,
+    "level": 90,
+    "exp": 0
   },
   {
-    "Id": 201,
-    "LevelId": 3,
-    "Level": 1,
-    "Exp": 240
+    "id": 201,
+    "level_id": 3,
+    "level": 1,
+    "exp": 240
   },
   {
-    "Id": 202,
-    "LevelId": 3,
-    "Level": 2,
-    "Exp": 300
+    "id": 202,
+    "level_id": 3,
+    "level": 2,
+    "exp": 300
   },
   {
-    "Id": 203,
-    "LevelId": 3,
-    "Level": 3,
-    "Exp": 420
+    "id": 203,
+    "level_id": 3,
+    "level": 3,
+    "exp": 420
   },
   {
-    "Id": 204,
-    "LevelId": 3,
-    "Level": 4,
-    "Exp": 480
+    "id": 204,
+    "level_id": 3,
+    "level": 4,
+    "exp": 480
   },
   {
-    "Id": 205,
-    "LevelId": 3,
-    "Level": 5,
-    "Exp": 600
+    "id": 205,
+    "level_id": 3,
+    "level": 5,
+    "exp": 600
   },
   {
-    "Id": 206,
-    "LevelId": 3,
-    "Level": 6,
-    "Exp": 660
+    "id": 206,
+    "level_id": 3,
+    "level": 6,
+    "exp": 660
   },
   {
-    "Id": 207,
-    "LevelId": 3,
-    "Level": 7,
-    "Exp": 780
+    "id": 207,
+    "level_id": 3,
+    "level": 7,
+    "exp": 780
   },
   {
-    "Id": 208,
-    "LevelId": 3,
-    "Level": 8,
-    "Exp": 900
+    "id": 208,
+    "level_id": 3,
+    "level": 8,
+    "exp": 900
   },
   {
-    "Id": 209,
-    "LevelId": 3,
-    "Level": 9,
-    "Exp": 960
+    "id": 209,
+    "level_id": 3,
+    "level": 9,
+    "exp": 960
   },
   {
-    "Id": 210,
-    "LevelId": 3,
-    "Level": 10,
-    "Exp": 1080
+    "id": 210,
+    "level_id": 3,
+    "level": 10,
+    "exp": 1080
   },
   {
-    "Id": 211,
-    "LevelId": 3,
-    "Level": 11,
-    "Exp": 1200
+    "id": 211,
+    "level_id": 3,
+    "level": 11,
+    "exp": 1200
   },
   {
-    "Id": 212,
-    "LevelId": 3,
-    "Level": 12,
-    "Exp": 1320
+    "id": 212,
+    "level_id": 3,
+    "level": 12,
+    "exp": 1320
   },
   {
-    "Id": 213,
-    "LevelId": 3,
-    "Level": 13,
-    "Exp": 1440
+    "id": 213,
+    "level_id": 3,
+    "level": 13,
+    "exp": 1440
   },
   {
-    "Id": 214,
-    "LevelId": 3,
-    "Level": 14,
-    "Exp": 1620
+    "id": 214,
+    "level_id": 3,
+    "level": 14,
+    "exp": 1620
   },
   {
-    "Id": 215,
-    "LevelId": 3,
-    "Level": 15,
-    "Exp": 1740
+    "id": 215,
+    "level_id": 3,
+    "level": 15,
+    "exp": 1740
   },
   {
-    "Id": 216,
-    "LevelId": 3,
-    "Level": 16,
-    "Exp": 1860
+    "id": 216,
+    "level_id": 3,
+    "level": 16,
+    "exp": 1860
   },
   {
-    "Id": 217,
-    "LevelId": 3,
-    "Level": 17,
-    "Exp": 2040
+    "id": 217,
+    "level_id": 3,
+    "level": 17,
+    "exp": 2040
   },
   {
-    "Id": 218,
-    "LevelId": 3,
-    "Level": 18,
-    "Exp": 2160
+    "id": 218,
+    "level_id": 3,
+    "level": 18,
+    "exp": 2160
   },
   {
-    "Id": 219,
-    "LevelId": 3,
-    "Level": 19,
-    "Exp": 2340
+    "id": 219,
+    "level_id": 3,
+    "level": 19,
+    "exp": 2340
   },
   {
-    "Id": 220,
-    "LevelId": 3,
-    "Level": 20,
-    "Exp": 2520
+    "id": 220,
+    "level_id": 3,
+    "level": 20,
+    "exp": 2520
   },
   {
-    "Id": 221,
-    "LevelId": 3,
-    "Level": 21,
-    "Exp": 2640
+    "id": 221,
+    "level_id": 3,
+    "level": 21,
+    "exp": 2640
   },
   {
-    "Id": 222,
-    "LevelId": 3,
-    "Level": 22,
-    "Exp": 2820
+    "id": 222,
+    "level_id": 3,
+    "level": 22,
+    "exp": 2820
   },
   {
-    "Id": 223,
-    "LevelId": 3,
-    "Level": 23,
-    "Exp": 3000
+    "id": 223,
+    "level_id": 3,
+    "level": 23,
+    "exp": 3000
   },
   {
-    "Id": 224,
-    "LevelId": 3,
-    "Level": 24,
-    "Exp": 3240
+    "id": 224,
+    "level_id": 3,
+    "level": 24,
+    "exp": 3240
   },
   {
-    "Id": 225,
-    "LevelId": 3,
-    "Level": 25,
-    "Exp": 3420
+    "id": 225,
+    "level_id": 3,
+    "level": 25,
+    "exp": 3420
   },
   {
-    "Id": 226,
-    "LevelId": 3,
-    "Level": 26,
-    "Exp": 3600
+    "id": 226,
+    "level_id": 3,
+    "level": 26,
+    "exp": 3600
   },
   {
-    "Id": 227,
-    "LevelId": 3,
-    "Level": 27,
-    "Exp": 3840
+    "id": 227,
+    "level_id": 3,
+    "level": 27,
+    "exp": 3840
   },
   {
-    "Id": 228,
-    "LevelId": 3,
-    "Level": 28,
-    "Exp": 4020
+    "id": 228,
+    "level_id": 3,
+    "level": 28,
+    "exp": 4020
   },
   {
-    "Id": 229,
-    "LevelId": 3,
-    "Level": 29,
-    "Exp": 4260
+    "id": 229,
+    "level_id": 3,
+    "level": 29,
+    "exp": 4260
   },
   {
-    "Id": 230,
-    "LevelId": 3,
-    "Level": 30,
-    "Exp": 4500
+    "id": 230,
+    "level_id": 3,
+    "level": 30,
+    "exp": 4500
   },
   {
-    "Id": 231,
-    "LevelId": 3,
-    "Level": 31,
-    "Exp": 4740
+    "id": 231,
+    "level_id": 3,
+    "level": 31,
+    "exp": 4740
   },
   {
-    "Id": 232,
-    "LevelId": 3,
-    "Level": 32,
-    "Exp": 4980
+    "id": 232,
+    "level_id": 3,
+    "level": 32,
+    "exp": 4980
   },
   {
-    "Id": 233,
-    "LevelId": 3,
-    "Level": 33,
-    "Exp": 5280
+    "id": 233,
+    "level_id": 3,
+    "level": 33,
+    "exp": 5280
   },
   {
-    "Id": 234,
-    "LevelId": 3,
-    "Level": 34,
-    "Exp": 5520
+    "id": 234,
+    "level_id": 3,
+    "level": 34,
+    "exp": 5520
   },
   {
-    "Id": 235,
-    "LevelId": 3,
-    "Level": 35,
-    "Exp": 5820
+    "id": 235,
+    "level_id": 3,
+    "level": 35,
+    "exp": 5820
   },
   {
-    "Id": 236,
-    "LevelId": 3,
-    "Level": 36,
-    "Exp": 6120
+    "id": 236,
+    "level_id": 3,
+    "level": 36,
+    "exp": 6120
   },
   {
-    "Id": 237,
-    "LevelId": 3,
-    "Level": 37,
-    "Exp": 6420
+    "id": 237,
+    "level_id": 3,
+    "level": 37,
+    "exp": 6420
   },
   {
-    "Id": 238,
-    "LevelId": 3,
-    "Level": 38,
-    "Exp": 6720
+    "id": 238,
+    "level_id": 3,
+    "level": 38,
+    "exp": 6720
   },
   {
-    "Id": 239,
-    "LevelId": 3,
-    "Level": 39,
-    "Exp": 7020
+    "id": 239,
+    "level_id": 3,
+    "level": 39,
+    "exp": 7020
   },
   {
-    "Id": 240,
-    "LevelId": 3,
-    "Level": 40,
-    "Exp": 7380
+    "id": 240,
+    "level_id": 3,
+    "level": 40,
+    "exp": 7380
   },
   {
-    "Id": 241,
-    "LevelId": 3,
-    "Level": 41,
-    "Exp": 7680
+    "id": 241,
+    "level_id": 3,
+    "level": 41,
+    "exp": 7680
   },
   {
-    "Id": 242,
-    "LevelId": 3,
-    "Level": 42,
-    "Exp": 8040
+    "id": 242,
+    "level_id": 3,
+    "level": 42,
+    "exp": 8040
   },
   {
-    "Id": 243,
-    "LevelId": 3,
-    "Level": 43,
-    "Exp": 8400
+    "id": 243,
+    "level_id": 3,
+    "level": 43,
+    "exp": 8400
   },
   {
-    "Id": 244,
-    "LevelId": 3,
-    "Level": 44,
-    "Exp": 8820
+    "id": 244,
+    "level_id": 3,
+    "level": 44,
+    "exp": 8820
   },
   {
-    "Id": 245,
-    "LevelId": 3,
-    "Level": 45,
-    "Exp": 9180
+    "id": 245,
+    "level_id": 3,
+    "level": 45,
+    "exp": 9180
   },
   {
-    "Id": 246,
-    "LevelId": 3,
-    "Level": 46,
-    "Exp": 9600
+    "id": 246,
+    "level_id": 3,
+    "level": 46,
+    "exp": 9600
   },
   {
-    "Id": 247,
-    "LevelId": 3,
-    "Level": 47,
-    "Exp": 10020
+    "id": 247,
+    "level_id": 3,
+    "level": 47,
+    "exp": 10020
   },
   {
-    "Id": 248,
-    "LevelId": 3,
-    "Level": 48,
-    "Exp": 10440
+    "id": 248,
+    "level_id": 3,
+    "level": 48,
+    "exp": 10440
   },
   {
-    "Id": 249,
-    "LevelId": 3,
-    "Level": 49,
-    "Exp": 10920
+    "id": 249,
+    "level_id": 3,
+    "level": 49,
+    "exp": 10920
   },
   {
-    "Id": 250,
-    "LevelId": 3,
-    "Level": 50,
-    "Exp": 11340
+    "id": 250,
+    "level_id": 3,
+    "level": 50,
+    "exp": 11340
   },
   {
-    "Id": 251,
-    "LevelId": 3,
-    "Level": 51,
-    "Exp": 11820
+    "id": 251,
+    "level_id": 3,
+    "level": 51,
+    "exp": 11820
   },
   {
-    "Id": 252,
-    "LevelId": 3,
-    "Level": 52,
-    "Exp": 12300
+    "id": 252,
+    "level_id": 3,
+    "level": 52,
+    "exp": 12300
   },
   {
-    "Id": 253,
-    "LevelId": 3,
-    "Level": 53,
-    "Exp": 12840
+    "id": 253,
+    "level_id": 3,
+    "level": 53,
+    "exp": 12840
   },
   {
-    "Id": 254,
-    "LevelId": 3,
-    "Level": 54,
-    "Exp": 13320
+    "id": 254,
+    "level_id": 3,
+    "level": 54,
+    "exp": 13320
   },
   {
-    "Id": 255,
-    "LevelId": 3,
-    "Level": 55,
-    "Exp": 13860
+    "id": 255,
+    "level_id": 3,
+    "level": 55,
+    "exp": 13860
   },
   {
-    "Id": 256,
-    "LevelId": 3,
-    "Level": 56,
-    "Exp": 14460
+    "id": 256,
+    "level_id": 3,
+    "level": 56,
+    "exp": 14460
   },
   {
-    "Id": 257,
-    "LevelId": 3,
-    "Level": 57,
-    "Exp": 15000
+    "id": 257,
+    "level_id": 3,
+    "level": 57,
+    "exp": 15000
   },
   {
-    "Id": 258,
-    "LevelId": 3,
-    "Level": 58,
-    "Exp": 15600
+    "id": 258,
+    "level_id": 3,
+    "level": 58,
+    "exp": 15600
   },
   {
-    "Id": 259,
-    "LevelId": 3,
-    "Level": 59,
-    "Exp": 16200
+    "id": 259,
+    "level_id": 3,
+    "level": 59,
+    "exp": 16200
   },
   {
-    "Id": 260,
-    "LevelId": 3,
-    "Level": 60,
-    "Exp": 16860
+    "id": 260,
+    "level_id": 3,
+    "level": 60,
+    "exp": 16860
   },
   {
-    "Id": 261,
-    "LevelId": 3,
-    "Level": 61,
-    "Exp": 17520
+    "id": 261,
+    "level_id": 3,
+    "level": 61,
+    "exp": 17520
   },
   {
-    "Id": 262,
-    "LevelId": 3,
-    "Level": 62,
-    "Exp": 18180
+    "id": 262,
+    "level_id": 3,
+    "level": 62,
+    "exp": 18180
   },
   {
-    "Id": 263,
-    "LevelId": 3,
-    "Level": 63,
-    "Exp": 18840
+    "id": 263,
+    "level_id": 3,
+    "level": 63,
+    "exp": 18840
   },
   {
-    "Id": 264,
-    "LevelId": 3,
-    "Level": 64,
-    "Exp": 19560
+    "id": 264,
+    "level_id": 3,
+    "level": 64,
+    "exp": 19560
   },
   {
-    "Id": 265,
-    "LevelId": 3,
-    "Level": 65,
-    "Exp": 20280
+    "id": 265,
+    "level_id": 3,
+    "level": 65,
+    "exp": 20280
   },
   {
-    "Id": 266,
-    "LevelId": 3,
-    "Level": 66,
-    "Exp": 21060
+    "id": 266,
+    "level_id": 3,
+    "level": 66,
+    "exp": 21060
   },
   {
-    "Id": 267,
-    "LevelId": 3,
-    "Level": 67,
-    "Exp": 21840
+    "id": 267,
+    "level_id": 3,
+    "level": 67,
+    "exp": 21840
   },
   {
-    "Id": 268,
-    "LevelId": 3,
-    "Level": 68,
-    "Exp": 22620
+    "id": 268,
+    "level_id": 3,
+    "level": 68,
+    "exp": 22620
   },
   {
-    "Id": 269,
-    "LevelId": 3,
-    "Level": 69,
-    "Exp": 23400
+    "id": 269,
+    "level_id": 3,
+    "level": 69,
+    "exp": 23400
   },
   {
-    "Id": 270,
-    "LevelId": 3,
-    "Level": 70,
-    "Exp": 24300
+    "id": 270,
+    "level_id": 3,
+    "level": 70,
+    "exp": 24300
   },
   {
-    "Id": 271,
-    "LevelId": 3,
-    "Level": 71,
-    "Exp": 25140
+    "id": 271,
+    "level_id": 3,
+    "level": 71,
+    "exp": 25140
   },
   {
-    "Id": 272,
-    "LevelId": 3,
-    "Level": 72,
-    "Exp": 26040
+    "id": 272,
+    "level_id": 3,
+    "level": 72,
+    "exp": 26040
   },
   {
-    "Id": 273,
-    "LevelId": 3,
-    "Level": 73,
-    "Exp": 26940
+    "id": 273,
+    "level_id": 3,
+    "level": 73,
+    "exp": 26940
   },
   {
-    "Id": 274,
-    "LevelId": 3,
-    "Level": 74,
-    "Exp": 27900
+    "id": 274,
+    "level_id": 3,
+    "level": 74,
+    "exp": 27900
   },
   {
-    "Id": 275,
-    "LevelId": 3,
-    "Level": 75,
-    "Exp": 28860
+    "id": 275,
+    "level_id": 3,
+    "level": 75,
+    "exp": 28860
   },
   {
-    "Id": 276,
-    "LevelId": 3,
-    "Level": 76,
-    "Exp": 29880
+    "id": 276,
+    "level_id": 3,
+    "level": 76,
+    "exp": 29880
   },
   {
-    "Id": 277,
-    "LevelId": 3,
-    "Level": 77,
-    "Exp": 30900
+    "id": 277,
+    "level_id": 3,
+    "level": 77,
+    "exp": 30900
   },
   {
-    "Id": 278,
-    "LevelId": 3,
-    "Level": 78,
-    "Exp": 31920
+    "id": 278,
+    "level_id": 3,
+    "level": 78,
+    "exp": 31920
   },
   {
-    "Id": 279,
-    "LevelId": 3,
-    "Level": 79,
-    "Exp": 33000
+    "id": 279,
+    "level_id": 3,
+    "level": 79,
+    "exp": 33000
   },
   {
-    "Id": 280,
-    "LevelId": 3,
-    "Level": 80,
-    "Exp": 36300
+    "id": 280,
+    "level_id": 3,
+    "level": 80,
+    "exp": 36300
   },
   {
-    "Id": 281,
-    "LevelId": 3,
-    "Level": 81,
-    "Exp": 37920
+    "id": 281,
+    "level_id": 3,
+    "level": 81,
+    "exp": 37920
   },
   {
-    "Id": 282,
-    "LevelId": 3,
-    "Level": 82,
-    "Exp": 40200
+    "id": 282,
+    "level_id": 3,
+    "level": 82,
+    "exp": 40200
   },
   {
-    "Id": 283,
-    "LevelId": 3,
-    "Level": 83,
-    "Exp": 43260
+    "id": 283,
+    "level_id": 3,
+    "level": 83,
+    "exp": 43260
   },
   {
-    "Id": 284,
-    "LevelId": 3,
-    "Level": 84,
-    "Exp": 47220
+    "id": 284,
+    "level_id": 3,
+    "level": 84,
+    "exp": 47220
   },
   {
-    "Id": 285,
-    "LevelId": 3,
-    "Level": 85,
-    "Exp": 52320
+    "id": 285,
+    "level_id": 3,
+    "level": 85,
+    "exp": 52320
   },
   {
-    "Id": 286,
-    "LevelId": 3,
-    "Level": 86,
-    "Exp": 58740
+    "id": 286,
+    "level_id": 3,
+    "level": 86,
+    "exp": 58740
   },
   {
-    "Id": 287,
-    "LevelId": 3,
-    "Level": 87,
-    "Exp": 66840
+    "id": 287,
+    "level_id": 3,
+    "level": 87,
+    "exp": 66840
   },
   {
-    "Id": 288,
-    "LevelId": 3,
-    "Level": 88,
-    "Exp": 76800
+    "id": 288,
+    "level_id": 3,
+    "level": 88,
+    "exp": 76800
   },
   {
-    "Id": 289,
-    "LevelId": 3,
-    "Level": 89,
-    "Exp": 89040
+    "id": 289,
+    "level_id": 3,
+    "level": 89,
+    "exp": 89040
   },
   {
-    "Id": 290,
-    "LevelId": 3,
-    "Level": 90,
-    "Exp": 0
+    "id": 290,
+    "level_id": 3,
+    "level": 90,
+    "exp": 0
   },
   {
-    "Id": 301,
-    "LevelId": 2,
-    "Level": 1,
-    "Exp": 200
+    "id": 301,
+    "level_id": 2,
+    "level": 1,
+    "exp": 200
   },
   {
-    "Id": 302,
-    "LevelId": 2,
-    "Level": 2,
-    "Exp": 250
+    "id": 302,
+    "level_id": 2,
+    "level": 2,
+    "exp": 250
   },
   {
-    "Id": 303,
-    "LevelId": 2,
-    "Level": 3,
-    "Exp": 350
+    "id": 303,
+    "level_id": 2,
+    "level": 3,
+    "exp": 350
   },
   {
-    "Id": 304,
-    "LevelId": 2,
-    "Level": 4,
-    "Exp": 400
+    "id": 304,
+    "level_id": 2,
+    "level": 4,
+    "exp": 400
   },
   {
-    "Id": 305,
-    "LevelId": 2,
-    "Level": 5,
-    "Exp": 500
+    "id": 305,
+    "level_id": 2,
+    "level": 5,
+    "exp": 500
   },
   {
-    "Id": 306,
-    "LevelId": 2,
-    "Level": 6,
-    "Exp": 550
+    "id": 306,
+    "level_id": 2,
+    "level": 6,
+    "exp": 550
   },
   {
-    "Id": 307,
-    "LevelId": 2,
-    "Level": 7,
-    "Exp": 650
+    "id": 307,
+    "level_id": 2,
+    "level": 7,
+    "exp": 650
   },
   {
-    "Id": 308,
-    "LevelId": 2,
-    "Level": 8,
-    "Exp": 750
+    "id": 308,
+    "level_id": 2,
+    "level": 8,
+    "exp": 750
   },
   {
-    "Id": 309,
-    "LevelId": 2,
-    "Level": 9,
-    "Exp": 800
+    "id": 309,
+    "level_id": 2,
+    "level": 9,
+    "exp": 800
   },
   {
-    "Id": 310,
-    "LevelId": 2,
-    "Level": 10,
-    "Exp": 900
+    "id": 310,
+    "level_id": 2,
+    "level": 10,
+    "exp": 900
   },
   {
-    "Id": 311,
-    "LevelId": 2,
-    "Level": 11,
-    "Exp": 1000
+    "id": 311,
+    "level_id": 2,
+    "level": 11,
+    "exp": 1000
   },
   {
-    "Id": 312,
-    "LevelId": 2,
-    "Level": 12,
-    "Exp": 1100
+    "id": 312,
+    "level_id": 2,
+    "level": 12,
+    "exp": 1100
   },
   {
-    "Id": 313,
-    "LevelId": 2,
-    "Level": 13,
-    "Exp": 1200
+    "id": 313,
+    "level_id": 2,
+    "level": 13,
+    "exp": 1200
   },
   {
-    "Id": 314,
-    "LevelId": 2,
-    "Level": 14,
-    "Exp": 1350
+    "id": 314,
+    "level_id": 2,
+    "level": 14,
+    "exp": 1350
   },
   {
-    "Id": 315,
-    "LevelId": 2,
-    "Level": 15,
-    "Exp": 1450
+    "id": 315,
+    "level_id": 2,
+    "level": 15,
+    "exp": 1450
   },
   {
-    "Id": 316,
-    "LevelId": 2,
-    "Level": 16,
-    "Exp": 1550
+    "id": 316,
+    "level_id": 2,
+    "level": 16,
+    "exp": 1550
   },
   {
-    "Id": 317,
-    "LevelId": 2,
-    "Level": 17,
-    "Exp": 1700
+    "id": 317,
+    "level_id": 2,
+    "level": 17,
+    "exp": 1700
   },
   {
-    "Id": 318,
-    "LevelId": 2,
-    "Level": 18,
-    "Exp": 1800
+    "id": 318,
+    "level_id": 2,
+    "level": 18,
+    "exp": 1800
   },
   {
-    "Id": 319,
-    "LevelId": 2,
-    "Level": 19,
-    "Exp": 1950
+    "id": 319,
+    "level_id": 2,
+    "level": 19,
+    "exp": 1950
   },
   {
-    "Id": 320,
-    "LevelId": 2,
-    "Level": 20,
-    "Exp": 2100
+    "id": 320,
+    "level_id": 2,
+    "level": 20,
+    "exp": 2100
   },
   {
-    "Id": 321,
-    "LevelId": 2,
-    "Level": 21,
-    "Exp": 2200
+    "id": 321,
+    "level_id": 2,
+    "level": 21,
+    "exp": 2200
   },
   {
-    "Id": 322,
-    "LevelId": 2,
-    "Level": 22,
-    "Exp": 2350
+    "id": 322,
+    "level_id": 2,
+    "level": 22,
+    "exp": 2350
   },
   {
-    "Id": 323,
-    "LevelId": 2,
-    "Level": 23,
-    "Exp": 2500
+    "id": 323,
+    "level_id": 2,
+    "level": 23,
+    "exp": 2500
   },
   {
-    "Id": 324,
-    "LevelId": 2,
-    "Level": 24,
-    "Exp": 2700
+    "id": 324,
+    "level_id": 2,
+    "level": 24,
+    "exp": 2700
   },
   {
-    "Id": 325,
-    "LevelId": 2,
-    "Level": 25,
-    "Exp": 2850
+    "id": 325,
+    "level_id": 2,
+    "level": 25,
+    "exp": 2850
   },
   {
-    "Id": 326,
-    "LevelId": 2,
-    "Level": 26,
-    "Exp": 3000
+    "id": 326,
+    "level_id": 2,
+    "level": 26,
+    "exp": 3000
   },
   {
-    "Id": 327,
-    "LevelId": 2,
-    "Level": 27,
-    "Exp": 3200
+    "id": 327,
+    "level_id": 2,
+    "level": 27,
+    "exp": 3200
   },
   {
-    "Id": 328,
-    "LevelId": 2,
-    "Level": 28,
-    "Exp": 3350
+    "id": 328,
+    "level_id": 2,
+    "level": 28,
+    "exp": 3350
   },
   {
-    "Id": 329,
-    "LevelId": 2,
-    "Level": 29,
-    "Exp": 3550
+    "id": 329,
+    "level_id": 2,
+    "level": 29,
+    "exp": 3550
   },
   {
-    "Id": 330,
-    "LevelId": 2,
-    "Level": 30,
-    "Exp": 3750
+    "id": 330,
+    "level_id": 2,
+    "level": 30,
+    "exp": 3750
   },
   {
-    "Id": 331,
-    "LevelId": 2,
-    "Level": 31,
-    "Exp": 3950
+    "id": 331,
+    "level_id": 2,
+    "level": 31,
+    "exp": 3950
   },
   {
-    "Id": 332,
-    "LevelId": 2,
-    "Level": 32,
-    "Exp": 4150
+    "id": 332,
+    "level_id": 2,
+    "level": 32,
+    "exp": 4150
   },
   {
-    "Id": 333,
-    "LevelId": 2,
-    "Level": 33,
-    "Exp": 4400
+    "id": 333,
+    "level_id": 2,
+    "level": 33,
+    "exp": 4400
   },
   {
-    "Id": 334,
-    "LevelId": 2,
-    "Level": 34,
-    "Exp": 4600
+    "id": 334,
+    "level_id": 2,
+    "level": 34,
+    "exp": 4600
   },
   {
-    "Id": 335,
-    "LevelId": 2,
-    "Level": 35,
-    "Exp": 4850
+    "id": 335,
+    "level_id": 2,
+    "level": 35,
+    "exp": 4850
   },
   {
-    "Id": 336,
-    "LevelId": 2,
-    "Level": 36,
-    "Exp": 5100
+    "id": 336,
+    "level_id": 2,
+    "level": 36,
+    "exp": 5100
   },
   {
-    "Id": 337,
-    "LevelId": 2,
-    "Level": 37,
-    "Exp": 5350
+    "id": 337,
+    "level_id": 2,
+    "level": 37,
+    "exp": 5350
   },
   {
-    "Id": 338,
-    "LevelId": 2,
-    "Level": 38,
-    "Exp": 5600
+    "id": 338,
+    "level_id": 2,
+    "level": 38,
+    "exp": 5600
   },
   {
-    "Id": 339,
-    "LevelId": 2,
-    "Level": 39,
-    "Exp": 5850
+    "id": 339,
+    "level_id": 2,
+    "level": 39,
+    "exp": 5850
   },
   {
-    "Id": 340,
-    "LevelId": 2,
-    "Level": 40,
-    "Exp": 6150
+    "id": 340,
+    "level_id": 2,
+    "level": 40,
+    "exp": 6150
   },
   {
-    "Id": 341,
-    "LevelId": 2,
-    "Level": 41,
-    "Exp": 6400
+    "id": 341,
+    "level_id": 2,
+    "level": 41,
+    "exp": 6400
   },
   {
-    "Id": 342,
-    "LevelId": 2,
-    "Level": 42,
-    "Exp": 6700
+    "id": 342,
+    "level_id": 2,
+    "level": 42,
+    "exp": 6700
   },
   {
-    "Id": 343,
-    "LevelId": 2,
-    "Level": 43,
-    "Exp": 7000
+    "id": 343,
+    "level_id": 2,
+    "level": 43,
+    "exp": 7000
   },
   {
-    "Id": 344,
-    "LevelId": 2,
-    "Level": 44,
-    "Exp": 7350
+    "id": 344,
+    "level_id": 2,
+    "level": 44,
+    "exp": 7350
   },
   {
-    "Id": 345,
-    "LevelId": 2,
-    "Level": 45,
-    "Exp": 7650
+    "id": 345,
+    "level_id": 2,
+    "level": 45,
+    "exp": 7650
   },
   {
-    "Id": 346,
-    "LevelId": 2,
-    "Level": 46,
-    "Exp": 8000
+    "id": 346,
+    "level_id": 2,
+    "level": 46,
+    "exp": 8000
   },
   {
-    "Id": 347,
-    "LevelId": 2,
-    "Level": 47,
-    "Exp": 8350
+    "id": 347,
+    "level_id": 2,
+    "level": 47,
+    "exp": 8350
   },
   {
-    "Id": 348,
-    "LevelId": 2,
-    "Level": 48,
-    "Exp": 8700
+    "id": 348,
+    "level_id": 2,
+    "level": 48,
+    "exp": 8700
   },
   {
-    "Id": 349,
-    "LevelId": 2,
-    "Level": 49,
-    "Exp": 9100
+    "id": 349,
+    "level_id": 2,
+    "level": 49,
+    "exp": 9100
   },
   {
-    "Id": 350,
-    "LevelId": 2,
-    "Level": 50,
-    "Exp": 9450
+    "id": 350,
+    "level_id": 2,
+    "level": 50,
+    "exp": 9450
   },
   {
-    "Id": 351,
-    "LevelId": 2,
-    "Level": 51,
-    "Exp": 9850
+    "id": 351,
+    "level_id": 2,
+    "level": 51,
+    "exp": 9850
   },
   {
-    "Id": 352,
-    "LevelId": 2,
-    "Level": 52,
-    "Exp": 10250
+    "id": 352,
+    "level_id": 2,
+    "level": 52,
+    "exp": 10250
   },
   {
-    "Id": 353,
-    "LevelId": 2,
-    "Level": 53,
-    "Exp": 10700
+    "id": 353,
+    "level_id": 2,
+    "level": 53,
+    "exp": 10700
   },
   {
-    "Id": 354,
-    "LevelId": 2,
-    "Level": 54,
-    "Exp": 11100
+    "id": 354,
+    "level_id": 2,
+    "level": 54,
+    "exp": 11100
   },
   {
-    "Id": 355,
-    "LevelId": 2,
-    "Level": 55,
-    "Exp": 11550
+    "id": 355,
+    "level_id": 2,
+    "level": 55,
+    "exp": 11550
   },
   {
-    "Id": 356,
-    "LevelId": 2,
-    "Level": 56,
-    "Exp": 12050
+    "id": 356,
+    "level_id": 2,
+    "level": 56,
+    "exp": 12050
   },
   {
-    "Id": 357,
-    "LevelId": 2,
-    "Level": 57,
-    "Exp": 12500
+    "id": 357,
+    "level_id": 2,
+    "level": 57,
+    "exp": 12500
   },
   {
-    "Id": 358,
-    "LevelId": 2,
-    "Level": 58,
-    "Exp": 13000
+    "id": 358,
+    "level_id": 2,
+    "level": 58,
+    "exp": 13000
   },
   {
-    "Id": 359,
-    "LevelId": 2,
-    "Level": 59,
-    "Exp": 13500
+    "id": 359,
+    "level_id": 2,
+    "level": 59,
+    "exp": 13500
   },
   {
-    "Id": 360,
-    "LevelId": 2,
-    "Level": 60,
-    "Exp": 14050
+    "id": 360,
+    "level_id": 2,
+    "level": 60,
+    "exp": 14050
   },
   {
-    "Id": 361,
-    "LevelId": 2,
-    "Level": 61,
-    "Exp": 14600
+    "id": 361,
+    "level_id": 2,
+    "level": 61,
+    "exp": 14600
   },
   {
-    "Id": 362,
-    "LevelId": 2,
-    "Level": 62,
-    "Exp": 15150
+    "id": 362,
+    "level_id": 2,
+    "level": 62,
+    "exp": 15150
   },
   {
-    "Id": 363,
-    "LevelId": 2,
-    "Level": 63,
-    "Exp": 15700
+    "id": 363,
+    "level_id": 2,
+    "level": 63,
+    "exp": 15700
   },
   {
-    "Id": 364,
-    "LevelId": 2,
-    "Level": 64,
-    "Exp": 16300
+    "id": 364,
+    "level_id": 2,
+    "level": 64,
+    "exp": 16300
   },
   {
-    "Id": 365,
-    "LevelId": 2,
-    "Level": 65,
-    "Exp": 16900
+    "id": 365,
+    "level_id": 2,
+    "level": 65,
+    "exp": 16900
   },
   {
-    "Id": 366,
-    "LevelId": 2,
-    "Level": 66,
-    "Exp": 17550
+    "id": 366,
+    "level_id": 2,
+    "level": 66,
+    "exp": 17550
   },
   {
-    "Id": 367,
-    "LevelId": 2,
-    "Level": 67,
-    "Exp": 18200
+    "id": 367,
+    "level_id": 2,
+    "level": 67,
+    "exp": 18200
   },
   {
-    "Id": 368,
-    "LevelId": 2,
-    "Level": 68,
-    "Exp": 18850
+    "id": 368,
+    "level_id": 2,
+    "level": 68,
+    "exp": 18850
   },
   {
-    "Id": 369,
-    "LevelId": 2,
-    "Level": 69,
-    "Exp": 19500
+    "id": 369,
+    "level_id": 2,
+    "level": 69,
+    "exp": 19500
   },
   {
-    "Id": 370,
-    "LevelId": 2,
-    "Level": 70,
-    "Exp": 20250
+    "id": 370,
+    "level_id": 2,
+    "level": 70,
+    "exp": 20250
   },
   {
-    "Id": 371,
-    "LevelId": 2,
-    "Level": 71,
-    "Exp": 20950
+    "id": 371,
+    "level_id": 2,
+    "level": 71,
+    "exp": 20950
   },
   {
-    "Id": 372,
-    "LevelId": 2,
-    "Level": 72,
-    "Exp": 21700
+    "id": 372,
+    "level_id": 2,
+    "level": 72,
+    "exp": 21700
   },
   {
-    "Id": 373,
-    "LevelId": 2,
-    "Level": 73,
-    "Exp": 22450
+    "id": 373,
+    "level_id": 2,
+    "level": 73,
+    "exp": 22450
   },
   {
-    "Id": 374,
-    "LevelId": 2,
-    "Level": 74,
-    "Exp": 23250
+    "id": 374,
+    "level_id": 2,
+    "level": 74,
+    "exp": 23250
   },
   {
-    "Id": 375,
-    "LevelId": 2,
-    "Level": 75,
-    "Exp": 24050
+    "id": 375,
+    "level_id": 2,
+    "level": 75,
+    "exp": 24050
   },
   {
-    "Id": 376,
-    "LevelId": 2,
-    "Level": 76,
-    "Exp": 24900
+    "id": 376,
+    "level_id": 2,
+    "level": 76,
+    "exp": 24900
   },
   {
-    "Id": 377,
-    "LevelId": 2,
-    "Level": 77,
-    "Exp": 25750
+    "id": 377,
+    "level_id": 2,
+    "level": 77,
+    "exp": 25750
   },
   {
-    "Id": 378,
-    "LevelId": 2,
-    "Level": 78,
-    "Exp": 26600
+    "id": 378,
+    "level_id": 2,
+    "level": 78,
+    "exp": 26600
   },
   {
-    "Id": 379,
-    "LevelId": 2,
-    "Level": 79,
-    "Exp": 27500
+    "id": 379,
+    "level_id": 2,
+    "level": 79,
+    "exp": 27500
   },
   {
-    "Id": 380,
-    "LevelId": 2,
-    "Level": 80,
-    "Exp": 30250
+    "id": 380,
+    "level_id": 2,
+    "level": 80,
+    "exp": 30250
   },
   {
-    "Id": 381,
-    "LevelId": 2,
-    "Level": 81,
-    "Exp": 31600
+    "id": 381,
+    "level_id": 2,
+    "level": 81,
+    "exp": 31600
   },
   {
-    "Id": 382,
-    "LevelId": 2,
-    "Level": 82,
-    "Exp": 33500
+    "id": 382,
+    "level_id": 2,
+    "level": 82,
+    "exp": 33500
   },
   {
-    "Id": 383,
-    "LevelId": 2,
-    "Level": 83,
-    "Exp": 36050
+    "id": 383,
+    "level_id": 2,
+    "level": 83,
+    "exp": 36050
   },
   {
-    "Id": 384,
-    "LevelId": 2,
-    "Level": 84,
-    "Exp": 39350
+    "id": 384,
+    "level_id": 2,
+    "level": 84,
+    "exp": 39350
   },
   {
-    "Id": 385,
-    "LevelId": 2,
-    "Level": 85,
-    "Exp": 43600
+    "id": 385,
+    "level_id": 2,
+    "level": 85,
+    "exp": 43600
   },
   {
-    "Id": 386,
-    "LevelId": 2,
-    "Level": 86,
-    "Exp": 48950
+    "id": 386,
+    "level_id": 2,
+    "level": 86,
+    "exp": 48950
   },
   {
-    "Id": 387,
-    "LevelId": 2,
-    "Level": 87,
-    "Exp": 55700
+    "id": 387,
+    "level_id": 2,
+    "level": 87,
+    "exp": 55700
   },
   {
-    "Id": 388,
-    "LevelId": 2,
-    "Level": 88,
-    "Exp": 64000
+    "id": 388,
+    "level_id": 2,
+    "level": 88,
+    "exp": 64000
   },
   {
-    "Id": 389,
-    "LevelId": 2,
-    "Level": 89,
-    "Exp": 74200
+    "id": 389,
+    "level_id": 2,
+    "level": 89,
+    "exp": 74200
   },
   {
-    "Id": 390,
-    "LevelId": 2,
-    "Level": 90,
-    "Exp": 0
+    "id": 390,
+    "level_id": 2,
+    "level": 90,
+    "exp": 0
   },
   {
-    "Id": 401,
-    "LevelId": 1,
-    "Level": 1,
-    "Exp": 160
+    "id": 401,
+    "level_id": 1,
+    "level": 1,
+    "exp": 160
   },
   {
-    "Id": 402,
-    "LevelId": 1,
-    "Level": 2,
-    "Exp": 200
+    "id": 402,
+    "level_id": 1,
+    "level": 2,
+    "exp": 200
   },
   {
-    "Id": 403,
-    "LevelId": 1,
-    "Level": 3,
-    "Exp": 280
+    "id": 403,
+    "level_id": 1,
+    "level": 3,
+    "exp": 280
   },
   {
-    "Id": 404,
-    "LevelId": 1,
-    "Level": 4,
-    "Exp": 320
+    "id": 404,
+    "level_id": 1,
+    "level": 4,
+    "exp": 320
   },
   {
-    "Id": 405,
-    "LevelId": 1,
-    "Level": 5,
-    "Exp": 400
+    "id": 405,
+    "level_id": 1,
+    "level": 5,
+    "exp": 400
   },
   {
-    "Id": 406,
-    "LevelId": 1,
-    "Level": 6,
-    "Exp": 440
+    "id": 406,
+    "level_id": 1,
+    "level": 6,
+    "exp": 440
   },
   {
-    "Id": 407,
-    "LevelId": 1,
-    "Level": 7,
-    "Exp": 520
+    "id": 407,
+    "level_id": 1,
+    "level": 7,
+    "exp": 520
   },
   {
-    "Id": 408,
-    "LevelId": 1,
-    "Level": 8,
-    "Exp": 600
+    "id": 408,
+    "level_id": 1,
+    "level": 8,
+    "exp": 600
   },
   {
-    "Id": 409,
-    "LevelId": 1,
-    "Level": 9,
-    "Exp": 640
+    "id": 409,
+    "level_id": 1,
+    "level": 9,
+    "exp": 640
   },
   {
-    "Id": 410,
-    "LevelId": 1,
-    "Level": 10,
-    "Exp": 720
+    "id": 410,
+    "level_id": 1,
+    "level": 10,
+    "exp": 720
   },
   {
-    "Id": 411,
-    "LevelId": 1,
-    "Level": 11,
-    "Exp": 800
+    "id": 411,
+    "level_id": 1,
+    "level": 11,
+    "exp": 800
   },
   {
-    "Id": 412,
-    "LevelId": 1,
-    "Level": 12,
-    "Exp": 880
+    "id": 412,
+    "level_id": 1,
+    "level": 12,
+    "exp": 880
   },
   {
-    "Id": 413,
-    "LevelId": 1,
-    "Level": 13,
-    "Exp": 960
+    "id": 413,
+    "level_id": 1,
+    "level": 13,
+    "exp": 960
   },
   {
-    "Id": 414,
-    "LevelId": 1,
-    "Level": 14,
-    "Exp": 1080
+    "id": 414,
+    "level_id": 1,
+    "level": 14,
+    "exp": 1080
   },
   {
-    "Id": 415,
-    "LevelId": 1,
-    "Level": 15,
-    "Exp": 1160
+    "id": 415,
+    "level_id": 1,
+    "level": 15,
+    "exp": 1160
   },
   {
-    "Id": 416,
-    "LevelId": 1,
-    "Level": 16,
-    "Exp": 1240
+    "id": 416,
+    "level_id": 1,
+    "level": 16,
+    "exp": 1240
   },
   {
-    "Id": 417,
-    "LevelId": 1,
-    "Level": 17,
-    "Exp": 1360
+    "id": 417,
+    "level_id": 1,
+    "level": 17,
+    "exp": 1360
   },
   {
-    "Id": 418,
-    "LevelId": 1,
-    "Level": 18,
-    "Exp": 1440
+    "id": 418,
+    "level_id": 1,
+    "level": 18,
+    "exp": 1440
   },
   {
-    "Id": 419,
-    "LevelId": 1,
-    "Level": 19,
-    "Exp": 1560
+    "id": 419,
+    "level_id": 1,
+    "level": 19,
+    "exp": 1560
   },
   {
-    "Id": 420,
-    "LevelId": 1,
-    "Level": 20,
-    "Exp": 1680
+    "id": 420,
+    "level_id": 1,
+    "level": 20,
+    "exp": 1680
   },
   {
-    "Id": 421,
-    "LevelId": 1,
-    "Level": 21,
-    "Exp": 1760
+    "id": 421,
+    "level_id": 1,
+    "level": 21,
+    "exp": 1760
   },
   {
-    "Id": 422,
-    "LevelId": 1,
-    "Level": 22,
-    "Exp": 1880
+    "id": 422,
+    "level_id": 1,
+    "level": 22,
+    "exp": 1880
   },
   {
-    "Id": 423,
-    "LevelId": 1,
-    "Level": 23,
-    "Exp": 2000
+    "id": 423,
+    "level_id": 1,
+    "level": 23,
+    "exp": 2000
   },
   {
-    "Id": 424,
-    "LevelId": 1,
-    "Level": 24,
-    "Exp": 2160
+    "id": 424,
+    "level_id": 1,
+    "level": 24,
+    "exp": 2160
   },
   {
-    "Id": 425,
-    "LevelId": 1,
-    "Level": 25,
-    "Exp": 2280
+    "id": 425,
+    "level_id": 1,
+    "level": 25,
+    "exp": 2280
   },
   {
-    "Id": 426,
-    "LevelId": 1,
-    "Level": 26,
-    "Exp": 2400
+    "id": 426,
+    "level_id": 1,
+    "level": 26,
+    "exp": 2400
   },
   {
-    "Id": 427,
-    "LevelId": 1,
-    "Level": 27,
-    "Exp": 2560
+    "id": 427,
+    "level_id": 1,
+    "level": 27,
+    "exp": 2560
   },
   {
-    "Id": 428,
-    "LevelId": 1,
-    "Level": 28,
-    "Exp": 2680
+    "id": 428,
+    "level_id": 1,
+    "level": 28,
+    "exp": 2680
   },
   {
-    "Id": 429,
-    "LevelId": 1,
-    "Level": 29,
-    "Exp": 2840
+    "id": 429,
+    "level_id": 1,
+    "level": 29,
+    "exp": 2840
   },
   {
-    "Id": 430,
-    "LevelId": 1,
-    "Level": 30,
-    "Exp": 3000
+    "id": 430,
+    "level_id": 1,
+    "level": 30,
+    "exp": 3000
   },
   {
-    "Id": 431,
-    "LevelId": 1,
-    "Level": 31,
-    "Exp": 3160
+    "id": 431,
+    "level_id": 1,
+    "level": 31,
+    "exp": 3160
   },
   {
-    "Id": 432,
-    "LevelId": 1,
-    "Level": 32,
-    "Exp": 3320
+    "id": 432,
+    "level_id": 1,
+    "level": 32,
+    "exp": 3320
   },
   {
-    "Id": 433,
-    "LevelId": 1,
-    "Level": 33,
-    "Exp": 3520
+    "id": 433,
+    "level_id": 1,
+    "level": 33,
+    "exp": 3520
   },
   {
-    "Id": 434,
-    "LevelId": 1,
-    "Level": 34,
-    "Exp": 3680
+    "id": 434,
+    "level_id": 1,
+    "level": 34,
+    "exp": 3680
   },
   {
-    "Id": 435,
-    "LevelId": 1,
-    "Level": 35,
-    "Exp": 3880
+    "id": 435,
+    "level_id": 1,
+    "level": 35,
+    "exp": 3880
   },
   {
-    "Id": 436,
-    "LevelId": 1,
-    "Level": 36,
-    "Exp": 4080
+    "id": 436,
+    "level_id": 1,
+    "level": 36,
+    "exp": 4080
   },
   {
-    "Id": 437,
-    "LevelId": 1,
-    "Level": 37,
-    "Exp": 4280
+    "id": 437,
+    "level_id": 1,
+    "level": 37,
+    "exp": 4280
   },
   {
-    "Id": 438,
-    "LevelId": 1,
-    "Level": 38,
-    "Exp": 4480
+    "id": 438,
+    "level_id": 1,
+    "level": 38,
+    "exp": 4480
   },
   {
-    "Id": 439,
-    "LevelId": 1,
-    "Level": 39,
-    "Exp": 4680
+    "id": 439,
+    "level_id": 1,
+    "level": 39,
+    "exp": 4680
   },
   {
-    "Id": 440,
-    "LevelId": 1,
-    "Level": 40,
-    "Exp": 4920
+    "id": 440,
+    "level_id": 1,
+    "level": 40,
+    "exp": 4920
   },
   {
-    "Id": 441,
-    "LevelId": 1,
-    "Level": 41,
-    "Exp": 5120
+    "id": 441,
+    "level_id": 1,
+    "level": 41,
+    "exp": 5120
   },
   {
-    "Id": 442,
-    "LevelId": 1,
-    "Level": 42,
-    "Exp": 5360
+    "id": 442,
+    "level_id": 1,
+    "level": 42,
+    "exp": 5360
   },
   {
-    "Id": 443,
-    "LevelId": 1,
-    "Level": 43,
-    "Exp": 5600
+    "id": 443,
+    "level_id": 1,
+    "level": 43,
+    "exp": 5600
   },
   {
-    "Id": 444,
-    "LevelId": 1,
-    "Level": 44,
-    "Exp": 5880
+    "id": 444,
+    "level_id": 1,
+    "level": 44,
+    "exp": 5880
   },
   {
-    "Id": 445,
-    "LevelId": 1,
-    "Level": 45,
-    "Exp": 6120
+    "id": 445,
+    "level_id": 1,
+    "level": 45,
+    "exp": 6120
   },
   {
-    "Id": 446,
-    "LevelId": 1,
-    "Level": 46,
-    "Exp": 6400
+    "id": 446,
+    "level_id": 1,
+    "level": 46,
+    "exp": 6400
   },
   {
-    "Id": 447,
-    "LevelId": 1,
-    "Level": 47,
-    "Exp": 6680
+    "id": 447,
+    "level_id": 1,
+    "level": 47,
+    "exp": 6680
   },
   {
-    "Id": 448,
-    "LevelId": 1,
-    "Level": 48,
-    "Exp": 6960
+    "id": 448,
+    "level_id": 1,
+    "level": 48,
+    "exp": 6960
   },
   {
-    "Id": 449,
-    "LevelId": 1,
-    "Level": 49,
-    "Exp": 7280
+    "id": 449,
+    "level_id": 1,
+    "level": 49,
+    "exp": 7280
   },
   {
-    "Id": 450,
-    "LevelId": 1,
-    "Level": 50,
-    "Exp": 7560
+    "id": 450,
+    "level_id": 1,
+    "level": 50,
+    "exp": 7560
   },
   {
-    "Id": 451,
-    "LevelId": 1,
-    "Level": 51,
-    "Exp": 7880
+    "id": 451,
+    "level_id": 1,
+    "level": 51,
+    "exp": 7880
   },
   {
-    "Id": 452,
-    "LevelId": 1,
-    "Level": 52,
-    "Exp": 8200
+    "id": 452,
+    "level_id": 1,
+    "level": 52,
+    "exp": 8200
   },
   {
-    "Id": 453,
-    "LevelId": 1,
-    "Level": 53,
-    "Exp": 8560
+    "id": 453,
+    "level_id": 1,
+    "level": 53,
+    "exp": 8560
   },
   {
-    "Id": 454,
-    "LevelId": 1,
-    "Level": 54,
-    "Exp": 8880
+    "id": 454,
+    "level_id": 1,
+    "level": 54,
+    "exp": 8880
   },
   {
-    "Id": 455,
-    "LevelId": 1,
-    "Level": 55,
-    "Exp": 9240
+    "id": 455,
+    "level_id": 1,
+    "level": 55,
+    "exp": 9240
   },
   {
-    "Id": 456,
-    "LevelId": 1,
-    "Level": 56,
-    "Exp": 9640
+    "id": 456,
+    "level_id": 1,
+    "level": 56,
+    "exp": 9640
   },
   {
-    "Id": 457,
-    "LevelId": 1,
-    "Level": 57,
-    "Exp": 10000
+    "id": 457,
+    "level_id": 1,
+    "level": 57,
+    "exp": 10000
   },
   {
-    "Id": 458,
-    "LevelId": 1,
-    "Level": 58,
-    "Exp": 10400
+    "id": 458,
+    "level_id": 1,
+    "level": 58,
+    "exp": 10400
   },
   {
-    "Id": 459,
-    "LevelId": 1,
-    "Level": 59,
-    "Exp": 10800
+    "id": 459,
+    "level_id": 1,
+    "level": 59,
+    "exp": 10800
   },
   {
-    "Id": 460,
-    "LevelId": 1,
-    "Level": 60,
-    "Exp": 11240
+    "id": 460,
+    "level_id": 1,
+    "level": 60,
+    "exp": 11240
   },
   {
-    "Id": 461,
-    "LevelId": 1,
-    "Level": 61,
-    "Exp": 11680
+    "id": 461,
+    "level_id": 1,
+    "level": 61,
+    "exp": 11680
   },
   {
-    "Id": 462,
-    "LevelId": 1,
-    "Level": 62,
-    "Exp": 12120
+    "id": 462,
+    "level_id": 1,
+    "level": 62,
+    "exp": 12120
   },
   {
-    "Id": 463,
-    "LevelId": 1,
-    "Level": 63,
-    "Exp": 12560
+    "id": 463,
+    "level_id": 1,
+    "level": 63,
+    "exp": 12560
   },
   {
-    "Id": 464,
-    "LevelId": 1,
-    "Level": 64,
-    "Exp": 13040
+    "id": 464,
+    "level_id": 1,
+    "level": 64,
+    "exp": 13040
   },
   {
-    "Id": 465,
-    "LevelId": 1,
-    "Level": 65,
-    "Exp": 13520
+    "id": 465,
+    "level_id": 1,
+    "level": 65,
+    "exp": 13520
   },
   {
-    "Id": 466,
-    "LevelId": 1,
-    "Level": 66,
-    "Exp": 14040
+    "id": 466,
+    "level_id": 1,
+    "level": 66,
+    "exp": 14040
   },
   {
-    "Id": 467,
-    "LevelId": 1,
-    "Level": 67,
-    "Exp": 14560
+    "id": 467,
+    "level_id": 1,
+    "level": 67,
+    "exp": 14560
   },
   {
-    "Id": 468,
-    "LevelId": 1,
-    "Level": 68,
-    "Exp": 15080
+    "id": 468,
+    "level_id": 1,
+    "level": 68,
+    "exp": 15080
   },
   {
-    "Id": 469,
-    "LevelId": 1,
-    "Level": 69,
-    "Exp": 15600
+    "id": 469,
+    "level_id": 1,
+    "level": 69,
+    "exp": 15600
   },
   {
-    "Id": 470,
-    "LevelId": 1,
-    "Level": 70,
-    "Exp": 16200
+    "id": 470,
+    "level_id": 1,
+    "level": 70,
+    "exp": 16200
   },
   {
-    "Id": 471,
-    "LevelId": 1,
-    "Level": 71,
-    "Exp": 16760
+    "id": 471,
+    "level_id": 1,
+    "level": 71,
+    "exp": 16760
   },
   {
-    "Id": 472,
-    "LevelId": 1,
-    "Level": 72,
-    "Exp": 17360
+    "id": 472,
+    "level_id": 1,
+    "level": 72,
+    "exp": 17360
   },
   {
-    "Id": 473,
-    "LevelId": 1,
-    "Level": 73,
-    "Exp": 17960
+    "id": 473,
+    "level_id": 1,
+    "level": 73,
+    "exp": 17960
   },
   {
-    "Id": 474,
-    "LevelId": 1,
-    "Level": 74,
-    "Exp": 18600
+    "id": 474,
+    "level_id": 1,
+    "level": 74,
+    "exp": 18600
   },
   {
-    "Id": 475,
-    "LevelId": 1,
-    "Level": 75,
-    "Exp": 19240
+    "id": 475,
+    "level_id": 1,
+    "level": 75,
+    "exp": 19240
   },
   {
-    "Id": 476,
-    "LevelId": 1,
-    "Level": 76,
-    "Exp": 19920
+    "id": 476,
+    "level_id": 1,
+    "level": 76,
+    "exp": 19920
   },
   {
-    "Id": 477,
-    "LevelId": 1,
-    "Level": 77,
-    "Exp": 20600
+    "id": 477,
+    "level_id": 1,
+    "level": 77,
+    "exp": 20600
   },
   {
-    "Id": 478,
-    "LevelId": 1,
-    "Level": 78,
-    "Exp": 21280
+    "id": 478,
+    "level_id": 1,
+    "level": 78,
+    "exp": 21280
   },
   {
-    "Id": 479,
-    "LevelId": 1,
-    "Level": 79,
-    "Exp": 22000
+    "id": 479,
+    "level_id": 1,
+    "level": 79,
+    "exp": 22000
   },
   {
-    "Id": 480,
-    "LevelId": 1,
-    "Level": 80,
-    "Exp": 24200
+    "id": 480,
+    "level_id": 1,
+    "level": 80,
+    "exp": 24200
   },
   {
-    "Id": 481,
-    "LevelId": 1,
-    "Level": 81,
-    "Exp": 25280
+    "id": 481,
+    "level_id": 1,
+    "level": 81,
+    "exp": 25280
   },
   {
-    "Id": 482,
-    "LevelId": 1,
-    "Level": 82,
-    "Exp": 26800
+    "id": 482,
+    "level_id": 1,
+    "level": 82,
+    "exp": 26800
   },
   {
-    "Id": 483,
-    "LevelId": 1,
-    "Level": 83,
-    "Exp": 28840
+    "id": 483,
+    "level_id": 1,
+    "level": 83,
+    "exp": 28840
   },
   {
-    "Id": 484,
-    "LevelId": 1,
-    "Level": 84,
-    "Exp": 31480
+    "id": 484,
+    "level_id": 1,
+    "level": 84,
+    "exp": 31480
   },
   {
-    "Id": 485,
-    "LevelId": 1,
-    "Level": 85,
-    "Exp": 34880
+    "id": 485,
+    "level_id": 1,
+    "level": 85,
+    "exp": 34880
   },
   {
-    "Id": 486,
-    "LevelId": 1,
-    "Level": 86,
-    "Exp": 39160
+    "id": 486,
+    "level_id": 1,
+    "level": 86,
+    "exp": 39160
   },
   {
-    "Id": 487,
-    "LevelId": 1,
-    "Level": 87,
-    "Exp": 44560
+    "id": 487,
+    "level_id": 1,
+    "level": 87,
+    "exp": 44560
   },
   {
-    "Id": 488,
-    "LevelId": 1,
-    "Level": 88,
-    "Exp": 51200
+    "id": 488,
+    "level_id": 1,
+    "level": 88,
+    "exp": 51200
   },
   {
-    "Id": 489,
-    "LevelId": 1,
-    "Level": 89,
-    "Exp": 59360
+    "id": 489,
+    "level_id": 1,
+    "level": 89,
+    "exp": 59360
   },
   {
-    "Id": 490,
-    "LevelId": 1,
-    "Level": 90,
-    "Exp": 0
+    "id": 490,
+    "level_id": 1,
+    "level": 90,
+    "exp": 0
   }
 ]

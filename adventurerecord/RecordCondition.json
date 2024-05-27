@@ -1,567 +1,567 @@
 [
   {
-    "TypeId": 2,
-    "Type": "GetPhantomQualityLevelUp",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 2,
+    "type": "GetPhantomQualityLevelUp",
+    "nullenable": [],
+    "param1": [
       {
         "key": "quality",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "level",
         "value": "int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 3,
-    "Type": "RoleWereAndActivateFetters",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 3,
+    "type": "RoleWereAndActivateFetters",
+    "nullenable": [],
+    "param1": [
       {
         "key": "num",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "quality",
         "value": "int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "suit",
         "value": "int"
       }
     ],
-    "Param4": [],
-    "Param5": []
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 4,
-    "Type": "TerminalLevelUp",
-    "Nullenable": [],
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "type_id": 4,
+    "type": "TerminalLevelUp",
+    "nullenable": [],
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 5,
-    "Type": "GetWeaponQualityLevelUp",
-    "Nullenable": [
+    "type_id": 5,
+    "type": "GetWeaponQualityLevelUp",
+    "nullenable": [
       1,
       2
     ],
-    "Param1": [
+    "param1": [
       {
         "key": "quality",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "level",
         "value": "int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 6,
-    "Type": "PropertiesRoleLevelUp",
-    "Nullenable": [
+    "type_id": 6,
+    "type": "PropertiesRoleLevelUp",
+    "nullenable": [
       1,
       2
     ],
-    "Param1": [
+    "param1": [
       {
         "key": "type",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "level",
         "value": "int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 7,
-    "Type": "RoleSkillLevelUp",
-    "Nullenable": [
+    "type_id": 7,
+    "type": "RoleSkillLevelUp",
+    "nullenable": [
       1
     ],
-    "Param1": [
+    "param1": [
       {
         "key": "num",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "level",
         "value": "int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 8,
-    "Type": "ActiveDeliveryPoint",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 8,
+    "type": "ActiveDeliveryPoint",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 9,
-    "Type": "ActiveDeliveryPointInRegion",
-    "Nullenable": [
+    "type_id": 9,
+    "type": "ActiveDeliveryPointInRegion",
+    "nullenable": [
       1
     ],
-    "Param1": [
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 10,
-    "Type": "GetWorldCollection",
-    "Nullenable": [],
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "type_id": 10,
+    "type": "GetWorldCollection",
+    "nullenable": [],
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 11,
-    "Type": "GetLightCatReward",
-    "Nullenable": [],
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "type_id": 11,
+    "type": "GetLightCatReward",
+    "nullenable": [],
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 12,
-    "Type": "GetBoxReward",
-    "Nullenable": [],
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "type_id": 12,
+    "type": "GetBoxReward",
+    "nullenable": [],
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 13,
-    "Type": "QuestFinish",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 13,
+    "type": "QuestFinish",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 14,
-    "Type": "ConsumeItem",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 14,
+    "type": "ConsumeItem",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 15,
-    "Type": "GetDungeonReward",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 15,
+    "type": "GetDungeonReward",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 16,
-    "Type": "GetLevePlayReward",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 16,
+    "type": "GetLevePlayReward",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 17,
-    "Type": "测试",
-    "Nullenable": [],
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "type_id": 17,
+    "type": "测试",
+    "nullenable": [],
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 18,
-    "Type": "CapturePhantom",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 18,
+    "type": "CapturePhantom",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Quality",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 19,
-    "Type": "FinishDungeon",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 19,
+    "type": "FinishDungeon",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 20,
-    "Type": "FinishCook",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 20,
+    "type": "FinishCook",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 21,
-    "Type": "FinishSynthesis",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 21,
+    "type": "FinishSynthesis",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 22,
-    "Type": "FinishForge",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 22,
+    "type": "FinishForge",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 23,
-    "Type": "XRoleEquipXQualityWeapon",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 23,
+    "type": "XRoleEquipXQualityWeapon",
+    "nullenable": [],
+    "param1": [
       {
         "key": "quality",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 24,
-    "Type": "ActiveXTeleport",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 24,
+    "type": "ActiveXTeleport",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "i_array"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 25,
-    "Type": "InstanceTypeFinishCount",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 25,
+    "type": "InstanceTypeFinishCount",
+    "nullenable": [],
+    "param1": [
       {
         "key": "CustomTypes",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 26,
-    "Type": "LevelPlayCompleteCount",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 26,
+    "type": "LevelPlayCompleteCount",
+    "nullenable": [],
+    "param1": [
       {
         "key": "LevelType",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 27,
-    "Type": "SoundBoxReachXLevel",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 27,
+    "type": "SoundBoxReachXLevel",
+    "nullenable": [],
+    "param1": [
       {
         "key": "DragonPoolId",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "level",
         "value": "int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 28,
-    "Type": "PhantomProgress",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 28,
+    "type": "PhantomProgress",
+    "nullenable": [],
+    "param1": [
       {
         "key": "num",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 29,
-    "Type": "PassTowerFloor",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 29,
+    "type": "PassTowerFloor",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Difficulty",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "AreaNum",
         "value": "int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "Floor",
         "value": "int"
       }
     ],
-    "Param4": [],
-    "Param5": []
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 30,
-    "Type": "PassTowerStarCount",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 30,
+    "type": "PassTowerStarCount",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Difficulty",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "AreaNum",
         "value": "int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "Star",
         "value": "int"
       }
     ],
-    "Param4": [],
-    "Param5": []
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 31,
-    "Type": "PassLordLayer",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 31,
+    "type": "PassLordLayer",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Id",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 33,
-    "Type": "CommemorativeCoinsStoreConsumeXTimes",
-    "Nullenable": [],
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "type_id": 33,
+    "type": "CommemorativeCoinsStoreConsumeXTimes",
+    "nullenable": [],
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 34,
-    "Type": "PhantomIdentifyYQualityXNum",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 34,
+    "type": "PhantomIdentifyYQualityXNum",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Quality",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 35,
-    "Type": "GetXPlayLevelTypeFirstPassReward",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 35,
+    "type": "GetXPlayLevelTypeFirstPassReward",
+    "nullenable": [],
+    "param1": [
       {
         "key": "LevelType",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 36,
-    "Type": "PassXDifficultyRogue",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 36,
+    "type": "PassXDifficultyRogue",
+    "nullenable": [],
+    "param1": [
       {
         "key": "InstId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": []
   },
   {
-    "TypeId": 37,
-    "Type": "PassExploreLevel",
-    "Nullenable": [],
-    "Param1": [
+    "type_id": 37,
+    "type": "PassExploreLevel",
+    "nullenable": [],
+    "param1": [
       {
         "key": "Country",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Level",
         "value": "int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": []
+    "param3": [],
+    "param4": [],
+    "param5": []
   }
 ]

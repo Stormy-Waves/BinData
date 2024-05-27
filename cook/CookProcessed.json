@@ -1,10 +1,10 @@
 [
   {
-    "Id": 30000,
-    "FinalItemId": 80020000,
-    "Unlock": true,
-    "Name": "",
-    "ConsumeItemsId": [
+    "id": 30000,
+    "final_item_id": 80020000,
+    "unlock": true,
+    "name": "",
+    "consume_items_id": [
       {
         "item_id": 80050001,
         "count": 2
@@ -22,22 +22,22 @@
         "count": 1
       }
     ],
-    "LeastItemId": [
+    "least_item_id": [
       {
         "key": 80000000,
         "value": 1
       }
     ],
-    "InterationId": [
+    "interation_id": [
       8
     ]
   },
   {
-    "Id": 30001,
-    "FinalItemId": 80020001,
-    "Unlock": false,
-    "Name": "",
-    "ConsumeItemsId": [
+    "id": 30001,
+    "final_item_id": 80020001,
+    "unlock": false,
+    "name": "",
+    "consume_items_id": [
       {
         "item_id": 80050008,
         "count": 2
@@ -55,13 +55,13 @@
         "count": 1
       }
     ],
-    "LeastItemId": [
+    "least_item_id": [
       {
         "key": 80000000,
         "value": 1
       }
     ],
-    "InterationId": [
+    "interation_id": [
       1,
       2,
       3,
@@ -69,11 +69,11 @@
     ]
   },
   {
-    "Id": 30002,
-    "FinalItemId": 80020002,
-    "Unlock": false,
-    "Name": "",
-    "ConsumeItemsId": [
+    "id": 30002,
+    "final_item_id": 80020002,
+    "unlock": false,
+    "name": "",
+    "consume_items_id": [
       {
         "item_id": 42400010,
         "count": 1
@@ -87,24 +87,24 @@
         "count": 1
       }
     ],
-    "LeastItemId": [
+    "least_item_id": [
       {
         "key": 80000000,
         "value": 1
       }
     ],
-    "InterationId": [
+    "interation_id": [
       5,
       6,
       7
     ]
   },
   {
-    "Id": 30003,
-    "FinalItemId": 80020003,
-    "Unlock": true,
-    "Name": "",
-    "ConsumeItemsId": [
+    "id": 30003,
+    "final_item_id": 80020003,
+    "unlock": true,
+    "name": "",
+    "consume_items_id": [
       {
         "item_id": 80050003,
         "count": 2
@@ -118,22 +118,22 @@
         "count": 1
       }
     ],
-    "LeastItemId": [
+    "least_item_id": [
       {
         "key": 80000000,
         "value": 1
       }
     ],
-    "InterationId": [
+    "interation_id": [
       9
     ]
   },
   {
-    "Id": 30004,
-    "FinalItemId": 80020004,
-    "Unlock": true,
-    "Name": "",
-    "ConsumeItemsId": [
+    "id": 30004,
+    "final_item_id": 80020004,
+    "unlock": true,
+    "name": "",
+    "consume_items_id": [
       {
         "item_id": 80050009,
         "count": 2
@@ -143,13 +143,13 @@
         "count": 2
       }
     ],
-    "LeastItemId": [
+    "least_item_id": [
       {
         "key": 80000000,
         "value": 1
       }
     ],
-    "InterationId": [
+    "interation_id": [
       10
     ]
   }

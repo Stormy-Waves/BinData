@@ -1,845 +1,845 @@
 [
   {
-    "Id": 1,
-    "LoseDelay": {
+    "id": 1,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       1,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 21001,
-    "LoseDelay": {
+    "id": 21001,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       21001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 21005,
-    "LoseDelay": {
+    "id": 21005,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       21005
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 21006,
-    "LoseDelay": {
+    "id": 21006,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       21006
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 21007,
-    "LoseDelay": {
+    "id": 21007,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       21007
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70051,
-    "LoseDelay": {
+    "id": 70051,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70051,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70053,
-    "LoseDelay": {
+    "id": 70053,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70053,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70092,
-    "LoseDelay": {
+    "id": 70092,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70092,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77026,
-    "LoseDelay": {
+    "id": 77026,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77026,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70054,
-    "LoseDelay": {
+    "id": 70054,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70054
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70056,
-    "LoseDelay": {
+    "id": 70056,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70056
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70065,
-    "LoseDelay": {
+    "id": 70065,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70065,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70068,
-    "LoseDelay": {
+    "id": 70068,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70068,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70074,
-    "LoseDelay": {
+    "id": 70074,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70074,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70075,
-    "LoseDelay": {
+    "id": 70075,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70075,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70093,
-    "LoseDelay": {
+    "id": 70093,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70093,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70100,
-    "LoseDelay": {
+    "id": 70100,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70100,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70105,
-    "LoseDelay": {
+    "id": 70105,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70105,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77021,
-    "LoseDelay": {
+    "id": 77021,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77021,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77022,
-    "LoseDelay": {
+    "id": 77022,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77022,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77027,
-    "LoseDelay": {
+    "id": 77027,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77027,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77028,
-    "LoseDelay": {
+    "id": 77028,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77028,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77029,
-    "LoseDelay": {
+    "id": 77029,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77029,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77033,
-    "LoseDelay": {
+    "id": 77033,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77033,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77036,
-    "LoseDelay": {
+    "id": 77036,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77036,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77038,
-    "LoseDelay": {
+    "id": 77038,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77038,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 75001,
-    "LoseDelay": {
+    "id": 75001,
+    "lose_delay": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       75005,
       2,
       75008
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80002,
-    "LoseDelay": {
+    "id": 80002,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80002,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80003,
-    "LoseDelay": {
+    "id": 80003,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80003,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80004,
-    "LoseDelay": {
+    "id": 80004,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80004,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80005,
-    "LoseDelay": {
+    "id": 80005,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800051,
       80005
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80006,
-    "LoseDelay": {
+    "id": 80006,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80006
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80007,
-    "LoseDelay": {
+    "id": 80007,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80007
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80008,
-    "LoseDelay": {
+    "id": 80008,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80008
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80009,
-    "LoseDelay": {
+    "id": 80009,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80009
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80010,
-    "LoseDelay": {
+    "id": 80010,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80010
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80011,
-    "LoseDelay": {
+    "id": 80011,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80011
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80015,
-    "LoseDelay": {
+    "id": 80015,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80015
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80016,
-    "LoseDelay": {
+    "id": 80016,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80016
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 90001,
-    "LoseDelay": {
+    "id": 90001,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       90001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 90004,
-    "LoseDelay": {
+    "id": 90004,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       90004
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70072,
-    "LoseDelay": {
+    "id": 70072,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70072,
       170001,
       700721
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77041,
-    "LoseDelay": {
+    "id": 77041,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77041
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77045,
-    "LoseDelay": {
+    "id": 77045,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       770450,
       770451
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77012,
-    "LoseDelay": {
+    "id": 77012,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       1,
       75006,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80012,
-    "LoseDelay": {
+    "id": 80012,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80012
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80014,
-    "LoseDelay": {
+    "id": 80014,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80014
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70078,
-    "LoseDelay": {
+    "id": 70078,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70078,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70106,
-    "LoseDelay": {
+    "id": 70106,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80011
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80013,
-    "LoseDelay": {
+    "id": 80013,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80013
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70111,
-    "LoseDelay": {
+    "id": 70111,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70111,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 80017,
-    "LoseDelay": {
+    "id": 80017,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       80017
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800051,
-    "LoseDelay": {
+    "id": 800051,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800052
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77042,
-    "LoseDelay": {
+    "id": 77042,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77042
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 178001,
-    "LoseDelay": {
+    "id": 178001,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       178001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77047,
-    "LoseDelay": {
+    "id": 77047,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77047,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800041,
-    "LoseDelay": {
+    "id": 800041,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800041,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70116,
-    "LoseDelay": {
+    "id": 70116,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70116
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77048,
-    "LoseDelay": {
+    "id": 77048,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77048,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800131,
-    "LoseDelay": {
+    "id": 800131,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800131
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 77024,
-    "LoseDelay": {
+    "id": 77024,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       77024,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70119,
-    "LoseDelay": {
+    "id": 70119,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70119
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70107,
-    "LoseDelay": {
+    "id": 70107,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70107
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800091,
-    "LoseDelay": {
+    "id": 800091,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800091
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 70120,
-    "LoseDelay": {
+    "id": 70120,
+    "lose_delay": {
       "min": 5000.0,
       "max": 9000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       70120
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 700531,
-    "LoseDelay": {
+    "id": 700531,
+    "lose_delay": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       700531,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800021,
-    "LoseDelay": {
+    "id": 800021,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800021,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800031,
-    "LoseDelay": {
+    "id": 800031,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800031,
       170001
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800052,
-    "LoseDelay": {
+    "id": 800052,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800053
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800092,
-    "LoseDelay": {
+    "id": 800092,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800092
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800111,
-    "LoseDelay": {
+    "id": 800111,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800111
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800121,
-    "LoseDelay": {
+    "id": 800121,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800121
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   },
   {
-    "Id": 800101,
-    "LoseDelay": {
+    "id": 800101,
+    "lose_delay": {
       "min": 0.0,
       "max": 0.0
     },
-    "AiSenseIds": [
+    "ai_sense_ids": [
       800101
     ],
-    "ShareDis": 0.0
+    "share_dis": 0.0
   }
 ]

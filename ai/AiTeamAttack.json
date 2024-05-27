@@ -1,20 +1,20 @@
 [
   {
-    "Id": 1,
-    "ExtraWeight": 2000.0,
-    "DistanceCoefficient": 2.0,
-    "AngleCoefficient": 100.0
+    "id": 1,
+    "extra_weight": 2000.0,
+    "distance_coefficient": 2.0,
+    "angle_coefficient": 100.0
   },
   {
-    "Id": 2,
-    "ExtraWeight": 1000.0,
-    "DistanceCoefficient": 3.0,
-    "AngleCoefficient": 100.0
+    "id": 2,
+    "extra_weight": 1000.0,
+    "distance_coefficient": 3.0,
+    "angle_coefficient": 100.0
   },
   {
-    "Id": 3,
-    "ExtraWeight": 1500.0,
-    "DistanceCoefficient": 1.0,
-    "AngleCoefficient": 100.0
+    "id": 3,
+    "extra_weight": 1500.0,
+    "distance_coefficient": 1.0,
+    "angle_coefficient": 100.0
   }
 ]

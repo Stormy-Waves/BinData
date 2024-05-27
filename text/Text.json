@@ -1,5054 +1,5054 @@
 [
   {
-    "Id": "HttpTimeout",
-    "Text": "Text_HttpTimeout_Text"
+    "id": "HttpTimeout",
+    "text": "Text_HttpTimeout_Text"
   },
   {
-    "Id": "ConnectGateWayFail",
-    "Text": "Text_ConnectGateWayFail_Text"
+    "id": "ConnectGateWayFail",
+    "text": "Text_ConnectGateWayFail_Text"
   },
   {
-    "Id": "LoginRequestFail",
-    "Text": "Text_LoginRequestFail_Text"
+    "id": "LoginRequestFail",
+    "text": "Text_LoginRequestFail_Text"
   },
   {
-    "Id": "NetworkConnect",
-    "Text": "Text_NetworkConnect_Text"
+    "id": "NetworkConnect",
+    "text": "Text_NetworkConnect_Text"
   },
   {
-    "Id": "PatchDown",
-    "Text": "Text_PatchDown_Text"
+    "id": "PatchDown",
+    "text": "Text_PatchDown_Text"
   },
   {
-    "Id": "PatchDownTips",
-    "Text": "Text_PatchDownTips_Text"
+    "id": "PatchDownTips",
+    "text": "Text_PatchDownTips_Text"
   },
   {
-    "Id": "Install",
-    "Text": "Text_Install_Text"
+    "id": "Install",
+    "text": "Text_Install_Text"
   },
   {
-    "Id": "InstallTips",
-    "Text": "Text_InstallTips_Text"
+    "id": "InstallTips",
+    "text": "Text_InstallTips_Text"
   },
   {
-    "Id": "CheckIntegrity",
-    "Text": "Text_CheckIntegrity_Text"
+    "id": "CheckIntegrity",
+    "text": "Text_CheckIntegrity_Text"
   },
   {
-    "Id": "NoNetwork",
-    "Text": "Text_NoNetwork_Text"
+    "id": "NoNetwork",
+    "text": "Text_NoNetwork_Text"
   },
   {
-    "Id": "GetUpdateInfoFail",
-    "Text": "Text_GetUpdateInfoFail_Text"
+    "id": "GetUpdateInfoFail",
+    "text": "Text_GetUpdateInfoFail_Text"
   },
   {
-    "Id": "AccountText",
-    "Text": "Text_AccountText_Text"
+    "id": "AccountText",
+    "text": "Text_AccountText_Text"
   },
   {
-    "Id": "NoAnnouncementYet",
-    "Text": "Text_NoAnnouncementYet_Text"
+    "id": "NoAnnouncementYet",
+    "text": "Text_NoAnnouncementYet_Text"
   },
   {
-    "Id": "ClickEnterGame",
-    "Text": "Text_ClickEnterGame_Text"
+    "id": "ClickEnterGame",
+    "text": "Text_ClickEnterGame_Text"
   },
   {
-    "Id": "ClickToContinue",
-    "Text": "Text_ClickToContinue_Text"
+    "id": "ClickToContinue",
+    "text": "Text_ClickToContinue_Text"
   },
   {
-    "Id": "HttpServerNotOpen",
-    "Text": "Text_HttpServerNotOpen_Text"
+    "id": "HttpServerNotOpen",
+    "text": "Text_HttpServerNotOpen_Text"
   },
   {
-    "Id": "HttpServerMaintenance",
-    "Text": "Text_HttpServerMaintenance_Text"
+    "id": "HttpServerMaintenance",
+    "text": "Text_HttpServerMaintenance_Text"
   },
   {
-    "Id": "HttpInvalidLoginType",
-    "Text": "Text_HttpInvalidLoginType_Text"
+    "id": "HttpInvalidLoginType",
+    "text": "Text_HttpInvalidLoginType_Text"
   },
   {
-    "Id": "HttpClosedRegister",
-    "Text": "Text_HttpClosedRegister_Text"
+    "id": "HttpClosedRegister",
+    "text": "Text_HttpClosedRegister_Text"
   },
   {
-    "Id": "HttpRegisterOutOfLimit",
-    "Text": "Text_HttpRegisterOutOfLimit_Text"
+    "id": "HttpRegisterOutOfLimit",
+    "text": "Text_HttpRegisterOutOfLimit_Text"
   },
   {
-    "Id": "HttpInvalidUserId",
-    "Text": "Text_HttpInvalidUserId_Text"
+    "id": "HttpInvalidUserId",
+    "text": "Text_HttpInvalidUserId_Text"
   },
   {
-    "Id": "HttpInvalidToken",
-    "Text": "Text_HttpInvalidToken_Text"
+    "id": "HttpInvalidToken",
+    "text": "Text_HttpInvalidToken_Text"
   },
   {
-    "Id": "HttpInvalidGateway",
-    "Text": "Text_HttpInvalidGateway_Text"
+    "id": "HttpInvalidGateway",
+    "text": "Text_HttpInvalidGateway_Text"
   },
   {
-    "Id": "HttpServerFullLoad",
-    "Text": "Text_HttpServerFullLoad_Text"
+    "id": "HttpServerFullLoad",
+    "text": "Text_HttpServerFullLoad_Text"
   },
   {
-    "Id": "HttpInternalError",
-    "Text": "Text_HttpInternalError_Text"
+    "id": "HttpInternalError",
+    "text": "Text_HttpInternalError_Text"
   },
   {
-    "Id": "HttpSDKServerError",
-    "Text": "Text_HttpSDKServerError_Text"
+    "id": "HttpSDKServerError",
+    "text": "Text_HttpSDKServerError_Text"
   },
   {
-    "Id": "HttpTokenNotAuthrized",
-    "Text": "Text_HttpTokenNotAuthrized_Text"
+    "id": "HttpTokenNotAuthrized",
+    "text": "Text_HttpTokenNotAuthrized_Text"
   },
   {
-    "Id": "HttpHadBan",
-    "Text": "Text_HttpHadBan_Text"
+    "id": "HttpHadBan",
+    "text": "Text_HttpHadBan_Text"
   },
   {
-    "Id": "HttpNotInUserIdWhiteList",
-    "Text": "Text_HttpNotInUserIdWhiteList_Text"
+    "id": "HttpNotInUserIdWhiteList",
+    "text": "Text_HttpNotInUserIdWhiteList_Text"
   },
   {
-    "Id": "HttpUnknownError",
-    "Text": "Text_HttpUnknownError_Text"
+    "id": "HttpUnknownError",
+    "text": "Text_HttpUnknownError_Text"
   },
   {
-    "Id": "MultiplayerBack",
-    "Text": "Text_MultiplayerBack_Text"
+    "id": "MultiplayerBack",
+    "text": "Text_MultiplayerBack_Text"
   },
   {
-    "Id": "MultiplayerLeave",
-    "Text": "Text_MultiplayerLeave_Text"
+    "id": "MultiplayerLeave",
+    "text": "Text_MultiplayerLeave_Text"
   },
   {
-    "Id": "MultiplayerLeaderLeave",
-    "Text": "Text_MultiplayerLeaderLeave_Text"
+    "id": "MultiplayerLeaderLeave",
+    "text": "Text_MultiplayerLeaderLeave_Text"
   },
   {
-    "Id": "MultiplayerBeKicked",
-    "Text": "Text_MultiplayerBeKicked_Text"
+    "id": "MultiplayerBeKicked",
+    "text": "Text_MultiplayerBeKicked_Text"
   },
   {
-    "Id": "InstanceDungeonCantKickNoPermission",
-    "Text": "Text_InstanceDungeonCantKickNoPermission_Text"
+    "id": "InstanceDungeonCantKickNoPermission",
+    "text": "Text_InstanceDungeonCantKickNoPermission_Text"
   },
   {
-    "Id": "InstanceDungeonCantKick",
-    "Text": "Text_InstanceDungeonCantKick_Text"
+    "id": "InstanceDungeonCantKick",
+    "text": "Text_InstanceDungeonCantKick_Text"
   },
   {
-    "Id": "InstanceDungeonCantLeave",
-    "Text": "Text_InstanceDungeonCantLeave_Text"
+    "id": "InstanceDungeonCantLeave",
+    "text": "Text_InstanceDungeonCantLeave_Text"
   },
   {
-    "Id": "InstanceDungeonRefuse",
-    "Text": "Text_InstanceDungeonRefuse_Text"
+    "id": "InstanceDungeonRefuse",
+    "text": "Text_InstanceDungeonRefuse_Text"
   },
   {
-    "Id": "InstanceDungeonBeKicked",
-    "Text": "Text_InstanceDungeonBeKicked_Text"
+    "id": "InstanceDungeonBeKicked",
+    "text": "Text_InstanceDungeonBeKicked_Text"
   },
   {
-    "Id": "InstanceDungeonDissolveText",
-    "Text": "Text_InstanceDungeonDissolveText_Text"
+    "id": "InstanceDungeonDissolveText",
+    "text": "Text_InstanceDungeonDissolveText_Text"
   },
   {
-    "Id": "Hour",
-    "Text": "Text_Hour_Text"
+    "id": "Hour",
+    "text": "Text_Hour_Text"
   },
   {
-    "Id": "Minute",
-    "Text": "Text_Minute_Text"
+    "id": "Minute",
+    "text": "Text_Minute_Text"
   },
   {
-    "Id": "Second",
-    "Text": "Text_Second_Text"
+    "id": "Second",
+    "text": "Text_Second_Text"
   },
   {
-    "Id": "InstanceDungeonLeave",
-    "Text": "Text_InstanceDungeonLeave_Text"
+    "id": "InstanceDungeonLeave",
+    "text": "Text_InstanceDungeonLeave_Text"
   },
   {
-    "Id": "InstanceDungeonKickOther",
-    "Text": "Text_InstanceDungeonKickOther_Text"
+    "id": "InstanceDungeonKickOther",
+    "text": "Text_InstanceDungeonKickOther_Text"
   },
   {
-    "Id": "InstanceDungeonOtherJoin",
-    "Text": "Text_InstanceDungeonOtherJoin_Text"
+    "id": "InstanceDungeonOtherJoin",
+    "text": "Text_InstanceDungeonOtherJoin_Text"
   },
   {
-    "Id": "InstanceDungeonRecommendLevel",
-    "Text": "Text_InstanceDungeonRecommendLevel_Text"
+    "id": "InstanceDungeonRecommendLevel",
+    "text": "Text_InstanceDungeonRecommendLevel_Text"
   },
   {
-    "Id": "InstanceDungeonLeftChallengeTimes",
-    "Text": "Text_InstanceDungeonLeftChallengeTimes_Text"
+    "id": "InstanceDungeonLeftChallengeTimes",
+    "text": "Text_InstanceDungeonLeftChallengeTimes_Text"
   },
   {
-    "Id": "InstanceDungeonLimitElement",
-    "Text": "Text_InstanceDungeonLimitElement_Text"
+    "id": "InstanceDungeonLimitElement",
+    "text": "Text_InstanceDungeonLimitElement_Text"
   },
   {
-    "Id": "InstanceDungeonEntranceRepeatUnlock",
-    "Text": "Text_InstanceDungeonEntranceRepeatUnlock_Text"
+    "id": "InstanceDungeonEntranceRepeatUnlock",
+    "text": "Text_InstanceDungeonEntranceRepeatUnlock_Text"
   },
   {
-    "Id": "InstanceDungeonEntranceCantUnlock",
-    "Text": "Text_InstanceDungeonEntranceCantUnlock_Text"
+    "id": "InstanceDungeonEntranceCantUnlock",
+    "text": "Text_InstanceDungeonEntranceCantUnlock_Text"
   },
   {
-    "Id": "InstanceDungeonLackChallengeTimes",
-    "Text": "Text_InstanceDungeonLackChallengeTimes_Text"
+    "id": "InstanceDungeonLackChallengeTimes",
+    "text": "Text_InstanceDungeonLackChallengeTimes_Text"
   },
   {
-    "Id": "InstanceDungeonLeftTimeToAutoLeave",
-    "Text": "Text_InstanceDungeonLeftTimeToAutoLeave_Text"
+    "id": "InstanceDungeonLeftTimeToAutoLeave",
+    "text": "Text_InstanceDungeonLeftTimeToAutoLeave_Text"
   },
   {
-    "Id": "InstanceDungeonCurrentPower",
-    "Text": "Text_InstanceDungeonCurrentPower_Text"
+    "id": "InstanceDungeonCurrentPower",
+    "text": "Text_InstanceDungeonCurrentPower_Text"
   },
   {
-    "Id": "InstanceDungeonEntranceTrack",
-    "Text": "Text_InstanceDungeonEntranceTrack_Text"
+    "id": "InstanceDungeonEntranceTrack",
+    "text": "Text_InstanceDungeonEntranceTrack_Text"
   },
   {
-    "Id": "InstanceDungeonEntranceCancelTrack",
-    "Text": "Text_InstanceDungeonEntranceCancelTrack_Text"
+    "id": "InstanceDungeonEntranceCancelTrack",
+    "text": "Text_InstanceDungeonEntranceCancelTrack_Text"
   },
   {
-    "Id": "InstanceDungeonDefendCreatureTips",
-    "Text": "Text_InstanceDungeonDefendCreatureTips_Text"
+    "id": "InstanceDungeonDefendCreatureTips",
+    "text": "Text_InstanceDungeonDefendCreatureTips_Text"
   },
   {
-    "Id": "InstanceDungeonDefendCreatureNumber",
-    "Text": "Text_InstanceDungeonDefendCreatureNumber_Text"
+    "id": "InstanceDungeonDefendCreatureNumber",
+    "text": "Text_InstanceDungeonDefendCreatureNumber_Text"
   },
   {
-    "Id": "InstanceDungeonShieldViewCantOpen",
-    "Text": "Text_InstanceDungeonShieldViewCantOpen_Text"
+    "id": "InstanceDungeonShieldViewCantOpen",
+    "text": "Text_InstanceDungeonShieldViewCantOpen_Text"
   },
   {
-    "Id": "InstanceDungeonDefendPoints",
-    "Text": "Text_InstanceDungeonDefendPoints_Text"
+    "id": "InstanceDungeonDefendPoints",
+    "text": "Text_InstanceDungeonDefendPoints_Text"
   },
   {
-    "Id": "WorldMapTagFull",
-    "Text": "Text_WorldMapTagFull_Text"
+    "id": "WorldMapTagFull",
+    "text": "Text_WorldMapTagFull_Text"
   },
   {
-    "Id": "EditBattleTeamForbitSwim",
-    "Text": "Text_EditBattleTeamForbitSwim_Text"
+    "id": "EditBattleTeamForbitSwim",
+    "text": "Text_EditBattleTeamForbitSwim_Text"
   },
   {
-    "Id": "EditBattleTeamForbitClimb",
-    "Text": "Text_EditBattleTeamForbitClimb_Text"
+    "id": "EditBattleTeamForbitClimb",
+    "text": "Text_EditBattleTeamForbitClimb_Text"
   },
   {
-    "Id": "EditBattleTeamForbitJump",
-    "Text": "Text_EditBattleTeamForbitJump_Text"
+    "id": "EditBattleTeamForbitJump",
+    "text": "Text_EditBattleTeamForbitJump_Text"
   },
   {
-    "Id": "EditBattleTeamForbitNear",
-    "Text": "Text_EditBattleTeamForbitNear_Text"
+    "id": "EditBattleTeamForbitNear",
+    "text": "Text_EditBattleTeamForbitNear_Text"
   },
   {
-    "Id": "EditBattleTeamForbitState",
-    "Text": "Text_EditBattleTeamForbitState_Text"
+    "id": "EditBattleTeamForbitState",
+    "text": "Text_EditBattleTeamForbitState_Text"
   },
   {
-    "Id": "EditBattleTeamInCD",
-    "Text": "Text_EditBattleTeamInCD_Text"
+    "id": "EditBattleTeamInCD",
+    "text": "Text_EditBattleTeamInCD_Text"
   },
   {
-    "Id": "EditBattleTeamOtherPlayer",
-    "Text": "Text_EditBattleTeamOtherPlayer_Text"
+    "id": "EditBattleTeamOtherPlayer",
+    "text": "Text_EditBattleTeamOtherPlayer_Text"
   },
   {
-    "Id": "EditBattleTeamLastRole",
-    "Text": "Text_EditBattleTeamLastRole_Text"
+    "id": "EditBattleTeamLastRole",
+    "text": "Text_EditBattleTeamLastRole_Text"
   },
   {
-    "Id": "EditBattleTeamInTeam",
-    "Text": "Text_EditBattleTeamInTeam_Text"
+    "id": "EditBattleTeamInTeam",
+    "text": "Text_EditBattleTeamInTeam_Text"
   },
   {
-    "Id": "EditFormationAllDead",
-    "Text": "Text_EditFormationAllDead_Text"
+    "id": "EditFormationAllDead",
+    "text": "Text_EditFormationAllDead_Text"
   },
   {
-    "Id": "MainNew",
-    "Text": "Text_MainNew_Text"
+    "id": "MainNew",
+    "text": "Text_MainNew_Text"
   },
   {
-    "Id": "MailMax",
-    "Text": "Text_MailMax_Text"
+    "id": "MailMax",
+    "text": "Text_MailMax_Text"
   },
   {
-    "Id": "MailDelete",
-    "Text": "Text_MailDelete_Text"
+    "id": "MailDelete",
+    "text": "Text_MailDelete_Text"
   },
   {
-    "Id": "ShopResourceNotEnough",
-    "Text": "Text_ShopResourceNotEnough_Text"
+    "id": "ShopResourceNotEnough",
+    "text": "Text_ShopResourceNotEnough_Text"
   },
   {
-    "Id": "RegionFirstOpenTips",
-    "Text": "Text_RegionFirstOpenTips_Text"
+    "id": "RegionFirstOpenTips",
+    "text": "Text_RegionFirstOpenTips_Text"
   },
   {
-    "Id": "ItemHaveNum",
-    "Text": "Text_ItemHaveNum_Text"
+    "id": "ItemHaveNum",
+    "text": "Text_ItemHaveNum_Text"
   },
   {
-    "Id": "ItemTipsHaveNum",
-    "Text": "Text_ItemTipsHaveNum_Text"
+    "id": "ItemTipsHaveNum",
+    "text": "Text_ItemTipsHaveNum_Text"
   },
   {
-    "Id": "ItemTipsNum",
-    "Text": "Text_ItemTipsNum_Text"
+    "id": "ItemTipsNum",
+    "text": "Text_ItemTipsNum_Text"
   },
   {
-    "Id": "ItemTips_1",
-    "Text": "Text_ItemTips_1_Text"
+    "id": "ItemTips_1",
+    "text": "Text_ItemTips_1_Text"
   },
   {
-    "Id": "PhantomReplace",
-    "Text": "Text_PhantomReplace_Text"
+    "id": "PhantomReplace",
+    "text": "Text_PhantomReplace_Text"
   },
   {
-    "Id": "PhantomTakeOff",
-    "Text": "Text_PhantomTakeOff_Text"
+    "id": "PhantomTakeOff",
+    "text": "Text_PhantomTakeOff_Text"
   },
   {
-    "Id": "PhantomLock",
-    "Text": "Text_PhantomLock_Text"
+    "id": "PhantomLock",
+    "text": "Text_PhantomLock_Text"
   },
   {
-    "Id": "PhantomLevelUpCondition",
-    "Text": "Text_PhantomLevelUpCondition_Text"
+    "id": "PhantomLevelUpCondition",
+    "text": "Text_PhantomLevelUpCondition_Text"
   },
   {
-    "Id": "PhantomNoFilterGems",
-    "Text": "Text_PhantomNoFilterGems_Text"
+    "id": "PhantomNoFilterGems",
+    "text": "Text_PhantomNoFilterGems_Text"
   },
   {
-    "Id": "PhantomInstanceLock",
-    "Text": "Text_PhantomInstanceLock_Text"
+    "id": "PhantomInstanceLock",
+    "text": "Text_PhantomInstanceLock_Text"
   },
   {
-    "Id": "PhantomPutOn",
-    "Text": "Text_PhantomPutOn_Text"
+    "id": "PhantomPutOn",
+    "text": "Text_PhantomPutOn_Text"
   },
   {
-    "Id": "PhantomUpgrade",
-    "Text": "Text_PhantomUpgrade_Text"
+    "id": "PhantomUpgrade",
+    "text": "Text_PhantomUpgrade_Text"
   },
   {
-    "Id": "PhantomPutOnLimit",
-    "Text": "Text_PhantomPutOnLimit_Text"
+    "id": "PhantomPutOnLimit",
+    "text": "Text_PhantomPutOnLimit_Text"
   },
   {
-    "Id": "PhantomLevelLimit",
-    "Text": "Text_PhantomLevelLimit_Text"
+    "id": "PhantomLevelLimit",
+    "text": "Text_PhantomLevelLimit_Text"
   },
   {
-    "Id": "PhantomGemCanNotReplace",
-    "Text": "Text_PhantomGemCanNotReplace_Text"
+    "id": "PhantomGemCanNotReplace",
+    "text": "Text_PhantomGemCanNotReplace_Text"
   },
   {
-    "Id": "PhantomBreach",
-    "Text": "Text_PhantomBreach_Text"
+    "id": "PhantomBreach",
+    "text": "Text_PhantomBreach_Text"
   },
   {
-    "Id": "PhantomBreachCost",
-    "Text": "Text_PhantomBreachCost_Text"
+    "id": "PhantomBreachCost",
+    "text": "Text_PhantomBreachCost_Text"
   },
   {
-    "Id": "PhantomUnlockOrChangeSubPropTips",
-    "Text": "Text_PhantomUnlockOrChangeSubPropTips_Text"
+    "id": "PhantomUnlockOrChangeSubPropTips",
+    "text": "Text_PhantomUnlockOrChangeSubPropTips_Text"
   },
   {
-    "Id": "PhantomUnlockAndChangeSubPropTips",
-    "Text": "Text_PhantomUnlockAndChangeSubPropTips_Text"
+    "id": "PhantomUnlockAndChangeSubPropTips",
+    "text": "Text_PhantomUnlockAndChangeSubPropTips_Text"
   },
   {
-    "Id": "PhantomUnlock",
-    "Text": "Text_PhantomUnlock_Text"
+    "id": "PhantomUnlock",
+    "text": "Text_PhantomUnlock_Text"
   },
   {
-    "Id": "PhantomRandomChange",
-    "Text": "Text_PhantomRandomChange_Text"
+    "id": "PhantomRandomChange",
+    "text": "Text_PhantomRandomChange_Text"
   },
   {
-    "Id": "PhantomSubPropUnlock",
-    "Text": "Text_PhantomSubPropUnlock_Text"
+    "id": "PhantomSubPropUnlock",
+    "text": "Text_PhantomSubPropUnlock_Text"
   },
   {
-    "Id": "PhantomAddFetter",
-    "Text": "Text_PhantomAddFetter_Text"
+    "id": "PhantomAddFetter",
+    "text": "Text_PhantomAddFetter_Text"
   },
   {
-    "Id": "PhantomDelFetter",
-    "Text": "Text_PhantomDelFetter_Text"
+    "id": "PhantomDelFetter",
+    "text": "Text_PhantomDelFetter_Text"
   },
   {
-    "Id": "PhantomDecomposeTitle",
-    "Text": "Text_PhantomDecomposeTitle_Text"
+    "id": "PhantomDecomposeTitle",
+    "text": "Text_PhantomDecomposeTitle_Text"
   },
   {
-    "Id": "PhantomDecomposeEmpty",
-    "Text": "Text_PhantomDecomposeEmpty_Text"
+    "id": "PhantomDecomposeEmpty",
+    "text": "Text_PhantomDecomposeEmpty_Text"
   },
   {
-    "Id": "PhantomBreachTitle",
-    "Text": "Text_PhantomBreachTitle_Text"
+    "id": "PhantomBreachTitle",
+    "text": "Text_PhantomBreachTitle_Text"
   },
   {
-    "Id": "PhantomBreachEmpty",
-    "Text": "Text_PhantomBreachEmpty_Text"
+    "id": "PhantomBreachEmpty",
+    "text": "Text_PhantomBreachEmpty_Text"
   },
   {
-    "Id": "CalabashCatchGain_0",
-    "Text": "Text_CalabashCatchGain_0_Text"
+    "id": "CalabashCatchGain_0",
+    "text": "Text_CalabashCatchGain_0_Text"
   },
   {
-    "Id": "CalabashCatchGain_1",
-    "Text": "Text_CalabashCatchGain_1_Text"
+    "id": "CalabashCatchGain_1",
+    "text": "Text_CalabashCatchGain_1_Text"
   },
   {
-    "Id": "CalabashCatchGain_2",
-    "Text": "Text_CalabashCatchGain_2_Text"
+    "id": "CalabashCatchGain_2",
+    "text": "Text_CalabashCatchGain_2_Text"
   },
   {
-    "Id": "CalabashCatchGain_3",
-    "Text": "Text_CalabashCatchGain_3_Text"
+    "id": "CalabashCatchGain_3",
+    "text": "Text_CalabashCatchGain_3_Text"
   },
   {
-    "Id": "CalabashGemGain_2",
-    "Text": "Text_CalabashGemGain_2_Text"
+    "id": "CalabashGemGain_2",
+    "text": "Text_CalabashGemGain_2_Text"
   },
   {
-    "Id": "CalabashGemGain_3",
-    "Text": "Text_CalabashGemGain_3_Text"
+    "id": "CalabashGemGain_3",
+    "text": "Text_CalabashGemGain_3_Text"
   },
   {
-    "Id": "CalabashGemGain_4",
-    "Text": "Text_CalabashGemGain_4_Text"
+    "id": "CalabashGemGain_4",
+    "text": "Text_CalabashGemGain_4_Text"
   },
   {
-    "Id": "CalabashGemGain_5",
-    "Text": "Text_CalabashGemGain_5_Text"
+    "id": "CalabashGemGain_5",
+    "text": "Text_CalabashGemGain_5_Text"
   },
   {
-    "Id": "CalabashLevelUpLimit",
-    "Text": "Text_CalabashLevelUpLimit_Text"
+    "id": "CalabashLevelUpLimit",
+    "text": "Text_CalabashLevelUpLimit_Text"
   },
   {
-    "Id": "CalabashLevelExpTips",
-    "Text": "Text_CalabashLevelExpTips_Text"
+    "id": "CalabashLevelExpTips",
+    "text": "Text_CalabashLevelExpTips_Text"
   },
   {
-    "Id": "CalabashLevelMaxTips",
-    "Text": "Text_CalabashLevelMaxTips_Text"
+    "id": "CalabashLevelMaxTips",
+    "text": "Text_CalabashLevelMaxTips_Text"
   },
   {
-    "Id": "CalabashUpgradeTitle",
-    "Text": "Text_CalabashUpgradeTitle_Text"
+    "id": "CalabashUpgradeTitle",
+    "text": "Text_CalabashUpgradeTitle_Text"
   },
   {
-    "Id": "CalabashLevelUpgrade",
-    "Text": "Text_CalabashLevelUpgrade_Text"
+    "id": "CalabashLevelUpgrade",
+    "text": "Text_CalabashLevelUpgrade_Text"
   },
   {
-    "Id": "CalabashLevelNextTips",
-    "Text": "Text_CalabashLevelNextTips_Text"
+    "id": "CalabashLevelNextTips",
+    "text": "Text_CalabashLevelNextTips_Text"
   },
   {
-    "Id": "CalabashUpgradeGoldShortage",
-    "Text": "Text_CalabashUpgradeGoldShortage_Text"
+    "id": "CalabashUpgradeGoldShortage",
+    "text": "Text_CalabashUpgradeGoldShortage_Text"
   },
   {
-    "Id": "CalabashExpHandbook",
-    "Text": "Text_CalabashExpHandbook_Text"
+    "id": "CalabashExpHandbook",
+    "text": "Text_CalabashExpHandbook_Text"
   },
   {
-    "Id": "CalabashPhantomRollback",
-    "Text": "Text_CalabashPhantomRollback_Text"
+    "id": "CalabashPhantomRollback",
+    "text": "Text_CalabashPhantomRollback_Text"
   },
   {
-    "Id": "CalabashLock",
-    "Text": "Text_CalabashLock_Text"
+    "id": "CalabashLock",
+    "text": "Text_CalabashLock_Text"
   },
   {
-    "Id": "CalabashUnlock",
-    "Text": "Text_CalabashUnlock_Text"
+    "id": "CalabashUnlock",
+    "text": "Text_CalabashUnlock_Text"
   },
   {
-    "Id": "CalabashCultivate",
-    "Text": "Text_CalabashCultivate_Text"
+    "id": "CalabashCultivate",
+    "text": "Text_CalabashCultivate_Text"
   },
   {
-    "Id": "CalabashUnCultivate",
-    "Text": "Text_CalabashUnCultivate_Text"
+    "id": "CalabashUnCultivate",
+    "text": "Text_CalabashUnCultivate_Text"
   },
   {
-    "Id": "LevelUpSuccessful",
-    "Text": "Text_LevelUpSuccessful_Text"
+    "id": "LevelUpSuccessful",
+    "text": "Text_LevelUpSuccessful_Text"
   },
   {
-    "Id": "LevelUpMax",
-    "Text": "Text_LevelUpMax_Text"
+    "id": "LevelUpMax",
+    "text": "Text_LevelUpMax_Text"
   },
   {
-    "Id": "ClickBlankClose",
-    "Text": "Text_ClickBlankClose_Text"
+    "id": "ClickBlankClose",
+    "text": "Text_ClickBlankClose_Text"
   },
   {
-    "Id": "RoleNoMaterial",
-    "Text": "Text_RoleNoMaterial_Text"
+    "id": "RoleNoMaterial",
+    "text": "Text_RoleNoMaterial_Text"
   },
   {
-    "Id": "RoleNoMoney",
-    "Text": "Text_RoleNoMoney_Text"
+    "id": "RoleNoMoney",
+    "text": "Text_RoleNoMoney_Text"
   },
   {
-    "Id": "ItemUnlockSuccess",
-    "Text": "Text_ItemUnlockSuccess_Text"
+    "id": "ItemUnlockSuccess",
+    "text": "Text_ItemUnlockSuccess_Text"
   },
   {
-    "Id": "ItemLockSuccess",
-    "Text": "Text_ItemLockSuccess_Text"
+    "id": "ItemLockSuccess",
+    "text": "Text_ItemLockSuccess_Text"
   },
   {
-    "Id": "LoginFailTooManyTimes",
-    "Text": "Text_LoginFailTooManyTimes_Text"
+    "id": "LoginFailTooManyTimes",
+    "text": "Text_LoginFailTooManyTimes_Text"
   },
   {
-    "Id": "LoginFailEmptyAccount",
-    "Text": "Text_LoginFailEmptyAccount_Text"
+    "id": "LoginFailEmptyAccount",
+    "text": "Text_LoginFailEmptyAccount_Text"
   },
   {
-    "Id": "TapeContrastOff",
-    "Text": "Text_TapeContrastOff_Text"
+    "id": "TapeContrastOff",
+    "text": "Text_TapeContrastOff_Text"
   },
   {
-    "Id": "TapeContrastOn",
-    "Text": "Text_TapeContrastOn_Text"
+    "id": "TapeContrastOn",
+    "text": "Text_TapeContrastOn_Text"
   },
   {
-    "Id": "TapRomeNumber",
-    "Text": "Text_TapRomeNumber_Text"
+    "id": "TapRomeNumber",
+    "text": "Text_TapRomeNumber_Text"
   },
   {
-    "Id": "TapeAll",
-    "Text": "Text_TapeAll_Text"
+    "id": "TapeAll",
+    "text": "Text_TapeAll_Text"
   },
   {
-    "Id": "TapeDefault",
-    "Text": "Text_TapeDefault_Text"
+    "id": "TapeDefault",
+    "text": "Text_TapeDefault_Text"
   },
   {
-    "Id": "TapeLevel",
-    "Text": "Text_TapeLevel_Text"
+    "id": "TapeLevel",
+    "text": "Text_TapeLevel_Text"
   },
   {
-    "Id": "TapeQuality",
-    "Text": "Text_TapeQuality_Text"
+    "id": "TapeQuality",
+    "text": "Text_TapeQuality_Text"
   },
   {
-    "Id": "TapeId",
-    "Text": "Text_TapeId_Text"
+    "id": "TapeId",
+    "text": "Text_TapeId_Text"
   },
   {
-    "Id": "TapeItemId",
-    "Text": "Text_TapeItemId_Text"
+    "id": "TapeItemId",
+    "text": "Text_TapeItemId_Text"
   },
   {
-    "Id": "TapeUsing",
-    "Text": "Text_TapeUsing_Text"
+    "id": "TapeUsing",
+    "text": "Text_TapeUsing_Text"
   },
   {
-    "Id": "TapeLock",
-    "Text": "Text_TapeLock_Text"
+    "id": "TapeLock",
+    "text": "Text_TapeLock_Text"
   },
   {
-    "Id": "TapeLevelUpTitle",
-    "Text": "Text_TapeLevelUpTitle_Text"
+    "id": "TapeLevelUpTitle",
+    "text": "Text_TapeLevelUpTitle_Text"
   },
   {
-    "Id": "TapeStrengthen",
-    "Text": "Text_TapeStrengthen_Text"
+    "id": "TapeStrengthen",
+    "text": "Text_TapeStrengthen_Text"
   },
   {
-    "Id": "TapeStrengthenConsume",
-    "Text": "Text_TapeStrengthenConsume_Text"
+    "id": "TapeStrengthenConsume",
+    "text": "Text_TapeStrengthenConsume_Text"
   },
   {
-    "Id": "TapeMaxSlot",
-    "Text": "Text_TapeMaxSlot_Text"
+    "id": "TapeMaxSlot",
+    "text": "Text_TapeMaxSlot_Text"
   },
   {
-    "Id": "TapeMaxExp",
-    "Text": "Text_TapeMaxExp_Text"
+    "id": "TapeMaxExp",
+    "text": "Text_TapeMaxExp_Text"
   },
   {
-    "Id": "TapeReplaceLack",
-    "Text": "Text_TapeReplaceLack_Text"
+    "id": "TapeReplaceLack",
+    "text": "Text_TapeReplaceLack_Text"
   },
   {
-    "Id": "TapeLack",
-    "Text": "Text_TapeLack_Text"
+    "id": "TapeLack",
+    "text": "Text_TapeLack_Text"
   },
   {
-    "Id": "TapeMaxLevel",
-    "Text": "Text_TapeMaxLevel_Text"
+    "id": "TapeMaxLevel",
+    "text": "Text_TapeMaxLevel_Text"
   },
   {
-    "Id": "TapeQualityText",
-    "Text": "Text_TapeQualityText_Text"
+    "id": "TapeQualityText",
+    "text": "Text_TapeQualityText_Text"
   },
   {
-    "Id": "TapeQualityBelowText",
-    "Text": "Text_TapeQualityBelowText_Text"
+    "id": "TapeQualityBelowText",
+    "text": "Text_TapeQualityBelowText_Text"
   },
   {
-    "Id": "TapStrengthenCritical",
-    "Text": "Text_TapStrengthenCritical_Text"
+    "id": "TapStrengthenCritical",
+    "text": "Text_TapStrengthenCritical_Text"
   },
   {
-    "Id": "TapeSuit",
-    "Text": "Text_TapeSuit_Text"
+    "id": "TapeSuit",
+    "text": "Text_TapeSuit_Text"
   },
   {
-    "Id": "TapeTakeOff",
-    "Text": "Text_TapeTakeOff_Text"
+    "id": "TapeTakeOff",
+    "text": "Text_TapeTakeOff_Text"
   },
   {
-    "Id": "TapePutOn",
-    "Text": "Text_TapePutOn_Text"
+    "id": "TapePutOn",
+    "text": "Text_TapePutOn_Text"
   },
   {
-    "Id": "TapeReplace",
-    "Text": "Text_TapeReplace_Text"
+    "id": "TapeReplace",
+    "text": "Text_TapeReplace_Text"
   },
   {
-    "Id": "TapeTrans",
-    "Text": "Text_TapeTrans_Text"
+    "id": "TapeTrans",
+    "text": "Text_TapeTrans_Text"
   },
   {
-    "Id": "TapeUnlockLevel",
-    "Text": "Text_TapeUnlockLevel_Text"
+    "id": "TapeUnlockLevel",
+    "text": "Text_TapeUnlockLevel_Text"
   },
   {
-    "Id": "TapeUnlockLevelUp",
-    "Text": "Text_TapeUnlockLevelUp_Text"
+    "id": "TapeUnlockLevelUp",
+    "text": "Text_TapeUnlockLevelUp_Text"
   },
   {
-    "Id": "TapeTransformSlot",
-    "Text": "Text_TapeTransformSlot_Text"
+    "id": "TapeTransformSlot",
+    "text": "Text_TapeTransformSlot_Text"
   },
   {
-    "Id": "TapeTransformConsume",
-    "Text": "Text_TapeTransformConsume_Text"
+    "id": "TapeTransformConsume",
+    "text": "Text_TapeTransformConsume_Text"
   },
   {
-    "Id": "TapeTransformMaxSlot",
-    "Text": "Text_TapeTransformMaxSlot_Text"
+    "id": "TapeTransformMaxSlot",
+    "text": "Text_TapeTransformMaxSlot_Text"
   },
   {
-    "Id": "TapeTransformUnlockCondition",
-    "Text": "Text_TapeTransformUnlockCondition_Text"
+    "id": "TapeTransformUnlockCondition",
+    "text": "Text_TapeTransformUnlockCondition_Text"
   },
   {
-    "Id": "TapeTransformEmpty",
-    "Text": "Text_TapeTransformEmpty_Text"
+    "id": "TapeTransformEmpty",
+    "text": "Text_TapeTransformEmpty_Text"
   },
   {
-    "Id": "TapeTransformLackMoney",
-    "Text": "Text_TapeTransformLackMoney_Text"
+    "id": "TapeTransformLackMoney",
+    "text": "Text_TapeTransformLackMoney_Text"
   },
   {
-    "Id": "TapeAttribute1",
-    "Text": "Text_TapeAttribute1_Text"
+    "id": "TapeAttribute1",
+    "text": "Text_TapeAttribute1_Text"
   },
   {
-    "Id": "TapeAttribute2",
-    "Text": "Text_TapeAttribute2_Text"
+    "id": "TapeAttribute2",
+    "text": "Text_TapeAttribute2_Text"
   },
   {
-    "Id": "TapeSkill300000012",
-    "Text": "Text_TapeSkill300000012_Text"
+    "id": "TapeSkill300000012",
+    "text": "Text_TapeSkill300000012_Text"
   },
   {
-    "Id": "TapeSkill300000022",
-    "Text": "Text_TapeSkill300000022_Text"
+    "id": "TapeSkill300000022",
+    "text": "Text_TapeSkill300000022_Text"
   },
   {
-    "Id": "TapeSkill300000032",
-    "Text": "Text_TapeSkill300000032_Text"
+    "id": "TapeSkill300000032",
+    "text": "Text_TapeSkill300000032_Text"
   },
   {
-    "Id": "TapeSkill300000042",
-    "Text": "Text_TapeSkill300000042_Text"
+    "id": "TapeSkill300000042",
+    "text": "Text_TapeSkill300000042_Text"
   },
   {
-    "Id": "TapeSkill300000052",
-    "Text": "Text_TapeSkill300000052_Text"
+    "id": "TapeSkill300000052",
+    "text": "Text_TapeSkill300000052_Text"
   },
   {
-    "Id": "TapeSkill300000062",
-    "Text": "Text_TapeSkill300000062_Text"
+    "id": "TapeSkill300000062",
+    "text": "Text_TapeSkill300000062_Text"
   },
   {
-    "Id": "TapeSkill300000072",
-    "Text": "Text_TapeSkill300000072_Text"
+    "id": "TapeSkill300000072",
+    "text": "Text_TapeSkill300000072_Text"
   },
   {
-    "Id": "TapeSkill300000082",
-    "Text": "Text_TapeSkill300000082_Text"
+    "id": "TapeSkill300000082",
+    "text": "Text_TapeSkill300000082_Text"
   },
   {
-    "Id": "TapeSkill300000092",
-    "Text": "Text_TapeSkill300000092_Text"
+    "id": "TapeSkill300000092",
+    "text": "Text_TapeSkill300000092_Text"
   },
   {
-    "Id": "TapeSkill300000102",
-    "Text": "Text_TapeSkill300000102_Text"
+    "id": "TapeSkill300000102",
+    "text": "Text_TapeSkill300000102_Text"
   },
   {
-    "Id": "TapeSkill300000112",
-    "Text": "Text_TapeSkill300000112_Text"
+    "id": "TapeSkill300000112",
+    "text": "Text_TapeSkill300000112_Text"
   },
   {
-    "Id": "TapeSkill300000122",
-    "Text": "Text_TapeSkill300000122_Text"
+    "id": "TapeSkill300000122",
+    "text": "Text_TapeSkill300000122_Text"
   },
   {
-    "Id": "TapeSkill300000132",
-    "Text": "Text_TapeSkill300000132_Text"
+    "id": "TapeSkill300000132",
+    "text": "Text_TapeSkill300000132_Text"
   },
   {
-    "Id": "TapeSkill300000142",
-    "Text": "Text_TapeSkill300000142_Text"
+    "id": "TapeSkill300000142",
+    "text": "Text_TapeSkill300000142_Text"
   },
   {
-    "Id": "TapeSkill300000152",
-    "Text": "Text_TapeSkill300000152_Text"
+    "id": "TapeSkill300000152",
+    "text": "Text_TapeSkill300000152_Text"
   },
   {
-    "Id": "TapeSkill300000162",
-    "Text": "Text_TapeSkill300000162_Text"
+    "id": "TapeSkill300000162",
+    "text": "Text_TapeSkill300000162_Text"
   },
   {
-    "Id": "TapeSkill300000172",
-    "Text": "Text_TapeSkill300000172_Text"
+    "id": "TapeSkill300000172",
+    "text": "Text_TapeSkill300000172_Text"
   },
   {
-    "Id": "TapeSkill300000014",
-    "Text": "Text_TapeSkill300000014_Text"
+    "id": "TapeSkill300000014",
+    "text": "Text_TapeSkill300000014_Text"
   },
   {
-    "Id": "TapeSkill300000024",
-    "Text": "Text_TapeSkill300000024_Text"
+    "id": "TapeSkill300000024",
+    "text": "Text_TapeSkill300000024_Text"
   },
   {
-    "Id": "TapeSkill300000034",
-    "Text": "Text_TapeSkill300000034_Text"
+    "id": "TapeSkill300000034",
+    "text": "Text_TapeSkill300000034_Text"
   },
   {
-    "Id": "TapeSkill300000044",
-    "Text": "Text_TapeSkill300000044_Text"
+    "id": "TapeSkill300000044",
+    "text": "Text_TapeSkill300000044_Text"
   },
   {
-    "Id": "TapeSkill300000054",
-    "Text": "Text_TapeSkill300000054_Text"
+    "id": "TapeSkill300000054",
+    "text": "Text_TapeSkill300000054_Text"
   },
   {
-    "Id": "TapeSkill300000064",
-    "Text": "Text_TapeSkill300000064_Text"
+    "id": "TapeSkill300000064",
+    "text": "Text_TapeSkill300000064_Text"
   },
   {
-    "Id": "TapeSkill300000074",
-    "Text": "Text_TapeSkill300000074_Text"
+    "id": "TapeSkill300000074",
+    "text": "Text_TapeSkill300000074_Text"
   },
   {
-    "Id": "TapeSkill300000084",
-    "Text": "Text_TapeSkill300000084_Text"
+    "id": "TapeSkill300000084",
+    "text": "Text_TapeSkill300000084_Text"
   },
   {
-    "Id": "TapeSkill300000094",
-    "Text": "Text_TapeSkill300000094_Text"
+    "id": "TapeSkill300000094",
+    "text": "Text_TapeSkill300000094_Text"
   },
   {
-    "Id": "TapeSkill300000104",
-    "Text": "Text_TapeSkill300000104_Text"
+    "id": "TapeSkill300000104",
+    "text": "Text_TapeSkill300000104_Text"
   },
   {
-    "Id": "TapeSkill300000114",
-    "Text": "Text_TapeSkill300000114_Text"
+    "id": "TapeSkill300000114",
+    "text": "Text_TapeSkill300000114_Text"
   },
   {
-    "Id": "TapeSkill300000124",
-    "Text": "Text_TapeSkill300000124_Text"
+    "id": "TapeSkill300000124",
+    "text": "Text_TapeSkill300000124_Text"
   },
   {
-    "Id": "TapeSkill300000134",
-    "Text": "Text_TapeSkill300000134_Text"
+    "id": "TapeSkill300000134",
+    "text": "Text_TapeSkill300000134_Text"
   },
   {
-    "Id": "TapeSkill300000144",
-    "Text": "Text_TapeSkill300000144_Text"
+    "id": "TapeSkill300000144",
+    "text": "Text_TapeSkill300000144_Text"
   },
   {
-    "Id": "TapeSkill300000154",
-    "Text": "Text_TapeSkill300000154_Text"
+    "id": "TapeSkill300000154",
+    "text": "Text_TapeSkill300000154_Text"
   },
   {
-    "Id": "TapeSkill300000164",
-    "Text": "Text_TapeSkill300000164_Text"
+    "id": "TapeSkill300000164",
+    "text": "Text_TapeSkill300000164_Text"
   },
   {
-    "Id": "TapeSkill300000174",
-    "Text": "Text_TapeSkill300000174_Text"
+    "id": "TapeSkill300000174",
+    "text": "Text_TapeSkill300000174_Text"
   },
   {
-    "Id": "PowerTitle",
-    "Text": "Text_PowerTitle_Text"
+    "id": "PowerTitle",
+    "text": "Text_PowerTitle_Text"
   },
   {
-    "Id": "PowerDescribe",
-    "Text": "Text_PowerDescribe_Text"
+    "id": "PowerDescribe",
+    "text": "Text_PowerDescribe_Text"
   },
   {
-    "Id": "PowerConfirm",
-    "Text": "Text_PowerConfirm_Text"
+    "id": "PowerConfirm",
+    "text": "Text_PowerConfirm_Text"
   },
   {
-    "Id": "PowerCancel",
-    "Text": "Text_PowerCancel_Text"
+    "id": "PowerCancel",
+    "text": "Text_PowerCancel_Text"
   },
   {
-    "Id": "PowerGetReward",
-    "Text": "Text_PowerGetReward_Text"
+    "id": "PowerGetReward",
+    "text": "Text_PowerGetReward_Text"
   },
   {
-    "Id": "PowerRewardCostFail",
-    "Text": "Text_PowerRewardCostFail_Text"
+    "id": "PowerRewardCostFail",
+    "text": "Text_PowerRewardCostFail_Text"
   },
   {
-    "Id": "PowerRewardCost",
-    "Text": "Text_PowerRewardCost_Text"
+    "id": "PowerRewardCost",
+    "text": "Text_PowerRewardCost_Text"
   },
   {
-    "Id": "PowerCostAndReward",
-    "Text": "Text_PowerCostAndReward_Text"
+    "id": "PowerCostAndReward",
+    "text": "Text_PowerCostAndReward_Text"
   },
   {
-    "Id": "PowerExchangeRemain",
-    "Text": "Text_PowerExchangeRemain_Text"
+    "id": "PowerExchangeRemain",
+    "text": "Text_PowerExchangeRemain_Text"
   },
   {
-    "Id": "PowerBound",
-    "Text": "Text_PowerBound_Text"
+    "id": "PowerBound",
+    "text": "Text_PowerBound_Text"
   },
   {
-    "Id": "PowerCashFail",
-    "Text": "Text_PowerCashFail_Text"
+    "id": "PowerCashFail",
+    "text": "Text_PowerCashFail_Text"
   },
   {
-    "Id": "PowerRamainCountFail",
-    "Text": "Text_PowerRamainCountFail_Text"
+    "id": "PowerRamainCountFail",
+    "text": "Text_PowerRamainCountFail_Text"
   },
   {
-    "Id": "PowerBuySucceed",
-    "Text": "Text_PowerBuySucceed_Text"
+    "id": "PowerBuySucceed",
+    "text": "Text_PowerBuySucceed_Text"
   },
   {
-    "Id": "FilterSortText",
-    "Text": "Text_FilterSortText_Text"
+    "id": "FilterSortText",
+    "text": "Text_FilterSortText_Text"
   },
   {
-    "Id": "FilterSingleText",
-    "Text": "Text_FilterSingleText_Text"
+    "id": "FilterSingleText",
+    "text": "Text_FilterSingleText_Text"
   },
   {
-    "Id": "FilterText",
-    "Text": "Text_FilterText_Text"
+    "id": "FilterText",
+    "text": "Text_FilterText_Text"
   },
   {
-    "Id": "FilterComponentText",
-    "Text": "Text_FilterComponentText_Text"
+    "id": "FilterComponentText",
+    "text": "Text_FilterComponentText_Text"
   },
   {
-    "Id": "FilterTextAll",
-    "Text": "Text_FilterTextAll_Text"
+    "id": "FilterTextAll",
+    "text": "Text_FilterTextAll_Text"
   },
   {
-    "Id": "FilterSortComponentText",
-    "Text": "Text_FilterSortComponentText_Text"
+    "id": "FilterSortComponentText",
+    "text": "Text_FilterSortComponentText_Text"
   },
   {
-    "Id": "FilterResetAll",
-    "Text": "Text_FilterResetAll_Text"
+    "id": "FilterResetAll",
+    "text": "Text_FilterResetAll_Text"
   },
   {
-    "Id": "FilterResetOver",
-    "Text": "Text_FilterResetOver_Text"
+    "id": "FilterResetOver",
+    "text": "Text_FilterResetOver_Text"
   },
   {
-    "Id": "FilterReset",
-    "Text": "Text_FilterReset_Text"
+    "id": "FilterReset",
+    "text": "Text_FilterReset_Text"
   },
   {
-    "Id": "RoleLevelUp",
-    "Text": "Text_RoleLevelUp_Text"
+    "id": "RoleLevelUp",
+    "text": "Text_RoleLevelUp_Text"
   },
   {
-    "Id": "RoleBreakup",
-    "Text": "Text_RoleBreakup_Text"
+    "id": "RoleBreakup",
+    "text": "Text_RoleBreakup_Text"
   },
   {
-    "Id": "RoleLevel",
-    "Text": "Text_RoleLevel_Text"
+    "id": "RoleLevel",
+    "text": "Text_RoleLevel_Text"
   },
   {
-    "Id": "RoleBreakLevel",
-    "Text": "Text_RoleBreakLevel_Text"
+    "id": "RoleBreakLevel",
+    "text": "Text_RoleBreakLevel_Text"
   },
   {
-    "Id": "RoleCoin",
-    "Text": "Text_RoleCoin_Text"
+    "id": "RoleCoin",
+    "text": "Text_RoleCoin_Text"
   },
   {
-    "Id": "RoleMaxLevelPreview",
-    "Text": "Text_RoleMaxLevelPreview_Text"
+    "id": "RoleMaxLevelPreview",
+    "text": "Text_RoleMaxLevelPreview_Text"
   },
   {
-    "Id": "RoleSkillLevel",
-    "Text": "Text_RoleSkillLevel_Text"
+    "id": "RoleSkillLevel",
+    "text": "Text_RoleSkillLevel_Text"
   },
   {
-    "Id": "RoleNewEffect",
-    "Text": "Text_RoleNewEffect_Text"
+    "id": "RoleNewEffect",
+    "text": "Text_RoleNewEffect_Text"
   },
   {
-    "Id": "RoleReachMaxLevel",
-    "Text": "Text_RoleReachMaxLevel_Text"
+    "id": "RoleReachMaxLevel",
+    "text": "Text_RoleReachMaxLevel_Text"
   },
   {
-    "Id": "RoleLevelUpSuccess",
-    "Text": "Text_RoleLevelUpSuccess_Text"
+    "id": "RoleLevelUpSuccess",
+    "text": "Text_RoleLevelUpSuccess_Text"
   },
   {
-    "Id": "RoleActiveRoleFirst",
-    "Text": "Text_RoleActiveRoleFirst_Text"
+    "id": "RoleActiveRoleFirst",
+    "text": "Text_RoleActiveRoleFirst_Text"
   },
   {
-    "Id": "RoleWaitResonActive",
-    "Text": "Text_RoleWaitResonActive_Text"
+    "id": "RoleWaitResonActive",
+    "text": "Text_RoleWaitResonActive_Text"
   },
   {
-    "Id": "RoleResonActive",
-    "Text": "Text_RoleResonActive_Text"
+    "id": "RoleResonActive",
+    "text": "Text_RoleResonActive_Text"
   },
   {
-    "Id": "RoleResonNeedActive",
-    "Text": "Text_RoleResonNeedActive_Text"
+    "id": "RoleResonNeedActive",
+    "text": "Text_RoleResonNeedActive_Text"
   },
   {
-    "Id": "RoleIncreaseBonus",
-    "Text": "Text_RoleIncreaseBonus_Text"
+    "id": "RoleIncreaseBonus",
+    "text": "Text_RoleIncreaseBonus_Text"
   },
   {
-    "Id": "RoleConsume",
-    "Text": "Text_RoleConsume_Text"
+    "id": "RoleConsume",
+    "text": "Text_RoleConsume_Text"
   },
   {
-    "Id": "RoleResonMaxValue",
-    "Text": "Text_RoleResonMaxValue_Text"
+    "id": "RoleResonMaxValue",
+    "text": "Text_RoleResonMaxValue_Text"
   },
   {
-    "Id": "RoleAlreadyMax",
-    "Text": "Text_RoleAlreadyMax_Text"
+    "id": "RoleAlreadyMax",
+    "text": "Text_RoleAlreadyMax_Text"
   },
   {
-    "Id": "RoleExp",
-    "Text": "Text_RoleExp_Text"
+    "id": "RoleExp",
+    "text": "Text_RoleExp_Text"
   },
   {
-    "Id": "RoleMaxLevel01",
-    "Text": "Text_RoleMaxLevel01_Text"
+    "id": "RoleMaxLevel01",
+    "text": "Text_RoleMaxLevel01_Text"
   },
   {
-    "Id": "RoleMaxLevel02",
-    "Text": "Text_RoleMaxLevel02_Text"
+    "id": "RoleMaxLevel02",
+    "text": "Text_RoleMaxLevel02_Text"
   },
   {
-    "Id": "RoleLevelUpExp",
-    "Text": "Text_RoleLevelUpExp_Text"
+    "id": "RoleLevelUpExp",
+    "text": "Text_RoleLevelUpExp_Text"
   },
   {
-    "Id": "RoleLevelUpTotalExp",
-    "Text": "Text_RoleLevelUpTotalExp_Text"
+    "id": "RoleLevelUpTotalExp",
+    "text": "Text_RoleLevelUpTotalExp_Text"
   },
   {
-    "Id": "RoleBreakUpLevel",
-    "Text": "Text_RoleBreakUpLevel_Text"
+    "id": "RoleBreakUpLevel",
+    "text": "Text_RoleBreakUpLevel_Text"
   },
   {
-    "Id": "RoleSkillEffectLevel",
-    "Text": "Text_RoleSkillEffectLevel_Text"
+    "id": "RoleSkillEffectLevel",
+    "text": "Text_RoleSkillEffectLevel_Text"
   },
   {
-    "Id": "RoleResonanceLevel",
-    "Text": "Text_RoleResonanceLevel_Text"
+    "id": "RoleResonanceLevel",
+    "text": "Text_RoleResonanceLevel_Text"
   },
   {
-    "Id": "RoleCount",
-    "Text": "Text_RoleCount_Text"
+    "id": "RoleCount",
+    "text": "Text_RoleCount_Text"
   },
   {
-    "Id": "RoleResonanceLevelUp",
-    "Text": "Text_RoleResonanceLevelUp_Text"
+    "id": "RoleResonanceLevelUp",
+    "text": "Text_RoleResonanceLevelUp_Text"
   },
   {
-    "Id": "RoleResonanceFinish",
-    "Text": "Text_RoleResonanceFinish_Text"
+    "id": "RoleResonanceFinish",
+    "text": "Text_RoleResonanceFinish_Text"
   },
   {
-    "Id": "RoleResonanceLock",
-    "Text": "Text_RoleResonanceLock_Text"
+    "id": "RoleResonanceLock",
+    "text": "Text_RoleResonanceLock_Text"
   },
   {
-    "Id": "TurnToRoleBreach",
-    "Text": "Text_TurnToRoleBreach_Text"
+    "id": "TurnToRoleBreach",
+    "text": "Text_TurnToRoleBreach_Text"
   },
   {
-    "Id": "UnlockNotice",
-    "Text": "Text_UnlockNotice_Text"
+    "id": "UnlockNotice",
+    "text": "Text_UnlockNotice_Text"
   },
   {
-    "Id": "ExpShow",
-    "Text": "Text_ExpShow_Text"
+    "id": "ExpShow",
+    "text": "Text_ExpShow_Text"
   },
   {
-    "Id": "LevelShow",
-    "Text": "Text_LevelShow_Text"
+    "id": "LevelShow",
+    "text": "Text_LevelShow_Text"
   },
   {
-    "Id": "ExpText",
-    "Text": "Text_ExpText_Text"
+    "id": "ExpText",
+    "text": "Text_ExpText_Text"
   },
   {
-    "Id": "AddExp",
-    "Text": "Text_AddExp_Text"
+    "id": "AddExp",
+    "text": "Text_AddExp_Text"
   },
   {
-    "Id": "WeaponResonanceItemLevelText",
-    "Text": "Text_WeaponResonanceItemLevelText_Text"
+    "id": "WeaponResonanceItemLevelText",
+    "text": "Text_WeaponResonanceItemLevelText_Text"
   },
   {
-    "Id": "WeaponLevelUpLevelText",
-    "Text": "Text_WeaponLevelUpLevelText_Text"
+    "id": "WeaponLevelUpLevelText",
+    "text": "Text_WeaponLevelUpLevelText_Text"
   },
   {
-    "Id": "WeaponLevelUpAddText",
-    "Text": "Text_WeaponLevelUpAddText_Text"
+    "id": "WeaponLevelUpAddText",
+    "text": "Text_WeaponLevelUpAddText_Text"
   },
   {
-    "Id": "WeaponTipsRoleText",
-    "Text": "Text_WeaponTipsRoleText_Text"
+    "id": "WeaponTipsRoleText",
+    "text": "Text_WeaponTipsRoleText_Text"
   },
   {
-    "Id": "WeaponLevelUpText",
-    "Text": "Text_WeaponLevelUpText_Text"
+    "id": "WeaponLevelUpText",
+    "text": "Text_WeaponLevelUpText_Text"
   },
   {
-    "Id": "WeaponResonanceText",
-    "Text": "Text_WeaponResonanceText_Text"
+    "id": "WeaponResonanceText",
+    "text": "Text_WeaponResonanceText_Text"
   },
   {
-    "Id": "WeaponBreachText",
-    "Text": "Text_WeaponBreachText_Text"
+    "id": "WeaponBreachText",
+    "text": "Text_WeaponBreachText_Text"
   },
   {
-    "Id": "WeaponReplaceTipsTitleText",
-    "Text": "Text_WeaponReplaceTipsTitleText_Text"
+    "id": "WeaponReplaceTipsTitleText",
+    "text": "Text_WeaponReplaceTipsTitleText_Text"
   },
   {
-    "Id": "WeaponReplaceTipsContentText",
-    "Text": "Text_WeaponReplaceTipsContentText_Text"
+    "id": "WeaponReplaceTipsContentText",
+    "text": "Text_WeaponReplaceTipsContentText_Text"
   },
   {
-    "Id": "WeaponReplaceContrastText",
-    "Text": "Text_WeaponReplaceContrastText_Text"
+    "id": "WeaponReplaceContrastText",
+    "text": "Text_WeaponReplaceContrastText_Text"
   },
   {
-    "Id": "WeaponReplacePackUpText",
-    "Text": "Text_WeaponReplacePackUpText_Text"
+    "id": "WeaponReplacePackUpText",
+    "text": "Text_WeaponReplacePackUpText_Text"
   },
   {
-    "Id": "WeaponAddExpTipsText",
-    "Text": "Text_WeaponAddExpTipsText_Text"
+    "id": "WeaponAddExpTipsText",
+    "text": "Text_WeaponAddExpTipsText_Text"
   },
   {
-    "Id": "WeaponSelectMaterialTipsText",
-    "Text": "Text_WeaponSelectMaterialTipsText_Text"
+    "id": "WeaponSelectMaterialTipsText",
+    "text": "Text_WeaponSelectMaterialTipsText_Text"
   },
   {
-    "Id": "WeaponNoEnoughMoneyText",
-    "Text": "Text_WeaponNoEnoughMoneyText_Text"
+    "id": "WeaponNoEnoughMoneyText",
+    "text": "Text_WeaponNoEnoughMoneyText_Text"
   },
   {
-    "Id": "WeaponResonanceCurrentEffectText",
-    "Text": "Text_WeaponResonanceCurrentEffectText_Text"
+    "id": "WeaponResonanceCurrentEffectText",
+    "text": "Text_WeaponResonanceCurrentEffectText_Text"
   },
   {
-    "Id": "WeaponResonanceNextEffectText",
-    "Text": "Text_WeaponResonanceNextEffectText_Text"
+    "id": "WeaponResonanceNextEffectText",
+    "text": "Text_WeaponResonanceNextEffectText_Text"
   },
   {
-    "Id": "WeaponResonanceLevelText",
-    "Text": "Text_WeaponResonanceLevelText_Text"
+    "id": "WeaponResonanceLevelText",
+    "text": "Text_WeaponResonanceLevelText_Text"
   },
   {
-    "Id": "WeaponResonanceTipsText",
-    "Text": "Text_WeaponResonanceTipsText_Text"
+    "id": "WeaponResonanceTipsText",
+    "text": "Text_WeaponResonanceTipsText_Text"
   },
   {
-    "Id": "WeaponBreachNoEnoughMaterialText",
-    "Text": "Text_WeaponBreachNoEnoughMaterialText_Text"
+    "id": "WeaponBreachNoEnoughMaterialText",
+    "text": "Text_WeaponBreachNoEnoughMaterialText_Text"
   },
   {
-    "Id": "WeaponBreachNoEnoughMoneyText",
-    "Text": "Text_WeaponBreachNoEnoughMoneyText_Text"
+    "id": "WeaponBreachNoEnoughMoneyText",
+    "text": "Text_WeaponBreachNoEnoughMoneyText_Text"
   },
   {
-    "Id": "WeaponLevelUpHighQualityHighLevelText",
-    "Text": "Text_WeaponLevelUpHighQualityHighLevelText_Text"
+    "id": "WeaponLevelUpHighQualityHighLevelText",
+    "text": "Text_WeaponLevelUpHighQualityHighLevelText_Text"
   },
   {
-    "Id": "WeaponLevelUpHighQualityText",
-    "Text": "Text_WeaponLevelUpHighQualityText_Text"
+    "id": "WeaponLevelUpHighQualityText",
+    "text": "Text_WeaponLevelUpHighQualityText_Text"
   },
   {
-    "Id": "WeaponLevelUpHighLevelText",
-    "Text": "Text_WeaponLevelUpHighLevelText_Text"
+    "id": "WeaponLevelUpHighLevelText",
+    "text": "Text_WeaponLevelUpHighLevelText_Text"
   },
   {
-    "Id": "WeaponResonanceNoEnoughMoneyText",
-    "Text": "Text_WeaponResonanceNoEnoughMoneyText_Text"
+    "id": "WeaponResonanceNoEnoughMoneyText",
+    "text": "Text_WeaponResonanceNoEnoughMoneyText_Text"
   },
   {
-    "Id": "WeaponLevelUpTipsText",
-    "Text": "Text_WeaponLevelUpTipsText_Text"
+    "id": "WeaponLevelUpTipsText",
+    "text": "Text_WeaponLevelUpTipsText_Text"
   },
   {
-    "Id": "WeaponLockTipsText",
-    "Text": "Text_WeaponLockTipsText_Text"
+    "id": "WeaponLockTipsText",
+    "text": "Text_WeaponLockTipsText_Text"
   },
   {
-    "Id": "WeaponLevelUpSuccessText",
-    "Text": "Text_WeaponLevelUpSuccessText_Text"
+    "id": "WeaponLevelUpSuccessText",
+    "text": "Text_WeaponLevelUpSuccessText_Text"
   },
   {
-    "Id": "WeaponLockResonanceText",
-    "Text": "Text_WeaponLockResonanceText_Text"
+    "id": "WeaponLockResonanceText",
+    "text": "Text_WeaponLockResonanceText_Text"
   },
   {
-    "Id": "WeaponFullMaterialText",
-    "Text": "Text_WeaponFullMaterialText_Text"
+    "id": "WeaponFullMaterialText",
+    "text": "Text_WeaponFullMaterialText_Text"
   },
   {
-    "Id": "WeaponMaterialLengthText",
-    "Text": "Text_WeaponMaterialLengthText_Text"
+    "id": "WeaponMaterialLengthText",
+    "text": "Text_WeaponMaterialLengthText_Text"
   },
   {
-    "Id": "WeaponResonanceHasResonance",
-    "Text": "Text_WeaponResonanceHasResonance_Text"
+    "id": "WeaponResonanceHasResonance",
+    "text": "Text_WeaponResonanceHasResonance_Text"
   },
   {
-    "Id": "WeaponResonanceHasLevelUp",
-    "Text": "Text_WeaponResonanceHasLevelUp_Text"
+    "id": "WeaponResonanceHasLevelUp",
+    "text": "Text_WeaponResonanceHasLevelUp_Text"
   },
   {
-    "Id": "WeaponResonanceHasLevelUpAndResonance",
-    "Text": "Text_WeaponResonanceHasLevelUpAndResonance_Text"
+    "id": "WeaponResonanceHasLevelUpAndResonance",
+    "text": "Text_WeaponResonanceHasLevelUpAndResonance_Text"
   },
   {
-    "Id": "RoleLimitStringCount",
-    "Text": "Text_RoleLimitStringCount_Text"
+    "id": "RoleLimitStringCount",
+    "text": "Text_RoleLimitStringCount_Text"
   },
   {
-    "Id": "WeaponLevelUpOneCondition",
-    "Text": "Text_WeaponLevelUpOneCondition_Text"
+    "id": "WeaponLevelUpOneCondition",
+    "text": "Text_WeaponLevelUpOneCondition_Text"
   },
   {
-    "Id": "WeaponLevelUpTwoCondition",
-    "Text": "Text_WeaponLevelUpTwoCondition_Text"
+    "id": "WeaponLevelUpTwoCondition",
+    "text": "Text_WeaponLevelUpTwoCondition_Text"
   },
   {
-    "Id": "WeaponLevelUpThreeCondition",
-    "Text": "Text_WeaponLevelUpThreeCondition_Text"
+    "id": "WeaponLevelUpThreeCondition",
+    "text": "Text_WeaponLevelUpThreeCondition_Text"
   },
   {
-    "Id": "WeaponHasResonance",
-    "Text": "Text_WeaponHasResonance_Text"
+    "id": "WeaponHasResonance",
+    "text": "Text_WeaponHasResonance_Text"
   },
   {
-    "Id": "WeaponHasLevelUp",
-    "Text": "Text_WeaponHasLevelUp_Text"
+    "id": "WeaponHasLevelUp",
+    "text": "Text_WeaponHasLevelUp_Text"
   },
   {
-    "Id": "WeaponHighQuality",
-    "Text": "Text_WeaponHighQuality_Text"
+    "id": "WeaponHighQuality",
+    "text": "Text_WeaponHighQuality_Text"
   },
   {
-    "Id": "WeaponNoMaterial",
-    "Text": "Text_WeaponNoMaterial_Text"
+    "id": "WeaponNoMaterial",
+    "text": "Text_WeaponNoMaterial_Text"
   },
   {
-    "Id": "WeaponLevel",
-    "Text": "Text_WeaponLevel_Text"
+    "id": "WeaponLevel",
+    "text": "Text_WeaponLevel_Text"
   },
   {
-    "Id": "WeaponStrengthMaterialNotEnough",
-    "Text": "Text_WeaponStrengthMaterialNotEnough_Text"
+    "id": "WeaponStrengthMaterialNotEnough",
+    "text": "Text_WeaponStrengthMaterialNotEnough_Text"
   },
   {
-    "Id": "WeaponResonanceMaterialNotEnough",
-    "Text": "Text_WeaponResonanceMaterialNotEnough_Text"
+    "id": "WeaponResonanceMaterialNotEnough",
+    "text": "Text_WeaponResonanceMaterialNotEnough_Text"
   },
   {
-    "Id": "SelectMaterial",
-    "Text": "Text_SelectMaterial_Text"
+    "id": "SelectMaterial",
+    "text": "Text_SelectMaterial_Text"
   },
   {
-    "Id": "RoleFilterElement",
-    "Text": "Text_RoleFilterElement_Text"
+    "id": "RoleFilterElement",
+    "text": "Text_RoleFilterElement_Text"
   },
   {
-    "Id": "RoleFilterWeapon",
-    "Text": "Text_RoleFilterWeapon_Text"
+    "id": "RoleFilterWeapon",
+    "text": "Text_RoleFilterWeapon_Text"
   },
   {
-    "Id": "RoleFilterCareer",
-    "Text": "Text_RoleFilterCareer_Text"
+    "id": "RoleFilterCareer",
+    "text": "Text_RoleFilterCareer_Text"
   },
   {
-    "Id": "RoleSortLevel",
-    "Text": "Text_RoleSortLevel_Text"
+    "id": "RoleSortLevel",
+    "text": "Text_RoleSortLevel_Text"
   },
   {
-    "Id": "RoleSortQuality",
-    "Text": "Text_RoleSortQuality_Text"
+    "id": "RoleSortQuality",
+    "text": "Text_RoleSortQuality_Text"
   },
   {
-    "Id": "RoleSortResonance",
-    "Text": "Text_RoleSortResonance_Text"
+    "id": "RoleSortResonance",
+    "text": "Text_RoleSortResonance_Text"
   },
   {
-    "Id": "RoleSortCreateTime",
-    "Text": "Text_RoleSortCreateTime_Text"
+    "id": "RoleSortCreateTime",
+    "text": "Text_RoleSortCreateTime_Text"
   },
   {
-    "Id": "RoleSortLifeLimit",
-    "Text": "Text_RoleSortLifeLimit_Text"
+    "id": "RoleSortLifeLimit",
+    "text": "Text_RoleSortLifeLimit_Text"
   },
   {
-    "Id": "RoleSortAttack",
-    "Text": "Text_RoleSortAttack_Text"
+    "id": "RoleSortAttack",
+    "text": "Text_RoleSortAttack_Text"
   },
   {
-    "Id": "RoleSortDefense",
-    "Text": "Text_RoleSortDefense_Text"
+    "id": "RoleSortDefense",
+    "text": "Text_RoleSortDefense_Text"
   },
   {
-    "Id": "RoleTryOut",
-    "Text": "Text_RoleTryOut_Text"
+    "id": "RoleTryOut",
+    "text": "Text_RoleTryOut_Text"
   },
   {
-    "Id": "JoinText",
-    "Text": "Text_JoinText_Text"
+    "id": "JoinText",
+    "text": "Text_JoinText_Text"
   },
   {
-    "Id": "ChangeText",
-    "Text": "Text_ChangeText_Text"
+    "id": "ChangeText",
+    "text": "Text_ChangeText_Text"
   },
   {
-    "Id": "TeamText",
-    "Text": "Text_TeamText_Text"
+    "id": "TeamText",
+    "text": "Text_TeamText_Text"
   },
   {
-    "Id": "GoDownText",
-    "Text": "Text_GoDownText_Text"
+    "id": "GoDownText",
+    "text": "Text_GoDownText_Text"
   },
   {
-    "Id": "TeleporterUnlock",
-    "Text": "Text_TeleporterUnlock_Text"
+    "id": "TeleporterUnlock",
+    "text": "Text_TeleporterUnlock_Text"
   },
   {
-    "Id": "TeleportFastMove",
-    "Text": "Text_TeleportFastMove_Text"
+    "id": "TeleportFastMove",
+    "text": "Text_TeleportFastMove_Text"
   },
   {
-    "Id": "NoRole",
-    "Text": "Text_NoRole_Text"
+    "id": "NoRole",
+    "text": "Text_NoRole_Text"
   },
   {
-    "Id": "LimitCount",
-    "Text": "Text_LimitCount_Text"
+    "id": "LimitCount",
+    "text": "Text_LimitCount_Text"
   },
   {
-    "Id": "NoReady",
-    "Text": "Text_NoReady_Text"
+    "id": "NoReady",
+    "text": "Text_NoReady_Text"
   },
   {
-    "Id": "AllRoleDie",
-    "Text": "Text_AllRoleDie_Text"
+    "id": "AllRoleDie",
+    "text": "Text_AllRoleDie_Text"
   },
   {
-    "Id": "SameRole",
-    "Text": "Text_SameRole_Text"
+    "id": "SameRole",
+    "text": "Text_SameRole_Text"
   },
   {
-    "Id": "IsInTeam",
-    "Text": "Text_IsInTeam_Text"
+    "id": "IsInTeam",
+    "text": "Text_IsInTeam_Text"
   },
   {
-    "Id": "NoChangeRole",
-    "Text": "Text_NoChangeRole_Text"
+    "id": "NoChangeRole",
+    "text": "Text_NoChangeRole_Text"
   },
   {
-    "Id": "NameIsViolation",
-    "Text": "Text_NameIsViolation_Text"
+    "id": "NameIsViolation",
+    "text": "Text_NameIsViolation_Text"
   },
   {
-    "Id": "NameTips",
-    "Text": "Text_NameTips_Text"
+    "id": "NameTips",
+    "text": "Text_NameTips_Text"
   },
   {
-    "Id": "TurnToBreach",
-    "Text": "Text_TurnToBreach_Text"
+    "id": "TurnToBreach",
+    "text": "Text_TurnToBreach_Text"
   },
   {
-    "Id": "BackToView",
-    "Text": "Text_BackToView_Text"
+    "id": "BackToView",
+    "text": "Text_BackToView_Text"
   },
   {
-    "Id": "ReachMaxLevel",
-    "Text": "Text_ReachMaxLevel_Text"
+    "id": "ReachMaxLevel",
+    "text": "Text_ReachMaxLevel_Text"
   },
   {
-    "Id": "ReachMaxLevelStage",
-    "Text": "Text_ReachMaxLevelStage_Text"
+    "id": "ReachMaxLevelStage",
+    "text": "Text_ReachMaxLevelStage_Text"
   },
   {
-    "Id": "ResonanceSuccess",
-    "Text": "Text_ResonanceSuccess_Text"
+    "id": "ResonanceSuccess",
+    "text": "Text_ResonanceSuccess_Text"
   },
   {
-    "Id": "TimeOfDayCantOpenView",
-    "Text": "Text_TimeOfDayCantOpenView_Text"
+    "id": "TimeOfDayCantOpenView",
+    "text": "Text_TimeOfDayCantOpenView_Text"
   },
   {
-    "Id": "TimeOfDayConfirmTextOn",
-    "Text": "Text_TimeOfDayConfirmTextOn_Text"
+    "id": "TimeOfDayConfirmTextOn",
+    "text": "Text_TimeOfDayConfirmTextOn_Text"
   },
   {
-    "Id": "TimeOfDayConfirmTextOff",
-    "Text": "Text_TimeOfDayConfirmTextOff_Text"
+    "id": "TimeOfDayConfirmTextOff",
+    "text": "Text_TimeOfDayConfirmTextOff_Text"
   },
   {
-    "Id": "TimeOfDayToday",
-    "Text": "Text_TimeOfDayToday_Text"
+    "id": "TimeOfDayToday",
+    "text": "Text_TimeOfDayToday_Text"
   },
   {
-    "Id": "TimeOfDayTomorrow",
-    "Text": "Text_TimeOfDayTomorrow_Text"
+    "id": "TimeOfDayTomorrow",
+    "text": "Text_TimeOfDayTomorrow_Text"
   },
   {
-    "Id": "TimeOfDayPlusTwoDay",
-    "Text": "Text_TimeOfDayPlusTwoDay_Text"
+    "id": "TimeOfDayPlusTwoDay",
+    "text": "Text_TimeOfDayPlusTwoDay_Text"
   },
   {
-    "Id": "WorldLevelIntro",
-    "Text": "Text_WorldLevelIntro_Text"
+    "id": "WorldLevelIntro",
+    "text": "Text_WorldLevelIntro_Text"
   },
   {
-    "Id": "WorldLevelINotice",
-    "Text": "Text_WorldLevelINotice_Text"
+    "id": "WorldLevelINotice",
+    "text": "Text_WorldLevelINotice_Text"
   },
   {
-    "Id": "WorldLevel",
-    "Text": "Text_WorldLevel_Text"
+    "id": "WorldLevel",
+    "text": "Text_WorldLevel_Text"
   },
   {
-    "Id": "WorldLevelDown",
-    "Text": "Text_WorldLevelDown_Text"
+    "id": "WorldLevelDown",
+    "text": "Text_WorldLevelDown_Text"
   },
   {
-    "Id": "WorldLevelRestore",
-    "Text": "Text_WorldLevelRestore_Text"
+    "id": "WorldLevelRestore",
+    "text": "Text_WorldLevelRestore_Text"
   },
   {
-    "Id": "WorldLevelUpTo",
-    "Text": "Text_WorldLevelUpTo_Text"
+    "id": "WorldLevelUpTo",
+    "text": "Text_WorldLevelUpTo_Text"
   },
   {
-    "Id": "AdventureLevelUpTo",
-    "Text": "Text_AdventureLevelUpTo_Text"
+    "id": "AdventureLevelUpTo",
+    "text": "Text_AdventureLevelUpTo_Text"
   },
   {
-    "Id": "WorldLevelAdjustTo",
-    "Text": "Text_WorldLevelAdjustTo_Text"
+    "id": "WorldLevelAdjustTo",
+    "text": "Text_WorldLevelAdjustTo_Text"
   },
   {
-    "Id": "LvString",
-    "Text": "Text_LvString_Text"
+    "id": "LvString",
+    "text": "Text_LvString_Text"
   },
   {
-    "Id": "WorldLevelDownReject",
-    "Text": "Text_WorldLevelDownReject_Text"
+    "id": "WorldLevelDownReject",
+    "text": "Text_WorldLevelDownReject_Text"
   },
   {
-    "Id": "NoneRole",
-    "Text": "Text_NoneRole_Text"
+    "id": "NoneRole",
+    "text": "Text_NoneRole_Text"
   },
   {
-    "Id": "UseBuffTitle",
-    "Text": "Text_UseBuffTitle_Text"
+    "id": "UseBuffTitle",
+    "text": "Text_UseBuffTitle_Text"
   },
   {
-    "Id": "UseBuffCdText",
-    "Text": "Text_UseBuffCdText_Text"
+    "id": "UseBuffCdText",
+    "text": "Text_UseBuffCdText_Text"
   },
   {
-    "Id": "UseBuffToDeadRole",
-    "Text": "Text_UseBuffToDeadRole_Text"
+    "id": "UseBuffToDeadRole",
+    "text": "Text_UseBuffToDeadRole_Text"
   },
   {
-    "Id": "UseBuffToAliveRole",
-    "Text": "Text_UseBuffToAliveRole_Text"
+    "id": "UseBuffToAliveRole",
+    "text": "Text_UseBuffToAliveRole_Text"
   },
   {
-    "Id": "UseBuffItemText",
-    "Text": "Text_UseBuffItemText_Text"
+    "id": "UseBuffItemText",
+    "text": "Text_UseBuffItemText_Text"
   },
   {
-    "Id": "NotResurrectionItem",
-    "Text": "Text_NotResurrectionItem_Text"
+    "id": "NotResurrectionItem",
+    "text": "Text_NotResurrectionItem_Text"
   },
   {
-    "Id": "AllResurrectionItemInCd",
-    "Text": "Text_AllResurrectionItemInCd_Text"
+    "id": "AllResurrectionItemInCd",
+    "text": "Text_AllResurrectionItemInCd_Text"
   },
   {
-    "Id": "CommonTipsDebugItemId",
-    "Text": "Text_CommonTipsDebugItemId_Text"
+    "id": "CommonTipsDebugItemId",
+    "text": "Text_CommonTipsDebugItemId_Text"
   },
   {
-    "Id": "Element_1",
-    "Text": "Text_Element_1_Text"
+    "id": "Element_1",
+    "text": "Text_Element_1_Text"
   },
   {
-    "Id": "Element_2",
-    "Text": "Text_Element_2_Text"
+    "id": "Element_2",
+    "text": "Text_Element_2_Text"
   },
   {
-    "Id": "Element_3",
-    "Text": "Text_Element_3_Text"
+    "id": "Element_3",
+    "text": "Text_Element_3_Text"
   },
   {
-    "Id": "Element_4",
-    "Text": "Text_Element_4_Text"
+    "id": "Element_4",
+    "text": "Text_Element_4_Text"
   },
   {
-    "Id": "Element_5",
-    "Text": "Text_Element_5_Text"
+    "id": "Element_5",
+    "text": "Text_Element_5_Text"
   },
   {
-    "Id": "Element_6",
-    "Text": "Text_Element_6_Text"
+    "id": "Element_6",
+    "text": "Text_Element_6_Text"
   },
   {
-    "Id": "ElementRestraintDes",
-    "Text": "Text_ElementRestraintDes_Text"
+    "id": "ElementRestraintDes",
+    "text": "Text_ElementRestraintDes_Text"
   },
   {
-    "Id": "ElementEnergyDes",
-    "Text": "Text_ElementEnergyDes_Text"
+    "id": "ElementEnergyDes",
+    "text": "Text_ElementEnergyDes_Text"
   },
   {
-    "Id": "FirstReward",
-    "Text": "Text_FirstReward_Text"
+    "id": "FirstReward",
+    "text": "Text_FirstReward_Text"
   },
   {
-    "Id": "ProbReward",
-    "Text": "Text_ProbReward_Text"
+    "id": "ProbReward",
+    "text": "Text_ProbReward_Text"
   },
   {
-    "Id": "RebornTime",
-    "Text": "Text_RebornTime_Text"
+    "id": "RebornTime",
+    "text": "Text_RebornTime_Text"
   },
   {
-    "Id": "RegionalQuest",
-    "Text": "Text_RegionalQuest_Text"
+    "id": "RegionalQuest",
+    "text": "Text_RegionalQuest_Text"
   },
   {
-    "Id": "Region",
-    "Text": "Text_Region_Text"
+    "id": "Region",
+    "text": "Text_Region_Text"
   },
   {
-    "Id": "RegionQuestAccept",
-    "Text": "Text_RegionQuestAccept_Text"
+    "id": "RegionQuestAccept",
+    "text": "Text_RegionQuestAccept_Text"
   },
   {
-    "Id": "RegionQuestGiveUp",
-    "Text": "Text_RegionQuestGiveUp_Text"
+    "id": "RegionQuestGiveUp",
+    "text": "Text_RegionQuestGiveUp_Text"
   },
   {
-    "Id": "RegionQuestCommit",
-    "Text": "Text_RegionQuestCommit_Text"
+    "id": "RegionQuestCommit",
+    "text": "Text_RegionQuestCommit_Text"
   },
   {
-    "Id": "RegionQuestGiveUpSecondConfirm",
-    "Text": "Text_RegionQuestGiveUpSecondConfirm_Text"
+    "id": "RegionQuestGiveUpSecondConfirm",
+    "text": "Text_RegionQuestGiveUpSecondConfirm_Text"
   },
   {
-    "Id": "GetContributionValue",
-    "Text": "Text_GetContributionValue_Text"
+    "id": "GetContributionValue",
+    "text": "Text_GetContributionValue_Text"
   },
   {
-    "Id": "ContributionValueShow",
-    "Text": "Text_ContributionValueShow_Text"
+    "id": "ContributionValueShow",
+    "text": "Text_ContributionValueShow_Text"
   },
   {
-    "Id": "MingSuTi_Text1",
-    "Text": "Text_MingSuTi_Text1_Text"
+    "id": "MingSuTi_Text1",
+    "text": "Text_MingSuTi_Text1_Text"
   },
   {
-    "Id": "MingSuTi_Text2",
-    "Text": "Text_MingSuTi_Text2_Text"
+    "id": "MingSuTi_Text2",
+    "text": "Text_MingSuTi_Text2_Text"
   },
   {
-    "Id": "MingSuTi_Text3",
-    "Text": "Text_MingSuTi_Text3_Text"
+    "id": "MingSuTi_Text3",
+    "text": "Text_MingSuTi_Text3_Text"
   },
   {
-    "Id": "MingSuTi_Text4",
-    "Text": "Text_MingSuTi_Text4_Text"
+    "id": "MingSuTi_Text4",
+    "text": "Text_MingSuTi_Text4_Text"
   },
   {
-    "Id": "MingSuTi_Text5",
-    "Text": "Text_MingSuTi_Text5_Text"
+    "id": "MingSuTi_Text5",
+    "text": "Text_MingSuTi_Text5_Text"
   },
   {
-    "Id": "MingSuTi_Text6",
-    "Text": "Text_MingSuTi_Text6_Text"
+    "id": "MingSuTi_Text6",
+    "text": "Text_MingSuTi_Text6_Text"
   },
   {
-    "Id": "Undergrade",
-    "Text": "Text_Undergrade_Text"
+    "id": "Undergrade",
+    "text": "Text_Undergrade_Text"
   },
   {
-    "Id": "AlreadyReceived",
-    "Text": "Text_AlreadyReceived_Text"
+    "id": "AlreadyReceived",
+    "text": "Text_AlreadyReceived_Text"
   },
   {
-    "Id": "AffixDescribe1",
-    "Text": "Text_AffixDescribe1_Text"
+    "id": "AffixDescribe1",
+    "text": "Text_AffixDescribe1_Text"
   },
   {
-    "Id": "AffixDescribe2",
-    "Text": "Text_AffixDescribe2_Text"
+    "id": "AffixDescribe2",
+    "text": "Text_AffixDescribe2_Text"
   },
   {
-    "Id": "MailFunctionLocked",
-    "Text": "Text_MailFunctionLocked_Text"
+    "id": "MailFunctionLocked",
+    "text": "Text_MailFunctionLocked_Text"
   },
   {
-    "Id": "AgeTip",
-    "Text": "Text_AgeTip_Text"
+    "id": "AgeTip",
+    "text": "Text_AgeTip_Text"
   },
   {
-    "Id": "ForbiddenActionInFight",
-    "Text": "Text_ForbiddenActionInFight_Text"
+    "id": "ForbiddenActionInFight",
+    "text": "Text_ForbiddenActionInFight_Text"
   },
   {
-    "Id": "UserAgreement",
-    "Text": "Text_UserAgreement_Text"
+    "id": "UserAgreement",
+    "text": "Text_UserAgreement_Text"
   },
   {
-    "Id": "PrivacyAgreement",
-    "Text": "Text_PrivacyAgreement_Text"
+    "id": "PrivacyAgreement",
+    "text": "Text_PrivacyAgreement_Text"
   },
   {
-    "Id": "ChildPrivacyAgreement",
-    "Text": "Text_ChildPrivacyAgreement_Text"
+    "id": "ChildPrivacyAgreement",
+    "text": "Text_ChildPrivacyAgreement_Text"
   },
   {
-    "Id": "UserTitle",
-    "Text": "Text_UserTitle_Text"
+    "id": "UserTitle",
+    "text": "Text_UserTitle_Text"
   },
   {
-    "Id": "PrivacyTitle",
-    "Text": "Text_PrivacyTitle_Text"
+    "id": "PrivacyTitle",
+    "text": "Text_PrivacyTitle_Text"
   },
   {
-    "Id": "ChildPrivacyTitle",
-    "Text": "Text_ChildPrivacyTitle_Text"
+    "id": "ChildPrivacyTitle",
+    "text": "Text_ChildPrivacyTitle_Text"
   },
   {
-    "Id": "AgeTipTitle",
-    "Text": "Text_AgeTipTitle_Text"
+    "id": "AgeTipTitle",
+    "text": "Text_AgeTipTitle_Text"
   },
   {
-    "Id": "Altitude",
-    "Text": "Text_Altitude_Text"
+    "id": "Altitude",
+    "text": "Text_Altitude_Text"
   },
   {
-    "Id": "Below",
-    "Text": "Text_Below_Text"
+    "id": "Below",
+    "text": "Text_Below_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice1",
-    "Text": "Text_ProbeToolFunctionNotice1_Text"
+    "id": "ProbeToolFunctionNotice1",
+    "text": "Text_ProbeToolFunctionNotice1_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice2",
-    "Text": "Text_ProbeToolFunctionNotice2_Text"
+    "id": "ProbeToolFunctionNotice2",
+    "text": "Text_ProbeToolFunctionNotice2_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice3",
-    "Text": "Text_ProbeToolFunctionNotice3_Text"
+    "id": "ProbeToolFunctionNotice3",
+    "text": "Text_ProbeToolFunctionNotice3_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice4",
-    "Text": "Text_ProbeToolFunctionNotice4_Text"
+    "id": "ProbeToolFunctionNotice4",
+    "text": "Text_ProbeToolFunctionNotice4_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice5",
-    "Text": "Text_ProbeToolFunctionNotice5_Text"
+    "id": "ProbeToolFunctionNotice5",
+    "text": "Text_ProbeToolFunctionNotice5_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice6",
-    "Text": "Text_ProbeToolFunctionNotice6_Text"
+    "id": "ProbeToolFunctionNotice6",
+    "text": "Text_ProbeToolFunctionNotice6_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice7",
-    "Text": "Text_ProbeToolFunctionNotice7_Text"
+    "id": "ProbeToolFunctionNotice7",
+    "text": "Text_ProbeToolFunctionNotice7_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice8",
-    "Text": "Text_ProbeToolFunctionNotice8_Text"
+    "id": "ProbeToolFunctionNotice8",
+    "text": "Text_ProbeToolFunctionNotice8_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice9",
-    "Text": "Text_ProbeToolFunctionNotice9_Text"
+    "id": "ProbeToolFunctionNotice9",
+    "text": "Text_ProbeToolFunctionNotice9_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice10",
-    "Text": "Text_ProbeToolFunctionNotice10_Text"
+    "id": "ProbeToolFunctionNotice10",
+    "text": "Text_ProbeToolFunctionNotice10_Text"
   },
   {
-    "Id": "ProbeToolFunctionNotice11",
-    "Text": "Text_ProbeToolFunctionNotice11_Text"
+    "id": "ProbeToolFunctionNotice11",
+    "text": "Text_ProbeToolFunctionNotice11_Text"
   },
   {
-    "Id": "FriendOfflineToday",
-    "Text": "Text_FriendOfflineToday_Text"
+    "id": "FriendOfflineToday",
+    "text": "Text_FriendOfflineToday_Text"
   },
   {
-    "Id": "FriendOfflineInWeek",
-    "Text": "Text_FriendOfflineInWeek_Text"
+    "id": "FriendOfflineInWeek",
+    "text": "Text_FriendOfflineInWeek_Text"
   },
   {
-    "Id": "FriendOfflineInMonth",
-    "Text": "Text_FriendOfflineInMonth_Text"
+    "id": "FriendOfflineInMonth",
+    "text": "Text_FriendOfflineInMonth_Text"
   },
   {
-    "Id": "FriendOfflineOverMonth",
-    "Text": "Text_FriendOfflineOverMonth_Text"
+    "id": "FriendOfflineOverMonth",
+    "text": "Text_FriendOfflineOverMonth_Text"
   },
   {
-    "Id": "FriendFriend",
-    "Text": "Text_FriendFriend_Text"
+    "id": "FriendFriend",
+    "text": "Text_FriendFriend_Text"
   },
   {
-    "Id": "FriendApplicationList",
-    "Text": "Text_FriendApplicationList_Text"
+    "id": "FriendApplicationList",
+    "text": "Text_FriendApplicationList_Text"
   },
   {
-    "Id": "FriendRecentMultiplayerGame",
-    "Text": "Text_FriendRecentMultiplayerGame_Text"
+    "id": "FriendRecentMultiplayerGame",
+    "text": "Text_FriendRecentMultiplayerGame_Text"
   },
   {
-    "Id": "FriendNotAvailableFriend",
-    "Text": "Text_FriendNotAvailableFriend_Text"
+    "id": "FriendNotAvailableFriend",
+    "text": "Text_FriendNotAvailableFriend_Text"
   },
   {
-    "Id": "FriendNotAvailableFriendApplication",
-    "Text": "Text_FriendNotAvailableFriendApplication_Text"
+    "id": "FriendNotAvailableFriendApplication",
+    "text": "Text_FriendNotAvailableFriendApplication_Text"
   },
   {
-    "Id": "FriendNotAvailableRecentTeammate",
-    "Text": "Text_FriendNotAvailableRecentTeammate_Text"
+    "id": "FriendNotAvailableRecentTeammate",
+    "text": "Text_FriendNotAvailableRecentTeammate_Text"
   },
   {
-    "Id": "FriendMyUid",
-    "Text": "Text_FriendMyUid_Text"
+    "id": "FriendMyUid",
+    "text": "Text_FriendMyUid_Text"
   },
   {
-    "Id": "FriendOnline",
-    "Text": "Text_FriendOnline_Text"
+    "id": "FriendOnline",
+    "text": "Text_FriendOnline_Text"
   },
   {
-    "Id": "FriendAddFriend",
-    "Text": "Text_FriendAddFriend_Text"
+    "id": "FriendAddFriend",
+    "text": "Text_FriendAddFriend_Text"
   },
   {
-    "Id": "FriendBlackList",
-    "Text": "Text_FriendBlackList_Text"
+    "id": "FriendBlackList",
+    "text": "Text_FriendBlackList_Text"
   },
   {
-    "Id": "FriendAllAccept",
-    "Text": "Text_FriendAllAccept_Text"
+    "id": "FriendAllAccept",
+    "text": "Text_FriendAllAccept_Text"
   },
   {
-    "Id": "FriendAllIgnore",
-    "Text": "Text_FriendAllIgnore_Text"
+    "id": "FriendAllIgnore",
+    "text": "Text_FriendAllIgnore_Text"
   },
   {
-    "Id": "FriendClear",
-    "Text": "Text_FriendClear_Text"
+    "id": "FriendClear",
+    "text": "Text_FriendClear_Text"
   },
   {
-    "Id": "FriendPaste",
-    "Text": "Text_FriendPaste_Text"
+    "id": "FriendPaste",
+    "text": "Text_FriendPaste_Text"
   },
   {
-    "Id": "HourText",
-    "Text": "Text_HourText_Text"
+    "id": "HourText",
+    "text": "Text_HourText_Text"
   },
   {
-    "Id": "DayText",
-    "Text": "Text_DayText_Text"
+    "id": "DayText",
+    "text": "Text_DayText_Text"
   },
   {
-    "Id": "YearText",
-    "Text": "Text_YearText_Text"
+    "id": "YearText",
+    "text": "Text_YearText_Text"
   },
   {
-    "Id": "FriendTalkToMe",
-    "Text": "Text_FriendTalkToMe_Text"
+    "id": "FriendTalkToMe",
+    "text": "Text_FriendTalkToMe_Text"
   },
   {
-    "Id": "TalkToFriend",
-    "Text": "Text_TalkToFriend_Text"
+    "id": "TalkToFriend",
+    "text": "Text_TalkToFriend_Text"
   },
   {
-    "Id": "FriendTalkToMeExpression",
-    "Text": "Text_FriendTalkToMeExpression_Text"
+    "id": "FriendTalkToMeExpression",
+    "text": "Text_FriendTalkToMeExpression_Text"
   },
   {
-    "Id": "TalkToFriendExpression",
-    "Text": "Text_TalkToFriendExpression_Text"
+    "id": "TalkToFriendExpression",
+    "text": "Text_TalkToFriendExpression_Text"
   },
   {
-    "Id": "OptionTitle",
-    "Text": "Text_OptionTitle_Text"
+    "id": "OptionTitle",
+    "text": "Text_OptionTitle_Text"
   },
   {
-    "Id": "MuteText",
-    "Text": "Text_MuteText_Text"
+    "id": "MuteText",
+    "text": "Text_MuteText_Text"
   },
   {
-    "Id": "CancelMuteText",
-    "Text": "Text_CancelMuteText_Text"
+    "id": "CancelMuteText",
+    "text": "Text_CancelMuteText_Text"
   },
   {
-    "Id": "InputChatContent",
-    "Text": "Text_InputChatContent_Text"
+    "id": "InputChatContent",
+    "text": "Text_InputChatContent_Text"
   },
   {
-    "Id": "ReachInputMaxNum",
-    "Text": "Text_ReachInputMaxNum_Text"
+    "id": "ReachInputMaxNum",
+    "text": "Text_ReachInputMaxNum_Text"
   },
   {
-    "Id": "WorldLevelNum",
-    "Text": "Text_WorldLevelNum_Text"
+    "id": "WorldLevelNum",
+    "text": "Text_WorldLevelNum_Text"
   },
   {
-    "Id": "PlayerLevelNum",
-    "Text": "Text_PlayerLevelNum_Text"
+    "id": "PlayerLevelNum",
+    "text": "Text_PlayerLevelNum_Text"
   },
   {
-    "Id": "ChatRefuseText",
-    "Text": ""
+    "id": "ChatRefuseText",
+    "text": ""
   },
   {
-    "Id": "ChatCdText",
-    "Text": "Text_ChatCdText_Text"
+    "id": "ChatCdText",
+    "text": "Text_ChatCdText_Text"
   },
   {
-    "Id": "DeleteFriendText",
-    "Text": "Text_DeleteFriendText_Text"
+    "id": "DeleteFriendText",
+    "text": "Text_DeleteFriendText_Text"
   },
   {
-    "Id": "SelectChatNoFriendText",
-    "Text": "Text_SelectChatNoFriendText_Text"
+    "id": "SelectChatNoFriendText",
+    "text": "Text_SelectChatNoFriendText_Text"
   },
   {
-    "Id": "ShopMonthText",
-    "Text": "Text_ShopMonthText_Text"
+    "id": "ShopMonthText",
+    "text": "Text_ShopMonthText_Text"
   },
   {
-    "Id": "ShopWeekText",
-    "Text": "Text_ShopWeekText_Text"
+    "id": "ShopWeekText",
+    "text": "Text_ShopWeekText_Text"
   },
   {
-    "Id": "ShopDayText",
-    "Text": "Text_ShopDayText_Text"
+    "id": "ShopDayText",
+    "text": "Text_ShopDayText_Text"
   },
   {
-    "Id": "ShopHourText",
-    "Text": "Text_ShopHourText_Text"
+    "id": "ShopHourText",
+    "text": "Text_ShopHourText_Text"
   },
   {
-    "Id": "ShopMinuteText",
-    "Text": "Text_ShopMinuteText_Text"
+    "id": "ShopMinuteText",
+    "text": "Text_ShopMinuteText_Text"
   },
   {
-    "Id": "ShopSecondText",
-    "Text": "Text_ShopSecondText_Text"
+    "id": "ShopSecondText",
+    "text": "Text_ShopSecondText_Text"
   },
   {
-    "Id": "RemainPromotionTime",
-    "Text": "Text_RemainPromotionTime_Text"
+    "id": "RemainPromotionTime",
+    "text": "Text_RemainPromotionTime_Text"
   },
   {
-    "Id": "RemainOnshelfTime",
-    "Text": "Text_RemainOnshelfTime_Text"
+    "id": "RemainOnshelfTime",
+    "text": "Text_RemainOnshelfTime_Text"
   },
   {
-    "Id": "RefreshTime",
-    "Text": "Text_RefreshTime_Text"
+    "id": "RefreshTime",
+    "text": "Text_RefreshTime_Text"
   },
   {
-    "Id": "RemainNoInMonth",
-    "Text": "Text_RemainNoInMonth_Text"
+    "id": "RemainNoInMonth",
+    "text": "Text_RemainNoInMonth_Text"
   },
   {
-    "Id": "RemainNoInWeek",
-    "Text": "Text_RemainNoInWeek_Text"
+    "id": "RemainNoInWeek",
+    "text": "Text_RemainNoInWeek_Text"
   },
   {
-    "Id": "RemainNoInDay",
-    "Text": "Text_RemainNoInDay_Text"
+    "id": "RemainNoInDay",
+    "text": "Text_RemainNoInDay_Text"
   },
   {
-    "Id": "RemainNo",
-    "Text": "Text_RemainNo_Text"
+    "id": "RemainNo",
+    "text": "Text_RemainNo_Text"
   },
   {
-    "Id": "Quantity",
-    "Text": "Text_Quantity_Text"
+    "id": "Quantity",
+    "text": "Text_Quantity_Text"
   },
   {
-    "Id": "SoldoutText",
-    "Text": "Text_SoldoutText_Text"
+    "id": "SoldoutText",
+    "text": "Text_SoldoutText_Text"
   },
   {
-    "Id": "FirstBonus1",
-    "Text": "Text_FirstBonus1_Text"
+    "id": "FirstBonus1",
+    "text": "Text_FirstBonus1_Text"
   },
   {
-    "Id": "FirstBonus2",
-    "Text": "Text_FirstBonus2_Text"
+    "id": "FirstBonus2",
+    "text": "Text_FirstBonus2_Text"
   },
   {
-    "Id": "DefaultBonus",
-    "Text": "Text_DefaultBonus_Text"
+    "id": "DefaultBonus",
+    "text": "Text_DefaultBonus_Text"
   },
   {
-    "Id": "GoodsName",
-    "Text": "Text_GoodsName_Text"
+    "id": "GoodsName",
+    "text": "Text_GoodsName_Text"
   },
   {
-    "Id": "DoubleDesc",
-    "Text": "Text_DoubleDesc_Text"
+    "id": "DoubleDesc",
+    "text": "Text_DoubleDesc_Text"
   },
   {
-    "Id": "CantBuyGoods",
-    "Text": "Text_CantBuyGoods_Text"
+    "id": "CantBuyGoods",
+    "text": "Text_CantBuyGoods_Text"
   },
   {
-    "Id": "MonthlyCardRemainDays1",
-    "Text": "Text_MonthlyCardRemainDays1_Text"
+    "id": "MonthlyCardRemainDays1",
+    "text": "Text_MonthlyCardRemainDays1_Text"
   },
   {
-    "Id": "MonthlyCardRemainDays2",
-    "Text": "Text_MonthlyCardRemainDays2_Text"
+    "id": "MonthlyCardRemainDays2",
+    "text": "Text_MonthlyCardRemainDays2_Text"
   },
   {
-    "Id": "MonthlyCardDesc",
-    "Text": "Text_MonthlyCardDesc_Text"
+    "id": "MonthlyCardDesc",
+    "text": "Text_MonthlyCardDesc_Text"
   },
   {
-    "Id": "MonthlyCardTip",
-    "Text": "Text_MonthlyCardTip_Text"
+    "id": "MonthlyCardTip",
+    "text": "Text_MonthlyCardTip_Text"
   },
   {
-    "Id": "MonthlyCardMax",
-    "Text": "Text_MonthlyCardMax_Text"
+    "id": "MonthlyCardMax",
+    "text": "Text_MonthlyCardMax_Text"
   },
   {
-    "Id": "MonthlyCardRewardTip",
-    "Text": "Text_MonthlyCardRewardTip_Text"
+    "id": "MonthlyCardRewardTip",
+    "text": "Text_MonthlyCardRewardTip_Text"
   },
   {
-    "Id": "MonthCardShopTitle",
-    "Text": "Text_MonthCardShopTitle_Text"
+    "id": "MonthCardShopTitle",
+    "text": "Text_MonthCardShopTitle_Text"
   },
   {
-    "Id": "BanChatText1",
-    "Text": "Text_BanChatText1_Text"
+    "id": "BanChatText1",
+    "text": "Text_BanChatText1_Text"
   },
   {
-    "Id": "BanChatText2",
-    "Text": "Text_BanChatText2_Text"
+    "id": "BanChatText2",
+    "text": "Text_BanChatText2_Text"
   },
   {
-    "Id": "BanChatText3",
-    "Text": "Text_BanChatText3_Text"
+    "id": "BanChatText3",
+    "text": "Text_BanChatText3_Text"
   },
   {
-    "Id": "Role",
-    "Text": "Text_Role_Text"
+    "id": "Role",
+    "text": "Text_Role_Text"
   },
   {
-    "Id": "Weapon",
-    "Text": "Text_Weapon_Text"
+    "id": "Weapon",
+    "text": "Text_Weapon_Text"
   },
   {
-    "Id": "GachaTotalRestCount",
-    "Text": "Text_GachaTotalRestCount_Text"
+    "id": "GachaTotalRestCount",
+    "text": "Text_GachaTotalRestCount_Text"
   },
   {
-    "Id": "GachaPoolTodayRestCount",
-    "Text": "Text_GachaPoolTodayRestCount_Text"
+    "id": "GachaPoolTodayRestCount",
+    "text": "Text_GachaPoolTodayRestCount_Text"
   },
   {
-    "Id": "GachaPoolTotalRestCount",
-    "Text": "Text_GachaPoolTotalRestCount_Text"
+    "id": "GachaPoolTotalRestCount",
+    "text": "Text_GachaPoolTotalRestCount_Text"
   },
   {
-    "Id": "PoolResident",
-    "Text": "Text_PoolResident_Text"
+    "id": "PoolResident",
+    "text": "Text_PoolResident_Text"
   },
   {
-    "Id": "PoolTimeLimit",
-    "Text": "Text_PoolTimeLimit_Text"
+    "id": "PoolTimeLimit",
+    "text": "Text_PoolTimeLimit_Text"
   },
   {
-    "Id": "GachaText",
-    "Text": "Text_GachaText_Text"
+    "id": "GachaText",
+    "text": "Text_GachaText_Text"
   },
   {
-    "Id": "GachaNoRecord",
-    "Text": "Text_GachaNoRecord_Text"
+    "id": "GachaNoRecord",
+    "text": "Text_GachaNoRecord_Text"
   },
   {
-    "Id": "GachaRecord",
-    "Text": "Text_GachaRecord_Text"
+    "id": "GachaRecord",
+    "text": "Text_GachaRecord_Text"
   },
   {
-    "Id": "GachaType",
-    "Text": "Text_GachaType_Text"
+    "id": "GachaType",
+    "text": "Text_GachaType_Text"
   },
   {
-    "Id": "GachaRecordLimit",
-    "Text": "Text_GachaRecordLimit_Text"
+    "id": "GachaRecordLimit",
+    "text": "Text_GachaRecordLimit_Text"
   },
   {
-    "Id": "PermissionsSetting_0",
-    "Text": "Text_PermissionsSetting_0_Text"
+    "id": "PermissionsSetting_0",
+    "text": "Text_PermissionsSetting_0_Text"
   },
   {
-    "Id": "PermissionsSetting_1",
-    "Text": "Text_PermissionsSetting_1_Text"
+    "id": "PermissionsSetting_1",
+    "text": "Text_PermissionsSetting_1_Text"
   },
   {
-    "Id": "PermissionsSetting_2",
-    "Text": "Text_PermissionsSetting_2_Text"
+    "id": "PermissionsSetting_2",
+    "text": "Text_PermissionsSetting_2_Text"
   },
   {
-    "Id": "PermissionsSetting_3",
-    "Text": "Text_PermissionsSetting_3_Text"
+    "id": "PermissionsSetting_3",
+    "text": "Text_PermissionsSetting_3_Text"
   },
   {
-    "Id": "OnlineMultipleApply",
-    "Text": "Text_OnlineMultipleApply_Text"
+    "id": "OnlineMultipleApply",
+    "text": "Text_OnlineMultipleApply_Text"
   },
   {
-    "Id": "OnlineSingleApply",
-    "Text": "Text_OnlineSingleApply_Text"
+    "id": "OnlineSingleApply",
+    "text": "Text_OnlineSingleApply_Text"
   },
   {
-    "Id": "DefaultSign",
-    "Text": "Text_DefaultSign_Text"
+    "id": "DefaultSign",
+    "text": "Text_DefaultSign_Text"
   },
   {
-    "Id": "ApplyBtnDisable",
-    "Text": "Text_ApplyBtnDisable_Text"
+    "id": "ApplyBtnDisable",
+    "text": "Text_ApplyBtnDisable_Text"
   },
   {
-    "Id": "ApplyBtnEnable",
-    "Text": "Text_ApplyBtnEnable_Text"
+    "id": "ApplyBtnEnable",
+    "text": "Text_ApplyBtnEnable_Text"
   },
   {
-    "Id": "ApplyRefused",
-    "Text": "Text_ApplyRefused_Text"
+    "id": "ApplyRefused",
+    "text": "Text_ApplyRefused_Text"
   },
   {
-    "Id": "EnteringOtherWorld",
-    "Text": "Text_EnteringOtherWorld_Text"
+    "id": "EnteringOtherWorld",
+    "text": "Text_EnteringOtherWorld_Text"
   },
   {
-    "Id": "CantEnterOtherWorld",
-    "Text": "Text_CantEnterOtherWorld_Text"
+    "id": "CantEnterOtherWorld",
+    "text": "Text_CantEnterOtherWorld_Text"
   },
   {
-    "Id": "OthersCantEnterMyWorld",
-    "Text": "Text_OthersCantEnterMyWorld_Text"
+    "id": "OthersCantEnterMyWorld",
+    "text": "Text_OthersCantEnterMyWorld_Text"
   },
   {
-    "Id": "ExitOnlineTeam",
-    "Text": "Text_ExitOnlineTeam_Text"
+    "id": "ExitOnlineTeam",
+    "text": "Text_ExitOnlineTeam_Text"
   },
   {
-    "Id": "LeaderExitOnlineTeam",
-    "Text": "Text_LeaderExitOnlineTeam_Text"
+    "id": "LeaderExitOnlineTeam",
+    "text": "Text_LeaderExitOnlineTeam_Text"
   },
   {
-    "Id": "SendFriendApply",
-    "Text": "Text_SendFriendApply_Text"
+    "id": "SendFriendApply",
+    "text": "Text_SendFriendApply_Text"
   },
   {
-    "Id": "IsMyFriend",
-    "Text": "Text_IsMyFriend_Text"
+    "id": "IsMyFriend",
+    "text": "Text_IsMyFriend_Text"
   },
   {
-    "Id": "ApplyFriend",
-    "Text": "Text_ApplyFriend_Text"
+    "id": "ApplyFriend",
+    "text": "Text_ApplyFriend_Text"
   },
   {
-    "Id": "ReconnectingInfo",
-    "Text": "Text_ReconnectingInfo_Text"
+    "id": "ReconnectingInfo",
+    "text": "Text_ReconnectingInfo_Text"
   },
   {
-    "Id": "ExitWorld",
-    "Text": "Text_ExitWorld_Text"
+    "id": "ExitWorld",
+    "text": "Text_ExitWorld_Text"
   },
   {
-    "Id": "IsNotMyRole",
-    "Text": "Text_IsNotMyRole_Text"
+    "id": "IsNotMyRole",
+    "text": "Text_IsNotMyRole_Text"
   },
   {
-    "Id": "NameMark",
-    "Text": "Text_NameMark_Text"
+    "id": "NameMark",
+    "text": "Text_NameMark_Text"
   },
   {
-    "Id": "IsEnteringWorld",
-    "Text": "Text_IsEnteringWorld_Text"
+    "id": "IsEnteringWorld",
+    "text": "Text_IsEnteringWorld_Text"
   },
   {
-    "Id": "PlayerNumber",
-    "Text": "Text_PlayerNumber_Text"
+    "id": "PlayerNumber",
+    "text": "Text_PlayerNumber_Text"
   },
   {
-    "Id": "ExChangeTitle",
-    "Text": "Text_ExChangeTitle_Text"
+    "id": "ExChangeTitle",
+    "text": "Text_ExChangeTitle_Text"
   },
   {
-    "Id": "ExChangeCount",
-    "Text": "Text_ExChangeCount_Text"
+    "id": "ExChangeCount",
+    "text": "Text_ExChangeCount_Text"
   },
   {
-    "Id": "ExChangeCountDescribe",
-    "Text": "Text_ExChangeCountDescribe_Text"
+    "id": "ExChangeCountDescribe",
+    "text": "Text_ExChangeCountDescribe_Text"
   },
   {
-    "Id": "ExChangeCountDescribe2",
-    "Text": "Text_ExChangeCountDescribe2_Text"
+    "id": "ExChangeCountDescribe2",
+    "text": "Text_ExChangeCountDescribe2_Text"
   },
   {
-    "Id": "ReceiveLevelPlayPowerNotEnough",
-    "Text": "Text_ReceiveLevelPlayPowerNotEnough_Text"
+    "id": "ReceiveLevelPlayPowerNotEnough",
+    "text": "Text_ReceiveLevelPlayPowerNotEnough_Text"
   },
   {
-    "Id": "ReachReviveCount",
-    "Text": "Text_ReachReviveCount_Text"
+    "id": "ReachReviveCount",
+    "text": "Text_ReachReviveCount_Text"
   },
   {
-    "Id": "Hook",
-    "Text": "Text_Hook_Text"
+    "id": "Hook",
+    "text": "Text_Hook_Text"
   },
   {
-    "Id": "InviteNearby",
-    "Text": "Text_InviteNearby_Text"
+    "id": "InviteNearby",
+    "text": "Text_InviteNearby_Text"
   },
   {
-    "Id": "InviteColleague",
-    "Text": "Text_InviteColleague_Text"
+    "id": "InviteColleague",
+    "text": "Text_InviteColleague_Text"
   },
   {
-    "Id": "InviteFriend",
-    "Text": "Text_InviteFriend_Text"
+    "id": "InviteFriend",
+    "text": "Text_InviteFriend_Text"
   },
   {
-    "Id": "He",
-    "Text": "Text_He_Text"
+    "id": "He",
+    "text": "Text_He_Text"
   },
   {
-    "Id": "She",
-    "Text": "Text_She_Text"
+    "id": "She",
+    "text": "Text_She_Text"
   },
   {
-    "Id": "ResonanceTo",
-    "Text": "Text_ResonanceTo_Text"
+    "id": "ResonanceTo",
+    "text": "Text_ResonanceTo_Text"
   },
   {
-    "Id": "MaxDeliverCount",
-    "Text": "Text_MaxDeliverCount_Text"
+    "id": "MaxDeliverCount",
+    "text": "Text_MaxDeliverCount_Text"
   },
   {
-    "Id": "DeliverNoMaterial",
-    "Text": "Text_DeliverNoMaterial_Text"
+    "id": "DeliverNoMaterial",
+    "text": "Text_DeliverNoMaterial_Text"
   },
   {
-    "Id": "NeedDeliverItem",
-    "Text": "Text_NeedDeliverItem_Text"
+    "id": "NeedDeliverItem",
+    "text": "Text_NeedDeliverItem_Text"
   },
   {
-    "Id": "SelectDeliverItem",
-    "Text": "Text_SelectDeliverItem_Text"
+    "id": "SelectDeliverItem",
+    "text": "Text_SelectDeliverItem_Text"
   },
   {
-    "Id": "NotEnoughItemDeliver",
-    "Text": "Text_NotEnoughItemDeliver_Text"
+    "id": "NotEnoughItemDeliver",
+    "text": "Text_NotEnoughItemDeliver_Text"
   },
   {
-    "Id": "PutAllNeedItem",
-    "Text": "Text_PutAllNeedItem_Text"
+    "id": "PutAllNeedItem",
+    "text": "Text_PutAllNeedItem_Text"
   },
   {
-    "Id": "NoSatisfiedItem",
-    "Text": "Text_NoSatisfiedItem_Text"
+    "id": "NoSatisfiedItem",
+    "text": "Text_NoSatisfiedItem_Text"
   },
   {
-    "Id": "PleaseSelectItem",
-    "Text": "Text_PleaseSelectItem_Text"
+    "id": "PleaseSelectItem",
+    "text": "Text_PleaseSelectItem_Text"
   },
   {
-    "Id": "Meter",
-    "Text": "Text_Meter_Text"
+    "id": "Meter",
+    "text": "Text_Meter_Text"
   },
   {
-    "Id": "DeleteLanguage",
-    "Text": "Text_DeleteLanguage_Text"
+    "id": "DeleteLanguage",
+    "text": "Text_DeleteLanguage_Text"
   },
   {
-    "Id": "DownloadLanguage",
-    "Text": "Text_DownloadLanguage_Text"
+    "id": "DownloadLanguage",
+    "text": "Text_DownloadLanguage_Text"
   },
   {
-    "Id": "PauseDownload",
-    "Text": "Text_PauseDownload_Text"
+    "id": "PauseDownload",
+    "text": "Text_PauseDownload_Text"
   },
   {
-    "Id": "ResumeDownload",
-    "Text": "Text_ResumeDownload_Text"
+    "id": "ResumeDownload",
+    "text": "Text_ResumeDownload_Text"
   },
   {
-    "Id": "GoToDownload",
-    "Text": "Text_GoToDownload_Text"
+    "id": "GoToDownload",
+    "text": "Text_GoToDownload_Text"
   },
   {
-    "Id": "InUse",
-    "Text": "Text_InUse_Text"
+    "id": "InUse",
+    "text": "Text_InUse_Text"
   },
   {
-    "Id": "Pausing",
-    "Text": "Text_Pausing_Text"
+    "id": "Pausing",
+    "text": "Text_Pausing_Text"
   },
   {
-    "Id": "NotDownloaded",
-    "Text": "Text_NotDownloaded_Text"
+    "id": "NotDownloaded",
+    "text": "Text_NotDownloaded_Text"
   },
   {
-    "Id": "NotFinished",
-    "Text": "Text_NotFinished_Text"
+    "id": "NotFinished",
+    "text": "Text_NotFinished_Text"
   },
   {
-    "Id": "DownloadFinished",
-    "Text": "Text_DownloadFinished_Text"
+    "id": "DownloadFinished",
+    "text": "Text_DownloadFinished_Text"
   },
   {
-    "Id": "InUseCanNotDelete",
-    "Text": "Text_InUseCanNotDelete_Text"
+    "id": "InUseCanNotDelete",
+    "text": "Text_InUseCanNotDelete_Text"
   },
   {
-    "Id": "LanguageDownloadFinished",
-    "Text": "Text_LanguageDownloadFinished_Text"
+    "id": "LanguageDownloadFinished",
+    "text": "Text_LanguageDownloadFinished_Text"
   },
   {
-    "Id": "MatchingConfirm",
-    "Text": "Text_MatchingConfirm_Text"
+    "id": "MatchingConfirm",
+    "text": "Text_MatchingConfirm_Text"
   },
   {
-    "Id": "MatchingContext",
-    "Text": "Text_MatchingContext_Text"
+    "id": "MatchingContext",
+    "text": "Text_MatchingContext_Text"
   },
   {
-    "Id": "MatchingCancel",
-    "Text": "Text_MatchingCancel_Text"
+    "id": "MatchingCancel",
+    "text": "Text_MatchingCancel_Text"
   },
   {
-    "Id": "MatchingAgree",
-    "Text": "Text_MatchingAgree_Text"
+    "id": "MatchingAgree",
+    "text": "Text_MatchingAgree_Text"
   },
   {
-    "Id": "MatchingCoolDown",
-    "Text": "Text_MatchingCoolDown_Text"
+    "id": "MatchingCoolDown",
+    "text": "Text_MatchingCoolDown_Text"
   },
   {
-    "Id": "MatchingWait",
-    "Text": "Text_MatchingWait_Text"
+    "id": "MatchingWait",
+    "text": "Text_MatchingWait_Text"
   },
   {
-    "Id": "MatchingOtherCancel",
-    "Text": "Text_MatchingOtherCancel_Text"
+    "id": "MatchingOtherCancel",
+    "text": "Text_MatchingOtherCancel_Text"
   },
   {
-    "Id": "MatchingTimeOut",
-    "Text": "Text_MatchingTimeOut_Text"
+    "id": "MatchingTimeOut",
+    "text": "Text_MatchingTimeOut_Text"
   },
   {
-    "Id": "AcquireConfirm",
-    "Text": "Text_AcquireConfirm_Text"
+    "id": "AcquireConfirm",
+    "text": "Text_AcquireConfirm_Text"
   },
   {
-    "Id": "AcquireCancel",
-    "Text": "Text_AcquireCancel_Text"
+    "id": "AcquireCancel",
+    "text": "Text_AcquireCancel_Text"
   },
   {
-    "Id": "AcquireOpenCount",
-    "Text": "Text_AcquireOpenCount_Text"
+    "id": "AcquireOpenCount",
+    "text": "Text_AcquireOpenCount_Text"
   },
   {
-    "Id": "AcquireGetReward",
-    "Text": "Text_AcquireGetReward_Text"
+    "id": "AcquireGetReward",
+    "text": "Text_AcquireGetReward_Text"
   },
   {
-    "Id": "AcquireContinueOpen",
-    "Text": "Text_AcquireContinueOpen_Text"
+    "id": "AcquireContinueOpen",
+    "text": "Text_AcquireContinueOpen_Text"
   },
   {
-    "Id": "AcquireRemainItem",
-    "Text": "Text_AcquireRemainItem_Text"
+    "id": "AcquireRemainItem",
+    "text": "Text_AcquireRemainItem_Text"
   },
   {
-    "Id": "SelectRewardFromPool",
-    "Text": "Text_SelectRewardFromPool_Text"
+    "id": "SelectRewardFromPool",
+    "text": "Text_SelectRewardFromPool_Text"
   },
   {
-    "Id": "SelectGiftItem",
-    "Text": "Text_SelectGiftItem_Text"
+    "id": "SelectGiftItem",
+    "text": "Text_SelectGiftItem_Text"
   },
   {
-    "Id": "MultiGift",
-    "Text": "Text_MultiGift_Text"
+    "id": "MultiGift",
+    "text": "Text_MultiGift_Text"
   },
   {
-    "Id": "NotEnoughItem",
-    "Text": "Text_NotEnoughItem_Text"
+    "id": "NotEnoughItem",
+    "text": "Text_NotEnoughItem_Text"
   },
   {
-    "Id": "ItemCountNotSatisfied",
-    "Text": "Text_ItemCountNotSatisfied_Text"
+    "id": "ItemCountNotSatisfied",
+    "text": "Text_ItemCountNotSatisfied_Text"
   },
   {
-    "Id": "QteReaction",
-    "Text": "Text_QteReaction_Text"
+    "id": "QteReaction",
+    "text": "Text_QteReaction_Text"
   },
   {
-    "Id": "Enemy",
-    "Text": "Text_Enemy_Text"
+    "id": "Enemy",
+    "text": "Text_Enemy_Text"
   },
   {
-    "Id": "System",
-    "Text": "Text_System_Text"
+    "id": "System",
+    "text": "Text_System_Text"
   },
   {
-    "Id": "Adventure",
-    "Text": "Text_Adventure_Text"
+    "id": "Adventure",
+    "text": "Text_Adventure_Text"
   },
   {
-    "Id": "All",
-    "Text": "Text_All_Text"
+    "id": "All",
+    "text": "Text_All_Text"
   },
   {
-    "Id": "ItemCost",
-    "Text": "Text_ItemCost_Text"
+    "id": "ItemCost",
+    "text": "Text_ItemCost_Text"
   },
   {
-    "Id": "ItemCostNotEnough",
-    "Text": "Text_ItemCostNotEnough_Text"
+    "id": "ItemCostNotEnough",
+    "text": "Text_ItemCostNotEnough_Text"
   },
   {
-    "Id": "PowerShow",
-    "Text": "Text_PowerShow_Text"
+    "id": "PowerShow",
+    "text": "Text_PowerShow_Text"
   },
   {
-    "Id": "ItemShow",
-    "Text": "Text_ItemShow_Text"
+    "id": "ItemShow",
+    "text": "Text_ItemShow_Text"
   },
   {
-    "Id": "UserId",
-    "Text": "Text_UserId_Text"
+    "id": "UserId",
+    "text": "Text_UserId_Text"
   },
   {
-    "Id": "WeaponMaterialType",
-    "Text": "Text_WeaponMaterialType_Text"
+    "id": "WeaponMaterialType",
+    "text": "Text_WeaponMaterialType_Text"
   },
   {
-    "Id": "SkillMaterialType",
-    "Text": "Text_SkillMaterialType_Text"
+    "id": "SkillMaterialType",
+    "text": "Text_SkillMaterialType_Text"
   },
   {
-    "Id": "ChapterRewardGet",
-    "Text": "Text_ChapterRewardGet_Text"
+    "id": "ChapterRewardGet",
+    "text": "Text_ChapterRewardGet_Text"
   },
   {
-    "Id": "NotFinishedTip",
-    "Text": "Text_NotFinishedTip_Text"
+    "id": "NotFinishedTip",
+    "text": "Text_NotFinishedTip_Text"
   },
   {
-    "Id": "DungeonLocked",
-    "Text": "Text_DungeonLocked_Text"
+    "id": "DungeonLocked",
+    "text": "Text_DungeonLocked_Text"
   },
   {
-    "Id": "SilentAreaLocked",
-    "Text": "Text_SilentAreaLocked_Text"
+    "id": "SilentAreaLocked",
+    "text": "Text_SilentAreaLocked_Text"
   },
   {
-    "Id": "LevelText",
-    "Text": "Text_LevelText_Text"
+    "id": "LevelText",
+    "text": "Text_LevelText_Text"
   },
   {
-    "Id": "Unknown",
-    "Text": "Text_Unknown_Text"
+    "id": "Unknown",
+    "text": "Text_Unknown_Text"
   },
   {
-    "Id": "LvlUnknown",
-    "Text": "Text_LvlUnknown_Text"
+    "id": "LvlUnknown",
+    "text": "Text_LvlUnknown_Text"
   },
   {
-    "Id": "Doing",
-    "Text": "Text_Doing_Text"
+    "id": "Doing",
+    "text": "Text_Doing_Text"
   },
   {
-    "Id": "UnDiscovered",
-    "Text": "Text_UnDiscovered_Text"
+    "id": "UnDiscovered",
+    "text": "Text_UnDiscovered_Text"
   },
   {
-    "Id": "Detect",
-    "Text": "Text_Detect_Text"
+    "id": "Detect",
+    "text": "Text_Detect_Text"
   },
   {
-    "Id": "GetReward",
-    "Text": "Text_GetReward_Text"
+    "id": "GetReward",
+    "text": "Text_GetReward_Text"
   },
   {
-    "Id": "ReceivedCount",
-    "Text": "Text_ReceivedCount_Text"
+    "id": "ReceivedCount",
+    "text": "Text_ReceivedCount_Text"
   },
   {
-    "Id": "FlushTimeRemain",
-    "Text": "Text_FlushTimeRemain_Text"
+    "id": "FlushTimeRemain",
+    "text": "Text_FlushTimeRemain_Text"
   },
   {
-    "Id": "CookingHeadline",
-    "Text": "Text_CookingHeadline_Text"
+    "id": "CookingHeadline",
+    "text": "Text_CookingHeadline_Text"
   },
   {
-    "Id": "MakingDishes",
-    "Text": "Text_MakingDishes_Text"
+    "id": "MakingDishes",
+    "text": "Text_MakingDishes_Text"
   },
   {
-    "Id": "MakingAccessory",
-    "Text": "Text_MakingAccessory_Text"
+    "id": "MakingAccessory",
+    "text": "Text_MakingAccessory_Text"
   },
   {
-    "Id": "Dishes",
-    "Text": "Text_Dishes_Text"
+    "id": "Dishes",
+    "text": "Text_Dishes_Text"
   },
   {
-    "Id": "Machining",
-    "Text": "Text_Machining_Text"
+    "id": "Machining",
+    "text": "Text_Machining_Text"
   },
   {
-    "Id": "Cook",
-    "Text": "Text_Cook_Text"
+    "id": "Cook",
+    "text": "Text_Cook_Text"
   },
   {
-    "Id": "CookRole",
-    "Text": "Text_CookRole_Text"
+    "id": "CookRole",
+    "text": "Text_CookRole_Text"
   },
   {
-    "Id": "Selected",
-    "Text": "Text_Selected_Text"
+    "id": "Selected",
+    "text": "Text_Selected_Text"
   },
   {
-    "Id": "MachiningStudy",
-    "Text": "Text_MachiningStudy_Text"
+    "id": "MachiningStudy",
+    "text": "Text_MachiningStudy_Text"
   },
   {
-    "Id": "CookLevel",
-    "Text": "Text_CookLevel_Text"
+    "id": "CookLevel",
+    "text": "Text_CookLevel_Text"
   },
   {
-    "Id": "Recipe",
-    "Text": "Text_Recipe_Text"
+    "id": "Recipe",
+    "text": "Text_Recipe_Text"
   },
   {
-    "Id": "Accessory",
-    "Text": "Text_Accessory_Text"
+    "id": "Accessory",
+    "text": "Text_Accessory_Text"
   },
   {
-    "Id": "AddProficiency",
-    "Text": "Text_AddProficiency_Text"
+    "id": "AddProficiency",
+    "text": "Text_AddProficiency_Text"
   },
   {
-    "Id": "Proficiency",
-    "Text": "Text_Proficiency_Text"
+    "id": "Proficiency",
+    "text": "Text_Proficiency_Text"
   },
   {
-    "Id": "Cooking",
-    "Text": "Text_Cooking_Text"
+    "id": "Cooking",
+    "text": "Text_Cooking_Text"
   },
   {
-    "Id": "Study",
-    "Text": "Text_Study_Text"
+    "id": "Study",
+    "text": "Text_Study_Text"
   },
   {
-    "Id": "Research",
-    "Text": "Text_Research_Text"
+    "id": "Research",
+    "text": "Text_Research_Text"
   },
   {
-    "Id": "DefaultHelperText",
-    "Text": "Text_DefaultHelperText_Text"
+    "id": "DefaultHelperText",
+    "text": "Text_DefaultHelperText_Text"
   },
   {
-    "Id": "Confirm",
-    "Text": "Text_Confirm_Text"
+    "id": "Confirm",
+    "text": "Text_Confirm_Text"
   },
   {
-    "Id": "Cancel",
-    "Text": "Text_Cancel_Text"
+    "id": "Cancel",
+    "text": "Text_Cancel_Text"
   },
   {
-    "Id": "Have",
-    "Text": "Text_Have_Text"
+    "id": "Have",
+    "text": "Text_Have_Text"
   },
   {
-    "Id": "UnableToAdd",
-    "Text": "Text_UnableToAdd_Text"
+    "id": "UnableToAdd",
+    "text": "Text_UnableToAdd_Text"
   },
   {
-    "Id": "UnableToReduce",
-    "Text": "Text_UnableToReduce_Text"
+    "id": "UnableToReduce",
+    "text": "Text_UnableToReduce_Text"
   },
   {
-    "Id": "FixText",
-    "Text": "Text_FixText_Text"
+    "id": "FixText",
+    "text": "Text_FixText_Text"
   },
   {
-    "Id": "MaciningStudyFail",
-    "Text": "Text_MaciningStudyFail_Text"
+    "id": "MaciningStudyFail",
+    "text": "Text_MaciningStudyFail_Text"
   },
   {
-    "Id": "UnlockTitle",
-    "Text": "Text_UnlockTitle_Text"
+    "id": "UnlockTitle",
+    "text": "Text_UnlockTitle_Text"
   },
   {
-    "Id": "GetItem",
-    "Text": "Text_GetItem_Text"
+    "id": "GetItem",
+    "text": "Text_GetItem_Text"
   },
   {
-    "Id": "StudyFail",
-    "Text": "Text_StudyFail_Text"
+    "id": "StudyFail",
+    "text": "Text_StudyFail_Text"
   },
   {
-    "Id": "Attack",
-    "Text": "Text_Attack_Text"
+    "id": "Attack",
+    "text": "Text_Attack_Text"
   },
   {
-    "Id": "Defense",
-    "Text": "Text_Defense_Text"
+    "id": "Defense",
+    "text": "Text_Defense_Text"
   },
   {
-    "Id": "CookStudyEmpty",
-    "Text": "Text_CookStudyEmpty_Text"
+    "id": "CookStudyEmpty",
+    "text": "Text_CookStudyEmpty_Text"
   },
   {
-    "Id": "CookStudyTitle",
-    "Text": "Text_CookStudyTitle_Text"
+    "id": "CookStudyTitle",
+    "text": "Text_CookStudyTitle_Text"
   },
   {
-    "Id": "UsefulSkillPoint",
-    "Text": "Text_UsefulSkillPoint_Text"
+    "id": "UsefulSkillPoint",
+    "text": "Text_UsefulSkillPoint_Text"
   },
   {
-    "Id": "Actived",
-    "Text": "Text_Actived_Text"
+    "id": "Actived",
+    "text": "Text_Actived_Text"
   },
   {
-    "Id": "CostSkillPoint",
-    "Text": "Text_CostSkillPoint_Text"
+    "id": "CostSkillPoint",
+    "text": "Text_CostSkillPoint_Text"
   },
   {
-    "Id": "SkillPointResetSucceed",
-    "Text": "Text_SkillPointResetSucceed_Text"
+    "id": "SkillPointResetSucceed",
+    "text": "Text_SkillPointResetSucceed_Text"
   },
   {
-    "Id": "GetSkillPoint",
-    "Text": "Text_GetSkillPoint_Text"
+    "id": "GetSkillPoint",
+    "text": "Text_GetSkillPoint_Text"
   },
   {
-    "Id": "QuestConditionLevel",
-    "Text": "Text_QuestConditionLevel_Text"
+    "id": "QuestConditionLevel",
+    "text": "Text_QuestConditionLevel_Text"
   },
   {
-    "Id": "RoleQuestGoto",
-    "Text": "Text_RoleQuestGoto_Text"
+    "id": "RoleQuestGoto",
+    "text": "Text_RoleQuestGoto_Text"
   },
   {
-    "Id": "QuestConditionQuest",
-    "Text": "Text_QuestConditionQuest_Text"
+    "id": "QuestConditionQuest",
+    "text": "Text_QuestConditionQuest_Text"
   },
   {
-    "Id": "FavorLevel",
-    "Text": "Text_FavorLevel_Text"
+    "id": "FavorLevel",
+    "text": "Text_FavorLevel_Text"
   },
   {
-    "Id": "FavorRoleInfo",
-    "Text": "Text_FavorRoleInfo_Text"
+    "id": "FavorRoleInfo",
+    "text": "Text_FavorRoleInfo_Text"
   },
   {
-    "Id": "FavorPowerFile",
-    "Text": "Text_FavorPowerFile_Text"
+    "id": "FavorPowerFile",
+    "text": "Text_FavorPowerFile_Text"
   },
   {
-    "Id": "FavorRoleStory",
-    "Text": "Text_FavorRoleStory_Text"
+    "id": "FavorRoleStory",
+    "text": "Text_FavorRoleStory_Text"
   },
   {
-    "Id": "FavorIdleAction",
-    "Text": "Text_FavorIdleAction_Text"
+    "id": "FavorIdleAction",
+    "text": "Text_FavorIdleAction_Text"
   },
   {
-    "Id": "FavorFightAction",
-    "Text": "Text_FavorFightAction_Text"
+    "id": "FavorFightAction",
+    "text": "Text_FavorFightAction_Text"
   },
   {
-    "Id": "FavorNatureVoice",
-    "Text": "Text_FavorNatureVoice_Text"
+    "id": "FavorNatureVoice",
+    "text": "Text_FavorNatureVoice_Text"
   },
   {
-    "Id": "FavorFightVoice",
-    "Text": "Text_FavorFightVoice_Text"
+    "id": "FavorFightVoice",
+    "text": "Text_FavorFightVoice_Text"
   },
   {
-    "Id": "FavorPreciousItem",
-    "Text": "Text_FavorPreciousItem_Text"
+    "id": "FavorPreciousItem",
+    "text": "Text_FavorPreciousItem_Text"
   },
   {
-    "Id": "FavorFileRoleName",
-    "Text": "Text_FavorFileRoleName_Text"
+    "id": "FavorFileRoleName",
+    "text": "Text_FavorFileRoleName_Text"
   },
   {
-    "Id": "FavorFilePower",
-    "Text": "Text_FavorFilePower_Text"
+    "id": "FavorFilePower",
+    "text": "Text_FavorFilePower_Text"
   },
   {
-    "Id": "FavorExperience",
-    "Text": "Text_FavorExperience_Text"
+    "id": "FavorExperience",
+    "text": "Text_FavorExperience_Text"
   },
   {
-    "Id": "FavorVoice",
-    "Text": "Text_FavorVoice_Text"
+    "id": "FavorVoice",
+    "text": "Text_FavorVoice_Text"
   },
   {
-    "Id": "FavorAction",
-    "Text": "Text_FavorAction_Text"
+    "id": "FavorAction",
+    "text": "Text_FavorAction_Text"
   },
   {
-    "Id": "FavorExp",
-    "Text": "Text_FavorExp_Text"
+    "id": "FavorExp",
+    "text": "Text_FavorExp_Text"
   },
   {
-    "Id": "FavorLockTips",
-    "Text": "Text_FavorLockTips_Text"
+    "id": "FavorLockTips",
+    "text": "Text_FavorLockTips_Text"
   },
   {
-    "Id": "FavorActiveSucced",
-    "Text": "Text_FavorActiveSucced_Text"
+    "id": "FavorActiveSucced",
+    "text": "Text_FavorActiveSucced_Text"
   },
   {
-    "Id": "FavorBaseInfo",
-    "Text": "Text_FavorBaseInfo_Text"
+    "id": "FavorBaseInfo",
+    "text": "Text_FavorBaseInfo_Text"
   },
   {
-    "Id": "Position",
-    "Text": "Text_Position_Text"
+    "id": "Position",
+    "text": "Text_Position_Text"
   },
   {
-    "Id": "CookInputCount",
-    "Text": "Text_CookInputCount_Text"
+    "id": "CookInputCount",
+    "text": "Text_CookInputCount_Text"
   },
   {
-    "Id": "ClearLastTower",
-    "Text": "Text_ClearLastTower_Text"
+    "id": "ClearLastTower",
+    "text": "Text_ClearLastTower_Text"
   },
   {
-    "Id": "RightAreaText",
-    "Text": "Text_RightAreaText_Text"
+    "id": "RightAreaText",
+    "text": "Text_RightAreaText_Text"
   },
   {
-    "Id": "LeftAreaText",
-    "Text": "Text_LeftAreaText_Text"
+    "id": "LeftAreaText",
+    "text": "Text_LeftAreaText_Text"
   },
   {
-    "Id": "NextChallengeText",
-    "Text": "Text_NextChallengeText_Text"
+    "id": "NextChallengeText",
+    "text": "Text_NextChallengeText_Text"
   },
   {
-    "Id": "RightAreaTeamText",
-    "Text": "Text_RightAreaTeamText_Text"
+    "id": "RightAreaTeamText",
+    "text": "Text_RightAreaTeamText_Text"
   },
   {
-    "Id": "LeftAreaTeamText",
-    "Text": "Text_LeftAreaTeamText_Text"
+    "id": "LeftAreaTeamText",
+    "text": "Text_LeftAreaTeamText_Text"
   },
   {
-    "Id": "NoResetNode",
-    "Text": "Text_NoResetNode_Text"
+    "id": "NoResetNode",
+    "text": "Text_NoResetNode_Text"
   },
   {
-    "Id": "ActivedSucceed",
-    "Text": "Text_ActivedSucceed_Text"
+    "id": "ActivedSucceed",
+    "text": "Text_ActivedSucceed_Text"
   },
   {
-    "Id": "QuestIsOccupied",
-    "Text": "Text_QuestIsOccupied_Text"
+    "id": "QuestIsOccupied",
+    "text": "Text_QuestIsOccupied_Text"
   },
   {
-    "Id": "QuestResourcesIsOccupied",
-    "Text": "Text_QuestResourcesIsOccupied_Text"
+    "id": "QuestResourcesIsOccupied",
+    "text": "Text_QuestResourcesIsOccupied_Text"
   },
   {
-    "Id": "QuestTrackOccupiedTip",
-    "Text": "Text_QuestTrackOccupiedTip_Text"
+    "id": "QuestTrackOccupiedTip",
+    "text": "Text_QuestTrackOccupiedTip_Text"
   },
   {
-    "Id": "CurrentQuestOccupied",
-    "Text": "Text_CurrentQuestOccupied_Text"
+    "id": "CurrentQuestOccupied",
+    "text": "Text_CurrentQuestOccupied_Text"
   },
   {
-    "Id": "BuffInformation",
-    "Text": "Text_BuffInformation_Text"
+    "id": "BuffInformation",
+    "text": "Text_BuffInformation_Text"
   },
   {
-    "Id": "MonsterInformation",
-    "Text": "Text_MonsterInformation_Text"
+    "id": "MonsterInformation",
+    "text": "Text_MonsterInformation_Text"
   },
   {
-    "Id": "FavorUnlockkStoryCondition",
-    "Text": "Text_FavorUnlockkStoryCondition_Text"
+    "id": "FavorUnlockkStoryCondition",
+    "text": "Text_FavorUnlockkStoryCondition_Text"
   },
   {
-    "Id": "FavorUnlockActionCondition",
-    "Text": "Text_FavorUnlockActionCondition_Text"
+    "id": "FavorUnlockActionCondition",
+    "text": "Text_FavorUnlockActionCondition_Text"
   },
   {
-    "Id": "FavorUnlockVoiceCondition",
-    "Text": "Text_FavorUnlockVoiceCondition_Text"
+    "id": "FavorUnlockVoiceCondition",
+    "text": "Text_FavorUnlockVoiceCondition_Text"
   },
   {
-    "Id": "FavorUnlockPreciousItemCondition",
-    "Text": "Text_FavorUnlockPreciousItemCondition_Text"
+    "id": "FavorUnlockPreciousItemCondition",
+    "text": "Text_FavorUnlockPreciousItemCondition_Text"
   },
   {
-    "Id": "FavorUnlockNewIdleAction",
-    "Text": "Text_FavorUnlockNewIdleAction_Text"
+    "id": "FavorUnlockNewIdleAction",
+    "text": "Text_FavorUnlockNewIdleAction_Text"
   },
   {
-    "Id": "FavorUnlcokNewFightAction",
-    "Text": "Text_FavorUnlcokNewFightAction_Text"
+    "id": "FavorUnlcokNewFightAction",
+    "text": "Text_FavorUnlcokNewFightAction_Text"
   },
   {
-    "Id": "InfluenceHostilityTips",
-    "Text": "Text_InfluenceHostilityTips_Text"
+    "id": "InfluenceHostilityTips",
+    "text": "Text_InfluenceHostilityTips_Text"
   },
   {
-    "Id": "InfluenceBelongTips",
-    "Text": "Text_InfluenceBelongTips_Text"
+    "id": "InfluenceBelongTips",
+    "text": "Text_InfluenceBelongTips_Text"
   },
   {
-    "Id": "InfluenceLockName",
-    "Text": "Text_InfluenceLockName_Text"
+    "id": "InfluenceLockName",
+    "text": "Text_InfluenceLockName_Text"
   },
   {
-    "Id": "ReputationReceive",
-    "Text": "Text_ReputationReceive_Text"
+    "id": "ReputationReceive",
+    "text": "Text_ReputationReceive_Text"
   },
   {
-    "Id": "ReputationAllReceived",
-    "Text": "Text_ReputationAllReceived_Text"
+    "id": "ReputationAllReceived",
+    "text": "Text_ReputationAllReceived_Text"
   },
   {
-    "Id": "ReputationValue",
-    "Text": "Text_ReputationValue_Text"
+    "id": "ReputationValue",
+    "text": "Text_ReputationValue_Text"
   },
   {
-    "Id": "InfluenceLockTips",
-    "Text": "Text_InfluenceLockTips_Text"
+    "id": "InfluenceLockTips",
+    "text": "Text_InfluenceLockTips_Text"
   },
   {
-    "Id": "ReputationNormalValue",
-    "Text": "Text_ReputationNormalValue_Text"
+    "id": "ReputationNormalValue",
+    "text": "Text_ReputationNormalValue_Text"
   },
   {
-    "Id": "BattleFormation",
-    "Text": "Text_BattleFormation_Text"
+    "id": "BattleFormation",
+    "text": "Text_BattleFormation_Text"
   },
   {
-    "Id": "StartBattle",
-    "Text": "Text_StartBattle_Text"
+    "id": "StartBattle",
+    "text": "Text_StartBattle_Text"
   },
   {
-    "Id": "AreaLockTitle",
-    "Text": "Text_AreaLockTitle_Text"
+    "id": "AreaLockTitle",
+    "text": "Text_AreaLockTitle_Text"
   },
   {
-    "Id": "AreaLockContent",
-    "Text": "Text_AreaLockContent_Text"
+    "id": "AreaLockContent",
+    "text": "Text_AreaLockContent_Text"
   },
   {
-    "Id": "FbMatching",
-    "Text": "Text_FbMatching_Text"
+    "id": "FbMatching",
+    "text": "Text_FbMatching_Text"
   },
   {
-    "Id": "SeasonLimitText",
-    "Text": "Text_SeasonLimitText_Text"
+    "id": "SeasonLimitText",
+    "text": "Text_SeasonLimitText_Text"
   },
   {
-    "Id": "ChallengeSuccess",
-    "Text": "Text_ChallengeSuccess_Text"
+    "id": "ChallengeSuccess",
+    "text": "Text_ChallengeSuccess_Text"
   },
   {
-    "Id": "ChallengeGetReward",
-    "Text": "Text_ChallengeGetReward_Text"
+    "id": "ChallengeGetReward",
+    "text": "Text_ChallengeGetReward_Text"
   },
   {
-    "Id": "Resimulate",
-    "Text": "Text_Resimulate_Text"
+    "id": "Resimulate",
+    "text": "Text_Resimulate_Text"
   },
   {
-    "Id": "ResonanceDetailActivated",
-    "Text": "Text_ResonanceDetailActivated_Text"
+    "id": "ResonanceDetailActivated",
+    "text": "Text_ResonanceDetailActivated_Text"
   },
   {
-    "Id": "ResonanceDetailActivation",
-    "Text": "Text_ResonanceDetailActivation_Text"
+    "id": "ResonanceDetailActivation",
+    "text": "Text_ResonanceDetailActivation_Text"
   },
   {
-    "Id": "ResonanceDetailCanNotActivation",
-    "Text": "Text_ResonanceDetailCanNotActivation_Text"
+    "id": "ResonanceDetailCanNotActivation",
+    "text": "Text_ResonanceDetailCanNotActivation_Text"
   },
   {
-    "Id": "ResonanceItemNotEnough",
-    "Text": "Text_ResonanceItemNotEnough_Text"
+    "id": "ResonanceItemNotEnough",
+    "text": "Text_ResonanceItemNotEnough_Text"
   },
   {
-    "Id": "ResonanceDetailITabName",
-    "Text": "Text_ResonanceDetailITabName_Text"
+    "id": "ResonanceDetailITabName",
+    "text": "Text_ResonanceDetailITabName_Text"
   },
   {
-    "Id": "ContinueExplore",
-    "Text": "Text_ContinueExplore_Text"
+    "id": "ContinueExplore",
+    "text": "Text_ContinueExplore_Text"
   },
   {
-    "Id": "QuitExplore",
-    "Text": "Text_QuitExplore_Text"
+    "id": "QuitExplore",
+    "text": "Text_QuitExplore_Text"
   },
   {
-    "Id": "ReChallenge",
-    "Text": "Text_ReChallenge_Text"
+    "id": "ReChallenge",
+    "text": "Text_ReChallenge_Text"
   },
   {
-    "Id": "ExploreSuccess",
-    "Text": "Text_ExploreSuccess_Text"
+    "id": "ExploreSuccess",
+    "text": "Text_ExploreSuccess_Text"
   },
   {
-    "Id": "ExploreFail",
-    "Text": "Text_ExploreFail_Text"
+    "id": "ExploreFail",
+    "text": "Text_ExploreFail_Text"
   },
   {
-    "Id": "ExploreProgress",
-    "Text": "Text_ExploreProgress_Text"
+    "id": "ExploreProgress",
+    "text": "Text_ExploreProgress_Text"
   },
   {
-    "Id": "ClearThenGetReward",
-    "Text": "Text_ClearThenGetReward_Text"
+    "id": "ClearThenGetReward",
+    "text": "Text_ClearThenGetReward_Text"
   },
   {
-    "Id": "ResonanceUnlockSuccess",
-    "Text": "Text_ResonanceUnlockSuccess_Text"
+    "id": "ResonanceUnlockSuccess",
+    "text": "Text_ResonanceUnlockSuccess_Text"
   },
   {
-    "Id": "BossInformation",
-    "Text": "Text_BossInformation_Text"
+    "id": "BossInformation",
+    "text": "Text_BossInformation_Text"
   },
   {
-    "Id": "NormalEnemyInformation",
-    "Text": "Text_NormalEnemyInformation_Text"
+    "id": "NormalEnemyInformation",
+    "text": "Text_NormalEnemyInformation_Text"
   },
   {
-    "Id": "GoNextSelectArea",
-    "Text": "Text_GoNextSelectArea_Text"
+    "id": "GoNextSelectArea",
+    "text": "Text_GoNextSelectArea_Text"
   },
   {
-    "Id": "FunctionLock",
-    "Text": "Text_FunctionLock_Text"
+    "id": "FunctionLock",
+    "text": "Text_FunctionLock_Text"
   },
   {
-    "Id": "Equip",
-    "Text": "Text_Equip_Text"
+    "id": "Equip",
+    "text": "Text_Equip_Text"
   },
   {
-    "Id": "UnEquip",
-    "Text": "Text_UnEquip_Text"
+    "id": "UnEquip",
+    "text": "Text_UnEquip_Text"
   },
   {
-    "Id": "ShowCount",
-    "Text": "Text_ShowCount_Text"
+    "id": "ShowCount",
+    "text": "Text_ShowCount_Text"
   },
   {
-    "Id": "ItemNameShowCount",
-    "Text": "Text_ItemNameShowCount_Text"
+    "id": "ItemNameShowCount",
+    "text": "Text_ItemNameShowCount_Text"
   },
   {
-    "Id": "ClearLastAreaUnLock",
-    "Text": "Text_ClearLastAreaUnLock_Text"
+    "id": "ClearLastAreaUnLock",
+    "text": "Text_ClearLastAreaUnLock_Text"
   },
   {
-    "Id": "CurrentDifficultHasFinished",
-    "Text": "Text_CurrentDifficultHasFinished_Text"
+    "id": "CurrentDifficultHasFinished",
+    "text": "Text_CurrentDifficultHasFinished_Text"
   },
   {
-    "Id": "HasExploreDifficult",
-    "Text": "Text_HasExploreDifficult_Text"
+    "id": "HasExploreDifficult",
+    "text": "Text_HasExploreDifficult_Text"
   },
   {
-    "Id": "ExploreLowTips",
-    "Text": "Text_ExploreLowTips_Text"
+    "id": "ExploreLowTips",
+    "text": "Text_ExploreLowTips_Text"
   },
   {
-    "Id": "HasGetRewardTips",
-    "Text": "Text_HasGetRewardTips_Text"
+    "id": "HasGetRewardTips",
+    "text": "Text_HasGetRewardTips_Text"
   },
   {
-    "Id": "SomeRewardHasGet",
-    "Text": "Text_SomeRewardHasGet_Text"
+    "id": "SomeRewardHasGet",
+    "text": "Text_SomeRewardHasGet_Text"
   },
   {
-    "Id": "ExploreFinish",
-    "Text": "Text_ExploreFinish_Text"
+    "id": "ExploreFinish",
+    "text": "Text_ExploreFinish_Text"
   },
   {
-    "Id": "FloorText",
-    "Text": "Text_FloorText_Text"
+    "id": "FloorText",
+    "text": "Text_FloorText_Text"
   },
   {
-    "Id": "HasClearDifficult",
-    "Text": "Text_HasClearDifficult_Text"
+    "id": "HasClearDifficult",
+    "text": "Text_HasClearDifficult_Text"
   },
   {
-    "Id": "One",
-    "Text": "Text_One_Text"
+    "id": "One",
+    "text": "Text_One_Text"
   },
   {
-    "Id": "Two",
-    "Text": "Text_Two_Text"
+    "id": "Two",
+    "text": "Text_Two_Text"
   },
   {
-    "Id": "Three",
-    "Text": "Text_Three_Text"
+    "id": "Three",
+    "text": "Text_Three_Text"
   },
   {
-    "Id": "Four",
-    "Text": "Text_Four_Text"
+    "id": "Four",
+    "text": "Text_Four_Text"
   },
   {
-    "Id": "Five",
-    "Text": "Text_Five_Text"
+    "id": "Five",
+    "text": "Text_Five_Text"
   },
   {
-    "Id": "Six",
-    "Text": "Text_Six_Text"
+    "id": "Six",
+    "text": "Text_Six_Text"
   },
   {
-    "Id": "Seven",
-    "Text": "Text_Seven_Text"
+    "id": "Seven",
+    "text": "Text_Seven_Text"
   },
   {
-    "Id": "Eight",
-    "Text": "Text_Eight_Text"
+    "id": "Eight",
+    "text": "Text_Eight_Text"
   },
   {
-    "Id": "Nine",
-    "Text": "Text_Nine_Text"
+    "id": "Nine",
+    "text": "Text_Nine_Text"
   },
   {
-    "Id": "Ten",
-    "Text": "Text_Ten_Text"
+    "id": "Ten",
+    "text": "Text_Ten_Text"
   },
   {
-    "Id": "CurrentPoint",
-    "Text": "Text_CurrentPoint_Text"
+    "id": "CurrentPoint",
+    "text": "Text_CurrentPoint_Text"
   },
   {
-    "Id": "BattlePassRemainTime",
-    "Text": "Text_BattlePassRemainTime_Text"
+    "id": "BattlePassRemainTime",
+    "text": "Text_BattlePassRemainTime_Text"
   },
   {
-    "Id": "BattlePassBuyText1",
-    "Text": "Text_BattlePassBuyText1_Text"
+    "id": "BattlePassBuyText1",
+    "text": "Text_BattlePassBuyText1_Text"
   },
   {
-    "Id": "BattlePassBuyText2",
-    "Text": "Text_BattlePassBuyText2_Text"
+    "id": "BattlePassBuyText2",
+    "text": "Text_BattlePassBuyText2_Text"
   },
   {
-    "Id": "BattlePassBuyText3",
-    "Text": "Text_BattlePassBuyText3_Text"
+    "id": "BattlePassBuyText3",
+    "text": "Text_BattlePassBuyText3_Text"
   },
   {
-    "Id": "BattlePassLoopReward",
-    "Text": "Text_BattlePassLoopReward_Text"
+    "id": "BattlePassLoopReward",
+    "text": "Text_BattlePassLoopReward_Text"
   },
   {
-    "Id": "BattlePassDayTask",
-    "Text": "Text_BattlePassDayTask_Text"
+    "id": "BattlePassDayTask",
+    "text": "Text_BattlePassDayTask_Text"
   },
   {
-    "Id": "BattlePassWeekTask",
-    "Text": "Text_BattlePassWeekTask_Text"
+    "id": "BattlePassWeekTask",
+    "text": "Text_BattlePassWeekTask_Text"
   },
   {
-    "Id": "BattlePassAwalsTask",
-    "Text": "Text_BattlePassAwalsTask_Text"
+    "id": "BattlePassAwalsTask",
+    "text": "Text_BattlePassAwalsTask_Text"
   },
   {
-    "Id": "BattlePassBuyLevelText",
-    "Text": "Text_BattlePassBuyLevelText_Text"
+    "id": "BattlePassBuyLevelText",
+    "text": "Text_BattlePassBuyLevelText_Text"
   },
   {
-    "Id": "ReagentProduction",
-    "Text": "Text_ReagentProduction_Text"
+    "id": "ReagentProduction",
+    "text": "Text_ReagentProduction_Text"
   },
   {
-    "Id": "Structure",
-    "Text": "Text_Structure_Text"
+    "id": "Structure",
+    "text": "Text_Structure_Text"
   },
   {
-    "Id": "Purification",
-    "Text": "Text_Purification_Text"
+    "id": "Purification",
+    "text": "Text_Purification_Text"
   },
   {
-    "Id": "ItemEquiped",
-    "Text": "Text_ItemEquiped_Text"
+    "id": "ItemEquiped",
+    "text": "Text_ItemEquiped_Text"
   },
   {
-    "Id": "FightStateCanNotUse",
-    "Text": "Text_FightStateCanNotUse_Text"
+    "id": "FightStateCanNotUse",
+    "text": "Text_FightStateCanNotUse_Text"
   },
   {
-    "Id": "CanNotUseInstance",
-    "Text": "Text_CanNotUseInstance_Text"
+    "id": "CanNotUseInstance",
+    "text": "Text_CanNotUseInstance_Text"
   },
   {
-    "Id": "NewRecord",
-    "Text": "Text_NewRecord_Text"
+    "id": "NewRecord",
+    "text": "Text_NewRecord_Text"
   },
   {
-    "Id": "RecordRefresh",
-    "Text": "Text_RecordRefresh_Text"
+    "id": "RecordRefresh",
+    "text": "Text_RecordRefresh_Text"
   },
   {
-    "Id": "RoleFragment",
-    "Text": "Text_RoleFragment_Text"
+    "id": "RoleFragment",
+    "text": "Text_RoleFragment_Text"
   },
   {
-    "Id": "Detail",
-    "Text": "Text_Detail_Text"
+    "id": "Detail",
+    "text": "Text_Detail_Text"
   },
   {
-    "Id": "Tuning",
-    "Text": "Text_Tuning_Text"
+    "id": "Tuning",
+    "text": "Text_Tuning_Text"
   },
   {
-    "Id": "GameplayEnter",
-    "Text": "Text_GameplayEnter_Text"
+    "id": "GameplayEnter",
+    "text": "Text_GameplayEnter_Text"
   },
   {
-    "Id": "GameplayFirstPass",
-    "Text": "Text_GameplayFirstPass_Text"
+    "id": "GameplayFirstPass",
+    "text": "Text_GameplayFirstPass_Text"
   },
   {
-    "Id": "Start",
-    "Text": "Text_Start_Text"
+    "id": "Start",
+    "text": "Text_Start_Text"
   },
   {
-    "Id": "Making",
-    "Text": "Text_Making_Text"
+    "id": "Making",
+    "text": "Text_Making_Text"
   },
   {
-    "Id": "QuestUpdateNewQuestTips",
-    "Text": "Text_QuestUpdateNewQuestTips_Text"
+    "id": "QuestUpdateNewQuestTips",
+    "text": "Text_QuestUpdateNewQuestTips_Text"
   },
   {
-    "Id": "QuestUpdateNewGoalTips",
-    "Text": "Text_QuestUpdateNewGoalTips_Text"
+    "id": "QuestUpdateNewGoalTips",
+    "text": "Text_QuestUpdateNewGoalTips_Text"
   },
   {
-    "Id": "Medicament",
-    "Text": "Text_Medicament_Text"
+    "id": "Medicament",
+    "text": "Text_Medicament_Text"
   },
   {
-    "Id": "Prop",
-    "Text": "Text_Prop_Text"
+    "id": "Prop",
+    "text": "Text_Prop_Text"
   },
   {
-    "Id": "Material",
-    "Text": "Text_Material_Text"
+    "id": "Material",
+    "text": "Text_Material_Text"
   },
   {
-    "Id": "Formula",
-    "Text": "Text_Formula_Text"
+    "id": "Formula",
+    "text": "Text_Formula_Text"
   },
   {
-    "Id": "ComposeSuccess",
-    "Text": "Text_ComposeSuccess_Text"
+    "id": "ComposeSuccess",
+    "text": "Text_ComposeSuccess_Text"
   },
   {
-    "Id": "ForgingSuccess",
-    "Text": "Text_ForgingSuccess_Text"
+    "id": "ForgingSuccess",
+    "text": "Text_ForgingSuccess_Text"
   },
   {
-    "Id": "DefaultComposeHelperText",
-    "Text": "Text_DefaultComposeHelperText_Text"
+    "id": "DefaultComposeHelperText",
+    "text": "Text_DefaultComposeHelperText_Text"
   },
   {
-    "Id": "DefaultForgingHelperText",
-    "Text": "Text_DefaultForgingHelperText_Text"
+    "id": "DefaultForgingHelperText",
+    "text": "Text_DefaultForgingHelperText_Text"
   },
   {
-    "Id": "CharacterVoice",
-    "Text": "Text_CharacterVoice_Text"
+    "id": "CharacterVoice",
+    "text": "Text_CharacterVoice_Text"
   },
   {
-    "Id": "ComposeRole",
-    "Text": "Text_ComposeRole_Text"
+    "id": "ComposeRole",
+    "text": "Text_ComposeRole_Text"
   },
   {
-    "Id": "ComposeLevel",
-    "Text": "Text_ComposeLevel_Text"
+    "id": "ComposeLevel",
+    "text": "Text_ComposeLevel_Text"
   },
   {
-    "Id": "Compose",
-    "Text": "Text_Compose_Text"
+    "id": "Compose",
+    "text": "Text_Compose_Text"
   },
   {
-    "Id": "WeaponForging",
-    "Text": "Text_WeaponForging_Text"
+    "id": "WeaponForging",
+    "text": "Text_WeaponForging_Text"
   },
   {
-    "Id": "WeaponMaking",
-    "Text": "Text_WeaponMaking_Text"
+    "id": "WeaponMaking",
+    "text": "Text_WeaponMaking_Text"
   },
   {
-    "Id": "UnlockWeapon",
-    "Text": "Text_UnlockWeapon_Text"
+    "id": "UnlockWeapon",
+    "text": "Text_UnlockWeapon_Text"
   },
   {
-    "Id": "Forging",
-    "Text": "Text_Forging_Text"
+    "id": "Forging",
+    "text": "Text_Forging_Text"
   },
   {
-    "Id": "ForgingRole",
-    "Text": "Text_ForgingRole_Text"
+    "id": "ForgingRole",
+    "text": "Text_ForgingRole_Text"
   },
   {
-    "Id": "ActiveTime",
-    "Text": "Text_ActiveTime_Text"
+    "id": "ActiveTime",
+    "text": "Text_ActiveTime_Text"
   },
   {
-    "Id": "NotElegantName",
-    "Text": "Text_NotElegantName_Text"
+    "id": "NotElegantName",
+    "text": "Text_NotElegantName_Text"
   },
   {
-    "Id": "QuestUpdateDailyQuestTips",
-    "Text": "Text_QuestUpdateDailyQuestTips_Text"
+    "id": "QuestUpdateDailyQuestTips",
+    "text": "Text_QuestUpdateDailyQuestTips_Text"
   },
   {
-    "Id": "CurrentTeam",
-    "Text": "Text_CurrentTeam_Text"
+    "id": "CurrentTeam",
+    "text": "Text_CurrentTeam_Text"
   },
   {
-    "Id": "AllConcertoReaction",
-    "Text": "Text_AllConcertoReaction_Text"
+    "id": "AllConcertoReaction",
+    "text": "Text_AllConcertoReaction_Text"
   },
   {
-    "Id": "None",
-    "Text": "Text_None_Text"
+    "id": "None",
+    "text": "Text_None_Text"
   },
   {
-    "Id": "CongratulationsGet",
-    "Text": "Text_CongratulationsGet_Text"
+    "id": "CongratulationsGet",
+    "text": "Text_CongratulationsGet_Text"
   },
   {
-    "Id": "SingleLine",
-    "Text": "Text_SingleLine_Text"
+    "id": "SingleLine",
+    "text": "Text_SingleLine_Text"
   },
   {
-    "Id": "MutiLine",
-    "Text": "Text_MutiLine_Text"
+    "id": "MutiLine",
+    "text": "Text_MutiLine_Text"
   },
   {
-    "Id": "ChangeOneLineWord",
-    "Text": "Text_ChangeOneLineWord_Text"
+    "id": "ChangeOneLineWord",
+    "text": "Text_ChangeOneLineWord_Text"
   },
   {
-    "Id": "ChangeFirstLineWord",
-    "Text": "Text_ChangeFirstLineWord_Text"
+    "id": "ChangeFirstLineWord",
+    "text": "Text_ChangeFirstLineWord_Text"
   },
   {
-    "Id": "ChangeLastLineWord",
-    "Text": "Text_ChangeLastLineWord_Text"
+    "id": "ChangeLastLineWord",
+    "text": "Text_ChangeLastLineWord_Text"
   },
   {
-    "Id": "ChangeWord",
-    "Text": "Text_ChangeWord_Text"
+    "id": "ChangeWord",
+    "text": "Text_ChangeWord_Text"
   },
   {
-    "Id": "UnableSystem",
-    "Text": "Text_UnableSystem_Text"
+    "id": "UnableSystem",
+    "text": "Text_UnableSystem_Text"
   },
   {
-    "Id": "RolePhantomTrialTips",
-    "Text": "Text_RolePhantomTrialTips_Text"
+    "id": "RolePhantomTrialTips",
+    "text": "Text_RolePhantomTrialTips_Text"
   },
   {
-    "Id": "CalabashUnlockSource",
-    "Text": "Text_CalabashUnlockSource_Text"
+    "id": "CalabashUnlockSource",
+    "text": "Text_CalabashUnlockSource_Text"
   },
   {
-    "Id": "CalabashLockSource",
-    "Text": "Text_CalabashLockSource_Text"
+    "id": "CalabashLockSource",
+    "text": "Text_CalabashLockSource_Text"
   },
   {
-    "Id": "HandBookGet",
-    "Text": "Text_HandBookGet_Text"
+    "id": "HandBookGet",
+    "text": "Text_HandBookGet_Text"
   },
   {
-    "Id": "OutputMonster",
-    "Text": "Text_OutputMonster_Text"
+    "id": "OutputMonster",
+    "text": "Text_OutputMonster_Text"
   },
   {
-    "Id": "MatchingButtonLeader",
-    "Text": "Text_MatchingButtonLeader_Text"
+    "id": "MatchingButtonLeader",
+    "text": "Text_MatchingButtonLeader_Text"
   },
   {
-    "Id": "MatchingButtonMember",
-    "Text": "Text_MatchingButtonMember_Text"
+    "id": "MatchingButtonMember",
+    "text": "Text_MatchingButtonMember_Text"
   },
   {
-    "Id": "MatchingButtonMemberCancel",
-    "Text": "Text_MatchingButtonMemberCancel_Text"
+    "id": "MatchingButtonMemberCancel",
+    "text": "Text_MatchingButtonMemberCancel_Text"
   },
   {
-    "Id": "NormalFight",
-    "Text": "Text_NormalFight_Text"
+    "id": "NormalFight",
+    "text": "Text_NormalFight_Text"
   },
   {
-    "Id": "ReviveTrainingItemRoleLevel",
-    "Text": "Text_ReviveTrainingItemRoleLevel_Text"
+    "id": "ReviveTrainingItemRoleLevel",
+    "text": "Text_ReviveTrainingItemRoleLevel_Text"
   },
   {
-    "Id": "ReviveTrainingItemSkillLevel",
-    "Text": "Text_ReviveTrainingItemSkillLevel_Text"
+    "id": "ReviveTrainingItemSkillLevel",
+    "text": "Text_ReviveTrainingItemSkillLevel_Text"
   },
   {
-    "Id": "ReviveTrainingItemWeaponLevel",
-    "Text": "Text_ReviveTrainingItemWeaponLevel_Text"
+    "id": "ReviveTrainingItemWeaponLevel",
+    "text": "Text_ReviveTrainingItemWeaponLevel_Text"
   },
   {
-    "Id": "ReviveTrainingItemEquipLevel",
-    "Text": "Text_ReviveTrainingItemEquipLevel_Text"
+    "id": "ReviveTrainingItemEquipLevel",
+    "text": "Text_ReviveTrainingItemEquipLevel_Text"
   },
   {
-    "Id": "ReviveTrainingItemNormal",
-    "Text": "Text_ReviveTrainingItemNormal_Text"
+    "id": "ReviveTrainingItemNormal",
+    "text": "Text_ReviveTrainingItemNormal_Text"
   },
   {
-    "Id": "ReviveTrainingItemGreat",
-    "Text": "Text_ReviveTrainingItemGreat_Text"
+    "id": "ReviveTrainingItemGreat",
+    "text": "Text_ReviveTrainingItemGreat_Text"
   },
   {
-    "Id": "ReviveTrainingItemGood",
-    "Text": "Text_ReviveTrainingItemGood_Text"
+    "id": "ReviveTrainingItemGood",
+    "text": "Text_ReviveTrainingItemGood_Text"
   },
   {
-    "Id": "ReviveTrainingItemBad",
-    "Text": "Text_ReviveTrainingItemBad_Text"
+    "id": "ReviveTrainingItemBad",
+    "text": "Text_ReviveTrainingItemBad_Text"
   },
   {
-    "Id": "WeaponDescrtption",
-    "Text": "Text_WeaponDescrtption_Text"
+    "id": "WeaponDescrtption",
+    "text": "Text_WeaponDescrtption_Text"
   },
   {
-    "Id": "EffectDescrtption",
-    "Text": "Text_EffectDescrtption_Text"
+    "id": "EffectDescrtption",
+    "text": "Text_EffectDescrtption_Text"
   },
   {
-    "Id": "FetterEffectDescription",
-    "Text": "Text_FetterEffectDescription_Text"
+    "id": "FetterEffectDescription",
+    "text": "Text_FetterEffectDescription_Text"
   },
   {
-    "Id": "FetterEffectDefineDescription",
-    "Text": "Text_FetterEffectDefineDescription_Text"
+    "id": "FetterEffectDefineDescription",
+    "text": "Text_FetterEffectDefineDescription_Text"
   },
   {
-    "Id": "Fetter",
-    "Text": "Text_Fetter_Text"
+    "id": "Fetter",
+    "text": "Text_Fetter_Text"
   },
   {
-    "Id": "DropPhantom",
-    "Text": "Text_DropPhantom_Text"
+    "id": "DropPhantom",
+    "text": "Text_DropPhantom_Text"
   },
   {
-    "Id": "AdviceMotionText",
-    "Text": "Text_AdviceMotionText_Text"
+    "id": "AdviceMotionText",
+    "text": "Text_AdviceMotionText_Text"
   },
   {
-    "Id": "ItemDescrtption",
-    "Text": "Text_ItemDescrtption_Text"
+    "id": "ItemDescrtption",
+    "text": "Text_ItemDescrtption_Text"
   },
   {
-    "Id": "AnimalDropItem",
-    "Text": "Text_AnimalDropItem_Text"
+    "id": "AnimalDropItem",
+    "text": "Text_AnimalDropItem_Text"
   },
   {
-    "Id": "SuspendByOnline",
-    "Text": "Text_SuspendByOnline_Text"
+    "id": "SuspendByOnline",
+    "text": "Text_SuspendByOnline_Text"
   },
   {
-    "Id": "Immune",
-    "Text": "Text_Immune_Text"
+    "id": "Immune",
+    "text": "Text_Immune_Text"
   },
   {
-    "Id": "HandBookEntrance",
-    "Text": "Text_HandBookEntrance_Text"
+    "id": "HandBookEntrance",
+    "text": "Text_HandBookEntrance_Text"
   },
   {
-    "Id": "ReviveItemNotClick",
-    "Text": "Text_ReviveItemNotClick_Text"
+    "id": "ReviveItemNotClick",
+    "text": "Text_ReviveItemNotClick_Text"
   },
   {
-    "Id": "AreaHighDangerText",
-    "Text": "Text_AreaHighDangerText_Text"
+    "id": "AreaHighDangerText",
+    "text": "Text_AreaHighDangerText_Text"
   },
   {
-    "Id": "AreaHighMidText",
-    "Text": "Text_AreaHighMidText_Text"
+    "id": "AreaHighMidText",
+    "text": "Text_AreaHighMidText_Text"
   },
   {
-    "Id": "ActionText",
-    "Text": "Text_ActionText_Text"
+    "id": "ActionText",
+    "text": "Text_ActionText_Text"
   },
   {
-    "Id": "SetupText",
-    "Text": "Text_SetupText_Text"
+    "id": "SetupText",
+    "text": "Text_SetupText_Text"
   },
   {
-    "Id": "UseReviveItem",
-    "Text": "Text_UseReviveItem_Text"
+    "id": "UseReviveItem",
+    "text": "Text_UseReviveItem_Text"
   },
   {
-    "Id": "PhantomFettersSkillInfoTitle",
-    "Text": "Text_PhantomFettersSkillInfoTitle_Text"
+    "id": "PhantomFettersSkillInfoTitle",
+    "text": "Text_PhantomFettersSkillInfoTitle_Text"
   },
   {
-    "Id": "PhantomSkillInfoTitle",
-    "Text": "Text_PhantomSkillInfoTitle_Text"
+    "id": "PhantomSkillInfoTitle",
+    "text": "Text_PhantomSkillInfoTitle_Text"
   },
   {
-    "Id": "KillCount",
-    "Text": "Text_KillCount_Text"
+    "id": "KillCount",
+    "text": "Text_KillCount_Text"
   },
   {
-    "Id": "CollectProgress",
-    "Text": "Text_CollectProgress_Text"
+    "id": "CollectProgress",
+    "text": "Text_CollectProgress_Text"
   },
   {
-    "Id": "VoiceProgress",
-    "Text": "Text_VoiceProgress_Text"
+    "id": "VoiceProgress",
+    "text": "Text_VoiceProgress_Text"
   },
   {
-    "Id": "CycleTowerDetailBossTips",
-    "Text": "Text_CycleTowerDetailBossTips_Text"
+    "id": "CycleTowerDetailBossTips",
+    "text": "Text_CycleTowerDetailBossTips_Text"
   },
   {
-    "Id": "CycleTowerDetailBuffTips",
-    "Text": "Text_CycleTowerDetailBuffTips_Text"
+    "id": "CycleTowerDetailBuffTips",
+    "text": "Text_CycleTowerDetailBuffTips_Text"
   },
   {
-    "Id": "ReviveItemCd",
-    "Text": "Text_ReviveItemCd_Text"
+    "id": "ReviveItemCd",
+    "text": "Text_ReviveItemCd_Text"
   },
   {
-    "Id": "ReviveItemTips",
-    "Text": "Text_ReviveItemTips_Text"
+    "id": "ReviveItemTips",
+    "text": "Text_ReviveItemTips_Text"
   },
   {
-    "Id": "PhantomFettersEquip",
-    "Text": "Text_PhantomFettersEquip_Text"
+    "id": "PhantomFettersEquip",
+    "text": "Text_PhantomFettersEquip_Text"
   },
   {
-    "Id": "PhantomFettersUnEquip",
-    "Text": "Text_PhantomFettersUnEquip_Text"
+    "id": "PhantomFettersUnEquip",
+    "text": "Text_PhantomFettersUnEquip_Text"
   },
   {
-    "Id": "PhantomFettersHas",
-    "Text": "Text_PhantomFettersHas_Text"
+    "id": "PhantomFettersHas",
+    "text": "Text_PhantomFettersHas_Text"
   },
   {
-    "Id": "PhantomFettersUnHas",
-    "Text": "Text_PhantomFettersUnHas_Text"
+    "id": "PhantomFettersUnHas",
+    "text": "Text_PhantomFettersUnHas_Text"
   },
   {
-    "Id": "Explore",
-    "Text": "Text_Explore_Text"
+    "id": "Explore",
+    "text": "Text_Explore_Text"
   },
   {
-    "Id": "MonsterHandBookLock",
-    "Text": "Text_MonsterHandBookLock_Text"
+    "id": "MonsterHandBookLock",
+    "text": "Text_MonsterHandBookLock_Text"
   },
   {
-    "Id": "PhantomHandBookLock",
-    "Text": "Text_PhantomHandBookLock_Text"
+    "id": "PhantomHandBookLock",
+    "text": "Text_PhantomHandBookLock_Text"
   },
   {
-    "Id": "GeographyHandBookLock",
-    "Text": "Text_GeographyHandBookLock_Text"
+    "id": "GeographyHandBookLock",
+    "text": "Text_GeographyHandBookLock_Text"
   },
   {
-    "Id": "WeaponHandBookLock",
-    "Text": "Text_WeaponHandBookLock_Text"
+    "id": "WeaponHandBookLock",
+    "text": "Text_WeaponHandBookLock_Text"
   },
   {
-    "Id": "AnimalHandBookLock",
-    "Text": "Text_AnimalHandBookLock_Text"
+    "id": "AnimalHandBookLock",
+    "text": "Text_AnimalHandBookLock_Text"
   },
   {
-    "Id": "ItemHandBookLock",
-    "Text": "Text_ItemHandBookLock_Text"
+    "id": "ItemHandBookLock",
+    "text": "Text_ItemHandBookLock_Text"
   },
   {
-    "Id": "ChipHandBookLock",
-    "Text": "Text_ChipHandBookLock_Text"
+    "id": "ChipHandBookLock",
+    "text": "Text_ChipHandBookLock_Text"
   },
   {
-    "Id": "GachaTypeText1",
-    "Text": "Text_GachaTypeText1_Text"
+    "id": "GachaTypeText1",
+    "text": "Text_GachaTypeText1_Text"
   },
   {
-    "Id": "GachaTypeText2",
-    "Text": "Text_GachaTypeText2_Text"
+    "id": "GachaTypeText2",
+    "text": "Text_GachaTypeText2_Text"
   },
   {
-    "Id": "GachaTypeText3",
-    "Text": "Text_GachaTypeText3_Text"
+    "id": "GachaTypeText3",
+    "text": "Text_GachaTypeText3_Text"
   },
   {
-    "Id": "GachaTypeText4",
-    "Text": "Text_GachaTypeText4_Text"
+    "id": "GachaTypeText4",
+    "text": "Text_GachaTypeText4_Text"
   },
   {
-    "Id": "GachaTypeText5",
-    "Text": "Text_GachaTypeText5_Text"
+    "id": "GachaTypeText5",
+    "text": "Text_GachaTypeText5_Text"
   },
   {
-    "Id": "MinuteText",
-    "Text": "Text_MinuteText_Text"
+    "id": "MinuteText",
+    "text": "Text_MinuteText_Text"
   },
   {
-    "Id": "CycleTowerAreaTips",
-    "Text": "Text_CycleTowerAreaTips_Text"
+    "id": "CycleTowerAreaTips",
+    "text": "Text_CycleTowerAreaTips_Text"
   },
   {
-    "Id": "NewItemUnlock",
-    "Text": "Text_NewItemUnlock_Text"
+    "id": "NewItemUnlock",
+    "text": "Text_NewItemUnlock_Text"
   },
   {
-    "Id": "CanNotMatching",
-    "Text": "Text_CanNotMatching_Text"
+    "id": "CanNotMatching",
+    "text": "Text_CanNotMatching_Text"
   },
   {
-    "Id": "IsNotOpenOnline",
-    "Text": "Text_IsNotOpenOnline_Text"
+    "id": "IsNotOpenOnline",
+    "text": "Text_IsNotOpenOnline_Text"
   },
   {
-    "Id": "CannotChangeRoleBeforeStartBattle",
-    "Text": "Text_CannotChangeRoleBeforeStartBattle_Text"
+    "id": "CannotChangeRoleBeforeStartBattle",
+    "text": "Text_CannotChangeRoleBeforeStartBattle_Text"
   },
   {
-    "Id": "CurGeographyHandBookLock",
-    "Text": "Text_CurGeographyHandBookLock_Text"
+    "id": "CurGeographyHandBookLock",
+    "text": "Text_CurGeographyHandBookLock_Text"
   },
   {
-    "Id": "CannotRevive",
-    "Text": "Text_CannotRevive_Text"
+    "id": "CannotRevive",
+    "text": "Text_CannotRevive_Text"
   },
   {
-    "Id": "InstanceDungeonRewardTimeNotEnough",
-    "Text": "Text_InstanceDungeonRewardTimeNotEnough_Text"
+    "id": "InstanceDungeonRewardTimeNotEnough",
+    "text": "Text_InstanceDungeonRewardTimeNotEnough_Text"
   },
   {
-    "Id": "CurPlotHandBookLock",
-    "Text": "Text_CurPlotHandBookLock_Text"
+    "id": "CurPlotHandBookLock",
+    "text": "Text_CurPlotHandBookLock_Text"
   },
   {
-    "Id": "DateOfAcquisition",
-    "Text": "Text_DateOfAcquisition_Text"
+    "id": "DateOfAcquisition",
+    "text": "Text_DateOfAcquisition_Text"
   },
   {
-    "Id": "CumulativeProficiency",
-    "Text": "Text_CumulativeProficiency_Text"
+    "id": "CumulativeProficiency",
+    "text": "Text_CumulativeProficiency_Text"
   },
   {
-    "Id": "Absorb",
-    "Text": "Text_Absorb_Text"
+    "id": "Absorb",
+    "text": "Text_Absorb_Text"
   },
   {
-    "Id": "OnlineDisabledByTrialRole",
-    "Text": "Text_OnlineDisabledByTrialRole_Text"
+    "id": "OnlineDisabledByTrialRole",
+    "text": "Text_OnlineDisabledByTrialRole_Text"
   },
   {
-    "Id": "OnlineDisabledByNonOnlineQuest",
-    "Text": "Text_OnlineDisabledByNonOnlineQuest_Text"
+    "id": "OnlineDisabledByNonOnlineQuest",
+    "text": "Text_OnlineDisabledByNonOnlineQuest_Text"
   },
   {
-    "Id": "TeamTalk",
-    "Text": "Text_TeamTalk_Text"
+    "id": "TeamTalk",
+    "text": "Text_TeamTalk_Text"
   },
   {
-    "Id": "TeamTalkToMeExpression",
-    "Text": "Text_TeamTalkToMeExpression_Text"
+    "id": "TeamTalkToMeExpression",
+    "text": "Text_TeamTalkToMeExpression_Text"
   },
   {
-    "Id": "HandBookItemHaveNum",
-    "Text": "Text_HandBookItemHaveNum_Text"
+    "id": "HandBookItemHaveNum",
+    "text": "Text_HandBookItemHaveNum_Text"
   },
   {
-    "Id": "BanGamepadKey",
-    "Text": "Text_BanGamepadKey_Text"
+    "id": "BanGamepadKey",
+    "text": "Text_BanGamepadKey_Text"
   },
   {
-    "Id": "IsInUiViewText",
-    "Text": "Text_IsInUiViewText_Text"
+    "id": "IsInUiViewText",
+    "text": "Text_IsInUiViewText_Text"
   },
   {
-    "Id": "HaveApplyFriend",
-    "Text": "Text_HaveApplyFriend_Text"
+    "id": "HaveApplyFriend",
+    "text": "Text_HaveApplyFriend_Text"
   },
   {
-    "Id": "FightSkill",
-    "Text": "Text_FightSkill_Text"
+    "id": "FightSkill",
+    "text": "Text_FightSkill_Text"
   },
   {
-    "Id": "ExitInstance",
-    "Text": "Text_ExitInstance_Text"
+    "id": "ExitInstance",
+    "text": "Text_ExitInstance_Text"
   },
   {
-    "Id": "MatchInstanceDead",
-    "Text": "Text_MatchInstanceDead_Text"
+    "id": "MatchInstanceDead",
+    "text": "Text_MatchInstanceDead_Text"
   },
   {
-    "Id": "LeaderExitMatching",
-    "Text": "Text_LeaderExitMatching_Text"
+    "id": "LeaderExitMatching",
+    "text": "Text_LeaderExitMatching_Text"
   },
   {
-    "Id": "ReportSuccess",
-    "Text": "Text_ReportSuccess_Text"
+    "id": "ReportSuccess",
+    "text": "Text_ReportSuccess_Text"
   },
   {
-    "Id": "ExchangeSuccess",
-    "Text": "Text_ExchangeSuccess_Text"
+    "id": "ExchangeSuccess",
+    "text": "Text_ExchangeSuccess_Text"
   },
   {
-    "Id": "UnknownErrorCodeText",
-    "Text": "Text_UnknownErrorCodeText_Text"
+    "id": "UnknownErrorCodeText",
+    "text": "Text_UnknownErrorCodeText_Text"
   },
   {
-    "Id": "ExplorationDegree",
-    "Text": "Text_ExplorationDegree_Text"
+    "id": "ExplorationDegree",
+    "text": "Text_ExplorationDegree_Text"
   },
   {
-    "Id": "TriggerMission",
-    "Text": "Text_TriggerMission_Text"
+    "id": "TriggerMission",
+    "text": "Text_TriggerMission_Text"
   },
   {
-    "Id": "SingleTimeTowerMapDesc",
-    "Text": "Text_SingleTimeTowerMapDesc_Text"
+    "id": "SingleTimeTowerMapDesc",
+    "text": "Text_SingleTimeTowerMapDesc_Text"
   },
   {
-    "Id": "OnlineDisabledByInstance",
-    "Text": "Text_OnlineDisabledByInstance_Text"
+    "id": "OnlineDisabledByInstance",
+    "text": "Text_OnlineDisabledByInstance_Text"
   },
   {
-    "Id": "OfflineText",
-    "Text": "Text_OfflineText_Text"
+    "id": "OfflineText",
+    "text": "Text_OfflineText_Text"
   },
   {
-    "Id": "FriendOfflineSomeDay",
-    "Text": "Text_FriendOfflineSomeDay_Text"
+    "id": "FriendOfflineSomeDay",
+    "text": "Text_FriendOfflineSomeDay_Text"
   },
   {
-    "Id": "Leave",
-    "Text": "Text_Leave_Text"
+    "id": "Leave",
+    "text": "Text_Leave_Text"
   },
   {
-    "Id": "LevelNumber",
-    "Text": "Text_LevelNumber_Text"
+    "id": "LevelNumber",
+    "text": "Text_LevelNumber_Text"
   },
   {
-    "Id": "PlayerEnterTeam",
-    "Text": "Text_PlayerEnterTeam_Text"
+    "id": "PlayerEnterTeam",
+    "text": "Text_PlayerEnterTeam_Text"
   },
   {
-    "Id": "PlayerLeaveTeam",
-    "Text": "Text_PlayerLeaveTeam_Text"
+    "id": "PlayerLeaveTeam",
+    "text": "Text_PlayerLeaveTeam_Text"
   },
   {
-    "Id": "Execution",
-    "Text": "Text_Execution_Text"
+    "id": "Execution",
+    "text": "Text_Execution_Text"
   },
   {
-    "Id": "SilentCountDown",
-    "Text": "Text_SilentCountDown_Text"
+    "id": "SilentCountDown",
+    "text": "Text_SilentCountDown_Text"
   },
   {
-    "Id": "GuidePageText",
-    "Text": "Text_GuidePageText_Text"
+    "id": "GuidePageText",
+    "text": "Text_GuidePageText_Text"
   },
   {
-    "Id": "CookProgressText",
-    "Text": "Text_CookProgressText_Text"
+    "id": "CookProgressText",
+    "text": "Text_CookProgressText_Text"
   },
   {
-    "Id": "NewCycleTowerChallenge",
-    "Text": "Text_NewCycleTowerChallenge_Text"
+    "id": "NewCycleTowerChallenge",
+    "text": "Text_NewCycleTowerChallenge_Text"
   },
   {
-    "Id": "PhantomFormationEnterMapTip",
-    "Text": "Text_PhantomFormationEnterMapTip_Text"
+    "id": "PhantomFormationEnterMapTip",
+    "text": "Text_PhantomFormationEnterMapTip_Text"
   },
   {
-    "Id": "PhantomFormationEnterFormationTip",
-    "Text": "Text_PhantomFormationEnterFormationTip_Text"
+    "id": "PhantomFormationEnterFormationTip",
+    "text": "Text_PhantomFormationEnterFormationTip_Text"
   },
   {
-    "Id": "PhantomFormationEnterInstanceTip",
-    "Text": "Text_PhantomFormationEnterInstanceTip_Text"
+    "id": "PhantomFormationEnterInstanceTip",
+    "text": "Text_PhantomFormationEnterInstanceTip_Text"
   },
   {
-    "Id": "PhantomFormationEnterInventoryTip",
-    "Text": "Text_PhantomFormationEnterInventoryTip_Text"
+    "id": "PhantomFormationEnterInventoryTip",
+    "text": "Text_PhantomFormationEnterInventoryTip_Text"
   },
   {
-    "Id": "PhantomFormationEnterOnlineTip",
-    "Text": "Text_PhantomFormationEnterOnlineTip_Text"
+    "id": "PhantomFormationEnterOnlineTip",
+    "text": "Text_PhantomFormationEnterOnlineTip_Text"
   },
   {
-    "Id": "DailyTaskTitle",
-    "Text": "Text_DailyTaskTitle_Text"
+    "id": "DailyTaskTitle",
+    "text": "Text_DailyTaskTitle_Text"
   },
   {
-    "Id": "CycleTowerProgress",
-    "Text": "Text_CycleTowerProgress_Text"
+    "id": "CycleTowerProgress",
+    "text": "Text_CycleTowerProgress_Text"
   },
   {
-    "Id": "SingleTowerProgress",
-    "Text": "Text_SingleTowerProgress_Text"
+    "id": "SingleTowerProgress",
+    "text": "Text_SingleTowerProgress_Text"
   },
   {
-    "Id": "OnlineDisabledByNonOnlinePlay",
-    "Text": "Text_OnlineDisabledByNonOnlinePlay_Text"
+    "id": "OnlineDisabledByNonOnlinePlay",
+    "text": "Text_OnlineDisabledByNonOnlinePlay_Text"
   },
   {
-    "Id": "BattleTeamNotMyRole",
-    "Text": "Text_BattleTeamNotMyRole_Text"
+    "id": "BattleTeamNotMyRole",
+    "text": "Text_BattleTeamNotMyRole_Text"
   },
   {
-    "Id": "BattleTeamReadyRole",
-    "Text": "Text_BattleTeamReadyRole_Text"
+    "id": "BattleTeamReadyRole",
+    "text": "Text_BattleTeamReadyRole_Text"
   },
   {
-    "Id": "BattleTeamCanNotDownAllRole",
-    "Text": "Text_BattleTeamCanNotDownAllRole_Text"
+    "id": "BattleTeamCanNotDownAllRole",
+    "text": "Text_BattleTeamCanNotDownAllRole_Text"
   },
   {
-    "Id": "BattleTeamPositionCanNotEdit",
-    "Text": "Text_BattleTeamPositionCanNotEdit_Text"
+    "id": "BattleTeamPositionCanNotEdit",
+    "text": "Text_BattleTeamPositionCanNotEdit_Text"
   },
   {
-    "Id": "GenderTransfer",
-    "Text": "Text_GenderTransfer_Text"
+    "id": "GenderTransfer",
+    "text": "Text_GenderTransfer_Text"
   },
   {
-    "Id": "Boy",
-    "Text": "Text_Boy_Text"
+    "id": "Boy",
+    "text": "Text_Boy_Text"
   },
   {
-    "Id": "Girl",
-    "Text": "Text_Girl_Text"
+    "id": "Girl",
+    "text": "Text_Girl_Text"
   },
   {
-    "Id": "GenderTransferSuccess",
-    "Text": "Text_GenderTransferSuccess_Text"
+    "id": "GenderTransferSuccess",
+    "text": "Text_GenderTransferSuccess_Text"
   },
   {
-    "Id": "ElementTransferSuccess",
-    "Text": "Text_ElementTransferSuccess_Text"
+    "id": "ElementTransferSuccess",
+    "text": "Text_ElementTransferSuccess_Text"
   },
   {
-    "Id": "End",
-    "Text": "Text_End_Text"
+    "id": "End",
+    "text": "Text_End_Text"
   },
   {
-    "Id": "GenderTransfering",
-    "Text": "Text_GenderTransfering_Text"
+    "id": "GenderTransfering",
+    "text": "Text_GenderTransfering_Text"
   },
   {
-    "Id": "CanNotTransferInFight",
-    "Text": "Text_CanNotTransferInFight_Text"
+    "id": "CanNotTransferInFight",
+    "text": "Text_CanNotTransferInFight_Text"
   },
   {
-    "Id": "TextAndExpression",
-    "Text": "Text_TextAndExpression_Text"
+    "id": "TextAndExpression",
+    "text": "Text_TextAndExpression_Text"
   },
   {
-    "Id": "Motion",
-    "Text": "Text_Motion_Text"
+    "id": "Motion",
+    "text": "Text_Motion_Text"
   },
   {
-    "Id": "AdviceFunc_1",
-    "Text": "Text_AdviceFunc_1_Text"
+    "id": "AdviceFunc_1",
+    "text": "Text_AdviceFunc_1_Text"
   },
   {
-    "Id": "AdviceFunc_2",
-    "Text": "Text_AdviceFunc_2_Text"
+    "id": "AdviceFunc_2",
+    "text": "Text_AdviceFunc_2_Text"
   },
   {
-    "Id": "AdviceFunc_3",
-    "Text": "Text_AdviceFunc_3_Text"
+    "id": "AdviceFunc_3",
+    "text": "Text_AdviceFunc_3_Text"
   },
   {
-    "Id": "AdviceFunc_4",
-    "Text": "Text_AdviceFunc_4_Text"
+    "id": "AdviceFunc_4",
+    "text": "Text_AdviceFunc_4_Text"
   },
   {
-    "Id": "AdviceFunc_5",
-    "Text": "Text_AdviceFunc_5_Text"
+    "id": "AdviceFunc_5",
+    "text": "Text_AdviceFunc_5_Text"
   },
   {
-    "Id": "NoneMotion",
-    "Text": "Text_NoneMotion_Text"
+    "id": "NoneMotion",
+    "text": "Text_NoneMotion_Text"
   },
   {
-    "Id": "Advice_Publish",
-    "Text": "Text_Advice_Publish_Text"
+    "id": "Advice_Publish",
+    "text": "Text_Advice_Publish_Text"
   },
   {
-    "Id": "Advice_Max",
-    "Text": "Text_Advice_Max_Text"
+    "id": "Advice_Max",
+    "text": "Text_Advice_Max_Text"
   },
   {
-    "Id": "AdviceCreate_1",
-    "Text": "Text_AdviceCreate_1_Text"
+    "id": "AdviceCreate_1",
+    "text": "Text_AdviceCreate_1_Text"
   },
   {
-    "Id": "AdviceCreate_2",
-    "Text": "Text_AdviceCreate_2_Text"
+    "id": "AdviceCreate_2",
+    "text": "Text_AdviceCreate_2_Text"
   },
   {
-    "Id": "AdviceCreate_3",
-    "Text": "Text_AdviceCreate_3_Text"
+    "id": "AdviceCreate_3",
+    "text": "Text_AdviceCreate_3_Text"
   },
   {
-    "Id": "AdviceCreate_Template",
-    "Text": "Text_AdviceCreate_Template_Text"
+    "id": "AdviceCreate_Template",
+    "text": "Text_AdviceCreate_Template_Text"
   },
   {
-    "Id": "ChallengeSuccessTips",
-    "Text": "Text_ChallengeSuccessTips_Text"
+    "id": "ChallengeSuccessTips",
+    "text": "Text_ChallengeSuccessTips_Text"
   },
   {
-    "Id": "ButtonTextConfirm",
-    "Text": "Text_ButtonTextConfirm_Text"
+    "id": "ButtonTextConfirm",
+    "text": "Text_ButtonTextConfirm_Text"
   },
   {
-    "Id": "ButtonTextExit",
-    "Text": "Text_ButtonTextExit_Text"
+    "id": "ButtonTextExit",
+    "text": "Text_ButtonTextExit_Text"
   },
   {
-    "Id": "ButtonTextContinue",
-    "Text": "Text_ButtonTextContinue_Text"
+    "id": "ButtonTextContinue",
+    "text": "Text_ButtonTextContinue_Text"
   },
   {
-    "Id": "ButtonTextRetry",
-    "Text": "Text_ButtonTextRetry_Text"
+    "id": "ButtonTextRetry",
+    "text": "Text_ButtonTextRetry_Text"
   },
   {
-    "Id": "NeedAllDeadToChallengeAgain",
-    "Text": "Text_NeedAllDeadToChallengeAgain_Text"
+    "id": "NeedAllDeadToChallengeAgain",
+    "text": "Text_NeedAllDeadToChallengeAgain_Text"
   },
   {
-    "Id": "ContinueChallenge",
-    "Text": "Text_ContinueChallenge_Text"
+    "id": "ContinueChallenge",
+    "text": "Text_ContinueChallenge_Text"
   },
   {
-    "Id": "SuggestContinueChallenge",
-    "Text": "Text_SuggestContinueChallenge_Text"
+    "id": "SuggestContinueChallenge",
+    "text": "Text_SuggestContinueChallenge_Text"
   },
   {
-    "Id": "ChallengeAgain",
-    "Text": "Text_ChallengeAgain_Text"
+    "id": "ChallengeAgain",
+    "text": "Text_ChallengeAgain_Text"
   },
   {
-    "Id": "SuggestChallengeAgain",
-    "Text": "Text_SuggestChallengeAgain_Text"
+    "id": "SuggestChallengeAgain",
+    "text": "Text_SuggestChallengeAgain_Text"
   },
   {
-    "Id": "InviteContinueChallenge",
-    "Text": "Text_InviteContinueChallenge_Text"
+    "id": "InviteContinueChallenge",
+    "text": "Text_InviteContinueChallenge_Text"
   },
   {
-    "Id": "InviteChallengeAgain",
-    "Text": "Text_InviteChallengeAgain_Text"
+    "id": "InviteChallengeAgain",
+    "text": "Text_InviteChallengeAgain_Text"
   },
   {
-    "Id": "HasInviteContinueChallenge",
-    "Text": "Text_HasInviteContinueChallenge_Text"
+    "id": "HasInviteContinueChallenge",
+    "text": "Text_HasInviteContinueChallenge_Text"
   },
   {
-    "Id": "HasInviteChallengeAgain",
-    "Text": "Text_HasInviteChallengeAgain_Text"
+    "id": "HasInviteChallengeAgain",
+    "text": "Text_HasInviteChallengeAgain_Text"
   },
   {
-    "Id": "CannotInvite",
-    "Text": "Text_CannotInvite_Text"
+    "id": "CannotInvite",
+    "text": "Text_CannotInvite_Text"
   },
   {
-    "Id": "NextInviteTime",
-    "Text": "Text_NextInviteTime_Text"
+    "id": "NextInviteTime",
+    "text": "Text_NextInviteTime_Text"
   },
   {
-    "Id": "CannotSuggest",
-    "Text": "Text_CannotSuggest_Text"
+    "id": "CannotSuggest",
+    "text": "Text_CannotSuggest_Text"
   },
   {
-    "Id": "AdviceFirstSentence",
-    "Text": "Text_AdviceFirstSentence_Text"
+    "id": "AdviceFirstSentence",
+    "text": "Text_AdviceFirstSentence_Text"
   },
   {
-    "Id": "AdviceSecondSentence",
-    "Text": "Text_AdviceSecondSentence_Text"
+    "id": "AdviceSecondSentence",
+    "text": "Text_AdviceSecondSentence_Text"
   },
   {
-    "Id": "ActiveRemainTime",
-    "Text": "Text_ActiveRemainTime_Text"
+    "id": "ActiveRemainTime",
+    "text": "Text_ActiveRemainTime_Text"
   },
   {
-    "Id": "ActiveToOpenTime",
-    "Text": "Text_ActiveToOpenTime_Text"
+    "id": "ActiveToOpenTime",
+    "text": "Text_ActiveToOpenTime_Text"
   },
   {
-    "Id": "ActiveClose",
-    "Text": "Text_ActiveClose_Text"
+    "id": "ActiveClose",
+    "text": "Text_ActiveClose_Text"
   },
   {
-    "Id": "SetSign",
-    "Text": "Text_SetSign_Text"
+    "id": "SetSign",
+    "text": "Text_SetSign_Text"
   },
   {
-    "Id": "BirthDay",
-    "Text": "Text_BirthDay_Text"
+    "id": "BirthDay",
+    "text": "Text_BirthDay_Text"
   },
   {
-    "Id": "TeleporterUnlockBig",
-    "Text": "Text_TeleporterUnlockBig_Text"
+    "id": "TeleporterUnlockBig",
+    "text": "Text_TeleporterUnlockBig_Text"
   },
   {
-    "Id": "SetName",
-    "Text": "Text_SetName_Text"
+    "id": "SetName",
+    "text": "Text_SetName_Text"
   },
   {
-    "Id": "SetPersonalData",
-    "Text": "Text_SetPersonalData_Text"
+    "id": "SetPersonalData",
+    "text": "Text_SetPersonalData_Text"
   },
   {
-    "Id": "Collected",
-    "Text": "Text_Collected_Text"
+    "id": "Collected",
+    "text": "Text_Collected_Text"
   },
   {
-    "Id": "ShopNotOpenTip",
-    "Text": "Text_ShopNotOpenTip_Text"
+    "id": "ShopNotOpenTip",
+    "text": "Text_ShopNotOpenTip_Text"
   },
   {
-    "Id": "ShopTimeStr1",
-    "Text": "Text_ShopTimeStr1_Text"
+    "id": "ShopTimeStr1",
+    "text": "Text_ShopTimeStr1_Text"
   },
   {
-    "Id": "ShopTimeStr2",
-    "Text": "Text_ShopTimeStr2_Text"
+    "id": "ShopTimeStr2",
+    "text": "Text_ShopTimeStr2_Text"
   },
   {
-    "Id": "ShopTimeStr3",
-    "Text": "Text_ShopTimeStr3_Text"
+    "id": "ShopTimeStr3",
+    "text": "Text_ShopTimeStr3_Text"
   },
   {
-    "Id": "ShopTimeStr4",
-    "Text": "Text_ShopTimeStr4_Text"
+    "id": "ShopTimeStr4",
+    "text": "Text_ShopTimeStr4_Text"
   },
   {
-    "Id": "ShopItemLimitCount",
-    "Text": "Text_ShopItemLimitCount_Text"
+    "id": "ShopItemLimitCount",
+    "text": "Text_ShopItemLimitCount_Text"
   },
   {
-    "Id": "ShopItemSoldOut",
-    "Text": "Text_ShopItemSoldOut_Text"
+    "id": "ShopItemSoldOut",
+    "text": "Text_ShopItemSoldOut_Text"
   },
   {
-    "Id": "ShopItemTimeOut",
-    "Text": "Text_ShopItemTimeOut_Text"
+    "id": "ShopItemTimeOut",
+    "text": "Text_ShopItemTimeOut_Text"
   },
   {
-    "Id": "ShopItemLimitTime1",
-    "Text": "Text_ShopItemLimitTime1_Text"
+    "id": "ShopItemLimitTime1",
+    "text": "Text_ShopItemLimitTime1_Text"
   },
   {
-    "Id": "ShopItemLimitTime2",
-    "Text": "Text_ShopItemLimitTime2_Text"
+    "id": "ShopItemLimitTime2",
+    "text": "Text_ShopItemLimitTime2_Text"
   },
   {
-    "Id": "ShopLockTime1",
-    "Text": "Text_ShopLockTime1_Text"
+    "id": "ShopLockTime1",
+    "text": "Text_ShopLockTime1_Text"
   },
   {
-    "Id": "ShopLockTime2",
-    "Text": "Text_ShopLockTime2_Text"
+    "id": "ShopLockTime2",
+    "text": "Text_ShopLockTime2_Text"
   },
   {
-    "Id": "ShopLockTime3",
-    "Text": "Text_ShopLockTime3_Text"
+    "id": "ShopLockTime3",
+    "text": "Text_ShopLockTime3_Text"
   },
   {
-    "Id": "ShopLockTime4",
-    "Text": "Text_ShopLockTime4_Text"
+    "id": "ShopLockTime4",
+    "text": "Text_ShopLockTime4_Text"
   },
   {
-    "Id": "SetSignSuccess",
-    "Text": "Text_SetSignSuccess_Text"
+    "id": "SetSignSuccess",
+    "text": "Text_SetSignSuccess_Text"
   },
   {
-    "Id": "SetNameSuccess",
-    "Text": "Text_SetNameSuccess_Text"
+    "id": "SetNameSuccess",
+    "text": "Text_SetNameSuccess_Text"
   },
   {
-    "Id": "SetBirthSuccess",
-    "Text": "Text_SetBirthSuccess_Text"
+    "id": "SetBirthSuccess",
+    "text": "Text_SetBirthSuccess_Text"
   },
   {
-    "Id": "ClickToSetSign",
-    "Text": "Text_ClickToSetSign_Text"
+    "id": "ClickToSetSign",
+    "text": "Text_ClickToSetSign_Text"
   },
   {
-    "Id": "ComplianceWithTheLaw",
-    "Text": "Text_ComplianceWithTheLaw_Text"
+    "id": "ComplianceWithTheLaw",
+    "text": "Text_ComplianceWithTheLaw_Text"
   },
   {
-    "Id": "AdviceAreaCannotPut",
-    "Text": "Text_AdviceAreaCannotPut_Text"
+    "id": "AdviceAreaCannotPut",
+    "text": "Text_AdviceAreaCannotPut_Text"
   },
   {
-    "Id": "AdviceTooClose",
-    "Text": "Text_AdviceTooClose_Text"
+    "id": "AdviceTooClose",
+    "text": "Text_AdviceTooClose_Text"
   },
   {
-    "Id": "QuestTargetNotInCurScene",
-    "Text": "Text_QuestTargetNotInCurScene_Text"
+    "id": "QuestTargetNotInCurScene",
+    "text": "Text_QuestTargetNotInCurScene_Text"
   },
   {
-    "Id": "Instead",
-    "Text": "Text_Instead_Text"
+    "id": "Instead",
+    "text": "Text_Instead_Text"
   },
   {
-    "Id": "CanNotTransferInInstance",
-    "Text": "Text_CanNotTransferInInstance_Text"
+    "id": "CanNotTransferInInstance",
+    "text": "Text_CanNotTransferInInstance_Text"
   },
   {
-    "Id": "PhantomFormationEnterRoleTip",
-    "Text": "Text_PhantomFormationEnterRoleTip_Text"
+    "id": "PhantomFormationEnterRoleTip",
+    "text": "Text_PhantomFormationEnterRoleTip_Text"
   },
   {
-    "Id": "ActiveRunMaxPoint",
-    "Text": "Text_ActiveRunMaxPoint_Text"
+    "id": "ActiveRunMaxPoint",
+    "text": "Text_ActiveRunMaxPoint_Text"
   },
   {
-    "Id": "ActiveRunMinTime",
-    "Text": "Text_ActiveRunMinTime_Text"
+    "id": "ActiveRunMinTime",
+    "text": "Text_ActiveRunMinTime_Text"
   },
   {
-    "Id": "TeamLeaderInviteToInstance",
-    "Text": "Text_TeamLeaderInviteToInstance_Text"
+    "id": "TeamLeaderInviteToInstance",
+    "text": "Text_TeamLeaderInviteToInstance_Text"
   },
   {
-    "Id": "TeamLeaderMatch",
-    "Text": "Text_TeamLeaderMatch_Text"
+    "id": "TeamLeaderMatch",
+    "text": "Text_TeamLeaderMatch_Text"
   },
   {
-    "Id": "MonsterTimeRemain",
-    "Text": "Text_MonsterTimeRemain_Text"
+    "id": "MonsterTimeRemain",
+    "text": "Text_MonsterTimeRemain_Text"
   },
   {
-    "Id": "FriendApplyJoin",
-    "Text": "Text_FriendApplyJoin_Text"
+    "id": "FriendApplyJoin",
+    "text": "Text_FriendApplyJoin_Text"
   },
   {
-    "Id": "FriendOnlineDisable",
-    "Text": "Text_FriendOnlineDisable_Text"
+    "id": "FriendOnlineDisable",
+    "text": "Text_FriendOnlineDisable_Text"
   },
   {
-    "Id": "ActivityNeedPreQuest",
-    "Text": "Text_ActivityNeedPreQuest_Text"
+    "id": "ActivityNeedPreQuest",
+    "text": "Text_ActivityNeedPreQuest_Text"
   },
   {
-    "Id": "ActivityNeedPreGuideQuest",
-    "Text": "Text_ActivityNeedPreGuideQuest_Text"
+    "id": "ActivityNeedPreGuideQuest",
+    "text": "Text_ActivityNeedPreGuideQuest_Text"
   },
   {
-    "Id": "ActivityRunPointNeed",
-    "Text": "Text_ActivityRunPointNeed_Text"
+    "id": "ActivityRunPointNeed",
+    "text": "Text_ActivityRunPointNeed_Text"
   },
   {
-    "Id": "ActivityRunNoPoint",
-    "Text": "Text_ActivityRunNoPoint_Text"
+    "id": "ActivityRunNoPoint",
+    "text": "Text_ActivityRunNoPoint_Text"
   },
   {
-    "Id": "WeaponExpMax",
-    "Text": "Text_WeaponExpMax_Text"
+    "id": "WeaponExpMax",
+    "text": "Text_WeaponExpMax_Text"
   },
   {
-    "Id": "KeyBoard",
-    "Text": "Text_KeyBoard_Text"
+    "id": "KeyBoard",
+    "text": "Text_KeyBoard_Text"
   },
   {
-    "Id": "Handle",
-    "Text": "Text_Handle_Text"
+    "id": "Handle",
+    "text": "Text_Handle_Text"
   },
   {
-    "Id": "SetBirthCanNotChange",
-    "Text": "Text_SetBirthCanNotChange_Text"
+    "id": "SetBirthCanNotChange",
+    "text": "Text_SetBirthCanNotChange_Text"
   },
   {
-    "Id": "BirthIsSetCanNotChange",
-    "Text": "Text_BirthIsSetCanNotChange_Text"
+    "id": "BirthIsSetCanNotChange",
+    "text": "Text_BirthIsSetCanNotChange_Text"
   },
   {
-    "Id": "GongMingJieFang",
-    "Text": "Text_GongMingJieFang_Text"
+    "id": "GongMingJieFang",
+    "text": "Text_GongMingJieFang_Text"
   },
   {
-    "Id": "Mail",
-    "Text": "Text_Mail_Text"
+    "id": "Mail",
+    "text": "Text_Mail_Text"
   },
   {
-    "Id": "AllMail",
-    "Text": "Text_AllMail_Text"
+    "id": "AllMail",
+    "text": "Text_AllMail_Text"
   },
   {
-    "Id": "ImportantMail",
-    "Text": "Text_ImportantMail_Text"
+    "id": "ImportantMail",
+    "text": "Text_ImportantMail_Text"
   },
   {
-    "Id": "UnReadMail",
-    "Text": "Text_UnReadMail_Text"
+    "id": "UnReadMail",
+    "text": "Text_UnReadMail_Text"
   },
   {
-    "Id": "MailTitle",
-    "Text": "Text_MailTitle_Text"
+    "id": "MailTitle",
+    "text": "Text_MailTitle_Text"
   },
   {
-    "Id": "MailSender",
-    "Text": "Text_MailSender_Text"
+    "id": "MailSender",
+    "text": "Text_MailSender_Text"
   },
   {
-    "Id": "MailTime",
-    "Text": "Text_MailTime_Text"
+    "id": "MailTime",
+    "text": "Text_MailTime_Text"
   },
   {
-    "Id": "InclueItem",
-    "Text": "Text_InclueItem_Text"
+    "id": "InclueItem",
+    "text": "Text_InclueItem_Text"
   },
   {
-    "Id": "MailBack",
-    "Text": "Text_MailBack_Text"
+    "id": "MailBack",
+    "text": "Text_MailBack_Text"
   },
   {
-    "Id": "GetAllItem",
-    "Text": "Text_GetAllItem_Text"
+    "id": "GetAllItem",
+    "text": "Text_GetAllItem_Text"
   },
   {
-    "Id": "DeleteReadedMail",
-    "Text": "Text_DeleteReadedMail_Text"
+    "id": "DeleteReadedMail",
+    "text": "Text_DeleteReadedMail_Text"
   },
   {
-    "Id": "Today",
-    "Text": "Text_Today_Text"
+    "id": "Today",
+    "text": "Text_Today_Text"
   },
   {
-    "Id": "Yesterday",
-    "Text": "Text_Yesterday_Text"
+    "id": "Yesterday",
+    "text": "Text_Yesterday_Text"
   },
   {
-    "Id": "DayBefore",
-    "Text": "Text_DayBefore_Text"
+    "id": "DayBefore",
+    "text": "Text_DayBefore_Text"
   },
   {
-    "Id": "GetText",
-    "Text": "Text_GetText_Text"
+    "id": "GetText",
+    "text": "Text_GetText_Text"
   },
   {
-    "Id": "DeleteText",
-    "Text": "Text_DeleteText_Text"
+    "id": "DeleteText",
+    "text": "Text_DeleteText_Text"
   },
   {
-    "Id": "ForeverValid",
-    "Text": "Text_ForeverValid_Text"
+    "id": "ForeverValid",
+    "text": "Text_ForeverValid_Text"
   },
   {
-    "Id": "AfterDayAutoDelete",
-    "Text": "Text_AfterDayAutoDelete_Text"
+    "id": "AfterDayAutoDelete",
+    "text": "Text_AfterDayAutoDelete_Text"
   },
   {
-    "Id": "AfterTimeAutoDelete",
-    "Text": "Text_AfterTimeAutoDelete_Text"
+    "id": "AfterTimeAutoDelete",
+    "text": "Text_AfterTimeAutoDelete_Text"
   },
   {
-    "Id": "AfterMinAutoDelete",
-    "Text": "Text_AfterMinAutoDelete_Text"
+    "id": "AfterMinAutoDelete",
+    "text": "Text_AfterMinAutoDelete_Text"
   },
   {
-    "Id": "AutoDeleteInOneMinute",
-    "Text": "Text_AutoDeleteInOneMinute_Text"
+    "id": "AutoDeleteInOneMinute",
+    "text": "Text_AutoDeleteInOneMinute_Text"
   },
   {
-    "Id": "MailCapicity",
-    "Text": "Text_MailCapicity_Text"
+    "id": "MailCapicity",
+    "text": "Text_MailCapicity_Text"
   },
   {
-    "Id": "From",
-    "Text": "Text_From_Text"
+    "id": "From",
+    "text": "Text_From_Text"
   },
   {
-    "Id": "NoMail",
-    "Text": "Text_NoMail_Text"
+    "id": "NoMail",
+    "text": "Text_NoMail_Text"
   },
   {
-    "Id": "NoImportantMail",
-    "Text": "Text_NoImportantMail_Text"
+    "id": "NoImportantMail",
+    "text": "Text_NoImportantMail_Text"
   },
   {
-    "Id": "NoUnReadMail",
-    "Text": "Text_NoUnReadMail_Text"
+    "id": "NoUnReadMail",
+    "text": "Text_NoUnReadMail_Text"
   },
   {
-    "Id": "MailGetItem",
-    "Text": "Text_MailGetItem_Text"
+    "id": "MailGetItem",
+    "text": "Text_MailGetItem_Text"
   },
   {
-    "Id": "ConfirmText",
-    "Text": "Text_ConfirmText_Text"
+    "id": "ConfirmText",
+    "text": "Text_ConfirmText_Text"
   },
   {
-    "Id": "ChangeInputKey",
-    "Text": "Text_ChangeInputKey_Text"
+    "id": "ChangeInputKey",
+    "text": "Text_ChangeInputKey_Text"
   },
   {
-    "Id": "CanNotChangeInputKey",
-    "Text": "Text_CanNotChangeInputKey_Text"
+    "id": "CanNotChangeInputKey",
+    "text": "Text_CanNotChangeInputKey_Text"
   },
   {
-    "Id": "FriendCount",
-    "Text": "Text_FriendCount_Text"
+    "id": "FriendCount",
+    "text": "Text_FriendCount_Text"
   },
   {
-    "Id": "FriendApplicationCount",
-    "Text": "Text_FriendApplicationCount_Text"
+    "id": "FriendApplicationCount",
+    "text": "Text_FriendApplicationCount_Text"
   },
   {
-    "Id": "FriendMultiplayerCount",
-    "Text": "Text_FriendMultiplayerCount_Text"
+    "id": "FriendMultiplayerCount",
+    "text": "Text_FriendMultiplayerCount_Text"
   },
   {
-    "Id": "FriendBlackListCount",
-    "Text": "Text_FriendBlackListCount_Text"
+    "id": "FriendBlackListCount",
+    "text": "Text_FriendBlackListCount_Text"
   },
   {
-    "Id": "BanChatText4",
-    "Text": "Text_BanChatText4_Text"
+    "id": "BanChatText4",
+    "text": "Text_BanChatText4_Text"
   },
   {
-    "Id": "CopyOtherUID",
-    "Text": "Text_CopyUID_Text"
+    "id": "CopyOtherUID",
+    "text": "Text_CopyUID_Text"
   },
   {
-    "Id": "AdviceNotFull",
-    "Text": "Text_AdviceNotFull_Text"
+    "id": "AdviceNotFull",
+    "text": "Text_AdviceNotFull_Text"
   },
   {
-    "Id": "EmptySign",
-    "Text": "Text_EmptySign_Text"
+    "id": "EmptySign",
+    "text": "Text_EmptySign_Text"
   },
   {
-    "Id": "CompleteReward",
-    "Text": "Text_CompleteReward_Text"
+    "id": "CompleteReward",
+    "text": "Text_CompleteReward_Text"
   },
   {
-    "Id": "AdvicePutWord",
-    "Text": "Text_AdvicePutWord_Text"
+    "id": "AdvicePutWord",
+    "text": "Text_AdvicePutWord_Text"
   },
   {
-    "Id": "AdviceSelectWord",
-    "Text": "Text_AdviceSelectWord_Text"
+    "id": "AdviceSelectWord",
+    "text": "Text_AdviceSelectWord_Text"
   },
   {
-    "Id": "AdvicePutSentence",
-    "Text": "Text_AdvicePutSentence_Text"
+    "id": "AdvicePutSentence",
+    "text": "Text_AdvicePutSentence_Text"
   },
   {
-    "Id": "AdviceName",
-    "Text": "ExploreTools_1008_Name"
+    "id": "AdviceName",
+    "text": "ExploreTools_1008_Name"
   },
   {
-    "Id": "MobileAutoPickUpText",
-    "Text": "Text_MobileAutoPickUp_Text"
+    "id": "MobileAutoPickUpText",
+    "text": "Text_MobileAutoPickUp_Text"
   },
   {
-    "Id": "DesktopAutoPickUpText",
-    "Text": "Text_DesktopAutoPickUp_Text"
+    "id": "DesktopAutoPickUpText",
+    "text": "Text_DesktopAutoPickUp_Text"
   },
   {
-    "Id": "MatchingBackground",
-    "Text": "Text_MatchingBackground_Text"
+    "id": "MatchingBackground",
+    "text": "Text_MatchingBackground_Text"
   },
   {
-    "Id": "MatchingTeleport",
-    "Text": "Text_MatchingTeleport_Text"
+    "id": "MatchingTeleport",
+    "text": "Text_MatchingTeleport_Text"
   },
   {
-    "Id": "MatchingSuccess",
-    "Text": "Text_MatchingSuccess_Text"
+    "id": "MatchingSuccess",
+    "text": "Text_MatchingSuccess_Text"
   },
   {
-    "Id": "AdviceCannotOpenOnBattle",
-    "Text": "AdviceCannotOpenOnBattle"
+    "id": "AdviceCannotOpenOnBattle",
+    "text": "AdviceCannotOpenOnBattle"
   },
   {
-    "Id": "MatchingInviteCd",
-    "Text": "Text_MatchingInviteCd_Text"
+    "id": "MatchingInviteCd",
+    "text": "Text_MatchingInviteCd_Text"
   },
   {
-    "Id": "HaveMatched",
-    "Text": "Text_HaveMatched_Text"
+    "id": "HaveMatched",
+    "text": "Text_HaveMatched_Text"
   },
   {
-    "Id": "LeaderCancelMatch",
-    "Text": "Text_LeaderCancelMatch_Text"
+    "id": "LeaderCancelMatch",
+    "text": "Text_LeaderCancelMatch_Text"
   },
   {
-    "Id": "CancelMatch",
-    "Text": "Text_CancelMatch_Text"
+    "id": "CancelMatch",
+    "text": "Text_CancelMatch_Text"
   },
   {
-    "Id": "NextSuggestTime",
-    "Text": "Text_NextSuggestTime_Text"
+    "id": "NextSuggestTime",
+    "text": "Text_NextSuggestTime_Text"
   },
   {
-    "Id": "RefuseInviteMatch",
-    "Text": "Text_RefuseInviteMatch_Text"
+    "id": "RefuseInviteMatch",
+    "text": "Text_RefuseInviteMatch_Text"
   },
   {
-    "Id": "RogueBuffSelectTitle0",
-    "Text": "RogueBuffSelectTitle0"
+    "id": "RogueBuffSelectTitle0",
+    "text": "RogueBuffSelectTitle0"
   },
   {
-    "Id": "QuestChapterText",
-    "Text": "Text_Quest_Chapter_Name_Text"
+    "id": "QuestChapterText",
+    "text": "Text_Quest_Chapter_Name_Text"
   },
   {
-    "Id": "RogueBuffSelectTitle1",
-    "Text": "RogueBuffSelectTitle1"
+    "id": "RogueBuffSelectTitle1",
+    "text": "RogueBuffSelectTitle1"
   },
   {
-    "Id": "RogueBuffSelectTitle2",
-    "Text": "RogueBuffSelectTitle2"
+    "id": "RogueBuffSelectTitle2",
+    "text": "RogueBuffSelectTitle2"
   },
   {
-    "Id": "RogueBuffSelectTitle3",
-    "Text": "RogueBuffSelectTitle3"
+    "id": "RogueBuffSelectTitle3",
+    "text": "RogueBuffSelectTitle3"
   },
   {
-    "Id": "RogueBuffSelectTitle4",
-    "Text": "RogueBuffSelectTitle4"
+    "id": "RogueBuffSelectTitle4",
+    "text": "RogueBuffSelectTitle4"
   },
   {
-    "Id": "QuestCommunicateConnect",
-    "Text": "QuestCommunicateConnect"
+    "id": "QuestCommunicateConnect",
+    "text": "QuestCommunicateConnect"
   },
   {
-    "Id": "QuestCommunicateCallback",
-    "Text": "QuestCommunicateCallback"
+    "id": "QuestCommunicateCallback",
+    "text": "QuestCommunicateCallback"
   },
   {
-    "Id": "GeneralLogicTreeGiveUp",
-    "Text": "GeneralLogicTreeGiveUp"
+    "id": "GeneralLogicTreeGiveUp",
+    "text": "GeneralLogicTreeGiveUp"
   },
   {
-    "Id": "OthersLeaveMatchTeam",
-    "Text": "Text_OthersLeaveMatchTeam_Text"
+    "id": "OthersLeaveMatchTeam",
+    "text": "Text_OthersLeaveMatchTeam_Text"
   },
   {
-    "Id": "HaveSuggest",
-    "Text": "Text_HaveSuggest_Text"
+    "id": "HaveSuggest",
+    "text": "Text_HaveSuggest_Text"
   },
   {
-    "Id": "HaveInvite",
-    "Text": "Text_HaveInvite_Text"
+    "id": "HaveInvite",
+    "text": "Text_HaveInvite_Text"
   },
   {
-    "Id": "QuestCommunicateRequest",
-    "Text": "QuestCommunicateRequest"
+    "id": "QuestCommunicateRequest",
+    "text": "QuestCommunicateRequest"
   },
   {
-    "Id": "AttributeSortName",
-    "Text": "Text_AttributeSortName_Text"
+    "id": "AttributeSortName",
+    "text": "Text_AttributeSortName_Text"
   },
   {
-    "Id": "AttributeSortLimitName",
-    "Text": "Text_AttributeSortLimitName_Text"
+    "id": "AttributeSortLimitName",
+    "text": "Text_AttributeSortLimitName_Text"
   },
   {
-    "Id": "RemainDiscountWeek",
-    "Text": "Text_RemainDiscountWeek_Text"
+    "id": "RemainDiscountWeek",
+    "text": "Text_RemainDiscountWeek_Text"
   },
   {
-    "Id": "VisionEquipping",
-    "Text": "VisionEquipping"
+    "id": "VisionEquipping",
+    "text": "VisionEquipping"
   },
   {
-    "Id": "VisionLevel",
-    "Text": "VisionLevel"
+    "id": "VisionLevel",
+    "text": "VisionLevel"
   },
   {
-    "Id": "VisionSlotUnlockTips",
-    "Text": "VisionSlotUnlockTips"
+    "id": "VisionSlotUnlockTips",
+    "text": "VisionSlotUnlockTips"
   },
   {
-    "Id": "VisionSlotLevelUpTips",
-    "Text": "VisionSlotLevelUpTips"
+    "id": "VisionSlotLevelUpTips",
+    "text": "VisionSlotLevelUpTips"
   },
   {
-    "Id": "NewVisionSlot",
-    "Text": "NewVisionSlot"
+    "id": "NewVisionSlot",
+    "text": "NewVisionSlot"
   },
   {
-    "Id": "VisionSlot",
-    "Text": "VisionSlot"
+    "id": "VisionSlot",
+    "text": "VisionSlot"
   },
   {
-    "Id": "PlotSkipTipsPC",
-    "Text": "Text_PlotSkipTipsPC_Text"
+    "id": "PlotSkipTipsPC",
+    "text": "Text_PlotSkipTipsPC_Text"
   },
   {
-    "Id": "PlotSkipTipsConsole",
-    "Text": "Text_PlotSkipTipsConsole_Text"
+    "id": "PlotSkipTipsConsole",
+    "text": "Text_PlotSkipTipsConsole_Text"
   },
   {
-    "Id": "PlotSkipTipsMobile",
-    "Text": "Text_PlotSkipTipsMobile_Text"
+    "id": "PlotSkipTipsMobile",
+    "text": "Text_PlotSkipTipsMobile_Text"
   },
   {
-    "Id": "VisionNotMain",
-    "Text": "VisionNotMain"
+    "id": "VisionNotMain",
+    "text": "VisionNotMain"
   },
   {
-    "Id": "VisionNotPersonalRoleEquip",
-    "Text": "VisionNotPersonalRoleEquip"
+    "id": "VisionNotPersonalRoleEquip",
+    "text": "VisionNotPersonalRoleEquip"
   },
   {
-    "Id": "VisionNormalSkill",
-    "Text": "VisionNormalSkill"
+    "id": "VisionNormalSkill",
+    "text": "VisionNormalSkill"
   },
   {
-    "Id": "VisionSpecialSkill",
-    "Text": "VisionSpecialSkill"
+    "id": "VisionSpecialSkill",
+    "text": "VisionSpecialSkill"
   },
   {
-    "Id": "CustomMarkName",
-    "Text": "PrefabTextItem_3941062687_Text"
+    "id": "CustomMarkName",
+    "text": "PrefabTextItem_3941062687_Text"
   },
   {
-    "Id": "RemainText",
-    "Text": "Text_RemainText_Text"
+    "id": "RemainText",
+    "text": "Text_RemainText_Text"
   },
   {
-    "Id": "VisionHighRare",
-    "Text": "VisionHighRare"
+    "id": "VisionHighRare",
+    "text": "VisionHighRare"
   },
   {
-    "Id": "VisionHighLevel",
-    "Text": "VisionHighLevel"
+    "id": "VisionHighLevel",
+    "text": "VisionHighLevel"
   },
   {
-    "Id": "VisionHighQuality",
-    "Text": "VisionHighQuality"
+    "id": "VisionHighQuality",
+    "text": "VisionHighQuality"
   },
   {
-    "Id": "VisionSpecialSkillTips",
-    "Text": "Text_VisionSpecialSkillTips_Text"
+    "id": "VisionSpecialSkillTips",
+    "text": "Text_VisionSpecialSkillTips_Text"
   },
   {
-    "Id": "CookButtonText",
-    "Text": "Text_CookButtonText_Text"
+    "id": "CookButtonText",
+    "text": "Text_CookButtonText_Text"
   },
   {
-    "Id": "CookLevelButtonText",
-    "Text": "Text_CookLevelButtonText_Text"
+    "id": "CookLevelButtonText",
+    "text": "Text_CookLevelButtonText_Text"
   },
   {
-    "Id": "CookSelectRoleButtonText",
-    "Text": "Text_CookSelectRoleButtonText_Text"
+    "id": "CookSelectRoleButtonText",
+    "text": "Text_CookSelectRoleButtonText_Text"
   },
   {
-    "Id": "CookUpgradeButtonText",
-    "Text": "Text_CookUpgradeButtonText_Text"
+    "id": "CookUpgradeButtonText",
+    "text": "Text_CookUpgradeButtonText_Text"
   },
   {
-    "Id": "ComposeButtonText",
-    "Text": "Text_ComposeButtonText_Text"
+    "id": "ComposeButtonText",
+    "text": "Text_ComposeButtonText_Text"
   },
   {
-    "Id": "ComposeLevelButtonText",
-    "Text": "Text_ComposeLevelButtonText_Text"
+    "id": "ComposeLevelButtonText",
+    "text": "Text_ComposeLevelButtonText_Text"
   },
   {
-    "Id": "ComposeSelectRoleButtonText",
-    "Text": "Text_ComposeSelectRoleButtonText_Text"
+    "id": "ComposeSelectRoleButtonText",
+    "text": "Text_ComposeSelectRoleButtonText_Text"
   },
   {
-    "Id": "ComposeUpgradeButtonText",
-    "Text": "Text_ComposeUpgradeButtonText_Text"
+    "id": "ComposeUpgradeButtonText",
+    "text": "Text_ComposeUpgradeButtonText_Text"
   },
   {
-    "Id": "WeaponMaxLevelText",
-    "Text": "Text_WeaponMaxLevelText_Text"
+    "id": "WeaponMaxLevelText",
+    "text": "Text_WeaponMaxLevelText_Text"
   },
   {
-    "Id": "AutoSelect",
-    "Text": "AutoSelect"
+    "id": "AutoSelect",
+    "text": "AutoSelect"
   },
   {
-    "Id": "DeleteSelect",
-    "Text": "DeleteSelect"
+    "id": "DeleteSelect",
+    "text": "DeleteSelect"
   },
   {
-    "Id": "ForgingWeaponLevel",
-    "Text": "Text_ForgingWeaponLevel_Text"
+    "id": "ForgingWeaponLevel",
+    "text": "Text_ForgingWeaponLevel_Text"
   },
   {
-    "Id": "FindAllConditionsTrue",
-    "Text": "Text_FindAllConditionsTrue_Text"
+    "id": "FindAllConditionsTrue",
+    "text": "Text_FindAllConditionsTrue_Text"
   },
   {
-    "Id": "FindAllConditionsFalse",
-    "Text": "Text_FindAllConditionsFalse_Text"
+    "id": "FindAllConditionsFalse",
+    "text": "Text_FindAllConditionsFalse_Text"
   },
   {
-    "Id": "CommonLevel",
-    "Text": "Text_WeaponLevelUpLevelText_Text"
+    "id": "CommonLevel",
+    "text": "Text_WeaponLevelUpLevelText_Text"
   },
   {
-    "Id": "NoLock",
-    "Text": "Text_NoLock_Text"
+    "id": "NoLock",
+    "text": "Text_NoLock_Text"
   },
   {
-    "Id": "CanReceivedCount",
-    "Text": "Text_CanReceivedCount_Text"
+    "id": "CanReceivedCount",
+    "text": "Text_CanReceivedCount_Text"
   },
   {
-    "Id": "PingStr",
-    "Text": "PingStr"
+    "id": "PingStr",
+    "text": "PingStr"
   },
   {
-    "Id": "ShopWeaponLevelText",
-    "Text": "Text_ShopWeaponLevelText_Text"
+    "id": "ShopWeaponLevelText",
+    "text": "Text_ShopWeaponLevelText_Text"
   },
   {
-    "Id": "ShopHourText2",
-    "Text": "Text_ShopHourText2_Text"
+    "id": "ShopHourText2",
+    "text": "Text_ShopHourText2_Text"
   },
   {
-    "Id": "ShopMinuteText2",
-    "Text": "Text_ShopMinuteText2_Text"
+    "id": "ShopMinuteText2",
+    "text": "Text_ShopMinuteText2_Text"
   },
   {
-    "Id": "NewMail",
-    "Text": "NewMail"
+    "id": "NewMail",
+    "text": "NewMail"
   },
   {
-    "Id": "Execution_Error_Die",
-    "Text": "Text_Execution_Error_Die_Text"
+    "id": "Execution_Error_Die",
+    "text": "Text_Execution_Error_Die_Text"
   },
   {
-    "Id": "BugCount",
-    "Text": "Text_BugCount_Text"
+    "id": "BugCount",
+    "text": "Text_BugCount_Text"
   },
   {
-    "Id": "ItemUseCount",
-    "Text": "Text_ItemUseCount_Text"
+    "id": "ItemUseCount",
+    "text": "Text_ItemUseCount_Text"
   },
   {
-    "Id": "UseCount",
-    "Text": "Text_UseCount_Text"
+    "id": "UseCount",
+    "text": "Text_UseCount_Text"
   },
   {
-    "Id": "AttributeNode",
-    "Text": "SkillType_AttributeNode_TypeName"
+    "id": "AttributeNode",
+    "text": "SkillType_AttributeNode_TypeName"
   },
   {
-    "Id": "EditBattleTeamFight",
-    "Text": "Text_EditFormationFight_Text"
+    "id": "EditBattleTeamFight",
+    "text": "Text_EditFormationFight_Text"
   },
   {
-    "Id": "EditBattleTeamFighting",
-    "Text": "Text_EditFormationFighting_Text"
+    "id": "EditBattleTeamFighting",
+    "text": "Text_EditFormationFighting_Text"
   },
   {
-    "Id": "DayLimitBuy",
-    "Text": "DayLimitBuy"
+    "id": "DayLimitBuy",
+    "text": "DayLimitBuy"
   },
   {
-    "Id": "WeekLimitBuy",
-    "Text": "WeekLimitBuy"
+    "id": "WeekLimitBuy",
+    "text": "WeekLimitBuy"
   },
   {
-    "Id": "MonthLimitBuy",
-    "Text": "MonthLimitBuy"
+    "id": "MonthLimitBuy",
+    "text": "MonthLimitBuy"
   },
   {
-    "Id": "LimitBuy",
-    "Text": "LimitBuy"
+    "id": "LimitBuy",
+    "text": "LimitBuy"
   },
   {
-    "Id": "ExploreToolsSwitchMobile",
-    "Text": "Text_ExploreToolsSwitchMobile_Text"
+    "id": "ExploreToolsSwitchMobile",
+    "text": "Text_ExploreToolsSwitchMobile_Text"
   },
   {
-    "Id": "ExploreToolsSwitchPCBlank",
-    "Text": "Text_ExploreToolsSwitchPCBlank_Text"
+    "id": "ExploreToolsSwitchPCBlank",
+    "text": "Text_ExploreToolsSwitchPCBlank_Text"
   },
   {
-    "Id": "ExploreToolsSwitchPC",
-    "Text": "Text_ExploreToolsSwitchPC_Text"
+    "id": "ExploreToolsSwitchPC",
+    "text": "Text_ExploreToolsSwitchPC_Text"
   },
   {
-    "Id": "EditBattleTeamNoRole",
-    "Text": "Text_EditBattleTeamNoRole_Text"
+    "id": "EditBattleTeamNoRole",
+    "text": "Text_EditBattleTeamNoRole_Text"
   },
   {
-    "Id": "FuncToolsSwitchPCBlank",
-    "Text": "Text_FuncToolsSwitchPCBlank_Text"
+    "id": "FuncToolsSwitchPCBlank",
+    "text": "Text_FuncToolsSwitchPCBlank_Text"
   },
   {
-    "Id": "FuncToolsSwitchPC",
-    "Text": "Text_FuncToolsSwitchPC_Text"
+    "id": "FuncToolsSwitchPC",
+    "text": "Text_FuncToolsSwitchPC_Text"
   },
   {
-    "Id": "MonthCardLeftTimeText_1",
-    "Text": "MonthCardLeftTimeText_1"
+    "id": "MonthCardLeftTimeText_1",
+    "text": "MonthCardLeftTimeText_1"
   },
   {
-    "Id": "MonthCardLeftTimeText_2",
-    "Text": "MonthCardLeftTimeText_2"
+    "id": "MonthCardLeftTimeText_2",
+    "text": "MonthCardLeftTimeText_2"
   },
   {
-    "Id": "SoldOut",
-    "Text": "SoldOut"
+    "id": "SoldOut",
+    "text": "SoldOut"
   },
   {
-    "Id": "ReSell",
-    "Text": "ReSell"
+    "id": "ReSell",
+    "text": "ReSell"
   },
   {
-    "Id": "DistanceToDown",
-    "Text": "DistanceToDown"
+    "id": "DistanceToDown",
+    "text": "DistanceToDown"
   },
   {
-    "Id": "NotEnoughOneDay",
-    "Text": "NotEnoughOneDay"
+    "id": "NotEnoughOneDay",
+    "text": "NotEnoughOneDay"
   },
   {
-    "Id": "TowerRemainTime",
-    "Text": "Text_TowerRemainTime_Text"
+    "id": "TowerRemainTime",
+    "text": "Text_TowerRemainTime_Text"
   },
   {
-    "Id": "NeedClearLastDifficulty",
-    "Text": "Text_NeedClearLastDifficulty_Text"
+    "id": "NeedClearLastDifficulty",
+    "text": "Text_NeedClearLastDifficulty_Text"
   },
   {
-    "Id": "TowerAreaFloor",
-    "Text": "Text_TowerAreaFloor_Text"
+    "id": "TowerAreaFloor",
+    "text": "Text_TowerAreaFloor_Text"
   },
   {
-    "Id": "LogUploadConfirm",
-    "Text": "Text_LogUploadConfirm_Text"
+    "id": "LogUploadConfirm",
+    "text": "Text_LogUploadConfirm_Text"
   },
   {
-    "Id": "LogUploadFail",
-    "Text": "Text_LogUploadFail_Text"
+    "id": "LogUploadFail",
+    "text": "Text_LogUploadFail_Text"
   },
   {
-    "Id": "LogUploadSuccess",
-    "Text": "Text_LogUploadSuccess_Text"
+    "id": "LogUploadSuccess",
+    "text": "Text_LogUploadSuccess_Text"
   },
   {
-    "Id": "WeekLeftTime",
-    "Text": "WeekLeftTime"
+    "id": "WeekLeftTime",
+    "text": "WeekLeftTime"
   },
   {
-    "Id": "DailyLeftTime",
-    "Text": "DailyLeftTime"
+    "id": "DailyLeftTime",
+    "text": "DailyLeftTime"
   },
   {
-    "Id": "MonthLeftTime",
-    "Text": "MonthLeftTime"
+    "id": "MonthLeftTime",
+    "text": "MonthLeftTime"
   },
   {
-    "Id": "NotEnoughOneHour",
-    "Text": "NotEnoughOneHour"
+    "id": "NotEnoughOneHour",
+    "text": "NotEnoughOneHour"
   },
   {
-    "Id": "CurrencyNotEnough",
-    "Text": "CurrencyNotEnough"
+    "id": "CurrencyNotEnough",
+    "text": "CurrencyNotEnough"
   },
   {
-    "Id": "SetRemark",
-    "Text": "SetRemark"
+    "id": "SetRemark",
+    "text": "SetRemark"
   },
   {
-    "Id": "EditBattleTeamEmpty",
-    "Text": "Text_EditFormationEmpty_Text"
+    "id": "EditBattleTeamEmpty",
+    "text": "Text_EditFormationEmpty_Text"
   },
   {
-    "Id": "EditBattleTeamNeedRevive",
-    "Text": "Text_EditFormationNeedRevive_Text"
+    "id": "EditBattleTeamNeedRevive",
+    "text": "Text_EditFormationNeedRevive_Text"
   },
   {
-    "Id": "EditBattleTeamRevive",
-    "Text": "Text_EditFormationRevive_Text"
+    "id": "EditBattleTeamRevive",
+    "text": "Text_EditFormationRevive_Text"
   },
   {
-    "Id": "ExploreToolsChooseMobile",
-    "Text": "Text_ExploreToolsChooseMobile_Text"
+    "id": "ExploreToolsChooseMobile",
+    "text": "Text_ExploreToolsChooseMobile_Text"
   },
   {
-    "Id": "ExploreToolsChoosePC",
-    "Text": "Text_ExploreToolsChoosePC_Text"
+    "id": "ExploreToolsChoosePC",
+    "text": "Text_ExploreToolsChoosePC_Text"
   },
   {
-    "Id": "EditBattleTeamCancelMatch",
-    "Text": "Text_EditFormationCancelMarch_Text"
+    "id": "EditBattleTeamCancelMatch",
+    "text": "Text_EditFormationCancelMarch_Text"
   },
   {
-    "Id": "EditBattleTeamTitle",
-    "Text": "Text_EditBattleTeamTitle_Text"
+    "id": "EditBattleTeamTitle",
+    "text": "Text_EditBattleTeamTitle_Text"
   },
   {
-    "Id": "FavorVolume",
-    "Text": "Text_FavorVolume_Text"
+    "id": "FavorVolume",
+    "text": "Text_FavorVolume_Text"
   },
   {
-    "Id": "LevelRichText",
-    "Text": "Text_LevelRichText_Text"
+    "id": "LevelRichText",
+    "text": "Text_LevelRichText_Text"
   },
   {
-    "Id": "EditBattleTeamCant",
-    "Text": "Text_EditBattleTeamCant_Text"
+    "id": "EditBattleTeamCant",
+    "text": "Text_EditBattleTeamCant_Text"
   },
   {
-    "Id": "FrozenQteTip",
-    "Text": "Text_FrozenQteTip_Text"
+    "id": "FrozenQteTip",
+    "text": "Text_FrozenQteTip_Text"
   },
   {
-    "Id": "DownShopItem",
-    "Text": "DownShopItem"
+    "id": "DownShopItem",
+    "text": "DownShopItem"
   },
   {
-    "Id": "ReUpShopItem",
-    "Text": "ReUpShopItem"
+    "id": "ReUpShopItem",
+    "text": "ReUpShopItem"
   },
   {
-    "Id": "DiscountItem",
-    "Text": "DiscountItem"
+    "id": "DiscountItem",
+    "text": "DiscountItem"
   },
   {
-    "Id": "ShopDiscountLabel_1",
-    "Text": "ShopDiscountLabel_1"
+    "id": "ShopDiscountLabel_1",
+    "text": "ShopDiscountLabel_1"
   },
   {
-    "Id": "ShopDiscountLabel_2",
-    "Text": "ShopDiscountLabel_2"
+    "id": "ShopDiscountLabel_2",
+    "text": "ShopDiscountLabel_2"
   },
   {
-    "Id": "ShopDiscountLabel_3",
-    "Text": "ShopDiscountLabel_3"
+    "id": "ShopDiscountLabel_3",
+    "text": "ShopDiscountLabel_3"
   },
   {
-    "Id": "EditBattleTeamRoleEmpty",
-    "Text": "Text_EditBattleTeamRoleEmpty_Text"
+    "id": "EditBattleTeamRoleEmpty",
+    "text": "Text_EditBattleTeamRoleEmpty_Text"
   },
   {
-    "Id": "ResetConfirm",
-    "Text": "Text_ResetConfirm_Text"
+    "id": "ResetConfirm",
+    "text": "Text_ResetConfirm_Text"
   },
   {
-    "Id": "ExploreToolsUnChooseTitle",
-    "Text": "Text_ExploreToolsUnChooseTitle_Text"
+    "id": "ExploreToolsUnChooseTitle",
+    "text": "Text_ExploreToolsUnChooseTitle_Text"
   },
   {
-    "Id": "ExploreToolsUnChoose",
-    "Text": "Text_ExploreToolsUnChoose_Text"
+    "id": "ExploreToolsUnChoose",
+    "text": "Text_ExploreToolsUnChoose_Text"
   },
   {
-    "Id": "ExploreToolsBlankTitle",
-    "Text": "Text_ExploreToolsBlankTitle_Text"
+    "id": "ExploreToolsBlankTitle",
+    "text": "Text_ExploreToolsBlankTitle_Text"
   },
   {
-    "Id": "ExploreToolsBlank",
-    "Text": "Text_ExploreToolsBlank_Text"
+    "id": "ExploreToolsBlank",
+    "text": "Text_ExploreToolsBlank_Text"
   },
   {
-    "Id": "ItemToolsBlank",
-    "Text": "Text_ItemToolsBlank_Text"
+    "id": "ItemToolsBlank",
+    "text": "Text_ItemToolsBlank_Text"
   },
   {
-    "Id": "FuncToolsBlank",
-    "Text": "Text_FuncToolsBlank_Text"
+    "id": "FuncToolsBlank",
+    "text": "Text_FuncToolsBlank_Text"
   },
   {
-    "Id": "ExploreToolsSubTitle",
-    "Text": "Text_ExploreToolsSubTitle_Text"
+    "id": "ExploreToolsSubTitle",
+    "text": "Text_ExploreToolsSubTitle_Text"
   },
   {
-    "Id": "ItemToolsSubTitle",
-    "Text": "Text_ItemToolsSubTitle_Text"
+    "id": "ItemToolsSubTitle",
+    "text": "Text_ItemToolsSubTitle_Text"
   },
   {
-    "Id": "FuncToolsSubTitle",
-    "Text": "Text_FuncToolsSubTitle_Text"
+    "id": "FuncToolsSubTitle",
+    "text": "Text_FuncToolsSubTitle_Text"
   },
   {
-    "Id": "ExploreToolsTitle",
-    "Text": "Text_ExploreToolsTitle_Text"
+    "id": "ExploreToolsTitle",
+    "text": "Text_ExploreToolsTitle_Text"
   },
   {
-    "Id": "FuncToolsTitle",
-    "Text": "Text_FuncToolsTitle_Text"
+    "id": "FuncToolsTitle",
+    "text": "Text_FuncToolsTitle_Text"
   },
   {
-    "Id": "DayLimitBuy_B",
-    "Text": "DayLimitBuy_B"
+    "id": "DayLimitBuy_B",
+    "text": "DayLimitBuy_B"
   },
   {
-    "Id": "WeekLimitBuy_B",
-    "Text": "WeekLimitBuy_B"
+    "id": "WeekLimitBuy_B",
+    "text": "WeekLimitBuy_B"
   },
   {
-    "Id": "MonthLimitBuy_B",
-    "Text": "MonthLimitBuy_B"
+    "id": "MonthLimitBuy_B",
+    "text": "MonthLimitBuy_B"
   },
   {
-    "Id": "LimitBuy_B",
-    "Text": "LimitBuy_B"
+    "id": "LimitBuy_B",
+    "text": "LimitBuy_B"
   },
   {
-    "Id": "BuyTextEnough",
-    "Text": "BuyTextEnough"
+    "id": "BuyTextEnough",
+    "text": "BuyTextEnough"
   },
   {
-    "Id": "BuyTextNotEnough",
-    "Text": "BuyTextNotEnough"
+    "id": "BuyTextNotEnough",
+    "text": "BuyTextNotEnough"
   },
   {
-    "Id": "SignalDeviceResetText",
-    "Text": "Text_SignalDeviceResetText"
+    "id": "SignalDeviceResetText",
+    "text": "Text_SignalDeviceResetText"
   },
   {
-    "Id": "SignalDeviceTitleText",
-    "Text": "Text_SignalDeviceTitleText"
+    "id": "SignalDeviceTitleText",
+    "text": "Text_SignalDeviceTitleText"
   },
   {
-    "Id": "SignalDeviceDescriptionText",
-    "Text": "Text_SignalDeviceDescriptionText"
+    "id": "SignalDeviceDescriptionText",
+    "text": "Text_SignalDeviceDescriptionText"
   },
   {
-    "Id": "IdentifyText",
-    "Text": "IdentifyText"
+    "id": "IdentifyText",
+    "text": "IdentifyText"
   },
   {
-    "Id": "IdentifyNeedLevelText",
-    "Text": "IdentifyNeedLevelText"
+    "id": "IdentifyNeedLevelText",
+    "text": "IdentifyNeedLevelText"
   },
   {
-    "Id": "IdentifyCount",
-    "Text": "IdentifyCount"
+    "id": "IdentifyCount",
+    "text": "IdentifyCount"
   },
   {
-    "Id": "BattleTipCountdown",
-    "Text": "Text_BattleTipCountdown_Text"
+    "id": "BattleTipCountdown",
+    "text": "Text_BattleTipCountdown_Text"
   },
   {
-    "Id": "EditBattleTeamRoleFull",
-    "Text": "Text_EditBattleTeamRoleFull_Text"
+    "id": "EditBattleTeamRoleFull",
+    "text": "Text_EditBattleTeamRoleFull_Text"
   },
   {
-    "Id": "OnlineCantChangeLevel",
-    "Text": "Text_OnlineCantChangeLevel_Text"
+    "id": "OnlineCantChangeLevel",
+    "text": "Text_OnlineCantChangeLevel_Text"
   },
   {
-    "Id": "LogUploadService",
-    "Text": "Text_LogUploadService_Text"
+    "id": "LogUploadService",
+    "text": "Text_LogUploadService_Text"
   },
   {
-    "Id": "LogUpload",
-    "Text": "Text_LogUpload_Text"
+    "id": "LogUpload",
+    "text": "Text_LogUpload_Text"
   },
   {
-    "Id": "LogUploadCancel",
-    "Text": "Text_LogUploadCancel_Text"
+    "id": "LogUploadCancel",
+    "text": "Text_LogUploadCancel_Text"
   },
   {
-    "Id": "LogUploadYes",
-    "Text": "Text_LogUploadYes_Text"
+    "id": "LogUploadYes",
+    "text": "Text_LogUploadYes_Text"
   },
   {
-    "Id": "LogUploadRetry",
-    "Text": "Text_LogUploadRetry_Text"
+    "id": "LogUploadRetry",
+    "text": "Text_LogUploadRetry_Text"
   },
   {
-    "Id": "LogUploading",
-    "Text": "Text_LogUploading_Text"
+    "id": "LogUploading",
+    "text": "Text_LogUploading_Text"
   },
   {
-    "Id": "LogCompressing",
-    "Text": "Text_LogCompressing_Text"
+    "id": "LogCompressing",
+    "text": "Text_LogCompressing_Text"
   },
   {
-    "Id": "BagFosterButton",
-    "Text": "Text_BagFosterButton_Text"
+    "id": "BagFosterButton",
+    "text": "Text_BagFosterButton_Text"
   },
   {
-    "Id": "QuestChapterFinish",
-    "Text": "Text_QuestChapterFinish"
+    "id": "QuestChapterFinish",
+    "text": "Text_QuestChapterFinish"
   },
   {
-    "Id": "Roguelike_Skill_Point_Not_Enough",
-    "Text": "Roguelike_Skill_Point_Not_Enough"
+    "id": "Roguelike_Skill_Point_Not_Enough",
+    "text": "Roguelike_Skill_Point_Not_Enough"
   },
   {
-    "Id": "Roguelike_SelectRole_CannotUse",
-    "Text": "Roguelike_SelectRole_CannotUse"
+    "id": "Roguelike_SelectRole_CannotUse",
+    "text": "Roguelike_SelectRole_CannotUse"
   },
   {
-    "Id": "Rogue_Function_Not_Open_Tip",
-    "Text": "Rogue_Function_Not_Open_Tip"
+    "id": "Rogue_Function_Not_Open_Tip",
+    "text": "Rogue_Function_Not_Open_Tip"
   },
   {
-    "Id": "SignalReceiveTips",
-    "Text": "Text_SignalReceiveTips_text"
+    "id": "SignalReceiveTips",
+    "text": "Text_SignalReceiveTips_text"
   },
   {
-    "Id": "SignalSendProcess",
-    "Text": "Text_SignalSendProcess_text"
+    "id": "SignalSendProcess",
+    "text": "Text_SignalSendProcess_text"
   },
   {
-    "Id": "SignalSendTips",
-    "Text": "Text_SignalSendTips_text"
+    "id": "SignalSendTips",
+    "text": "Text_SignalSendTips_text"
   },
   {
-    "Id": "RoguelikeShopNotEnoughCurrency",
-    "Text": "RoguelikeShopNotEnoughCurrency"
+    "id": "RoguelikeShopNotEnoughCurrency",
+    "text": "RoguelikeShopNotEnoughCurrency"
   },
   {
-    "Id": "OccupiedRole",
-    "Text": "Text_OccupiedRole"
+    "id": "OccupiedRole",
+    "text": "Text_OccupiedRole"
   },
   {
-    "Id": "ItemSelectShopQuantityTip",
-    "Text": "Text_ItemSelectShopQuantityTip_text"
+    "id": "ItemSelectShopQuantityTip",
+    "text": "Text_ItemSelectShopQuantityTip_text"
   },
   {
-    "Id": "ItemSelectCookQuantityTip",
-    "Text": "Text_ItemSelectCookQuantityTip_text"
+    "id": "ItemSelectCookQuantityTip",
+    "text": "Text_ItemSelectCookQuantityTip_text"
   },
   {
-    "Id": "ItemSelectSynthesisQuantityTip",
-    "Text": "Text_ItemSelectSynthesisQuantityTip_text"
+    "id": "ItemSelectSynthesisQuantityTip",
+    "text": "Text_ItemSelectSynthesisQuantityTip_text"
   },
   {
-    "Id": "ItemSelectForgeQuantityTip",
-    "Text": "Text_ItemSelectForgeQuantityTip_text"
+    "id": "ItemSelectForgeQuantityTip",
+    "text": "Text_ItemSelectForgeQuantityTip_text"
   },
   {
-    "Id": "ItemSelectCookUnlock",
-    "Text": "Text_ItemSelectCookUnlock_text"
+    "id": "ItemSelectCookUnlock",
+    "text": "Text_ItemSelectCookUnlock_text"
   },
   {
-    "Id": "ItemSelectCookUnlockTip",
-    "Text": "Text_ItemSelectCookUnlockTip_text"
+    "id": "ItemSelectCookUnlockTip",
+    "text": "Text_ItemSelectCookUnlockTip_text"
   },
   {
-    "Id": "GachaNoOption",
-    "Text": "Text_GachaNoOption_Text"
+    "id": "GachaNoOption",
+    "text": "Text_GachaNoOption_Text"
   },
   {
-    "Id": "ReportReasonNotSelect",
-    "Text": "ReportReasonNotSelectText"
+    "id": "ReportReasonNotSelect",
+    "text": "ReportReasonNotSelectText"
   },
   {
-    "Id": "Map_TeleportMark_Disable_Tips",
-    "Text": "ExploreTeleporterBan"
+    "id": "Map_TeleportMark_Disable_Tips",
+    "text": "ExploreTeleporterBan"
   },
   {
-    "Id": "HttpNoHealthyGamesvr",
-    "Text": "HttpNoHealthyGamesvr"
+    "id": "HttpNoHealthyGamesvr",
+    "text": "HttpNoHealthyGamesvr"
   },
   {
-    "Id": "FollowQuestStepGuide",
-    "Text": "Text_FollowQuestStepGuide_Text"
+    "id": "FollowQuestStepGuide",
+    "text": "Text_FollowQuestStepGuide_Text"
   },
   {
-    "Id": "Condition_13000012_Description",
-    "Text": "Condition_13000012_Description"
+    "id": "Condition_13000012_Description",
+    "text": "Condition_13000012_Description"
   },
   {
-    "Id": "Condition_13000013_Description",
-    "Text": "Condition_13000013_Description"
+    "id": "Condition_13000013_Description",
+    "text": "Condition_13000013_Description"
   },
   {
-    "Id": "Condition_13000014_Description",
-    "Text": "Condition_13000014_Description"
+    "id": "Condition_13000014_Description",
+    "text": "Condition_13000014_Description"
   },
   {
-    "Id": "ItemRecycle",
-    "Text": "Text_ItemRecycle_text"
+    "id": "ItemRecycle",
+    "text": "Text_ItemRecycle_text"
   },
   {
-    "Id": "ItemRecycleCount",
-    "Text": "Text_ItemRecycleCount_text"
+    "id": "ItemRecycleCount",
+    "text": "Text_ItemRecycleCount_text"
   },
   {
-    "Id": "ItemRecycleLimited",
-    "Text": "Text_ItemRecycleLimited_text"
+    "id": "ItemRecycleLimited",
+    "text": "Text_ItemRecycleLimited_text"
   },
   {
-    "Id": "ItemRecycleChooseTip",
-    "Text": "Text_ItemRecycleChooseTip_text"
+    "id": "ItemRecycleChooseTip",
+    "text": "Text_ItemRecycleChooseTip_text"
   },
   {
-    "Id": "ItemRecycleChosen",
-    "Text": "Text_ItemRecycleChosen_text"
+    "id": "ItemRecycleChosen",
+    "text": "Text_ItemRecycleChosen_text"
   },
   {
-    "Id": "ItemRecycleConfirmToggle",
-    "Text": "Text_ItemRecycleConfirmToggle_text"
+    "id": "ItemRecycleConfirmToggle",
+    "text": "Text_ItemRecycleConfirmToggle_text"
   },
   {
-    "Id": "ItemExpired",
-    "Text": "Text_ItemExpired_text"
+    "id": "ItemExpired",
+    "text": "Text_ItemExpired_text"
   },
   {
-    "Id": "ItemRecycleChosenTotal",
-    "Text": "Text_ItemRecycleChosenTotal_text"
+    "id": "ItemRecycleChosenTotal",
+    "text": "Text_ItemRecycleChosenTotal_text"
   },
   {
-    "Id": "HaveReceiveRewrad",
-    "Text": "HaveReceiveRewrad"
+    "id": "HaveReceiveRewrad",
+    "text": "HaveReceiveRewrad"
   },
   {
-    "Id": "MiddleRequirementDefault",
-    "Text": "Text_MiddleRequirementDefault__Text"
+    "id": "MiddleRequirementDefault",
+    "text": "Text_MiddleRequirementDefault__Text"
   },
   {
-    "Id": "CannotFindTarget",
-    "Text": "CannotFindTarget"
+    "id": "CannotFindTarget",
+    "text": "CannotFindTarget"
   },
   {
-    "Id": "SettingLoadFluid",
-    "Text": "Text_SettingLoadFluid_text"
+    "id": "SettingLoadFluid",
+    "text": "Text_SettingLoadFluid_text"
   },
   {
-    "Id": "SettingLoadLaggy",
-    "Text": "Text_SettingLoadLaggy_text"
+    "id": "SettingLoadLaggy",
+    "text": "Text_SettingLoadLaggy_text"
   },
   {
-    "Id": "SettingLoadOver",
-    "Text": "Text_SettingLoadOver_text"
+    "id": "SettingLoadOver",
+    "text": "Text_SettingLoadOver_text"
   },
   {
-    "Id": "MiddleRequirementSP",
-    "Text": "Text_MiddleRequirementSP__Text"
+    "id": "MiddleRequirementSP",
+    "text": "Text_MiddleRequirementSP__Text"
   },
   {
-    "Id": "OverSeaServerLv",
-    "Text": "Text_OverSeaServerLv_text"
+    "id": "OverSeaServerLv",
+    "text": "Text_OverSeaServerLv_text"
   },
   {
-    "Id": "Rogue_Unlock_Dungeon_Tips",
-    "Text": "Rogue_Unlock_Dungeon_Tips"
+    "id": "Rogue_Unlock_Dungeon_Tips",
+    "text": "Rogue_Unlock_Dungeon_Tips"
   },
   {
-    "Id": "PhantomSkinUse",
-    "Text": "Text_PhantomSkinUse_Text"
+    "id": "PhantomSkinUse",
+    "text": "Text_PhantomSkinUse_Text"
   },
   {
-    "Id": "SignalSendSuccess",
-    "Text": "Text_SignalSendSuccess"
+    "id": "SignalSendSuccess",
+    "text": "Text_SignalSendSuccess"
   },
   {
-    "Id": "SignalReceiveSuccess",
-    "Text": "Text_SignalReceiveSuccess"
+    "id": "SignalReceiveSuccess",
+    "text": "Text_SignalReceiveSuccess"
   },
   {
-    "Id": "Text_Shop_Role_Text",
-    "Text": "Text_Shop_Role_Text"
+    "id": "Text_Shop_Role_Text",
+    "text": "Text_Shop_Role_Text"
   },
   {
-    "Id": "Cost1",
-    "Text": "Cost1"
+    "id": "Cost1",
+    "text": "Cost1"
   },
   {
-    "Id": "Cost3",
-    "Text": "Cost3"
+    "id": "Cost3",
+    "text": "Cost3"
   },
   {
-    "Id": "Cost4",
-    "Text": "Cost4"
+    "id": "Cost4",
+    "text": "Cost4"
   },
   {
-    "Id": "ConditionGroup_12005122_HintText",
-    "Text": "ConditionGroup_12005122_HintText"
+    "id": "ConditionGroup_12005122_HintText",
+    "text": "ConditionGroup_12005122_HintText"
   },
   {
-    "Id": "ActivityTaskOngoing",
-    "Text": "Text_ActivityTaskOngoing_Text"
+    "id": "ActivityTaskOngoing",
+    "text": "Text_ActivityTaskOngoing_Text"
   },
   {
-    "Id": "ActivityTaskClaimed",
-    "Text": "Text_ActivityTaskClaimed_Text"
+    "id": "ActivityTaskClaimed",
+    "text": "Text_ActivityTaskClaimed_Text"
   },
   {
-    "Id": "ActivityTaskReceive",
-    "Text": "Text_ActivityTaskReceive_Text"
+    "id": "ActivityTaskReceive",
+    "text": "Text_ActivityTaskReceive_Text"
   },
   {
-    "Id": "ActivityTaskProgress",
-    "Text": "Text_ActivityTaskProgress_Text"
+    "id": "ActivityTaskProgress",
+    "text": "Text_ActivityTaskProgress_Text"
   },
   {
-    "Id": "Text_EchoFull_Text",
-    "Text": "Text_EchoFull_Text"
+    "id": "Text_EchoFull_Text",
+    "text": "Text_EchoFull_Text"
   },
   {
-    "Id": "Text_EchoLack_Text",
-    "Text": "Text_EchoLack_Text"
+    "id": "Text_EchoLack_Text",
+    "text": "Text_EchoLack_Text"
   },
   {
-    "Id": "Text_EchoLimit_Text",
-    "Text": "Text_EchoLimit_Text"
+    "id": "Text_EchoLimit_Text",
+    "text": "Text_EchoLimit_Text"
   },
   {
-    "Id": "Rogue_Multi_Tip",
-    "Text": "Rogue_Multi_Tip"
+    "id": "Rogue_Multi_Tip",
+    "text": "Rogue_Multi_Tip"
   },
   {
-    "Id": "DropShowPlanQuestTitle",
-    "Text": "DropShowPlan_Quest__Title"
+    "id": "DropShowPlanQuestTitle",
+    "text": "DropShowPlan_Quest__Title"
   },
   {
-    "Id": "Rogue_Dont_Have_Role",
-    "Text": "Rogue_Dont_Have_Role"
+    "id": "Rogue_Dont_Have_Role",
+    "text": "Rogue_Dont_Have_Role"
   },
   {
-    "Id": "PlotSkipConfirmToggle",
-    "Text": "Text_PlotSkipConfirmToggle_Text"
+    "id": "PlotSkipConfirmToggle",
+    "text": "Text_PlotSkipConfirmToggle_Text"
   },
   {
-    "Id": "ConditionGroup_12980013_HintText",
-    "Text": "ConditionGroup_12980013_HintText"
+    "id": "ConditionGroup_12980013_HintText",
+    "text": "ConditionGroup_12980013_HintText"
   },
   {
-    "Id": "CannotShare",
-    "Text": "CannotShare"
+    "id": "CannotShare",
+    "text": "CannotShare"
   },
   {
-    "Id": "NoMonster",
-    "Text": "NoMonster"
+    "id": "NoMonster",
+    "text": "NoMonster"
   }
 ]

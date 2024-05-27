@@ -1,514 +1,514 @@
 [
   {
-    "Id": 150101,
-    "InputArray": [
+    "id": 150101,
+    "input_array": [
       "攻击",
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000601,
       1000602
     ],
-    "Description": "SkillInput_150101_Description"
+    "description": "SkillInput_150101_Description"
   },
   {
-    "Id": 150102,
-    "InputArray": [
+    "id": 150102,
+    "input_array": [
       "攻击",
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000601,
       1000602
     ],
-    "Description": "SkillInput_150102_Description"
+    "description": "SkillInput_150102_Description"
   },
   {
-    "Id": 150103,
-    "InputArray": [
+    "id": 150103,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000601
     ],
-    "Description": "SkillInput_150103_Description"
+    "description": "SkillInput_150103_Description"
   },
   {
-    "Id": 150104,
-    "InputArray": [
+    "id": 150104,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000601
     ],
-    "Description": "SkillInput_150104_Description"
+    "description": "SkillInput_150104_Description"
   },
   {
-    "Id": 120201,
-    "InputArray": [
+    "id": 120201,
+    "input_array": [
       "技能1",
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000202,
       1000201
     ],
-    "Description": "SkillInput_120201_Description"
+    "description": "SkillInput_120201_Description"
   },
   {
-    "Id": 140201,
-    "InputArray": [
+    "id": 140201,
+    "input_array": [
       "攻击",
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000101,
       1000101
     ],
-    "Description": "SkillInput_140201_Description"
+    "description": "SkillInput_140201_Description"
   },
   {
-    "Id": 140202,
-    "InputArray": [
+    "id": 140202,
+    "input_array": [
       "攻击",
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000101,
       1000101
     ],
-    "Description": "SkillInput_140202_Description"
+    "description": "SkillInput_140202_Description"
   },
   {
-    "Id": 140203,
-    "InputArray": [
+    "id": 140203,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000101
     ],
-    "Description": "SkillInput_140203_Description"
+    "description": "SkillInput_140203_Description"
   },
   {
-    "Id": 110301,
-    "InputArray": [
+    "id": 110301,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000401
     ],
-    "Description": "SkillInput_110301_Description"
+    "description": "SkillInput_110301_Description"
   },
   {
-    "Id": 110201,
-    "InputArray": [
+    "id": 110201,
+    "input_array": [
       "攻击",
       "技能1",
       "大招"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000501
     ],
-    "Description": "SkillInput_110201_Description"
+    "description": "SkillInput_110201_Description"
   },
   {
-    "Id": 110202,
-    "InputArray": [
+    "id": 110202,
+    "input_array": [
       "攻击",
       "技能1",
       "大招"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000501
     ],
-    "Description": "SkillInput_110202_Description"
+    "description": "SkillInput_110202_Description"
   },
   {
-    "Id": 110203,
-    "InputArray": [
+    "id": 110203,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000501
     ],
-    "Description": "SkillInput_110203_Description"
+    "description": "SkillInput_110203_Description"
   },
   {
-    "Id": 150301,
-    "InputArray": [
+    "id": 150301,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000301
     ],
-    "Description": "SkillInput_150301_Description"
+    "description": "SkillInput_150301_Description"
   },
   {
-    "Id": 130201,
-    "InputArray": [
+    "id": 130201,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001501
     ],
-    "Description": "SkillInput_130201_Description"
+    "description": "SkillInput_130201_Description"
   },
   {
-    "Id": 160101,
-    "InputArray": [
+    "id": 160101,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000901
     ],
-    "Description": "SkillInput_160101_Description"
+    "description": "SkillInput_160101_Description"
   },
   {
-    "Id": 160102,
-    "InputArray": [
+    "id": 160102,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000901
     ],
-    "Description": "SkillInput_160102_Description"
+    "description": "SkillInput_160102_Description"
   },
   {
-    "Id": 140301,
-    "InputArray": [
+    "id": 140301,
+    "input_array": [
       "闪避"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001001
     ],
-    "Description": "SkillInput_140301_Description"
+    "description": "SkillInput_140301_Description"
   },
   {
-    "Id": 120401,
-    "InputArray": [
+    "id": 120401,
+    "input_array": [
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001202
     ],
-    "Description": "SkillInput_120401_Description"
+    "description": "SkillInput_120401_Description"
   },
   {
-    "Id": 130301,
-    "InputArray": [
+    "id": 130301,
+    "input_array": [
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001602
     ],
-    "Description": "SkillInput_130301_Description"
+    "description": "SkillInput_130301_Description"
   },
   {
-    "Id": 120301,
-    "InputArray": [
+    "id": 120301,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000701
     ],
-    "Description": "SkillInput_120301_Description"
+    "description": "SkillInput_120301_Description"
   },
   {
-    "Id": 120302,
-    "InputArray": [
+    "id": 120302,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000701
     ],
-    "Description": "SkillInput_120302_Description"
+    "description": "SkillInput_120302_Description"
   },
   {
-    "Id": 120303,
-    "InputArray": [
+    "id": 120303,
+    "input_array": [
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000702
     ],
-    "Description": "SkillInput_120303_Description"
+    "description": "SkillInput_120303_Description"
   },
   {
-    "Id": 140401,
-    "InputArray": [
+    "id": 140401,
+    "input_array": [
       "大招",
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001103,
       1001102
     ],
-    "Description": "SkillInput_140401_Description"
+    "description": "SkillInput_140401_Description"
   },
   {
-    "Id": 140402,
-    "InputArray": [
+    "id": 140402,
+    "input_array": [
       "攻击",
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001101,
       1001102
     ],
-    "Description": "SkillInput_140402_Description"
+    "description": "SkillInput_140402_Description"
   },
   {
-    "Id": 140403,
-    "InputArray": [
+    "id": 140403,
+    "input_array": [
       "攻击",
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001101,
       1001102
     ],
-    "Description": "SkillInput_140403_Description"
+    "description": "SkillInput_140403_Description"
   },
   {
-    "Id": 140404,
-    "InputArray": [
+    "id": 140404,
+    "input_array": [
       "攻击",
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001101,
       1001102
     ],
-    "Description": "SkillInput_140404_Description"
+    "description": "SkillInput_140404_Description"
   },
   {
-    "Id": 140405,
-    "InputArray": [
+    "id": 140405,
+    "input_array": [
       "大招",
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001103,
       1001101
     ],
-    "Description": "SkillInput_140405_Description"
+    "description": "SkillInput_140405_Description"
   },
   {
-    "Id": 160201,
-    "InputArray": [
+    "id": 160201,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000801
     ],
-    "Description": "SkillInput_160201_Description"
+    "description": "SkillInput_160201_Description"
   },
   {
-    "Id": 160202,
-    "InputArray": [
+    "id": 160202,
+    "input_array": [
       "攻击",
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000801,
       1001102
     ],
-    "Description": "SkillInput_160202_Description"
+    "description": "SkillInput_160202_Description"
   },
   {
-    "Id": 160203,
-    "InputArray": [
+    "id": 160203,
+    "input_array": [
       "技能1",
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000802,
       1000801
     ],
-    "Description": "SkillInput_160203_Description"
+    "description": "SkillInput_160203_Description"
   },
   {
-    "Id": 160204,
-    "InputArray": [
+    "id": 160204,
+    "input_array": [
       "技能1",
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000802,
       1000801
     ],
-    "Description": "SkillInput_160204_Description"
+    "description": "SkillInput_160204_Description"
   },
   {
-    "Id": 120304,
-    "InputArray": [
+    "id": 120304,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000701
     ],
-    "Description": "SkillInput_120304_Description"
+    "description": "SkillInput_120304_Description"
   },
   {
-    "Id": 130101,
-    "InputArray": [
+    "id": 130101,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001401
     ],
-    "Description": "SkillInput_130101_Description"
+    "description": "SkillInput_130101_Description"
   },
   {
-    "Id": 130102,
-    "InputArray": [
+    "id": 130102,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001401
     ],
-    "Description": "SkillInput_130102_Description"
+    "description": "SkillInput_130102_Description"
   },
   {
-    "Id": 140501,
-    "InputArray": [
+    "id": 140501,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001901
     ],
-    "Description": "SkillInput_140501_Description"
+    "description": "SkillInput_140501_Description"
   },
   {
-    "Id": 140502,
-    "InputArray": [
+    "id": 140502,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001901
     ],
-    "Description": "SkillInput_140502_Description"
+    "description": "SkillInput_140502_Description"
   },
   {
-    "Id": 110401,
-    "InputArray": [
+    "id": 110401,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001801
     ],
-    "Description": "SkillInput_110401_Description"
+    "description": "SkillInput_110401_Description"
   },
   {
-    "Id": 110402,
-    "InputArray": [
+    "id": 110402,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001801
     ],
-    "Description": "SkillInput_110402_Description"
+    "description": "SkillInput_110402_Description"
   },
   {
-    "Id": 110302,
-    "InputArray": [
+    "id": 110302,
+    "input_array": [
       "攻击",
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000401,
       1000402
     ],
-    "Description": "SkillInput_110302_Description"
+    "description": "SkillInput_110302_Description"
   },
   {
-    "Id": 140503,
-    "InputArray": [
+    "id": 140503,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001901
     ],
-    "Description": "SkillInput_140503_Description"
+    "description": "SkillInput_140503_Description"
   },
   {
-    "Id": 140504,
-    "InputArray": [
+    "id": 140504,
+    "input_array": [
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001902
     ],
-    "Description": "SkillInput_140504_Description"
+    "description": "SkillInput_140504_Description"
   },
   {
-    "Id": 140505,
-    "InputArray": [
+    "id": 140505,
+    "input_array": [
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001902
     ],
-    "Description": "SkillInput_140505_Description"
+    "description": "SkillInput_140505_Description"
   },
   {
-    "Id": 140506,
-    "InputArray": [
+    "id": 140506,
+    "input_array": [
       "技能1"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001902
     ],
-    "Description": "SkillInput_140506_Description"
+    "description": "SkillInput_140506_Description"
   },
   {
-    "Id": 110403,
-    "InputArray": [
+    "id": 110403,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001801
     ],
-    "Description": "SkillInput_110403_Description"
+    "description": "SkillInput_110403_Description"
   },
   {
-    "Id": 160501,
-    "InputArray": [
+    "id": 160501,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001701
     ],
-    "Description": "SkillInput_160501_Description"
+    "description": "SkillInput_160501_Description"
   },
   {
-    "Id": 160502,
-    "InputArray": [
+    "id": 160502,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001701
     ],
-    "Description": "SkillInput_160502_Description"
+    "description": "SkillInput_160502_Description"
   },
   {
-    "Id": 160503,
-    "InputArray": [
+    "id": 160503,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1001701
     ],
-    "Description": "SkillInput_160503_Description"
+    "description": "SkillInput_160503_Description"
   },
   {
-    "Id": 150302,
-    "InputArray": [
+    "id": 150302,
+    "input_array": [
       "攻击"
     ],
-    "SkillArray": [
+    "skill_array": [
       1000301
     ],
-    "Description": "SkillInput_150302_Description"
+    "description": "SkillInput_150302_Description"
   }
 ]

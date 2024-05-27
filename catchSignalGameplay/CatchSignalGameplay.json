@@ -1,51 +1,51 @@
 [
   {
-    "Id": "1",
-    "Name": "测试摩斯码",
-    "Type": 1,
-    "MorseCode": "22201110222",
-    "Difficulty": 1
+    "id": "1",
+    "name": "测试摩斯码",
+    "type": 1,
+    "morse_code": "22201110222",
+    "difficulty": 1
   },
   {
-    "Id": "2",
-    "Name": "测试摩斯码2",
-    "Type": 1,
-    "MorseCode": "22201110222",
-    "Difficulty": 1
+    "id": "2",
+    "name": "测试摩斯码2",
+    "type": 1,
+    "morse_code": "22201110222",
+    "difficulty": 1
   },
   {
-    "Id": "3",
-    "Name": "忌炎线",
-    "Type": 1,
-    "MorseCode": "1111010121101221",
-    "Difficulty": 2
+    "id": "3",
+    "name": "忌炎线",
+    "type": 1,
+    "morse_code": "1111010121101221",
+    "difficulty": 2
   },
   {
-    "Id": "4",
-    "Name": "测试发送信号",
-    "Type": 2,
-    "MorseCode": "011110101211012210",
-    "Difficulty": 2
+    "id": "4",
+    "name": "测试发送信号",
+    "type": 2,
+    "morse_code": "011110101211012210",
+    "difficulty": 2
   },
   {
-    "Id": "5",
-    "Name": "主线检查身体",
-    "Type": 1,
-    "MorseCode": "20011111001020122111",
-    "Difficulty": 3
+    "id": "5",
+    "name": "主线检查身体",
+    "type": 1,
+    "morse_code": "20011111001020122111",
+    "difficulty": 3
   },
   {
-    "Id": "6",
-    "Name": "吟霖线",
-    "Type": 2,
-    "MorseCode": "111022201110001121011012022022012",
-    "Difficulty": 4
+    "id": "6",
+    "name": "吟霖线",
+    "type": 2,
+    "morse_code": "111022201110001121011012022022012",
+    "difficulty": 4
   },
   {
-    "Id": "7",
-    "Name": "千歆支线",
-    "Type": 2,
-    "MorseCode": "1210120122220222110122220222210221",
-    "Difficulty": 800001
+    "id": "7",
+    "name": "千歆支线",
+    "type": 2,
+    "morse_code": "1210120122220222110122220222210221",
+    "difficulty": 800001
   }
 ]

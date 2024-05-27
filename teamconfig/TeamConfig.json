@@ -1,16 +1,16 @@
 [
   {
-    "Id": 1,
-    "BuffId": 10001,
-    "InviteEffectTime": 15,
-    "ViolationOperationTimes": 3,
-    "ViolationOperationBanTime": 10,
-    "BanTimesCheck": 2,
-    "BbanTime": 60,
-    "CbanTime": 120,
-    "InviteCd": 30,
-    "NearbrPlayerCount": 20,
-    "NearbrPlayerCountRefreshCd": 30,
-    "ViolationOperationTimeLimit": 60
+    "id": 1,
+    "buff_id": 10001,
+    "invite_effect_time": 15,
+    "violation_operation_times": 3,
+    "violation_operation_ban_time": 10,
+    "ban_times_check": 2,
+    "bban_time": 60,
+    "cban_time": 120,
+    "invite_cd": 30,
+    "nearbr_player_count": 20,
+    "nearbr_player_count_refresh_cd": 30,
+    "violation_operation_time_limit": 60
   }
 ]

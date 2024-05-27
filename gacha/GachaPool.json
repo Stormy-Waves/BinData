@@ -1,9 +1,9 @@
 [
   {
-    "Id": 1,
-    "GachaId": 1,
-    "Sort": 10,
-    "UrlMap": [
+    "id": 1,
+    "gacha_id": 1,
+    "sort": 10,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -97,10 +97,10 @@
     ]
   },
   {
-    "Id": 2,
-    "GachaId": 2,
-    "Sort": 50,
-    "UrlMap": [
+    "id": 2,
+    "gacha_id": 2,
+    "sort": 50,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -194,10 +194,10 @@
     ]
   },
   {
-    "Id": 32,
-    "GachaId": 3,
-    "Sort": 60,
-    "UrlMap": [
+    "id": 32,
+    "gacha_id": 3,
+    "sort": 60,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -291,10 +291,10 @@
     ]
   },
   {
-    "Id": 31,
-    "GachaId": 3,
-    "Sort": 61,
-    "UrlMap": [
+    "id": 31,
+    "gacha_id": 3,
+    "sort": 61,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -388,10 +388,10 @@
     ]
   },
   {
-    "Id": 33,
-    "GachaId": 3,
-    "Sort": 62,
-    "UrlMap": [
+    "id": 33,
+    "gacha_id": 3,
+    "sort": 62,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -485,10 +485,10 @@
     ]
   },
   {
-    "Id": 34,
-    "GachaId": 3,
-    "Sort": 63,
-    "UrlMap": [
+    "id": 34,
+    "gacha_id": 3,
+    "sort": 63,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -582,10 +582,10 @@
     ]
   },
   {
-    "Id": 35,
-    "GachaId": 3,
-    "Sort": 64,
-    "UrlMap": [
+    "id": 35,
+    "gacha_id": 3,
+    "sort": 64,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -679,10 +679,10 @@
     ]
   },
   {
-    "Id": 100001,
-    "GachaId": 100001,
-    "Sort": 20,
-    "UrlMap": [
+    "id": 100001,
+    "gacha_id": 100001,
+    "sort": 20,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -776,10 +776,10 @@
     ]
   },
   {
-    "Id": 100002,
-    "GachaId": 100002,
-    "Sort": 20,
-    "UrlMap": [
+    "id": 100002,
+    "gacha_id": 100002,
+    "sort": 20,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -873,10 +873,10 @@
     ]
   },
   {
-    "Id": 200001,
-    "GachaId": 200001,
-    "Sort": 30,
-    "UrlMap": [
+    "id": 200001,
+    "gacha_id": 200001,
+    "sort": 30,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -970,10 +970,10 @@
     ]
   },
   {
-    "Id": 200002,
-    "GachaId": 200002,
-    "Sort": 30,
-    "UrlMap": [
+    "id": 200002,
+    "gacha_id": 200002,
+    "sort": 30,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -1067,10 +1067,10 @@
     ]
   },
   {
-    "Id": 41,
-    "GachaId": 4,
-    "Sort": 10,
-    "UrlMap": [
+    "id": 41,
+    "gacha_id": 4,
+    "sort": 10,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -1164,10 +1164,10 @@
     ]
   },
   {
-    "Id": 42,
-    "GachaId": 4,
-    "Sort": 10,
-    "UrlMap": [
+    "id": 42,
+    "gacha_id": 4,
+    "sort": 10,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -1261,10 +1261,10 @@
     ]
   },
   {
-    "Id": 43,
-    "GachaId": 4,
-    "Sort": 10,
-    "UrlMap": [
+    "id": 43,
+    "gacha_id": 4,
+    "sort": 10,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -1358,10 +1358,10 @@
     ]
   },
   {
-    "Id": 44,
-    "GachaId": 4,
-    "Sort": 10,
-    "UrlMap": [
+    "id": 44,
+    "gacha_id": 4,
+    "sort": 10,
+    "url_map": [
       {
         "key": 0,
         "value": {
@@ -1455,495 +1455,10 @@
     ]
   },
   {
-    "Id": 45,
-    "GachaId": 4,
-    "Sort": 10,
-    "UrlMap": [
-      {
-        "key": 0,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 1,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 2,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 3,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 5,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 6,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 7,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 8,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 9,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 10,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "Id": 51,
-    "GachaId": 5,
-    "Sort": 12,
-    "UrlMap": [
-      {
-        "key": 0,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 1,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 2,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 3,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 5,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 6,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 7,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 8,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 9,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 10,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "Id": 52,
-    "GachaId": 5,
-    "Sort": 12,
-    "UrlMap": [
-      {
-        "key": 0,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 1,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 2,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 3,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 5,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 6,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 7,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 8,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 9,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 10,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "Id": 53,
-    "GachaId": 5,
-    "Sort": 12,
-    "UrlMap": [
-      {
-        "key": 0,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 1,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 2,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 3,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 5,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 6,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 7,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 8,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 9,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 10,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "Id": 54,
-    "GachaId": 5,
-    "Sort": 12,
-    "UrlMap": [
-      {
-        "key": 0,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 1,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 2,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 3,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 5,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 6,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 7,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 8,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 9,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      },
-      {
-        "key": 10,
-        "value": {
-          "array_string": [
-            "https://test-alicdn-gamestarter.kurogame.com/gm/gacha/demo.json",
-            "https://test-tencentcdn-gamestarter.kurogame.com/gm/gacha/demo.json"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "Id": 55,
-    "GachaId": 5,
-    "Sort": 12,
-    "UrlMap": [
+    "id": 45,
+    "gacha_id": 4,
+    "sort": 10,
+    "url_map": [
       {
         "key": 0,
         "value": {

@@ -1,22 +1,22 @@
 [
   {
-    "Id": 101000001,
-    "RoleId": 1404,
-    "RoleQuestId": 125000080,
-    "RoleTrialId": 100710,
-    "ShowQuestId": 0,
-    "ShowQuestTips": "",
-    "ShowQuestGetWay": "",
-    "RoleUi": "ActivityRoleGuide_1404"
+    "id": 101000001,
+    "role_id": 1404,
+    "role_quest_id": 125000080,
+    "role_trial_id": 100710,
+    "show_quest_id": 0,
+    "show_quest_tips": "",
+    "show_quest_get_way": "",
+    "role_ui": "ActivityRoleGuide_1404"
   },
   {
-    "Id": 101000002,
-    "RoleId": 1302,
-    "RoleQuestId": 114000018,
-    "RoleTrialId": 100714,
-    "ShowQuestId": 0,
-    "ShowQuestTips": "",
-    "ShowQuestGetWay": "",
-    "RoleUi": "ActivityRoleGuide_1302"
+    "id": 101000002,
+    "role_id": 1302,
+    "role_quest_id": 114000018,
+    "role_trial_id": 100714,
+    "show_quest_id": 0,
+    "show_quest_tips": "",
+    "show_quest_get_way": "",
+    "role_ui": "ActivityRoleGuide_1302"
   }
 ]

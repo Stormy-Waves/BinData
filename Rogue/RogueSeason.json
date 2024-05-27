@@ -1,11 +1,11 @@
 [
   {
-    "Id": 1,
-    "SeasonName": "8002",
-    "PointItem": 80100002,
-    "InstanceDungeonEntrance": 8002,
-    "TabIcon": "",
-    "FirstPassRewardMap": [
+    "id": 1,
+    "season_name": "8002",
+    "point_item": 80100002,
+    "instance_dungeon_entrance": 8002,
+    "tab_icon": "",
+    "first_pass_reward_map": [
       {
         "key": 8002,
         "value": 3501

@@ -1,44 +1,44 @@
 [
   {
-    "Id": 1,
-    "ExtraItemId": 0,
-    "EffectiveProbability": 0,
-    "Typeld": 1,
-    "SkillDescription": 1
+    "id": 1,
+    "extra_item_id": 0,
+    "effective_probability": 0,
+    "typeld": 1,
+    "skill_description": 1
   },
   {
-    "Id": 2,
-    "ExtraItemId": 0,
-    "EffectiveProbability": 20,
-    "Typeld": 2,
-    "SkillDescription": 1
+    "id": 2,
+    "extra_item_id": 0,
+    "effective_probability": 20,
+    "typeld": 2,
+    "skill_description": 1
   },
   {
-    "Id": 3,
-    "ExtraItemId": 0,
-    "EffectiveProbability": 20,
-    "Typeld": 3,
-    "SkillDescription": 1
+    "id": 3,
+    "extra_item_id": 0,
+    "effective_probability": 20,
+    "typeld": 3,
+    "skill_description": 1
   },
   {
-    "Id": 4,
-    "ExtraItemId": 0,
-    "EffectiveProbability": 20,
-    "Typeld": 1,
-    "SkillDescription": 2
+    "id": 4,
+    "extra_item_id": 0,
+    "effective_probability": 20,
+    "typeld": 1,
+    "skill_description": 2
   },
   {
-    "Id": 5,
-    "ExtraItemId": 0,
-    "EffectiveProbability": 20,
-    "Typeld": 2,
-    "SkillDescription": 2
+    "id": 5,
+    "extra_item_id": 0,
+    "effective_probability": 20,
+    "typeld": 2,
+    "skill_description": 2
   },
   {
-    "Id": 6,
-    "ExtraItemId": 0,
-    "EffectiveProbability": 20,
-    "Typeld": 3,
-    "SkillDescription": 2
+    "id": 6,
+    "extra_item_id": 0,
+    "effective_probability": 20,
+    "typeld": 3,
+    "skill_description": 2
   }
 ]

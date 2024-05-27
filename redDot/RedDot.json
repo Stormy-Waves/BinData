@@ -1,250 +1,250 @@
 [
   {
-    "Name": "Test",
-    "RelativeName": ""
+    "name": "Test",
+    "relative_name": ""
   },
   {
-    "Name": "BattleViewMenu",
-    "RelativeName": ""
+    "name": "BattleViewMenu",
+    "relative_name": ""
   },
   {
-    "Name": "BattleViewGachaButton",
-    "RelativeName": ""
+    "name": "BattleViewGachaButton",
+    "relative_name": ""
   },
   {
-    "Name": "BattleViewShopButton",
-    "RelativeName": ""
+    "name": "BattleViewShopButton",
+    "relative_name": ""
   },
   {
-    "Name": "MailFilterAll",
-    "RelativeName": "FunctionBelowMail"
+    "name": "MailFilterAll",
+    "relative_name": "FunctionBelowMail"
   },
   {
-    "Name": "RoleSystemRoleList",
-    "RelativeName": "FunctionRole"
+    "name": "RoleSystemRoleList",
+    "relative_name": "FunctionRole"
   },
   {
-    "Name": "RoleAttributeTab",
-    "RelativeName": ""
+    "name": "RoleAttributeTab",
+    "relative_name": ""
   },
   {
-    "Name": "RoleAttributeTabLevelUp",
-    "RelativeName": ""
+    "name": "RoleAttributeTabLevelUp",
+    "relative_name": ""
   },
   {
-    "Name": "RoleSkillTab",
-    "RelativeName": ""
+    "name": "RoleSkillTab",
+    "relative_name": ""
   },
   {
-    "Name": "RoleSkillTabPhantomSkill",
-    "RelativeName": "RoleSkillTab"
+    "name": "RoleSkillTabPhantomSkill",
+    "relative_name": "RoleSkillTab"
   },
   {
-    "Name": "RoleChipTab",
-    "RelativeName": ""
+    "name": "RoleChipTab",
+    "relative_name": ""
   },
   {
-    "Name": "RoleChipTabHole",
-    "RelativeName": ""
+    "name": "RoleChipTabHole",
+    "relative_name": ""
   },
   {
-    "Name": "RoleResonanceTab",
-    "RelativeName": ""
+    "name": "RoleResonanceTab",
+    "relative_name": ""
   },
   {
-    "Name": "RoleResonanceTabHole",
-    "RelativeName": ""
+    "name": "RoleResonanceTabHole",
+    "relative_name": ""
   },
   {
-    "Name": "FunctionRole",
-    "RelativeName": "BattleViewMenu"
+    "name": "FunctionRole",
+    "relative_name": "BattleViewMenu"
   },
   {
-    "Name": "FunctionBelowMail",
-    "RelativeName": "BattleViewMenu"
+    "name": "FunctionBelowMail",
+    "relative_name": "BattleViewMenu"
   },
   {
-    "Name": "FunctionFriend",
-    "RelativeName": "BattleViewMenu"
+    "name": "FunctionFriend",
+    "relative_name": "BattleViewMenu"
   },
   {
-    "Name": "FunctionTutorial",
-    "RelativeName": "BattleViewMenu"
+    "name": "FunctionTutorial",
+    "relative_name": "BattleViewMenu"
   },
   {
-    "Name": "FunctionGacha",
-    "RelativeName": "BattleViewMenu"
+    "name": "FunctionGacha",
+    "relative_name": "BattleViewMenu"
   },
   {
-    "Name": "FunctionAdventure",
-    "RelativeName": "BattleViewMenu"
+    "name": "FunctionAdventure",
+    "relative_name": "BattleViewMenu"
   },
   {
-    "Name": "FunctionPhantom",
-    "RelativeName": "BattleViewMenu"
+    "name": "FunctionPhantom",
+    "relative_name": "BattleViewMenu"
   },
   {
-    "Name": "FunctionCalabash",
-    "RelativeName": "BattleViewMenu"
+    "name": "FunctionCalabash",
+    "relative_name": "BattleViewMenu"
   },
   {
-    "Name": "CalabashTab",
-    "RelativeName": ""
+    "name": "CalabashTab",
+    "relative_name": ""
   },
   {
-    "Name": "FriendNewApplication",
-    "RelativeName": "FunctionFriend"
+    "name": "FriendNewApplication",
+    "relative_name": "FunctionFriend"
   },
   {
-    "Name": "ChatView",
-    "RelativeName": ""
+    "name": "ChatView",
+    "relative_name": ""
   },
   {
-    "Name": "ChatRoom",
-    "RelativeName": "ChatView"
+    "name": "ChatRoom",
+    "relative_name": "ChatView"
   },
   {
-    "Name": "TutorialItemNew",
-    "RelativeName": "TutorialTypeNew"
+    "name": "TutorialItemNew",
+    "relative_name": "TutorialTypeNew"
   },
   {
-    "Name": "TutorialTypeNew",
-    "RelativeName": "FunctionTutorial"
+    "name": "TutorialTypeNew",
+    "relative_name": "FunctionTutorial"
   },
   {
-    "Name": "AdventureManual",
-    "RelativeName": ""
+    "name": "AdventureManual",
+    "relative_name": ""
   },
   {
-    "Name": "AdventureBattleButton",
-    "RelativeName": ""
+    "name": "AdventureBattleButton",
+    "relative_name": ""
   },
   {
-    "Name": "RoleQuestPoint",
-    "RelativeName": ""
+    "name": "RoleQuestPoint",
+    "relative_name": ""
   },
   {
-    "Name": "CookerLevel",
-    "RelativeName": ""
+    "name": "CookerLevel",
+    "relative_name": ""
   },
   {
-    "Name": "CookerLevelMain",
-    "RelativeName": ""
+    "name": "CookerLevelMain",
+    "relative_name": ""
   },
   {
-    "Name": "BattlePass",
-    "RelativeName": ""
+    "name": "BattlePass",
+    "relative_name": ""
   },
   {
-    "Name": "BattlePassTask",
-    "RelativeName": "BattlePass"
+    "name": "BattlePassTask",
+    "relative_name": "BattlePass"
   },
   {
-    "Name": "BattlePassReward",
-    "RelativeName": "BattlePass"
+    "name": "BattlePassReward",
+    "relative_name": "BattlePass"
   },
   {
-    "Name": "BattlePassAlwaysTaskTab",
-    "RelativeName": "BattlePassTask"
+    "name": "BattlePassAlwaysTaskTab",
+    "relative_name": "BattlePassTask"
   },
   {
-    "Name": "BattlePassWeekTaskTab",
-    "RelativeName": "BattlePassTask"
+    "name": "BattlePassWeekTaskTab",
+    "relative_name": "BattlePassTask"
   },
   {
-    "Name": "BattlePassDayTaskTab",
-    "RelativeName": "BattlePassTask"
+    "name": "BattlePassDayTaskTab",
+    "relative_name": "BattlePassTask"
   },
   {
-    "Name": "ComposeReagentProduction",
-    "RelativeName": ""
+    "name": "ComposeReagentProduction",
+    "relative_name": ""
   },
   {
-    "Name": "AchievementCategory",
-    "RelativeName": "Achievement"
+    "name": "AchievementCategory",
+    "relative_name": "Achievement"
   },
   {
-    "Name": "AdventureFirstAward",
-    "RelativeName": ""
+    "name": "AdventureFirstAward",
+    "relative_name": ""
   },
   {
-    "Name": "AdventureFirstAwardCategory",
-    "RelativeName": ""
+    "name": "AdventureFirstAwardCategory",
+    "relative_name": ""
   },
   {
-    "Name": "AdventureFirstAwardResult",
-    "RelativeName": ""
+    "name": "AdventureFirstAwardResult",
+    "relative_name": ""
   },
   {
-    "Name": "BattleViewQuestButton",
-    "RelativeName": ""
+    "name": "BattleViewQuestButton",
+    "relative_name": ""
   },
   {
-    "Name": "QuestViewItem",
-    "RelativeName": ""
+    "name": "QuestViewItem",
+    "relative_name": ""
   },
   {
-    "Name": "AdventureDailyActivityTab",
-    "RelativeName": ""
+    "name": "AdventureDailyActivityTab",
+    "relative_name": ""
   },
   {
-    "Name": "FunctionInventory",
-    "RelativeName": "BattleViewMenu"
+    "name": "FunctionInventory",
+    "relative_name": "BattleViewMenu"
   },
   {
-    "Name": "InventoryCommon",
-    "RelativeName": "FunctionInventory"
+    "name": "InventoryCommon",
+    "relative_name": "FunctionInventory"
   },
   {
-    "Name": "InventoryWeapon",
-    "RelativeName": "FunctionInventory"
+    "name": "InventoryWeapon",
+    "relative_name": "FunctionInventory"
   },
   {
-    "Name": "InventoryPhantom",
-    "RelativeName": "FunctionInventory"
+    "name": "InventoryPhantom",
+    "relative_name": "FunctionInventory"
   },
   {
-    "Name": "InventoryCollection",
-    "RelativeName": "FunctionInventory"
+    "name": "InventoryCollection",
+    "relative_name": "FunctionInventory"
   },
   {
-    "Name": "InventoryMaterial",
-    "RelativeName": "FunctionInventory"
+    "name": "InventoryMaterial",
+    "relative_name": "FunctionInventory"
   },
   {
-    "Name": "InventoryMission",
-    "RelativeName": "FunctionInventory"
+    "name": "InventoryMission",
+    "relative_name": "FunctionInventory"
   },
   {
-    "Name": "InventorySpecial",
-    "RelativeName": "FunctionInventory"
+    "name": "InventorySpecial",
+    "relative_name": "FunctionInventory"
   },
   {
-    "Name": "InventoryCard",
-    "RelativeName": "FunctionInventory"
+    "name": "InventoryCard",
+    "relative_name": "FunctionInventory"
   },
   {
-    "Name": "RoleSelectionList",
-    "RelativeName": ""
+    "name": "RoleSelectionList",
+    "relative_name": ""
   },
   {
-    "Name": "TowerReward",
-    "RelativeName": ""
+    "name": "TowerReward",
+    "relative_name": ""
   },
   {
-    "Name": "QuestTab",
-    "RelativeName": ""
+    "name": "QuestTab",
+    "relative_name": ""
   },
   {
-    "Name": "FunctionViewQuestBtn",
-    "RelativeName": ""
+    "name": "FunctionViewQuestBtn",
+    "relative_name": ""
   },
   {
-    "Name": "RoleAttributeTabBreakUp",
-    "RelativeName": ""
+    "name": "RoleAttributeTabBreakUp",
+    "relative_name": ""
   },
   {
-    "Name": "Achievement",
-    "RelativeName": ""
+    "name": "Achievement",
+    "relative_name": ""
   }
 ]

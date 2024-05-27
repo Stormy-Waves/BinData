@@ -1,15 +1,15 @@
 [
   {
-    "Id": 1,
-    "Type": 1,
-    "CharacterId": [
+    "id": 1,
+    "type": 1,
+    "character_id": [
       1502
     ]
   },
   {
-    "Id": 2,
-    "Type": 1,
-    "CharacterId": [
+    "id": 2,
+    "type": 1,
+    "character_id": [
       1501
     ]
   }

@@ -1,37 +1,37 @@
 [
   {
-    "Id": 3,
-    "Dapath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_HuangLong/TianCheng/TOD/DA_TOD_Config_01_TC.DA_TOD_Config_01_TC",
-    "IsTod": true,
-    "Priority": 0,
-    "FadeTime": 3
+    "id": 3,
+    "dapath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_HuangLong/TianCheng/TOD/DA_TOD_Config_01_TC.DA_TOD_Config_01_TC",
+    "is_tod": true,
+    "priority": 0,
+    "fade_time": 3
   },
   {
-    "Id": 4,
-    "Dapath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_HuangLong/Yunlingu/TOD/DA_TOD_Config_01_YLG.DA_TOD_Config_01_YLG",
-    "IsTod": true,
-    "Priority": 0,
-    "FadeTime": 3
+    "id": 4,
+    "dapath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_HuangLong/Yunlingu/TOD/DA_TOD_Config_01_YLG.DA_TOD_Config_01_YLG",
+    "is_tod": true,
+    "priority": 0,
+    "fade_time": 3
   },
   {
-    "Id": 5,
-    "Dapath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_HuangLong/YiLuoYuanXiang/TOD/DA_TOD_Config_01_YLYX.DA_TOD_Config_01_YLYX",
-    "IsTod": true,
-    "Priority": 0,
-    "FadeTime": 3
+    "id": 5,
+    "dapath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_HuangLong/YiLuoYuanXiang/TOD/DA_TOD_Config_01_YLYX.DA_TOD_Config_01_YLYX",
+    "is_tod": true,
+    "priority": 0,
+    "fade_time": 3
   },
   {
-    "Id": 1,
-    "Dapath": "/Game/Aki/Render/Data/Weather/DA_Weather_Snow.DA_Weather_Snow",
-    "IsTod": false,
-    "Priority": 0,
-    "FadeTime": 3
+    "id": 1,
+    "dapath": "/Game/Aki/Render/Data/Weather/DA_Weather_Snow.DA_Weather_Snow",
+    "is_tod": false,
+    "priority": 0,
+    "fade_time": 3
   },
   {
-    "Id": 2,
-    "Dapath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_HuangLong/Yunlingu/Time/DA_PPV_13_YLG_shandong.DA_PPV_13_YLG_shandong",
-    "IsTod": false,
-    "Priority": 0,
-    "FadeTime": 3
+    "id": 2,
+    "dapath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_HuangLong/Yunlingu/Time/DA_PPV_13_YLG_shandong.DA_PPV_13_YLG_shandong",
+    "is_tod": false,
+    "priority": 0,
+    "fade_time": 3
   }
 ]

@@ -1,49 +1,49 @@
 [
   {
-    "Id": 1,
-    "PressTime": [
+    "id": 1,
+    "press_time": [
       250,
       2500,
       5000
     ],
-    "TriggerTime": [
+    "trigger_time": [
       10,
       20,
       50
     ]
   },
   {
-    "Id": 2,
-    "PressTime": [
+    "id": 2,
+    "press_time": [
       1000,
       2500,
       5000
     ],
-    "TriggerTime": [
+    "trigger_time": [
       10,
       20,
       50
     ]
   },
   {
-    "Id": 3,
-    "PressTime": [
+    "id": 3,
+    "press_time": [
       500,
       2500,
       5000
     ],
-    "TriggerTime": [
+    "trigger_time": [
       10,
       20,
       50
     ]
   },
   {
-    "Id": 4,
-    "PressTime": [
+    "id": 4,
+    "press_time": [
       250
     ],
-    "TriggerTime": [
+    "trigger_time": [
       5
     ]
   }

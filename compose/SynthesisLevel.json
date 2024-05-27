@@ -1,42 +1,42 @@
 [
   {
-    "Id": 1,
-    "Name": "SynthesisLevel_1_Name",
-    "Completeness": 0,
-    "Effect": 0,
-    "AttributesDescription": "SynthesisLevel_1_AttributesDescription",
-    "DropIds": 0
+    "id": 1,
+    "name": "SynthesisLevel_1_Name",
+    "completeness": 0,
+    "effect": 0,
+    "attributes_description": "SynthesisLevel_1_AttributesDescription",
+    "drop_ids": 0
   },
   {
-    "Id": 2,
-    "Name": "SynthesisLevel_2_Name",
-    "Completeness": 500,
-    "Effect": 0,
-    "AttributesDescription": "SynthesisLevel_2_AttributesDescription",
-    "DropIds": 91001
+    "id": 2,
+    "name": "SynthesisLevel_2_Name",
+    "completeness": 500,
+    "effect": 0,
+    "attributes_description": "SynthesisLevel_2_AttributesDescription",
+    "drop_ids": 91001
   },
   {
-    "Id": 3,
-    "Name": "SynthesisLevel_3_Name",
-    "Completeness": 1500,
-    "Effect": 0,
-    "AttributesDescription": "SynthesisLevel_3_AttributesDescription",
-    "DropIds": 91002
+    "id": 3,
+    "name": "SynthesisLevel_3_Name",
+    "completeness": 1500,
+    "effect": 0,
+    "attributes_description": "SynthesisLevel_3_AttributesDescription",
+    "drop_ids": 91002
   },
   {
-    "Id": 4,
-    "Name": "SynthesisLevel_4_Name",
-    "Completeness": 3000,
-    "Effect": 0,
-    "AttributesDescription": "SynthesisLevel_4_AttributesDescription",
-    "DropIds": 91003
+    "id": 4,
+    "name": "SynthesisLevel_4_Name",
+    "completeness": 3000,
+    "effect": 0,
+    "attributes_description": "SynthesisLevel_4_AttributesDescription",
+    "drop_ids": 91003
   },
   {
-    "Id": 5,
-    "Name": "SynthesisLevel_5_Name",
-    "Completeness": 6000,
-    "Effect": 0,
-    "AttributesDescription": "SynthesisLevel_5_AttributesDescription",
-    "DropIds": 91004
+    "id": 5,
+    "name": "SynthesisLevel_5_Name",
+    "completeness": 6000,
+    "effect": 0,
+    "attributes_description": "SynthesisLevel_5_AttributesDescription",
+    "drop_ids": 91004
   }
 ]

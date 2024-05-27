@@ -1,12 +1,12 @@
 [
   {
-    "Id": 3,
-    "Name": "RoleQualityInfo_3_Name",
-    "Icon": "",
-    "QualityColor": "5A73C7FF",
-    "Image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityBlue.SP_QualityBlue",
-    "GachaQualityImage": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_Luckdraw_B_UI.T_Luckdraw_B_UI",
-    "SpiloverCompensate": [
+    "id": 3,
+    "name": "RoleQualityInfo_3_Name",
+    "icon": "",
+    "quality_color": "5A73C7FF",
+    "image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityBlue.SP_QualityBlue",
+    "gacha_quality_image": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_Luckdraw_B_UI.T_Luckdraw_B_UI",
+    "spilover_compensate": [
       {
         "key": 50004,
         "value": 1
@@ -14,13 +14,13 @@
     ]
   },
   {
-    "Id": 4,
-    "Name": "RoleQualityInfo_4_Name",
-    "Icon": "",
-    "QualityColor": "C759C1FF",
-    "Image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityPurple.SP_QualityPurple",
-    "GachaQualityImage": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_LuckdrawA_UI.T_LuckdrawA_UI",
-    "SpiloverCompensate": [
+    "id": 4,
+    "name": "RoleQualityInfo_4_Name",
+    "icon": "",
+    "quality_color": "C759C1FF",
+    "image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityPurple.SP_QualityPurple",
+    "gacha_quality_image": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_LuckdrawA_UI.T_LuckdrawA_UI",
+    "spilover_compensate": [
       {
         "key": 50004,
         "value": 5
@@ -28,13 +28,13 @@
     ]
   },
   {
-    "Id": 5,
-    "Name": "RoleQualityInfo_5_Name",
-    "Icon": "",
-    "QualityColor": "DEA544FF",
-    "Image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityGlod.SP_QualityGlod",
-    "GachaQualityImage": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_Luckdraw_S_UI.T_Luckdraw_S_UI",
-    "SpiloverCompensate": [
+    "id": 5,
+    "name": "RoleQualityInfo_5_Name",
+    "icon": "",
+    "quality_color": "DEA544FF",
+    "image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityGlod.SP_QualityGlod",
+    "gacha_quality_image": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_Luckdraw_S_UI.T_Luckdraw_S_UI",
+    "spilover_compensate": [
       {
         "key": 50004,
         "value": 25

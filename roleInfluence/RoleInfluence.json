@@ -1,12 +1,12 @@
 [
   {
-    "Id": 0,
-    "Title": "RoleInfluence_0_Title",
-    "BackGround": "",
-    "InfluenceId": 0,
-    "CountryId": 0,
-    "FilterIcon": "/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabQuanBu.SP_RoleTabQuanBu",
-    "Role": {
+    "id": 0,
+    "title": "RoleInfluence_0_Title",
+    "back_ground": "",
+    "influence_id": 0,
+    "country_id": 0,
+    "filter_icon": "/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabQuanBu.SP_RoleTabQuanBu",
+    "role": {
       "array_int": [
         1103,
         1402,
@@ -19,26 +19,26 @@
     }
   },
   {
-    "Id": 2,
-    "Title": "RoleInfluence_2_Title",
-    "BackGround": "/Game/Aki/UI/UIResources/UiQuest/Image/BG/T_IconChuanShubg_UI.T_IconChuanShubg_UI",
-    "InfluenceId": 0,
-    "CountryId": 0,
-    "FilterIcon": "/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabHeiHaiAn.SP_RoleTabHeiHaiAn",
-    "Role": {
+    "id": 2,
+    "title": "RoleInfluence_2_Title",
+    "back_ground": "/Game/Aki/UI/UIResources/UiQuest/Image/BG/T_IconChuanShubg_UI.T_IconChuanShubg_UI",
+    "influence_id": 0,
+    "country_id": 0,
+    "filter_icon": "/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabHeiHaiAn.SP_RoleTabHeiHaiAn",
+    "role": {
       "array_int": [
         1203
       ]
     }
   },
   {
-    "Id": 1,
-    "Title": "RoleInfluence_1_Title",
-    "BackGround": "/Game/Aki/UI/UIResources/UiQuest/Image/BG/T_IconChuanShubg_UI.T_IconChuanShubg_UI",
-    "InfluenceId": 0,
-    "CountryId": 1,
-    "FilterIcon": "/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabHuangLong.SP_RoleTabHuangLong",
-    "Role": {
+    "id": 1,
+    "title": "RoleInfluence_1_Title",
+    "back_ground": "/Game/Aki/UI/UIResources/UiQuest/Image/BG/T_IconChuanShubg_UI.T_IconChuanShubg_UI",
+    "influence_id": 0,
+    "country_id": 1,
+    "filter_icon": "/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabHuangLong.SP_RoleTabHuangLong",
+    "role": {
       "array_int": [
         1103,
         1402,

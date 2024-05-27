@@ -1,20 +1,20 @@
 [
   {
-    "Id": 1,
-    "Difficulty": 1,
-    "RewardItem": [
+    "id": 1,
+    "difficulty": 1,
+    "reward_item": [
       {
         "key": 1303,
         "value": 1
       }
     ],
-    "TrialRoleId": 100716,
-    "MapMark": 301203
+    "trial_role_id": 100716,
+    "map_mark": 301203
   },
   {
-    "Id": 2,
-    "Difficulty": 2,
-    "RewardItem": [
+    "id": 2,
+    "difficulty": 2,
+    "reward_item": [
       {
         "key": 43010004,
         "value": 5
@@ -28,7 +28,7 @@
         "value": 60000
       }
     ],
-    "TrialRoleId": 100716,
-    "MapMark": 301203
+    "trial_role_id": 100716,
+    "map_mark": 301203
   }
 ]

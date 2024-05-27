@@ -1,144 +1,144 @@
 [
   {
-    "Id": 71103,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Summon/MS1BailianMD10011_Pet/AIC_MS1BailianMD10011_Pet.AIC_MS1BailianMD10011_Pet",
-    "BehaviorTree": "/Game/Aki/AI/AICommon/BehaviorTree/Bailian/BT_BailianTree.BT_BailianTree",
-    "SubBehaviorConfigs": [
+    "id": 71103,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Summon/MS1BailianMD10011_Pet/AIC_MS1BailianMD10011_Pet.AIC_MS1BailianMD10011_Pet",
+    "behavior_tree": "/Game/Aki/AI/AICommon/BehaviorTree/Bailian/BT_BailianTree.BT_BailianTree",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "701103"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 4,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AICommon/BehaviorTree/BT_PlayerRunBack.BT_PlayerRunBack",
-    "SubBehaviorConfigs": [],
-    "Team": true,
-    "MonsterType": 4
+    "id": 4,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AICommon/BehaviorTree/BT_PlayerRunBack.BT_PlayerRunBack",
+    "sub_behavior_configs": [],
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 3,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Summon/Common/AIC_Common_Summon.AIC_Common_Summon",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Summon/Common/BT_Common_Summon.BT_Common_Summon",
-    "SubBehaviorConfigs": [],
-    "Team": true,
-    "MonsterType": 4
+    "id": 3,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Summon/Common/AIC_Common_Summon.AIC_Common_Summon",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Summon/Common/BT_Common_Summon.BT_Common_Summon",
+    "sub_behavior_configs": [],
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 21001,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA002/AIC_NA002.AIC_NA002",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA002/BT_NA002.BT_NA002",
-    "SubBehaviorConfigs": [
+    "id": 21001,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA002/AIC_NA002.AIC_NA002",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA002/BT_NA002.BT_NA002",
+    "sub_behavior_configs": [
       {
         "key": "AiHate",
         "value": "21001"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21004,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA004/AIC_NA004.AIC_NA004",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA004/BT_NA004.BT_NA004",
-    "SubBehaviorConfigs": [],
-    "Team": false,
-    "MonsterType": 4
+    "id": 21004,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA004/AIC_NA004.AIC_NA004",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA004/BT_NA004.BT_NA004",
+    "sub_behavior_configs": [],
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21006,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006.BT_NA006",
-    "SubBehaviorConfigs": [
+    "id": 21006,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006.BT_NA006",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21006"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21007,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA007/AIC_NA007.AIC_NA007",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA007/BT_NA007.BT_NA007",
-    "SubBehaviorConfigs": [
+    "id": 21007,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA007/AIC_NA007.AIC_NA007",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA007/BT_NA007.BT_NA007",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21007"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21010,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA010/AIC_NA010.AIC_NA010",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA010/BT_NA010.BT_NA010",
-    "SubBehaviorConfigs": [],
-    "Team": false,
-    "MonsterType": 4
+    "id": 21010,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA010/AIC_NA010.AIC_NA010",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA010/BT_NA010.BT_NA010",
+    "sub_behavior_configs": [],
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21012,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA012/AIC_NA012.AIC_NA012",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA012/BT_NA012.BT_NA012",
-    "SubBehaviorConfigs": [
+    "id": 21012,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA012/AIC_NA012.AIC_NA012",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA012/BT_NA012.BT_NA012",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21012"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21015,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA015/AIC_NA015.AIC_NA015",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA015/BT_NA015.BT_NA015",
-    "SubBehaviorConfigs": [
+    "id": 21015,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA015/AIC_NA015.AIC_NA015",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA015/BT_NA015.BT_NA015",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21015"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21017,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA017/AIC_NA017.AIC_NA017",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA017/BT_NA017.BT_NA017",
-    "SubBehaviorConfigs": [
+    "id": 21017,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA017/AIC_NA017.AIC_NA017",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA017/BT_NA017.BT_NA017",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21017"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21018,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA018/AIC_NA018.AIC_NA018",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA018/BT_NA018.BT_NA018",
-    "SubBehaviorConfigs": [
+    "id": 21018,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA018/AIC_NA018.AIC_NA018",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA018/BT_NA018.BT_NA018",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21018"
@@ -148,29 +148,29 @@
         "value": "21018"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21023,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA023/AIC_NA023.AIC_NA023",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA023/BT_NA023.BT_NA023",
-    "SubBehaviorConfigs": [
+    "id": 21023,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA023/AIC_NA023.AIC_NA023",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA023/BT_NA023.BT_NA023",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21023"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 70051,
-    "StateMachine": "SM_MO1QunJing1Md00001_New",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1QunJing1Md00001/AIC_MO1QunJing1Md00001_New.AIC_MO1QunJing1Md00001_New",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1QunJing1Md00001/BT_MO1QunJing1Md00001_New.BT_MO1QunJing1Md00001_New",
-    "SubBehaviorConfigs": [
+    "id": 70051,
+    "state_machine": "SM_MO1QunJing1Md00001_New",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1QunJing1Md00001/AIC_MO1QunJing1Md00001_New.AIC_MO1QunJing1Md00001_New",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1QunJing1Md00001/BT_MO1QunJing1Md00001_New.BT_MO1QunJing1Md00001_New",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70051"
@@ -196,15 +196,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70052,
-    "StateMachine": "SM_MO1QunJing2Md00001_New",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1QunJing2Md00001/AIC_MO1QunJing2Md00001_New.AIC_MO1QunJing2Md00001_New",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1QunJing2Md00001/BT_MO1QunJing2Md00001_New.BT_MO1QunJing2Md00001_New",
-    "SubBehaviorConfigs": [
+    "id": 70052,
+    "state_machine": "SM_MO1QunJing2Md00001_New",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1QunJing2Md00001/AIC_MO1QunJing2Md00001_New.AIC_MO1QunJing2Md00001_New",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1QunJing2Md00001/BT_MO1QunJing2Md00001_New.BT_MO1QunJing2Md00001_New",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70051"
@@ -230,15 +230,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70053,
-    "StateMachine": "SM_MO1LeilieMd00301",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LeilieMd00301/AIC_MO1LeilieMd00301.AIC_MO1LeilieMd00301",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LeilieMd00301/BT_MO1LeilieMd00301.BT_MO1LeilieMd00301",
-    "SubBehaviorConfigs": [
+    "id": 70053,
+    "state_machine": "SM_MO1LeilieMd00301",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LeilieMd00301/AIC_MO1LeilieMd00301.AIC_MO1LeilieMd00301",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LeilieMd00301/BT_MO1LeilieMd00301.BT_MO1LeilieMd00301",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70053"
@@ -264,15 +264,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 70070,
-    "StateMachine": "SM_MO1BinglieMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinglieMd00201/AIC_MO1BinglieMd00201.AIC_MO1BinglieMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinglieMd00201/BT_MO1BinglieMd00201.BT_MO1BinglieMd00201",
-    "SubBehaviorConfigs": [
+    "id": 70070,
+    "state_machine": "SM_MO1BinglieMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinglieMd00201/AIC_MO1BinglieMd00201.AIC_MO1BinglieMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinglieMd00201/BT_MO1BinglieMd00201.BT_MO1BinglieMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70053"
@@ -298,15 +298,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 70071,
-    "StateMachine": "SM_MO1FenglieMd00401",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FenglieMd00401/AIC_MO1FenglieMd00401.AIC_MO1FenglieMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FenglieMd00401/BT_MO1FenglieMd00401.BT_MO1FenglieMd00401",
-    "SubBehaviorConfigs": [
+    "id": 70071,
+    "state_machine": "SM_MO1FenglieMd00401",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FenglieMd00401/AIC_MO1FenglieMd00401.AIC_MO1FenglieMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FenglieMd00401/BT_MO1FenglieMd00401.BT_MO1FenglieMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70053"
@@ -332,15 +332,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 77026,
-    "StateMachine": "SM_ME1LiufangzheleaderMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1LiufangzheleaderMd00601/AIC_ME1LiufangzheleaderMd00601.AIC_ME1LiufangzheleaderMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1LiufangzheleaderMd00601/BT_ME1LiufangzheleaderMd00601.BT_ME1LiufangzheleaderMd00601",
-    "SubBehaviorConfigs": [
+    "id": 77026,
+    "state_machine": "SM_ME1LiufangzheleaderMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1LiufangzheleaderMd00601/AIC_ME1LiufangzheleaderMd00601.AIC_ME1LiufangzheleaderMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1LiufangzheleaderMd00601/BT_ME1LiufangzheleaderMd00601.BT_ME1LiufangzheleaderMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77026"
@@ -366,15 +366,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 3
+    "team": true,
+    "monster_type": 3
   },
   {
-    "Id": 77027,
-    "StateMachine": "SM_ME1LiufanggongmingMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1LiufanggongmingMd00501/AIC_ME1LiufanggongmingMd00501.AIC_ME1LiufanggongmingMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1LiufanggongmingMd00501/BT_ME1LiufanggongmingMd00501.BT_ME1LiufanggongmingMd00501",
-    "SubBehaviorConfigs": [
+    "id": 77027,
+    "state_machine": "SM_ME1LiufanggongmingMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1LiufanggongmingMd00501/AIC_ME1LiufanggongmingMd00501.AIC_ME1LiufanggongmingMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1LiufanggongmingMd00501/BT_ME1LiufanggongmingMd00501.BT_ME1LiufanggongmingMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77027"
@@ -400,15 +400,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 2
+    "team": true,
+    "monster_type": 2
   },
   {
-    "Id": 70054,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/AIC_Mingsuti_fenshen.AIC_Mingsuti_fenshen",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/BT_Mingsuti_fenshen.BT_Mingsuti_fenshen",
-    "SubBehaviorConfigs": [
+    "id": 70054,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/AIC_Mingsuti_fenshen.AIC_Mingsuti_fenshen",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/BT_Mingsuti_fenshen.BT_Mingsuti_fenshen",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70054"
@@ -434,15 +434,15 @@
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 70055,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/AIC_Mingsuti_fenshen.AIC_Mingsuti_fenshen",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/BT_Mingsuti_fenshen.BT_Mingsuti_fenshen",
-    "SubBehaviorConfigs": [
+    "id": 70055,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/AIC_Mingsuti_fenshen.AIC_Mingsuti_fenshen",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/BT_Mingsuti_fenshen.BT_Mingsuti_fenshen",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70054"
@@ -468,15 +468,15 @@
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 70056,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_zhuan/AIC_mingsuti_zhuan.AIC_mingsuti_zhuan",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_zhuan/BT_Mingsuti_zhuan.BT_Mingsuti_zhuan",
-    "SubBehaviorConfigs": [
+    "id": 70056,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_zhuan/AIC_mingsuti_zhuan.AIC_mingsuti_zhuan",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_zhuan/BT_Mingsuti_zhuan.BT_Mingsuti_zhuan",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70054"
@@ -502,15 +502,15 @@
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 70064,
-    "StateMachine": "SM_MO1HuojinMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HuojinMd00101/AIC_MO1HuojinMd00101.AIC_MO1HuojinMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HuojinMd00101/BT_MO1HuojinMd00101.BT_MO1HuojinMd00101",
-    "SubBehaviorConfigs": [
+    "id": 70064,
+    "state_machine": "SM_MO1HuojinMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HuojinMd00101/AIC_MO1HuojinMd00101.AIC_MO1HuojinMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HuojinMd00101/BT_MO1HuojinMd00101.BT_MO1HuojinMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70065"
@@ -536,15 +536,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70065,
-    "StateMachine": "SM_MO1AnjinMd006001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AnjinMd00601/AIC_MO1AnjinMd00601.AIC_MO1AnjinMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AnjinMd00601/BT_MO1AnjinMd00601.BT_MO1AnjinMd00601",
-    "SubBehaviorConfigs": [
+    "id": 70065,
+    "state_machine": "SM_MO1AnjinMd006001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AnjinMd00601/AIC_MO1AnjinMd00601.AIC_MO1AnjinMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AnjinMd00601/BT_MO1AnjinMd00601.BT_MO1AnjinMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70065"
@@ -570,15 +570,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70066,
-    "StateMachine": "SM_MO1HKacacaMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HKacacaMd00101/AIC_MO1HKacacaMd00101.AIC_MO1HKacacaMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HKacacaMd00101/BT_MO1HKacacaMd00101.BT_MO1HKacacaMd00101",
-    "SubBehaviorConfigs": [
+    "id": 70066,
+    "state_machine": "SM_MO1HKacacaMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HKacacaMd00101/AIC_MO1HKacacaMd00101.AIC_MO1HKacacaMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HKacacaMd00101/BT_MO1HKacacaMd00101.BT_MO1HKacacaMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70068"
@@ -604,15 +604,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 6
+    "team": true,
+    "monster_type": 6
   },
   {
-    "Id": 70067,
-    "StateMachine": "SM_MO1GAziziMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GAziziMd00501/AIC_MO1GAziziMd00501.AIC_MO1GAziziMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GAziziMd00501/BT_MO1GAziziMd00501.BT_MO1GAziziMd00501",
-    "SubBehaviorConfigs": [
+    "id": 70067,
+    "state_machine": "SM_MO1GAziziMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GAziziMd00501/AIC_MO1GAziziMd00501.AIC_MO1GAziziMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GAziziMd00501/BT_MO1GAziziMd00501.BT_MO1GAziziMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70068"
@@ -638,15 +638,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 70068,
-    "StateMachine": "SM_MO1FHuxiuxiuMd00401",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FHuxiuxiuMd00401/AIC_MO1FHuxiuxiuMd00401.AIC_MO1FHuxiuxiuMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FHuxiuxiuMd00401/BT_MO1FHuxiuxiuMd00401.BT_MO1FHuxiuxiuMd00401",
-    "SubBehaviorConfigs": [
+    "id": 70068,
+    "state_machine": "SM_MO1FHuxiuxiuMd00401",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FHuxiuxiuMd00401/AIC_MO1FHuxiuxiuMd00401.AIC_MO1FHuxiuxiuMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FHuxiuxiuMd00401/BT_MO1FHuxiuxiuMd00401.BT_MO1FHuxiuxiuMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70068"
@@ -672,15 +672,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 70069,
-    "StateMachine": "SM_MO1AWukakaMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AWukakaMd00601/AIC_MO1AWukakaMd00601.AIC_MO1AWukakaMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AWukakaMd00601/BT_MO1AWukakaMd00601.BT_MO1AWukakaMd00601",
-    "SubBehaviorConfigs": [
+    "id": 70069,
+    "state_machine": "SM_MO1AWukakaMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AWukakaMd00601/AIC_MO1AWukakaMd00601.AIC_MO1AWukakaMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AWukakaMd00601/BT_MO1AWukakaMd00601.BT_MO1AWukakaMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70068"
@@ -706,15 +706,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70072,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/BT_MO1LiufangzhemanMd00001.BT_MO1LiufangzhemanMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70072,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/BT_MO1LiufangzhemanMd00001.BT_MO1LiufangzhemanMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70072"
@@ -740,15 +740,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 6
+    "team": true,
+    "monster_type": 6
   },
   {
-    "Id": 70073,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhewomanMd00001/AIC_MO1LiufangzhewomanMd00001.AIC_MO1LiufangzhewomanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhewomanMd00001/BT_MO1LiufangzhewomanMd00001.BT_MO1LiufangzhewomanMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70073,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhewomanMd00001/AIC_MO1LiufangzhewomanMd00001.AIC_MO1LiufangzhewomanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhewomanMd00001/BT_MO1LiufangzhewomanMd00001.BT_MO1LiufangzhewomanMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70072"
@@ -774,15 +774,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 6
+    "team": true,
+    "monster_type": 6
   },
   {
-    "Id": 700720,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
-    "SubBehaviorConfigs": [
+    "id": 700720,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -792,15 +792,15 @@
         "value": "700720"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 700721,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
-    "SubBehaviorConfigs": [
+    "id": 700721,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -814,15 +814,15 @@
         "value": "31000001"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 700722,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
-    "SubBehaviorConfigs": [
+    "id": 700722,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -836,15 +836,15 @@
         "value": "31000002"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 700723,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
-    "SubBehaviorConfigs": [
+    "id": 700723,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -858,15 +858,15 @@
         "value": "31000003"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 700724,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
-    "SubBehaviorConfigs": [
+    "id": 700724,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -880,15 +880,15 @@
         "value": "31000004"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 700725,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
-    "SubBehaviorConfigs": [
+    "id": 700725,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -902,15 +902,15 @@
         "value": "31000005"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 700726,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
-    "SubBehaviorConfigs": [
+    "id": 700726,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_CommonDuomaomao.BT_CommonDuomaomao",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -924,15 +924,15 @@
         "value": "31000006"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 700727,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/BT_MO1LiufangzhemanMd00001.BT_MO1LiufangzhemanMd00001",
-    "SubBehaviorConfigs": [
+    "id": 700727,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/BT_MO1LiufangzhemanMd00001.BT_MO1LiufangzhemanMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70072"
@@ -958,15 +958,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 700728,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AILiufangzhe_Qianxing/AIC_Liufangzheman_Qianxingman.AIC_Liufangzheman_Qianxingman",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AILiufangzhe_Qianxing/BT_Liufangzheman_Qianxing.BT_Liufangzheman_Qianxing",
-    "SubBehaviorConfigs": [
+    "id": 700728,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AILiufangzhe_Qianxing/AIC_Liufangzheman_Qianxingman.AIC_Liufangzheman_Qianxingman",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AILiufangzhe_Qianxing/BT_Liufangzheman_Qianxing.BT_Liufangzheman_Qianxing",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "75001"
@@ -996,15 +996,15 @@
         "value": "1"
       }
     ],
-    "Team": true,
-    "MonsterType": 6
+    "team": true,
+    "monster_type": 6
   },
   {
-    "Id": 700729,
-    "StateMachine": "SM_MO1LiufangzhewomanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AILiufangzhe_Qianxing/AIC_Liufangzheman_Qianxingwoman.AIC_Liufangzheman_Qianxingwoman",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AILiufangzhe_Qianxing/BT_Liufangzheman_Qianxing.BT_Liufangzheman_Qianxing",
-    "SubBehaviorConfigs": [
+    "id": 700729,
+    "state_machine": "SM_MO1LiufangzhewomanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AILiufangzhe_Qianxing/AIC_Liufangzheman_Qianxingwoman.AIC_Liufangzheman_Qianxingwoman",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AILiufangzhe_Qianxing/BT_Liufangzheman_Qianxing.BT_Liufangzheman_Qianxing",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "75001"
@@ -1034,15 +1034,15 @@
         "value": "1"
       }
     ],
-    "Team": true,
-    "MonsterType": 6
+    "team": true,
+    "monster_type": 6
   },
   {
-    "Id": 70074,
-    "StateMachine": "SM_MO1YouyidieMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1YouyidieMd00501/AIC_AIMO1YouyidieMd00501.AIC_AIMO1YouyidieMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1YouyidieMd00501/BT_AIMO1YouyidieMd00501.BT_AIMO1YouyidieMd00501",
-    "SubBehaviorConfigs": [
+    "id": 70074,
+    "state_machine": "SM_MO1YouyidieMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1YouyidieMd00501/AIC_AIMO1YouyidieMd00501.AIC_AIMO1YouyidieMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1YouyidieMd00501/BT_AIMO1YouyidieMd00501.BT_AIMO1YouyidieMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70074"
@@ -1068,15 +1068,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 70075,
-    "StateMachine": "SM_MO1DujiaoshouMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DujiaoshouMd00001/AIC_MO1DujiaoshouMd00001.AIC_MO1DujiaoshouMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DujiaoshouMd00001/BT_MO1DujiaoshouMd00001.BT_MO1DujiaoshouMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70075,
+    "state_machine": "SM_MO1DujiaoshouMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DujiaoshouMd00001/AIC_MO1DujiaoshouMd00001.AIC_MO1DujiaoshouMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DujiaoshouMd00001/BT_MO1DujiaoshouMd00001.BT_MO1DujiaoshouMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70075"
@@ -1102,15 +1102,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70076,
-    "StateMachine": "SM_MO1GuguhetunMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GuguhetunMd00201/AIC_MO1GuguhetunMd00201.AIC_MO1GuguhetunMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GuguhetunMd00201/BT_MO1GuguhetunMd00201.BT_MO1GuguhetunMd00201",
-    "SubBehaviorConfigs": [
+    "id": 70076,
+    "state_machine": "SM_MO1GuguhetunMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GuguhetunMd00201/AIC_MO1GuguhetunMd00201.AIC_MO1GuguhetunMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GuguhetunMd00201/BT_MO1GuguhetunMd00201.BT_MO1GuguhetunMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70093"
@@ -1136,15 +1136,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70077,
-    "StateMachine": "SM_MO1DundishuMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DundishuMd00601/AIC_MO1DundishuMd00601.AIC_MO1DundishuMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DundishuMd00601/BT_AIMO1DundishuMd00601.BT_AIMO1DundishuMd00601",
-    "SubBehaviorConfigs": [
+    "id": 70077,
+    "state_machine": "SM_MO1DundishuMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DundishuMd00601/AIC_MO1DundishuMd00601.AIC_MO1DundishuMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DundishuMd00601/BT_AIMO1DundishuMd00601.BT_AIMO1DundishuMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -1170,15 +1170,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70078,
-    "StateMachine": "SM_MO1ShihuaxiMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShihuaxiMd00101/AIC_MO1ShihuaxiMd00101.AIC_MO1ShihuaxiMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShihuaxiMd00101/BT_MO1ShihuaxiMd00101.BT_MO1ShihuaxiMd00101",
-    "SubBehaviorConfigs": [
+    "id": 70078,
+    "state_machine": "SM_MO1ShihuaxiMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShihuaxiMd00101/AIC_MO1ShihuaxiMd00101.AIC_MO1ShihuaxiMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShihuaxiMd00101/BT_MO1ShihuaxiMd00101.BT_MO1ShihuaxiMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70078"
@@ -1204,15 +1204,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70079,
-    "StateMachine": "SM_MO1ShuimuguMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShuimuguMd00601/AIC_MO1ShuimuguMd00601.AIC_MO1ShuimuguMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShuimuguMd00601/BT_MO1ShuimuguMd00601.BT_MO1ShuimuguMd00601",
-    "SubBehaviorConfigs": [
+    "id": 70079,
+    "state_machine": "SM_MO1ShuimuguMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShuimuguMd00601/AIC_MO1ShuimuguMd00601.AIC_MO1ShuimuguMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShuimuguMd00601/BT_MO1ShuimuguMd00601.BT_MO1ShuimuguMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77029"
@@ -1238,15 +1238,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 70092,
-    "StateMachine": "SM_MO1DaodanyuanMd00401",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DaodanyuanMd00401/AIC_MO1DaodanyuanMd00401.AIC_MO1DaodanyuanMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DaodanyuanMd00401/BT_MO1DaodanyuanMd00401.BT_MO1DaodanyuanMd00401",
-    "SubBehaviorConfigs": [
+    "id": 70092,
+    "state_machine": "SM_MO1DaodanyuanMd00401",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DaodanyuanMd00401/AIC_MO1DaodanyuanMd00401.AIC_MO1DaodanyuanMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DaodanyuanMd00401/BT_MO1DaodanyuanMd00401.BT_MO1DaodanyuanMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77036"
@@ -1272,15 +1272,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 70093,
-    "StateMachine": "SM_MO1JiujiuhetunMd00401",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1JiujiuhetunMd00401/AIC_MO1JiujiuhetunMd00401.AIC_MO1JiujiuhetunMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1JiujiuhetunMd00401/BT_MO1JiujiuhetunMd00401.BT_MO1JiujiuhetunMd00401",
-    "SubBehaviorConfigs": [
+    "id": 70093,
+    "state_machine": "SM_MO1JiujiuhetunMd00401",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1JiujiuhetunMd00401/AIC_MO1JiujiuhetunMd00401.AIC_MO1JiujiuhetunMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1JiujiuhetunMd00401/BT_MO1JiujiuhetunMd00401.BT_MO1JiujiuhetunMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70093"
@@ -1306,15 +1306,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70094,
-    "StateMachine": "SM_MO1JingaoxieMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1JingaoxieMd00001/AIC_MO1JingaoxieMd00001.AIC_MO1JingaoxieMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1JingaoxieMd00001/BT_MO1JingaoxieMd00001.BT_MO1JingaoxieMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70094,
+    "state_machine": "SM_MO1JingaoxieMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1JingaoxieMd00001/AIC_MO1JingaoxieMd00001.AIC_MO1JingaoxieMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1JingaoxieMd00001/BT_MO1JingaoxieMd00001.BT_MO1JingaoxieMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70075"
@@ -1340,15 +1340,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70100,
-    "StateMachine": "SM_MO1BinlangMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinlangMd00101/AIC_MO1BinlangMd00101.AIC_MO1BinlangMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinlangMd00101/BT_MO1BinlangMd00101.BT_MO1BinlangMd00101",
-    "SubBehaviorConfigs": [
+    "id": 70100,
+    "state_machine": "SM_MO1BinlangMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinlangMd00101/AIC_MO1BinlangMd00101.AIC_MO1BinlangMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinlangMd00101/BT_MO1BinlangMd00101.BT_MO1BinlangMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70100"
@@ -1374,15 +1374,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70105,
-    "StateMachine": "SM_MO1LuguiMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LuguiMd00201/AIC_AIMO1LuguiMd00201.AIC_AIMO1LuguiMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LuguiMd00201/BT_AIMO1LuguiMd00201.BT_AIMO1LuguiMd00201",
-    "SubBehaviorConfigs": [
+    "id": 70105,
+    "state_machine": "SM_MO1LuguiMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LuguiMd00201/AIC_AIMO1LuguiMd00201.AIC_AIMO1LuguiMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LuguiMd00201/BT_AIMO1LuguiMd00201.BT_AIMO1LuguiMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70105"
@@ -1408,15 +1408,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70106,
-    "StateMachine": "SM_MO1Bingjian1Md00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian1Md00201/AIC_MO1Bingjian1Md00201.AIC_MO1Bingjian1Md00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian1Md00201/BT_MO1Bingjian1Md00201.BT_MO1Bingjian1Md00201",
-    "SubBehaviorConfigs": [
+    "id": 70106,
+    "state_machine": "SM_MO1Bingjian1Md00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian1Md00201/AIC_MO1Bingjian1Md00201.AIC_MO1Bingjian1Md00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian1Md00201/BT_MO1Bingjian1Md00201.BT_MO1Bingjian1Md00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70106"
@@ -1434,15 +1434,15 @@
         "value": "70106"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 77004,
-    "StateMachine": "SM_ME1JingNiaoMd00301",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1JingNiaoMd00301/AIC_ME1JingNiaoMd00301.AIC_ME1JingNiaoMd00301",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1JingNiaoMd00301/BT_ME1JingNiaoMd00301.BT_ME1JingNiaoMd00301",
-    "SubBehaviorConfigs": [
+    "id": 77004,
+    "state_machine": "SM_ME1JingNiaoMd00301",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1JingNiaoMd00301/AIC_ME1JingNiaoMd00301.AIC_ME1JingNiaoMd00301",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1JingNiaoMd00301/BT_ME1JingNiaoMd00301.BT_ME1JingNiaoMd00301",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -1468,15 +1468,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 77005,
-    "StateMachine": "SM_ME1JingNiaoMd00401",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1JingNiaoMd00401/AIC_ME1JingNiaoMd00401.AIC_ME1JingNiaoMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1JingNiaoMd00401/BT_ME1JingNiaoMd00401.BT_ME1JingNiaoMd00401",
-    "SubBehaviorConfigs": [
+    "id": 77005,
+    "state_machine": "SM_ME1JingNiaoMd00401",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1JingNiaoMd00401/AIC_ME1JingNiaoMd00401.AIC_ME1JingNiaoMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1JingNiaoMd00401/BT_ME1JingNiaoMd00401.BT_ME1JingNiaoMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -1502,15 +1502,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 77012,
-    "StateMachine": "SM_ME1SiXiaoMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00101/AIC_ME1SiXiaoMd00101.AIC_ME1SiXiaoMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00101/BT_ME1SiXiaoMd00101.BT_ME1SiXiaoMd00101",
-    "SubBehaviorConfigs": [
+    "id": 77012,
+    "state_machine": "SM_ME1SiXiaoMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00101/AIC_ME1SiXiaoMd00101.AIC_ME1SiXiaoMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00101/BT_ME1SiXiaoMd00101.BT_ME1SiXiaoMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77012"
@@ -1536,15 +1536,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 77013,
-    "StateMachine": "SM_ME1SiXiaoMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00201/AIC_ME1SiXiaoMd00201.AIC_ME1SiXiaoMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00201/BT_ME1SiXiaoMd00201.BT_ME1SiXiaoMd00201",
-    "SubBehaviorConfigs": [
+    "id": 77013,
+    "state_machine": "SM_ME1SiXiaoMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00201/AIC_ME1SiXiaoMd00201.AIC_ME1SiXiaoMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00201/BT_ME1SiXiaoMd00201.BT_ME1SiXiaoMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77012"
@@ -1570,15 +1570,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 77016,
-    "StateMachine": "SM_ME1SiXiaoMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00501/AIC_ME1SiXiaoMd00501.AIC_ME1SiXiaoMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00501/BT_ME1SiXiaoMd00501.BT_ME1SiXiaoMd00501",
-    "SubBehaviorConfigs": [
+    "id": 77016,
+    "state_machine": "SM_ME1SiXiaoMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00501/AIC_ME1SiXiaoMd00501.AIC_ME1SiXiaoMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00501/BT_ME1SiXiaoMd00501.BT_ME1SiXiaoMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77012"
@@ -1604,15 +1604,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 77017,
-    "StateMachine": "SM_ME1SiXiaoMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00601/AIC_ME1SiXiaoMd00601.AIC_ME1SiXiaoMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00601/BT_ME1SiXiaoMd00601.BT_ME1SiXiaoMd00601",
-    "SubBehaviorConfigs": [
+    "id": 77017,
+    "state_machine": "SM_ME1SiXiaoMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00601/AIC_ME1SiXiaoMd00601.AIC_ME1SiXiaoMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1SiXiaoMd00601/BT_ME1SiXiaoMd00601.BT_ME1SiXiaoMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77012"
@@ -1638,15 +1638,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 77021,
-    "StateMachine": "SM_ME1QunJingMd00001_New",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/AIC_ME1QunJingMd00001_New.AIC_ME1QunJingMd00001_New",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/BT_ME1QunJingMd00001_New.BT_ME1QunJingMd00001_New",
-    "SubBehaviorConfigs": [
+    "id": 77021,
+    "state_machine": "SM_ME1QunJingMd00001_New",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/AIC_ME1QunJingMd00001_New.AIC_ME1QunJingMd00001_New",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/BT_ME1QunJingMd00001_New.BT_ME1QunJingMd00001_New",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77021"
@@ -1672,15 +1672,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 77022,
-    "StateMachine": "SM_ME1LeiFaMd00301",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1LeiFaMd00301/AIC_ME1LeiFaMd00301.AIC_ME1LeiFaMd00301",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1LeiFaMd00301/BT_ME1LeiFaMd00301.BT_ME1LeiFaMd00301",
-    "SubBehaviorConfigs": [
+    "id": 77022,
+    "state_machine": "SM_ME1LeiFaMd00301",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1LeiFaMd00301/AIC_ME1LeiFaMd00301.AIC_ME1LeiFaMd00301",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1LeiFaMd00301/BT_ME1LeiFaMd00301.BT_ME1LeiFaMd00301",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77022"
@@ -1706,15 +1706,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 2
+    "team": true,
+    "monster_type": 2
   },
   {
-    "Id": 77023,
-    "StateMachine": "SM_ME1AnFaMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1AnFaMd00601/AIC_ME1AnFaMd00601.AIC_ME1AnFaMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1AnFaMd00601/BT_ME1AnFaMd00601.BT_ME1AnFaMd00601",
-    "SubBehaviorConfigs": [
+    "id": 77023,
+    "state_machine": "SM_ME1AnFaMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1AnFaMd00601/AIC_ME1AnFaMd00601.AIC_ME1AnFaMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1AnFaMd00601/BT_ME1AnFaMd00601.BT_ME1AnFaMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77022"
@@ -1740,15 +1740,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 2
+    "team": true,
+    "monster_type": 2
   },
   {
-    "Id": 77024,
-    "StateMachine": "SM_ME1GuangtankeMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/AIC_ME1GuangtankeMd00501.AIC_ME1GuangtankeMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/BT_ME1GuangtankeMd00501.BT_ME1GuangtankeMd00501",
-    "SubBehaviorConfigs": [
+    "id": 77024,
+    "state_machine": "SM_ME1GuangtankeMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/AIC_ME1GuangtankeMd00501.AIC_ME1GuangtankeMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/BT_ME1GuangtankeMd00501.BT_ME1GuangtankeMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77024"
@@ -1774,15 +1774,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 3
+    "team": true,
+    "monster_type": 3
   },
   {
-    "Id": 77025,
-    "StateMachine": "SM_ME1AntankeMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/AIC_ME1AntankeMd00601.AIC_ME1AntankeMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/BT_ME1AntankeMd00601.BT_ME1AntankeMd00601",
-    "SubBehaviorConfigs": [
+    "id": 77025,
+    "state_machine": "SM_ME1AntankeMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/AIC_ME1AntankeMd00601.AIC_ME1AntankeMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/BT_ME1AntankeMd00601.BT_ME1AntankeMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77024"
@@ -1808,15 +1808,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 77028,
-    "StateMachine": "SM_ME1ShihuaxiMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1ShihuaxiMd00101/AIC_ME1ShihuaxiMd00101.AIC_ME1ShihuaxiMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1ShihuaxiMd00101/BT_ME1ShihuaxiMd00101.BT_ME1ShihuaxiMd00101",
-    "SubBehaviorConfigs": [
+    "id": 77028,
+    "state_machine": "SM_ME1ShihuaxiMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1ShihuaxiMd00101/AIC_ME1ShihuaxiMd00101.AIC_ME1ShihuaxiMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1ShihuaxiMd00101/BT_ME1ShihuaxiMd00101.BT_ME1ShihuaxiMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77028"
@@ -1842,15 +1842,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 3
+    "team": true,
+    "monster_type": 3
   },
   {
-    "Id": 77029,
-    "StateMachine": "SM_ME1ShuimuguMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1ShuimuguMd00601/AIC_ME1ShuimuguMd00601.AIC_ME1ShuimuguMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1ShuimuguMd00601/BT_ME1ShuimuguMd00601.BT_ME1ShuimuguMd00601",
-    "SubBehaviorConfigs": [
+    "id": 77029,
+    "state_machine": "SM_ME1ShuimuguMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1ShuimuguMd00601/AIC_ME1ShuimuguMd00601.AIC_ME1ShuimuguMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1ShuimuguMd00601/BT_ME1ShuimuguMd00601.BT_ME1ShuimuguMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77029"
@@ -1876,15 +1876,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 2
+    "team": true,
+    "monster_type": 2
   },
   {
-    "Id": 77033,
-    "StateMachine": "SM_ME1BinlangMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1BinlangMd00601/AIC_ME1BinlangMd00601.AIC_ME1BinlangMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1BinlangMd00601/BT_ME1BinlangMd00601.BT_ME1BinlangMd00601",
-    "SubBehaviorConfigs": [
+    "id": 77033,
+    "state_machine": "SM_ME1BinlangMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1BinlangMd00601/AIC_ME1BinlangMd00601.AIC_ME1BinlangMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1BinlangMd00601/BT_ME1BinlangMd00601.BT_ME1BinlangMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77033"
@@ -1910,15 +1910,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 77036,
-    "StateMachine": "SM_ME1DaodanyuanMd00401",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1DaodanyuanMd00401/AIC_ME1DaodanyuanMd00401.AIC_ME1DaodanyuanMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1DaodanyuanMd00401/BT_ME1DaodanyuanMd00401.BT_ME1DaodanyuanMd00401",
-    "SubBehaviorConfigs": [
+    "id": 77036,
+    "state_machine": "SM_ME1DaodanyuanMd00401",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1DaodanyuanMd00401/AIC_ME1DaodanyuanMd00401.AIC_ME1DaodanyuanMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1DaodanyuanMd00401/BT_ME1DaodanyuanMd00401.BT_ME1DaodanyuanMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77036"
@@ -1944,15 +1944,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 2
+    "team": true,
+    "monster_type": 2
   },
   {
-    "Id": 77038,
-    "StateMachine": "SM_ME1JiancuxiongMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1JiancuxiongMd00001/AIC_ME1JiancuxiongMd00001.AIC_ME1JiancuxiongMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1JiancuxiongMd00001/BT_ME1JiancuxiongMd00001.BT_ME1JiancuxiongMd00001",
-    "SubBehaviorConfigs": [
+    "id": 77038,
+    "state_machine": "SM_ME1JiancuxiongMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1JiancuxiongMd00001/AIC_ME1JiancuxiongMd00001.AIC_ME1JiancuxiongMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1JiancuxiongMd00001/BT_ME1JiancuxiongMd00001.BT_ME1JiancuxiongMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77038"
@@ -1978,15 +1978,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 80002,
-    "StateMachine": "SM_ML1LinrenMd00301",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00301/AIC_ML1LinrenMd00301_01.AIC_ML1LinrenMd00301_01",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00301/BT_ML1LinrenMd00301_01.BT_ML1LinrenMd00301_01",
-    "SubBehaviorConfigs": [
+    "id": 80002,
+    "state_machine": "SM_ML1LinrenMd00301",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00301/AIC_ML1LinrenMd00301_01.AIC_ML1LinrenMd00301_01",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00301/BT_ML1LinrenMd00301_01.BT_ML1LinrenMd00301_01",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80002"
@@ -2008,15 +2008,15 @@
         "value": "80002"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80004,
-    "StateMachine": "SM_MB1Wuguanzhe00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/AIC_MB1Wuguanzhe00601.AIC_MB1Wuguanzhe00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/BT_MB1Wuguanzhe00601.BT_MB1Wuguanzhe00601",
-    "SubBehaviorConfigs": [
+    "id": 80004,
+    "state_machine": "SM_MB1Wuguanzhe00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/AIC_MB1Wuguanzhe00601.AIC_MB1Wuguanzhe00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/BT_MB1Wuguanzhe00601.BT_MB1Wuguanzhe00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80004"
@@ -2038,15 +2038,15 @@
         "value": "80004"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80005,
-    "StateMachine": "SM_MB1MingzhongzhiguiMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/MB1MingzhongzhiguiMd00201/AIC_MB1MingzhongzhiguiMd00201.AIC_MB1MingzhongzhiguiMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/MB1MingzhongzhiguiMd00201/BT_MB1MingzhongzhiguiMd00201.BT_MB1MingzhongzhiguiMd00201",
-    "SubBehaviorConfigs": [
+    "id": 80005,
+    "state_machine": "SM_MB1MingzhongzhiguiMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/MB1MingzhongzhiguiMd00201/AIC_MB1MingzhongzhiguiMd00201.AIC_MB1MingzhongzhiguiMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/MB1MingzhongzhiguiMd00201/BT_MB1MingzhongzhiguiMd00201.BT_MB1MingzhongzhiguiMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80005"
@@ -2064,15 +2064,15 @@
         "value": "80005"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80006,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1XunyinzhijingMd00201/AIC_ML1XunyinzhijingMd00201.AIC_ML1XunyinzhijingMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1XunyinzhijingMd00201/BT_ML1XunyinzhijingMd00201.BT_ML1XunyinzhijingMd00201",
-    "SubBehaviorConfigs": [
+    "id": 80006,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1XunyinzhijingMd00201/AIC_ML1XunyinzhijingMd00201.AIC_ML1XunyinzhijingMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1XunyinzhijingMd00201/BT_ML1XunyinzhijingMd00201.BT_ML1XunyinzhijingMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80006"
@@ -2090,15 +2090,15 @@
         "value": "80006"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80007,
-    "StateMachine": "SM_ML1QiShiMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1QiShiMd00001/AIC_AIML1QiShiMd00001.AIC_AIML1QiShiMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1QiShiMd00001/BT_AIML1QiShiMd00001.BT_AIML1QiShiMd00001",
-    "SubBehaviorConfigs": [
+    "id": 80007,
+    "state_machine": "SM_ML1QiShiMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1QiShiMd00001/AIC_AIML1QiShiMd00001.AIC_AIML1QiShiMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1QiShiMd00001/BT_AIML1QiShiMd00001.BT_AIML1QiShiMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80007"
@@ -2120,15 +2120,15 @@
         "value": "80007"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80008,
-    "StateMachine": "SM_AIR2T1ShanghenMd10011",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIR2T1ShanghenMd10011/AIC_R2T1ShanghenMd10011.AIC_R2T1ShanghenMd10011",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIR2T1ShanghenMd10011/BT_R2T1ShanghenMd10011.BT_R2T1ShanghenMd10011",
-    "SubBehaviorConfigs": [
+    "id": 80008,
+    "state_machine": "SM_AIR2T1ShanghenMd10011",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIR2T1ShanghenMd10011/AIC_R2T1ShanghenMd10011.AIC_R2T1ShanghenMd10011",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIR2T1ShanghenMd10011/BT_R2T1ShanghenMd10011.BT_R2T1ShanghenMd10011",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80008"
@@ -2150,15 +2150,15 @@
         "value": "80008"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80015,
-    "StateMachine": "SM_AIMB1ShanghengMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1ShanghengMd00501/AIC_AIMB1ShanghengMd00501.AIC_AIMB1ShanghengMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ShanghengMd00501/BT_AIMB1ShanghengMd00501.BT_AIMB1ShanghengMd00501",
-    "SubBehaviorConfigs": [
+    "id": 80015,
+    "state_machine": "SM_AIMB1ShanghengMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1ShanghengMd00501/AIC_AIMB1ShanghengMd00501.AIC_AIMB1ShanghengMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ShanghengMd00501/BT_AIMB1ShanghengMd00501.BT_AIMB1ShanghengMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80015"
@@ -2180,15 +2180,15 @@
         "value": "80015"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80016,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1HeiAnkeMd10011/AIC_MB1HeiAnkeMd10011.AIC_MB1HeiAnkeMd10011",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1HeiAnkeMd10011/BT_MB1HeiAnkeMd10011.BT_MB1HeiAnkeMd10011",
-    "SubBehaviorConfigs": [
+    "id": 80016,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1HeiAnkeMd10011/AIC_MB1HeiAnkeMd10011.AIC_MB1HeiAnkeMd10011",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1HeiAnkeMd10011/BT_MB1HeiAnkeMd10011.BT_MB1HeiAnkeMd10011",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80016"
@@ -2210,15 +2210,15 @@
         "value": "80016"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80009,
-    "StateMachine": "SM_ML1WuChangluMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/AIC_ML1WuChangluMd00601.AIC_ML1WuChangluMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/BT_ML1WuChangluMd00601.BT_ML1WuChangluMd00601",
-    "SubBehaviorConfigs": [
+    "id": 80009,
+    "state_machine": "SM_ML1WuChangluMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/AIC_ML1WuChangluMd00601.AIC_ML1WuChangluMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/BT_ML1WuChangluMd00601.BT_ML1WuChangluMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80009"
@@ -2240,15 +2240,15 @@
         "value": "80009"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80010,
-    "StateMachine": "SM_ML1FerLianMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00201/AIC_ML1FerLianMd00201.AIC_ML1FerLianMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00201/BT_ML1FerLianMd00201.BT_ML1FerLianMd00201",
-    "SubBehaviorConfigs": [
+    "id": 80010,
+    "state_machine": "SM_ML1FerLianMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00201/AIC_ML1FerLianMd00201.AIC_ML1FerLianMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00201/BT_ML1FerLianMd00201.BT_ML1FerLianMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80010"
@@ -2266,15 +2266,15 @@
         "value": "80010"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80012,
-    "StateMachine": "SM_ML1AiShengGuYuanMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/AIC_ML1AiShengGuYuanMd00501.AIC_ML1AiShengGuYuanMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/BT_ML1AiShengGuYuanMd00501.BT_ML1AiShengGuYuanMd00501",
-    "SubBehaviorConfigs": [
+    "id": 80012,
+    "state_machine": "SM_ML1AiShengGuYuanMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/AIC_ML1AiShengGuYuanMd00501.AIC_ML1AiShengGuYuanMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/BT_ML1AiShengGuYuanMd00501.BT_ML1AiShengGuYuanMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80012"
@@ -2292,15 +2292,15 @@
         "value": "80012"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80011,
-    "StateMachine": "SM_ML1HuiYingMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1HuiYingMd00101/AIC_ML1HuiYingMd00101.AIC_ML1HuiYingMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1HuiYingMd00101/BT_ML1HuiYingMd00101.BT_ML1HuiYingMd00101",
-    "SubBehaviorConfigs": [
+    "id": 80011,
+    "state_machine": "SM_ML1HuiYingMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1HuiYingMd00101/AIC_ML1HuiYingMd00101.AIC_ML1HuiYingMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1HuiYingMd00101/BT_ML1HuiYingMd00101.BT_ML1HuiYingMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80011"
@@ -2322,15 +2322,15 @@
         "value": "80011"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80021,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Liufangzhewoman_Test/AIC_MO1LiufangzhewomanMd00001.AIC_MO1LiufangzhewomanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Liufangzhewoman_Test/BT_MO1LiufangzhewomanMd00001.BT_MO1LiufangzhewomanMd00001",
-    "SubBehaviorConfigs": [
+    "id": 80021,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Liufangzhewoman_Test/AIC_MO1LiufangzhewomanMd00001.AIC_MO1LiufangzhewomanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Liufangzhewoman_Test/BT_MO1LiufangzhewomanMd00001.BT_MO1LiufangzhewomanMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70072"
@@ -2352,15 +2352,15 @@
         "value": "80021"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 1000001,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/shitou/AIC_shitou.AIC_shitou",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/shitou/BT_shitou.BT_shitou",
-    "SubBehaviorConfigs": [
+    "id": 1000001,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/shitou/AIC_shitou.AIC_shitou",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/shitou/BT_shitou.BT_shitou",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -2390,299 +2390,299 @@
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090001,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [],
-    "Team": false,
-    "MonsterType": 4
+    "id": 400090001,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [],
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090022,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
-    "SubBehaviorConfigs": [],
-    "Team": false,
-    "MonsterType": 4
+    "id": 400090022,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
+    "sub_behavior_configs": [],
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090003,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090003,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090003"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090032,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
-    "SubBehaviorConfigs": [
+    "id": 400090032,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090032"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090037,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090037,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090037"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090043,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
-    "SubBehaviorConfigs": [
+    "id": 400090043,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090043"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090049,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090049,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090049"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090080,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090080,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090080"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090098,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
-    "SubBehaviorConfigs": [
+    "id": 400090098,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090098"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090121,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090121,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090121"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090122,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090122,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090122"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090179,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090179,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090179"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090196,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090196,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090196"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090345,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090345,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090345"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090343,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
-    "SubBehaviorConfigs": [
+    "id": 400090343,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC.BT_CommonNPC",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090343"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090325,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
-    "SubBehaviorConfigs": [
+    "id": 400090325,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090325"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090311,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
-    "SubBehaviorConfigs": [
+    "id": 400090311,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090311"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090310,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
-    "SubBehaviorConfigs": [
+    "id": 400090310,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_Common_Soldier.BT_Common_Soldier",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090310"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090202,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006_PathMove.BT_NA006_PathMove",
-    "SubBehaviorConfigs": [
+    "id": 400090202,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006_PathMove.BT_NA006_PathMove",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090202"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090203,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006_PathMove.BT_NA006_PathMove",
-    "SubBehaviorConfigs": [
+    "id": 400090203,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006_PathMove.BT_NA006_PathMove",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090203"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400090204,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006_PathMove.BT_NA006_PathMove",
-    "SubBehaviorConfigs": [
+    "id": 400090204,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006_PathMove.BT_NA006_PathMove",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "400090204"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 90012,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/BT_MO1LiufangzhemanMd00001_Task01.BT_MO1LiufangzhemanMd00001_Task01",
-    "SubBehaviorConfigs": [
+    "id": 90012,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001.AIC_MO1LiufangzhemanMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/BT_MO1LiufangzhemanMd00001_Task01.BT_MO1LiufangzhemanMd00001_Task01",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -2704,15 +2704,15 @@
         "value": "70072"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 90014,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShouhuMd00001/AIC_MO1ShouhuMd00001.AIC_MO1ShouhuMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShouhuMd00001/BT_MO1ShouhuMd00001.BT_MO1ShouhuMd00001",
-    "SubBehaviorConfigs": [
+    "id": 90014,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShouhuMd00001/AIC_MO1ShouhuMd00001.AIC_MO1ShouhuMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShouhuMd00001/BT_MO1ShouhuMd00001.BT_MO1ShouhuMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -2722,15 +2722,15 @@
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 90015,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShouhuMd00002/AIC_MO1ShouhuMd00002.AIC_MO1ShouhuMd00002",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShouhuMd00002/BT_MO1ShouhuMd00002.BT_MO1ShouhuMd00002",
-    "SubBehaviorConfigs": [
+    "id": 90015,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShouhuMd00002/AIC_MO1ShouhuMd00002.AIC_MO1ShouhuMd00002",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ShouhuMd00002/BT_MO1ShouhuMd00002.BT_MO1ShouhuMd00002",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -2740,15 +2740,15 @@
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 600003001,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/AIC_Mingsuti_fenshen.AIC_Mingsuti_fenshen",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/BT_Mingsuti_fenshen.BT_Mingsuti_fenshen",
-    "SubBehaviorConfigs": [
+    "id": 600003001,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/AIC_Mingsuti_fenshen.AIC_Mingsuti_fenshen",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_fenshen/BT_Mingsuti_fenshen.BT_Mingsuti_fenshen",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70054"
@@ -2778,15 +2778,15 @@
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 500001030,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_Patrol/AIC_Mingsuti_Patrol.AIC_Mingsuti_Patrol",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_Patrol/BT_Mingsuti_Patrol.BT_Mingsuti_Patrol",
-    "SubBehaviorConfigs": [
+    "id": 500001030,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_Patrol/AIC_Mingsuti_Patrol.AIC_Mingsuti_Patrol",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMingsuti_Patrol/BT_Mingsuti_Patrol.BT_Mingsuti_Patrol",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70054"
@@ -2812,29 +2812,29 @@
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 410000001,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC_New.BT_CommonNPC_New",
-    "SubBehaviorConfigs": [
+    "id": 410000001,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Common/BT_CommonNPC_New.BT_CommonNPC_New",
+    "sub_behavior_configs": [
       {
         "key": "AiPatrol",
         "value": "1001"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400091101,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Demo/BT_SimplePatrol.BT_SimplePatrol",
-    "SubBehaviorConfigs": [
+    "id": 400091101,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Demo/BT_SimplePatrol.BT_SimplePatrol",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "400090001"
@@ -2844,29 +2844,29 @@
         "value": "400090121"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 130201,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Summon/MS1YinlinMd10011_Doll/AIC_Yinlin_Doll.AIC_Yinlin_Doll",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Summon/MS1YinlinMd10011_Doll/BT_Yinlin_Doll.BT_Yinlin_Doll",
-    "SubBehaviorConfigs": [
+    "id": 130201,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Summon/MS1YinlinMd10011_Doll/AIC_Yinlin_Doll.AIC_Yinlin_Doll",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Summon/MS1YinlinMd10011_Doll/BT_Yinlin_Doll.BT_Yinlin_Doll",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "130201"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 77041,
-    "StateMachine": "SM_ME1ChuxingrenMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1ChuxingrenMd00601/AIC_ME1ChuxingrenMd00601.AIC_ME1ChuxingrenMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1ChuxingrenMd00601/BT_ME1ChuxingrenMd00601.BT_ME1ChuxingrenMd00601",
-    "SubBehaviorConfigs": [
+    "id": 77041,
+    "state_machine": "SM_ME1ChuxingrenMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1ChuxingrenMd00601/AIC_ME1ChuxingrenMd00601.AIC_ME1ChuxingrenMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1ChuxingrenMd00601/BT_ME1ChuxingrenMd00601.BT_ME1ChuxingrenMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77041"
@@ -2892,15 +2892,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 8001001,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00202/AIC_ML1FerLianMd00202.AIC_ML1FerLianMd00202",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00202/BT_ML1FerLianMd00202.BT_ML1FerLianMd00202",
-    "SubBehaviorConfigs": [
+    "id": 8001001,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00202/AIC_ML1FerLianMd00202.AIC_ML1FerLianMd00202",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00202/BT_ML1FerLianMd00202.BT_ML1FerLianMd00202",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80010"
@@ -2918,15 +2918,15 @@
         "value": "8001001"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 77045,
-    "StateMachine": "SM_ME1FengrenlianMd00401",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1FengrenlianMd00401/AIC_ME1FengrenlianMd00401.AIC_ME1FengrenlianMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1FengrenlianMd00401/BT_ME1FengrenlianMd00401.BT_ME1FengrenlianMd00401",
-    "SubBehaviorConfigs": [
+    "id": 77045,
+    "state_machine": "SM_ME1FengrenlianMd00401",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1FengrenlianMd00401/AIC_ME1FengrenlianMd00401.AIC_ME1FengrenlianMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1FengrenlianMd00401/BT_ME1FengrenlianMd00401.BT_ME1FengrenlianMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77045"
@@ -2952,24 +2952,24 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 21028,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA028/AIC_NA028.AIC_NA028",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA028/BT_NA028.BT_NA028",
-    "SubBehaviorConfigs": [],
-    "Team": false,
-    "MonsterType": 4
+    "id": 21028,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA028/AIC_NA028.AIC_NA028",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA028/BT_NA028.BT_NA028",
+    "sub_behavior_configs": [],
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800041,
-    "StateMachine": "SM_MB1Wuguanzhe00601_Layer3",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/AIC_MB1Wuguanzhe00601_Layer3.AIC_MB1Wuguanzhe00601_Layer3",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/BT_MB1Wuguanzhe00601_Layer3.BT_MB1Wuguanzhe00601_Layer3",
-    "SubBehaviorConfigs": [
+    "id": 800041,
+    "state_machine": "SM_MB1Wuguanzhe00601_Layer3",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/AIC_MB1Wuguanzhe00601_Layer3.AIC_MB1Wuguanzhe00601_Layer3",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/BT_MB1Wuguanzhe00601_Layer3.BT_MB1Wuguanzhe00601_Layer3",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800041"
@@ -2991,29 +2991,29 @@
         "value": "80004"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21026,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA026/AIC_NA026.AIC_NA026",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA026/BT_NA026.BT_NA026",
-    "SubBehaviorConfigs": [
+    "id": 21026,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA026/AIC_NA026.AIC_NA026",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA026/BT_NA026.BT_NA026",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21026"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 70108,
-    "StateMachine": "SM_MO1ZhantuanlizuMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanlizuMd00001/AIC_MO1ZhantuanlizuMd00001.AIC_MO1ZhantuanlizuMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanlizuMd00001/BT_MO1ZhantuanlizuMd00001.BT_MO1ZhantuanlizuMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70108,
+    "state_machine": "SM_MO1ZhantuanlizuMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanlizuMd00001/AIC_MO1ZhantuanlizuMd00001.AIC_MO1ZhantuanlizuMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanlizuMd00001/BT_MO1ZhantuanlizuMd00001.BT_MO1ZhantuanlizuMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70065"
@@ -3039,15 +3039,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70107,
-    "StateMachine": "SM_MO1Bingjian2Md00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian2Md00201/AIC_MO1Bingjian2Md00201.AIC_MO1Bingjian2Md00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian2Md00201/BT_MO1Bingjian2Md00201.BT_MO1Bingjian2Md00201",
-    "SubBehaviorConfigs": [
+    "id": 70107,
+    "state_machine": "SM_MO1Bingjian2Md00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian2Md00201/AIC_MO1Bingjian2Md00201.AIC_MO1Bingjian2Md00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian2Md00201/BT_MO1Bingjian2Md00201.BT_MO1Bingjian2Md00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70107"
@@ -3065,15 +3065,15 @@
         "value": "70106"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 80014,
-    "StateMachine": "SM_MB1ZhenwuguanzheMd00601_Layer3_MainQuest",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/AIC_MB1ZhenwuguanzheMd00601.AIC_MB1ZhenwuguanzheMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/BT_MB1ZhenwuguanzheMd00601.BT_MB1ZhenwuguanzheMd00601",
-    "SubBehaviorConfigs": [
+    "id": 80014,
+    "state_machine": "SM_MB1ZhenwuguanzheMd00601_Layer3_MainQuest",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/AIC_MB1ZhenwuguanzheMd00601.AIC_MB1ZhenwuguanzheMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/BT_MB1ZhenwuguanzheMd00601.BT_MB1ZhenwuguanzheMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80014"
@@ -3095,15 +3095,15 @@
         "value": "80014"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 770211,
-    "StateMachine": "SM_ME1QunJingMd00001_New",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/AIC_ME1QunJingMd00001_New.AIC_ME1QunJingMd00001_New",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/BT_ME1QunJingMd00001_Guide.BT_ME1QunJingMd00001_Guide",
-    "SubBehaviorConfigs": [
+    "id": 770211,
+    "state_machine": "SM_ME1QunJingMd00001_New",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/AIC_ME1QunJingMd00001_New.AIC_ME1QunJingMd00001_New",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/BT_ME1QunJingMd00001_Guide.BT_ME1QunJingMd00001_Guide",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77021"
@@ -3129,15 +3129,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 770241,
-    "StateMachine": "SM_ME1GuangtankeMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/AIC_ME1GuangtankeMd00501.AIC_ME1GuangtankeMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/BT_ME1GuangtankeMd00501.BT_ME1GuangtankeMd00501",
-    "SubBehaviorConfigs": [
+    "id": 770241,
+    "state_machine": "SM_ME1GuangtankeMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/AIC_ME1GuangtankeMd00501.AIC_ME1GuangtankeMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/BT_ME1GuangtankeMd00501.BT_ME1GuangtankeMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77024"
@@ -3163,15 +3163,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 770291,
-    "StateMachine": "SM_ME1ShuimuguMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1ShuimuguMd00601/AIC_ME1ShuimuguMd00601.AIC_ME1ShuimuguMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1ShuimuguMd00601/BT_ME1ShuimuguMd00601_MainTask.BT_ME1ShuimuguMd00601_MainTask",
-    "SubBehaviorConfigs": [
+    "id": 770291,
+    "state_machine": "SM_ME1ShuimuguMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1ShuimuguMd00601/AIC_ME1ShuimuguMd00601.AIC_ME1ShuimuguMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1ShuimuguMd00601/BT_ME1ShuimuguMd00601_MainTask.BT_ME1ShuimuguMd00601_MainTask",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77029"
@@ -3197,29 +3197,29 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 2
+    "team": true,
+    "monster_type": 2
   },
   {
-    "Id": 109002516,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/System/BT_NPC_Maqi.BT_NPC_Maqi",
-    "SubBehaviorConfigs": [
+    "id": 109002516,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/System/BT_NPC_Maqi.BT_NPC_Maqi",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 109002530,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Demo/BT_NPC_Wuyi.BT_NPC_Wuyi",
-    "SubBehaviorConfigs": [
+    "id": 109002530,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Demo/BT_NPC_Wuyi.BT_NPC_Wuyi",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "400090001"
@@ -3229,29 +3229,29 @@
         "value": "400090121"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 8001201,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/AIC_ML1AiShengGuYuanMd00501_2.AIC_ML1AiShengGuYuanMd00501_2",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/BT_ML1AiShengGuYuanMd00501_2.BT_ML1AiShengGuYuanMd00501_2",
-    "SubBehaviorConfigs": [
+    "id": 8001201,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/AIC_ML1AiShengGuYuanMd00501_2.AIC_ML1AiShengGuYuanMd00501_2",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/BT_ML1AiShengGuYuanMd00501_2.BT_ML1AiShengGuYuanMd00501_2",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80012"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 700671,
-    "StateMachine": "SM_MO1GAziziMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GAziziMd00501/AIC_MO1GAziziMd00501_MainTask.AIC_MO1GAziziMd00501_MainTask",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GAziziMd00501/BT_MO1GAziziMd00501.BT_MO1GAziziMd00501",
-    "SubBehaviorConfigs": [
+    "id": 700671,
+    "state_machine": "SM_MO1GAziziMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GAziziMd00501/AIC_MO1GAziziMd00501_MainTask.AIC_MO1GAziziMd00501_MainTask",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GAziziMd00501/BT_MO1GAziziMd00501.BT_MO1GAziziMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70068"
@@ -3277,56 +3277,56 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 2100401,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA004/AIC_NA004.AIC_NA004",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA004/BT_NA004_Side_QTDWZS.BT_NA004_Side_QTDWZS",
-    "SubBehaviorConfigs": [],
-    "Team": false,
-    "MonsterType": 4
+    "id": 2100401,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA004/AIC_NA004.AIC_NA004",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA004/BT_NA004_Side_QTDWZS.BT_NA004_Side_QTDWZS",
+    "sub_behavior_configs": [],
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 2102601,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA026/AIC_NA026.AIC_NA026",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA026/BT_NA026_Side_QTDWZS.BT_NA026_Side_QTDWZS",
-    "SubBehaviorConfigs": [
+    "id": 2102601,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA026/AIC_NA026.AIC_NA026",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA026/BT_NA026_Side_QTDWZS.BT_NA026_Side_QTDWZS",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21026"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 2102801,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA028/AIC_NA028.AIC_NA028",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA028/BT_NA028_Side_QTDWZS.BT_NA028_Side_QTDWZS",
-    "SubBehaviorConfigs": [],
-    "Team": false,
-    "MonsterType": 4
+    "id": 2102801,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA028/AIC_NA028.AIC_NA028",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA028/BT_NA028_Side_QTDWZS.BT_NA028_Side_QTDWZS",
+    "sub_behavior_configs": [],
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 2102802,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA028/AIC_NA028.AIC_NA028",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA028/BT_NA028_boss.BT_NA028_boss",
-    "SubBehaviorConfigs": [],
-    "Team": false,
-    "MonsterType": 4
+    "id": 2102802,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA028/AIC_NA028.AIC_NA028",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA028/BT_NA028_boss.BT_NA028_boss",
+    "sub_behavior_configs": [],
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 70112,
-    "StateMachine": "SM_MO1DingdongdongMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DingdongdongMd00201/AIC_AIMO1DingdongdongMd00201.AIC_AIMO1DingdongdongMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DingdongdongMd00201/BT_AIMO1DingdongdongMd00201.BT_AIMO1DingdongdongMd00201",
-    "SubBehaviorConfigs": [
+    "id": 70112,
+    "state_machine": "SM_MO1DingdongdongMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DingdongdongMd00201/AIC_AIMO1DingdongdongMd00201.AIC_AIMO1DingdongdongMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DingdongdongMd00201/BT_AIMO1DingdongdongMd00201.BT_AIMO1DingdongdongMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70068"
@@ -3356,15 +3356,15 @@
         "value": "70112"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70109,
-    "StateMachine": "SM_MO1ZhantuanjunshioneMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanjunshioneMd00001/AIC_MO1ZhantuanjunshioneMd00001.AIC_MO1ZhantuanjunshioneMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanjunshioneMd00001/BT_MO1ZhantuanjunshioneMd00001.BT_MO1ZhantuanjunshioneMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70109,
+    "state_machine": "SM_MO1ZhantuanjunshioneMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanjunshioneMd00001/AIC_MO1ZhantuanjunshioneMd00001.AIC_MO1ZhantuanjunshioneMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanjunshioneMd00001/BT_MO1ZhantuanjunshioneMd00001.BT_MO1ZhantuanjunshioneMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70065"
@@ -3390,15 +3390,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 70110,
-    "StateMachine": "SM_MO1ZhantuanjunshitwoMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanjunshitwoMd00001/AIC_MO1ZhantuanjunshitwoMd00001.AIC_MO1ZhantuanjunshitwoMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanjunshitwoMd00001/BT_MO1ZhantuanjunshitwoMd00001.BT_MO1ZhantuanjunshitwoMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70110,
+    "state_machine": "SM_MO1ZhantuanjunshitwoMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanjunshitwoMd00001/AIC_MO1ZhantuanjunshitwoMd00001.AIC_MO1ZhantuanjunshitwoMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhantuanjunshitwoMd00001/BT_MO1ZhantuanjunshitwoMd00001.BT_MO1ZhantuanjunshitwoMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70065"
@@ -3424,15 +3424,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70111,
-    "StateMachine": "SM_MO1RonhuochongMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1RonhuochongMd00101/AIC_MO1RonhuochongMd00101.AIC_MO1RonhuochongMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1RonhuochongMd00101/BT_MO1RonhuochongMd00101.BT_MO1RonhuochongMd00101",
-    "SubBehaviorConfigs": [
+    "id": 70111,
+    "state_machine": "SM_MO1RonhuochongMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1RonhuochongMd00101/AIC_MO1RonhuochongMd00101.AIC_MO1RonhuochongMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1RonhuochongMd00101/BT_MO1RonhuochongMd00101.BT_MO1RonhuochongMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70111"
@@ -3458,15 +3458,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 2
+    "team": true,
+    "monster_type": 2
   },
   {
-    "Id": 80013,
-    "StateMachine": "SM_ML1QunnieMd00401",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1QunnieMd00401/AIC_ML1QunnieMd00401.AIC_ML1QunnieMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1QunnieMd00401/BT_ML1QunnieMd00401.BT_ML1QunnieMd00401",
-    "SubBehaviorConfigs": [
+    "id": 80013,
+    "state_machine": "SM_ML1QunnieMd00401",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1QunnieMd00401/AIC_ML1QunnieMd00401.AIC_ML1QunnieMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1QunnieMd00401/BT_ML1QunnieMd00401.BT_ML1QunnieMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80013"
@@ -3484,15 +3484,15 @@
         "value": "80013"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 500000001,
-    "StateMachine": "SM_Common_Didi_JiyanInstance",
-    "AiController": "/Game/Aki/AI/AIFunctionCommon/AIC_Common_Didi_JiyanInstance.AIC_Common_Didi_JiyanInstance",
-    "BehaviorTree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_Common_Didi_JiyanInstance.BT_Common_Didi_JiyanInstance",
-    "SubBehaviorConfigs": [
+    "id": 500000001,
+    "state_machine": "SM_Common_Didi_JiyanInstance",
+    "ai_controller": "/Game/Aki/AI/AIFunctionCommon/AIC_Common_Didi_JiyanInstance.AIC_Common_Didi_JiyanInstance",
+    "behavior_tree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_Common_Didi_JiyanInstance.BT_Common_Didi_JiyanInstance",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70068"
@@ -3518,71 +3518,71 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 2101201,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA012/AIC_NA012.AIC_NA012",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA012/BT_NA012_1.BT_NA012_1",
-    "SubBehaviorConfigs": [
+    "id": 2101201,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA012/AIC_NA012.AIC_NA012",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA012/BT_NA012_1.BT_NA012_1",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21012"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 2101202,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA012/AIC_NA012.AIC_NA012",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA012/BT_NA012_2.BT_NA012_2",
-    "SubBehaviorConfigs": [
+    "id": 2101202,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA012/AIC_NA012.AIC_NA012",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA012/BT_NA012_2.BT_NA012_2",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21012"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 2101501,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA015/AIC_NA015.AIC_NA015",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA015/BT_NA015_1.BT_NA015_1",
-    "SubBehaviorConfigs": [
+    "id": 2101501,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA015/AIC_NA015.AIC_NA015",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA015/BT_NA015_1.BT_NA015_1",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21015"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 2101502,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA015/AIC_NA015.AIC_NA015",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA015/BT_NA015_2.BT_NA015_2",
-    "SubBehaviorConfigs": [
+    "id": 2101502,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA015/AIC_NA015.AIC_NA015",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA015/BT_NA015_2.BT_NA015_2",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21015"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800141,
-    "StateMachine": "SM_MB1ZhenwuguanzheMd00601__Fushua",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/AIC_MB1ZhenwuguanzheMd00601__Fushua.AIC_MB1ZhenwuguanzheMd00601__Fushua",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/BT_MB1ZhenwuguanzheMd00601_Fushua.BT_MB1ZhenwuguanzheMd00601_Fushua",
-    "SubBehaviorConfigs": [
+    "id": 800141,
+    "state_machine": "SM_MB1ZhenwuguanzheMd00601__Fushua",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/AIC_MB1ZhenwuguanzheMd00601__Fushua.AIC_MB1ZhenwuguanzheMd00601__Fushua",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/BT_MB1ZhenwuguanzheMd00601_Fushua.BT_MB1ZhenwuguanzheMd00601_Fushua",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80014"
@@ -3604,24 +3604,24 @@
         "value": "80014"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 2102803,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA028/AIC_NA028.AIC_NA028",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA028/BT_NA028_1.BT_NA028_1",
-    "SubBehaviorConfigs": [],
-    "Team": false,
-    "MonsterType": 4
+    "id": 2102803,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA028/AIC_NA028.AIC_NA028",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA028/BT_NA028_1.BT_NA028_1",
+    "sub_behavior_configs": [],
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800051,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BingciqiuMd00201/AIC_MO1BingciqiuMd00201.AIC_MO1BingciqiuMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BingciqiuMd00201/BT_MO1BingciqiuMd00201.BT_MO1BingciqiuMd00201",
-    "SubBehaviorConfigs": [
+    "id": 800051,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BingciqiuMd00201/AIC_MO1BingciqiuMd00201.AIC_MO1BingciqiuMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BingciqiuMd00201/BT_MO1BingciqiuMd00201.BT_MO1BingciqiuMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800051"
@@ -3635,15 +3635,15 @@
         "value": "800051"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80017,
-    "StateMachine": "SM_AIMB1SuiguangMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1SuiguangMd00501/AIC_MB1SuiguangMd00501.AIC_MB1SuiguangMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1SuiguangMd00501/BT_MB1SuiguangMd00501.BT_MB1SuiguangMd00501",
-    "SubBehaviorConfigs": [
+    "id": 80017,
+    "state_machine": "SM_AIMB1SuiguangMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1SuiguangMd00501/AIC_MB1SuiguangMd00501.AIC_MB1SuiguangMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1SuiguangMd00501/BT_MB1SuiguangMd00501.BT_MB1SuiguangMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80017"
@@ -3665,15 +3665,15 @@
         "value": "80017"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 77042,
-    "StateMachine": "SM_MP1TaguanghuMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/ElitePro/AIMP1TaguanghuMd00501/AIC_MP1TaguanghuMd00501.AIC_MP1TaguanghuMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/ElitePro/AIMP1TaguanghuMd00501/BT_MP1TaguanghuMd00501.BT_MP1TaguanghuMd00501",
-    "SubBehaviorConfigs": [
+    "id": 77042,
+    "state_machine": "SM_MP1TaguanghuMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/ElitePro/AIMP1TaguanghuMd00501/AIC_MP1TaguanghuMd00501.AIC_MP1TaguanghuMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/ElitePro/AIMP1TaguanghuMd00501/BT_MP1TaguanghuMd00501.BT_MP1TaguanghuMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77042"
@@ -3699,15 +3699,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 3
+    "team": true,
+    "monster_type": 3
   },
   {
-    "Id": 178001,
-    "StateMachine": "SM_MO1HuojinMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HuojinMd00101/AIC_MO1HuojinMd00101.AIC_MO1HuojinMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HuojinMd00101/BT_MO1HuojinMd00101.BT_MO1HuojinMd00101",
-    "SubBehaviorConfigs": [
+    "id": 178001,
+    "state_machine": "SM_MO1HuojinMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HuojinMd00101/AIC_MO1HuojinMd00101.AIC_MO1HuojinMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HuojinMd00101/BT_MO1HuojinMd00101.BT_MO1HuojinMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "178001"
@@ -3733,15 +3733,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 178002,
-    "StateMachine": "SM_MO1FenglieMd00401",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FenglieMd00401/AIC_MO1FenglieMd00401.AIC_MO1FenglieMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FenglieMd00401/BT_MO1FenglieMd00401.BT_MO1FenglieMd00401",
-    "SubBehaviorConfigs": [
+    "id": 178002,
+    "state_machine": "SM_MO1FenglieMd00401",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FenglieMd00401/AIC_MO1FenglieMd00401.AIC_MO1FenglieMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1FenglieMd00401/BT_MO1FenglieMd00401.BT_MO1FenglieMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "178001"
@@ -3767,15 +3767,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 70113,
-    "StateMachine": "SM_MO1ZhuzhutuoMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhuzhutuoMd00001/AIC_MO1ZhuzhutuoMd00001.AIC_MO1ZhuzhutuoMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhuzhutuoMd00001/BT_MO1ZhuzhutuoMd00001.BT_MO1ZhuzhutuoMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70113,
+    "state_machine": "SM_MO1ZhuzhutuoMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhuzhutuoMd00001/AIC_MO1ZhuzhutuoMd00001.AIC_MO1ZhuzhutuoMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1ZhuzhutuoMd00001/BT_MO1ZhuzhutuoMd00001.BT_MO1ZhuzhutuoMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70065"
@@ -3801,15 +3801,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 77047,
-    "StateMachine": "SM_ME1DaodanyuanMd00411",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1DaodanyuanMd00411/AIC_AIME1DaodanyuanMd00411.AIC_AIME1DaodanyuanMd00411",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1DaodanyuanMd00411/BT_AIME1DaodanyuanMd00411.BT_AIME1DaodanyuanMd00411",
-    "SubBehaviorConfigs": [
+    "id": 77047,
+    "state_machine": "SM_ME1DaodanyuanMd00411",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1DaodanyuanMd00411/AIC_AIME1DaodanyuanMd00411.AIC_AIME1DaodanyuanMd00411",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1DaodanyuanMd00411/BT_AIME1DaodanyuanMd00411.BT_AIME1DaodanyuanMd00411",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77047"
@@ -3835,15 +3835,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 70114,
-    "StateMachine": "SM_MO1GuangZhuMd00003",
-    "AiController": "/Game/Aki/AI/AIMonster/NoMesh/AIMO1GuangZhuMd00003/AIC_MO1GuangZhuMd00003.AIC_MO1GuangZhuMd00003",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/NoMesh/AIMO1GuangZhuMd00003/BT_MO1GuangZhuMd00003.BT_MO1GuangZhuMd00003",
-    "SubBehaviorConfigs": [
+    "id": 70114,
+    "state_machine": "SM_MO1GuangZhuMd00003",
+    "ai_controller": "/Game/Aki/AI/AIMonster/NoMesh/AIMO1GuangZhuMd00003/AIC_MO1GuangZhuMd00003.AIC_MO1GuangZhuMd00003",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/NoMesh/AIMO1GuangZhuMd00003/BT_MO1GuangZhuMd00003.BT_MO1GuangZhuMd00003",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77027"
@@ -3857,15 +3857,15 @@
         "value": "70114"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 770251,
-    "StateMachine": "SM_ME1AntankeMd00601_Guide",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/AIC_ME1AntankeMd00601.AIC_ME1AntankeMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/BT_ME1AntankeMd00601.BT_ME1AntankeMd00601",
-    "SubBehaviorConfigs": [
+    "id": 770251,
+    "state_machine": "SM_ME1AntankeMd00601_Guide",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/AIC_ME1AntankeMd00601.AIC_ME1AntankeMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/BT_ME1AntankeMd00601.BT_ME1AntankeMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77024"
@@ -3891,99 +3891,99 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 200003,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1QunJing2/BT_VM_MO1QunJing2.BT_VM_MO1QunJing2",
-    "SubBehaviorConfigs": [
+    "id": 200003,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1QunJing2/BT_VM_MO1QunJing2.BT_VM_MO1QunJing2",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200003"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200004,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1HKacaca/BT_VM_MO1HKacaca.BT_VM_MO1HKacaca",
-    "SubBehaviorConfigs": [
+    "id": 200004,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1HKacaca/BT_VM_MO1HKacaca.BT_VM_MO1HKacaca",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200004"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200031,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Shuimugu/BT_VM_MO1Shuimugu.BT_VM_MO1Shuimugu",
-    "SubBehaviorConfigs": [
+    "id": 200031,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Shuimugu/BT_VM_MO1Shuimugu.BT_VM_MO1Shuimugu",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200031"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200032,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1Shuimugu/BT_VM_ME1Shuimugu.BT_VM_ME1Shuimugu",
-    "SubBehaviorConfigs": [
+    "id": 200032,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1Shuimugu/BT_VM_ME1Shuimugu.BT_VM_ME1Shuimugu",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200032"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200015,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Leilie/BT_VM_MO1Leilie.BT_VM_MO1Leilie",
-    "SubBehaviorConfigs": [
+    "id": 200015,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Leilie/BT_VM_MO1Leilie.BT_VM_MO1Leilie",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200015"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200016,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Fenglie/BT_VM_MO1Fenglie.BT_VM_MO1Fenglie",
-    "SubBehaviorConfigs": [
+    "id": 200016,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Fenglie/BT_VM_MO1Fenglie.BT_VM_MO1Fenglie",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200016"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 400092001,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "",
-    "SubBehaviorConfigs": [
+    "id": 400092001,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -3993,29 +3993,29 @@
         "value": "2"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 200006,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1GAzizi/BT_VM_MO1GAzizi.BT_VM_MO1GAzizi",
-    "SubBehaviorConfigs": [
+    "id": 200006,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1GAzizi/BT_VM_MO1GAzizi.BT_VM_MO1GAzizi",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200006"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 77116,
-    "StateMachine": "SM_ME1BaoZiMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1BaoZiMd00001/AIC_ME1BaoZiMd00001.AIC_ME1BaoZiMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1BaoZiMd00001/BT_ME1BaoZiMd00001.BT_ME1BaoZiMd00001",
-    "SubBehaviorConfigs": [
+    "id": 77116,
+    "state_machine": "SM_ME1BaoZiMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1BaoZiMd00001/AIC_ME1BaoZiMd00001.AIC_ME1BaoZiMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1BaoZiMd00001/BT_ME1BaoZiMd00001.BT_ME1BaoZiMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -4025,15 +4025,15 @@
         "value": "700720"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 800142,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00611/AIC_MB1ZhenwuguanzheMd00611.AIC_MB1ZhenwuguanzheMd00611",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00611/BT_MB1ZhenwuguanzheMd00611.BT_MB1ZhenwuguanzheMd00611",
-    "SubBehaviorConfigs": [
+    "id": 800142,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00611/AIC_MB1ZhenwuguanzheMd00611.AIC_MB1ZhenwuguanzheMd00611",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00611/BT_MB1ZhenwuguanzheMd00611.BT_MB1ZhenwuguanzheMd00611",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80014"
@@ -4043,29 +4043,29 @@
         "value": "80014"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400092002,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "",
-    "SubBehaviorConfigs": [
+    "id": 400092002,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800143,
-    "StateMachine": "SM_MB1ZhenwuguanzheMd00612",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00612/AIC_MB1ZhenwuguanzheMd00612.AIC_MB1ZhenwuguanzheMd00612",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00612/BT_MB1ZhenwuguanzheMd00612.BT_MB1ZhenwuguanzheMd00612",
-    "SubBehaviorConfigs": [
+    "id": 800143,
+    "state_machine": "SM_MB1ZhenwuguanzheMd00612",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00612/AIC_MB1ZhenwuguanzheMd00612.AIC_MB1ZhenwuguanzheMd00612",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00612/BT_MB1ZhenwuguanzheMd00612.BT_MB1ZhenwuguanzheMd00612",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80014"
@@ -4079,15 +4079,15 @@
         "value": "800143"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 70115,
-    "StateMachine": "SM_MO1RonhuochongMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1RonhuochongMd00001/AIC_MO1RonhuochongMd00001.AIC_MO1RonhuochongMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1RonhuochongMd00001/BT_MO1RonhuochongMd00001.BT_MO1RonhuochongMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70115,
+    "state_machine": "SM_MO1RonhuochongMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1RonhuochongMd00001/AIC_MO1RonhuochongMd00001.AIC_MO1RonhuochongMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1RonhuochongMd00001/BT_MO1RonhuochongMd00001.BT_MO1RonhuochongMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -4113,15 +4113,15 @@
         "value": "1001"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 70116,
-    "StateMachine": "SM_MO1YeGuiManMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/NPC/AIMO1YeGuiManMd00001/AIC_MO1YeGuiManMd00001.AIC_MO1YeGuiManMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/NPC/AIMO1YeGuiManMd00001/BT_MO1YeGuiManMd00001.BT_MO1YeGuiManMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70116,
+    "state_machine": "SM_MO1YeGuiManMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/NPC/AIMO1YeGuiManMd00001/AIC_MO1YeGuiManMd00001.AIC_MO1YeGuiManMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/NPC/AIMO1YeGuiManMd00001/BT_MO1YeGuiManMd00001.BT_MO1YeGuiManMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70116"
@@ -4147,15 +4147,15 @@
         "value": "1001"
       }
     ],
-    "Team": false,
-    "MonsterType": 6
+    "team": false,
+    "monster_type": 6
   },
   {
-    "Id": 70117,
-    "StateMachine": "SM_MO1YeGuiManMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/NPC/AIMO1YeGuiManMd00001/AIC_MO1YeGuiManMd00001.AIC_MO1YeGuiManMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/NPC/AIMO1YeGuiManMd00001/BT_MO1YeGuiManMd00001.BT_MO1YeGuiManMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70117,
+    "state_machine": "SM_MO1YeGuiManMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/NPC/AIMO1YeGuiManMd00001/AIC_MO1YeGuiManMd00001.AIC_MO1YeGuiManMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/NPC/AIMO1YeGuiManMd00001/BT_MO1YeGuiManMd00001.BT_MO1YeGuiManMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70116"
@@ -4181,71 +4181,71 @@
         "value": "1001"
       }
     ],
-    "Team": false,
-    "MonsterType": 6
+    "team": false,
+    "monster_type": 6
   },
   {
-    "Id": 200007,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1AWukaka/BT_VM_MO1AWukaka.BT_VM_MO1AWukaka",
-    "SubBehaviorConfigs": [
+    "id": 200007,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1AWukaka/BT_VM_MO1AWukaka.BT_VM_MO1AWukaka",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200007"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200014,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Binglie/BT_VM_MO1Binglie.BT_VM_MO1Binglie",
-    "SubBehaviorConfigs": [
+    "id": 200014,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Binglie/BT_VM_MO1Binglie.BT_VM_MO1Binglie",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200014"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200025,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Dujiaoshou/BT_VM_MO1Dujiaoshou.BT_VM_MO1Dujiaoshou",
-    "SubBehaviorConfigs": [
+    "id": 200025,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Dujiaoshou/BT_VM_MO1Dujiaoshou.BT_VM_MO1Dujiaoshou",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200025"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 2101504,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA015/AIC_NA015.AIC_NA015",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA015/BT_NA015_4.BT_NA015_4",
-    "SubBehaviorConfigs": [
+    "id": 2101504,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA015/AIC_NA015.AIC_NA015",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA015/BT_NA015_4.BT_NA015_4",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21015"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 500000002,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIFunctionCommon/AIC_Common_Line_YinlinInstance.AIC_Common_Line_YinlinInstance",
-    "BehaviorTree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_Common_Line_YinlinInstance.BT_Common_Line_YinlinInstance",
-    "SubBehaviorConfigs": [
+    "id": 500000002,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIFunctionCommon/AIC_Common_Line_YinlinInstance.AIC_Common_Line_YinlinInstance",
+    "behavior_tree": "/Game/Aki/AI/AIFunctionCommon/CommonBT/BT_Common_Line_YinlinInstance.BT_Common_Line_YinlinInstance",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70065"
@@ -4271,57 +4271,57 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200039,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Binlang/BT_VM_MO1Binlang.BT_VM_MO1Binlang",
-    "SubBehaviorConfigs": [
+    "id": 200039,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Binlang/BT_VM_MO1Binlang.BT_VM_MO1Binlang",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200039"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200026,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Hetun_GuGu/BT_VM_MO1Hetun_GuGu.BT_VM_MO1Hetun_GuGu",
-    "SubBehaviorConfigs": [
+    "id": 200026,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Hetun_GuGu/BT_VM_MO1Hetun_GuGu.BT_VM_MO1Hetun_GuGu",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200026"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200027,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Jiujiuhetun/BT_VM_MO1Jiujiuhetun.BT_VM_MO1Jiujiuhetun",
-    "SubBehaviorConfigs": [
+    "id": 200027,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Jiujiuhetun/BT_VM_MO1Jiujiuhetun.BT_VM_MO1Jiujiuhetun",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200027"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70118,
-    "StateMachine": "SM_MO1DaodanyuanMd00411",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DaodanyuanMd00411/AIC_MO1DaodanyuanMd00411.AIC_MO1DaodanyuanMd00411",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DaodanyuanMd00411/BT_MO1DaodanyuanMd00411.BT_MO1DaodanyuanMd00411",
-    "SubBehaviorConfigs": [
+    "id": 70118,
+    "state_machine": "SM_MO1DaodanyuanMd00411",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DaodanyuanMd00411/AIC_MO1DaodanyuanMd00411.AIC_MO1DaodanyuanMd00411",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1DaodanyuanMd00411/BT_MO1DaodanyuanMd00411.BT_MO1DaodanyuanMd00411",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77047"
@@ -4347,71 +4347,71 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200008,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1SiXiao/BT_VM_ME1SiXiao.BT_VM_ME1SiXiao",
-    "SubBehaviorConfigs": [
+    "id": 200008,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1SiXiao/BT_VM_ME1SiXiao.BT_VM_ME1SiXiao",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200008"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200009,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1SiXiao/BT_VM_ME1SiXiao.BT_VM_ME1SiXiao",
-    "SubBehaviorConfigs": [
+    "id": 200009,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1SiXiao/BT_VM_ME1SiXiao.BT_VM_ME1SiXiao",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200009"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200010,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1SiXiao/BT_VM_ME1SiXiao.BT_VM_ME1SiXiao",
-    "SubBehaviorConfigs": [
+    "id": 200010,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1SiXiao/BT_VM_ME1SiXiao.BT_VM_ME1SiXiao",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200010"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200011,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1SiXiao/BT_VM_ME1SiXiao.BT_VM_ME1SiXiao",
-    "SubBehaviorConfigs": [
+    "id": 200011,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Elite/VM_ME1SiXiao/BT_VM_ME1SiXiao.BT_VM_ME1SiXiao",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200011"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 700761,
-    "StateMachine": "SM_MO1GuguhetunMd00201_JiYanTask",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GuguhetunMd00201/AIC_MO1GuguhetunMd00201.AIC_MO1GuguhetunMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GuguhetunMd00201/BT_MO1GuguhetunMd00201_JiYanTask.BT_MO1GuguhetunMd00201_JiYanTask",
-    "SubBehaviorConfigs": [
+    "id": 700761,
+    "state_machine": "SM_MO1GuguhetunMd00201_JiYanTask",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GuguhetunMd00201/AIC_MO1GuguhetunMd00201.AIC_MO1GuguhetunMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1GuguhetunMd00201/BT_MO1GuguhetunMd00201_JiYanTask.BT_MO1GuguhetunMd00201_JiYanTask",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70093"
@@ -4437,15 +4437,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 77048,
-    "StateMachine": "SM_ME1BingPaoTaiMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1BingPaoTaiMd00201/AIC_ME1BingPaoTaiMd00201.AIC_ME1BingPaoTaiMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1BingPaoTaiMd00201/BT_ME1BingPaoTaiMd00201.BT_ME1BingPaoTaiMd00201",
-    "SubBehaviorConfigs": [
+    "id": 77048,
+    "state_machine": "SM_ME1BingPaoTaiMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1BingPaoTaiMd00201/AIC_ME1BingPaoTaiMd00201.AIC_ME1BingPaoTaiMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1BingPaoTaiMd00201/BT_ME1BingPaoTaiMd00201.BT_ME1BingPaoTaiMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77048"
@@ -4471,43 +4471,43 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 2
+    "team": true,
+    "monster_type": 2
   },
   {
-    "Id": 200002,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1QunJing1/BT_VM_MO1QunJing1.BT_VM_MO1QunJing1",
-    "SubBehaviorConfigs": [
+    "id": 200002,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1QunJing1/BT_VM_MO1QunJing1.BT_VM_MO1QunJing1",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200002"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200005,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1FHuxiuxiu/BT_VM_MO1FHuxiuxiu.BT_VM_MO1FHuxiuxiu",
-    "SubBehaviorConfigs": [
+    "id": 200005,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1FHuxiuxiu/BT_VM_MO1FHuxiuxiu.BT_VM_MO1FHuxiuxiu",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200005"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 70119,
-    "StateMachine": "SM_MO1HongLvDengMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HongLvDengMd00501/AIC_MO1HongLvDengMd00501.AIC_MO1HongLvDengMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HongLvDengMd00501/BT_MO1HongLvDengMd00501.BT_MO1HongLvDengMd00501",
-    "SubBehaviorConfigs": [
+    "id": 70119,
+    "state_machine": "SM_MO1HongLvDengMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HongLvDengMd00501/AIC_MO1HongLvDengMd00501.AIC_MO1HongLvDengMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1HongLvDengMd00501/BT_MO1HongLvDengMd00501.BT_MO1HongLvDengMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70119"
@@ -4533,29 +4533,29 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200024,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Youyidie/AIC_VM_Youyidie.AIC_VM_Youyidie",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Youyidie/BT_VM_MO1Youyidie.BT_VM_MO1Youyidie",
-    "SubBehaviorConfigs": [
+    "id": 200024,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Youyidie/AIC_VM_Youyidie.AIC_VM_Youyidie",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Youyidie/BT_VM_MO1Youyidie.BT_VM_MO1Youyidie",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200024"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 800144,
-    "StateMachine": "SM_MB1ZhenwuguanzheMd00601_Layer3_MainQuest",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/AIC_MB1ZhenwuguanzheMd00601_Layer3.AIC_MB1ZhenwuguanzheMd00601_Layer3",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/BT_MB1ZhenwuguanzheMd00601.BT_MB1ZhenwuguanzheMd00601",
-    "SubBehaviorConfigs": [
+    "id": 800144,
+    "state_machine": "SM_MB1ZhenwuguanzheMd00601_Layer3_MainQuest",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/AIC_MB1ZhenwuguanzheMd00601_Layer3.AIC_MB1ZhenwuguanzheMd00601_Layer3",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ZhenwuguanzheMd00601/BT_MB1ZhenwuguanzheMd00601.BT_MB1ZhenwuguanzheMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80014"
@@ -4577,15 +4577,15 @@
         "value": "80014"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800131,
-    "StateMachine": "SM_ML1QunnieMd00401_Yinlin",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1QunnieMd00401/AIC_ML1QunnieMd00401.AIC_ML1QunnieMd00401",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1QunnieMd00401/BT_ML1QunnieMd00401.BT_ML1QunnieMd00401",
-    "SubBehaviorConfigs": [
+    "id": 800131,
+    "state_machine": "SM_ML1QunnieMd00401_Yinlin",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1QunnieMd00401/AIC_ML1QunnieMd00401.AIC_ML1QunnieMd00401",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1QunnieMd00401/BT_ML1QunnieMd00401.BT_ML1QunnieMd00401",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800131"
@@ -4603,15 +4603,15 @@
         "value": "80013"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21032,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA032/AIC_NA032.AIC_NA032",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA032/BT_NA032.BT_NA032",
-    "SubBehaviorConfigs": [
+    "id": 21032,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA032/AIC_NA032.AIC_NA032",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA032/BT_NA032.BT_NA032",
+    "sub_behavior_configs": [
       {
         "key": "AiWander",
         "value": "2"
@@ -4625,15 +4625,15 @@
         "value": "21018"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 701071,
-    "StateMachine": "SM_MO1Bingjian3Md00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian3Md00201/AIC_MO1Bingjian3Md00201.AIC_MO1Bingjian3Md00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian3Md00201/BT_MO1Bingjian3Md00201.BT_MO1Bingjian3Md00201",
-    "SubBehaviorConfigs": [
+    "id": 701071,
+    "state_machine": "SM_MO1Bingjian3Md00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian3Md00201/AIC_MO1Bingjian3Md00201.AIC_MO1Bingjian3Md00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Bingjian3Md00201/BT_MO1Bingjian3Md00201.BT_MO1Bingjian3Md00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70107"
@@ -4651,57 +4651,57 @@
         "value": "70106"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200034,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/BT_VM_CommonClose.BT_VM_CommonClose",
-    "SubBehaviorConfigs": [
+    "id": 200034,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/BT_VM_CommonClose.BT_VM_CommonClose",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200034"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 21002,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA002/AIC_NA002.AIC_NA002",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA002/BT_NA002_FurtherEscape.BT_NA002_FurtherEscape",
-    "SubBehaviorConfigs": [
+    "id": 21002,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA002/AIC_NA002.AIC_NA002",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA002/BT_NA002_FurtherEscape.BT_NA002_FurtherEscape",
+    "sub_behavior_configs": [
       {
         "key": "AiHate",
         "value": "21001"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21008,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006_NoEscape.BT_NA006_NoEscape",
-    "SubBehaviorConfigs": [
+    "id": 21008,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA006/AIC_NA006.AIC_NA006",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA006/BT_NA006_NoEscape.BT_NA006_NoEscape",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21006"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 21019,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Animal/NA018/AIC_NA018.AIC_NA018",
-    "BehaviorTree": "/Game/Aki/AI/AINPC/Animal/NA018/BT_NA018_NoEscape.BT_NA018_NoEscape",
-    "SubBehaviorConfigs": [
+    "id": 21019,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Animal/NA018/AIC_NA018.AIC_NA018",
+    "behavior_tree": "/Game/Aki/AI/AINPC/Animal/NA018/BT_NA018_NoEscape.BT_NA018_NoEscape",
+    "sub_behavior_configs": [
       {
         "key": "AiFlee",
         "value": "21018"
@@ -4711,15 +4711,15 @@
         "value": "21018"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 400092003,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
-    "BehaviorTree": "",
-    "SubBehaviorConfigs": [
+    "id": 400092003,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AINPC/Common/AIC_CommonNPC.AIC_CommonNPC",
+    "behavior_tree": "",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "1"
@@ -4729,29 +4729,29 @@
         "value": "2"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 200050,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Dingdongdong/BT_VM_MO1Dingdongdong.BT_VM_MO1Dingdongdong",
-    "SubBehaviorConfigs": [
+    "id": 200050,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Dingdongdong/BT_VM_MO1Dingdongdong.BT_VM_MO1Dingdongdong",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200050"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 770212,
-    "StateMachine": "SM_ME1QunJingMd00001_New",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/AIC_ME1QunJingMd00001_New.AIC_ME1QunJingMd00001_New",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/BT_ME1QunJingMd00001_Guide.BT_ME1QunJingMd00001_Guide",
-    "SubBehaviorConfigs": [
+    "id": 770212,
+    "state_machine": "SM_ME1QunJingMd00001_New",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/AIC_ME1QunJingMd00001_New.AIC_ME1QunJingMd00001_New",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/BT_ME1QunJingMd00001_Guide.BT_ME1QunJingMd00001_Guide",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77021"
@@ -4777,15 +4777,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 800042,
-    "StateMachine": "SM_MB1Wuguanzhe00601_InZhenShenBOSSFight",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/AIC_MB1Wuguanzhe00601_InZhenShenBOSSFight.AIC_MB1Wuguanzhe00601_InZhenShenBOSSFight",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/BT_MB1Wuguanzhe00601_InZhenShenBOSSFight.BT_MB1Wuguanzhe00601_InZhenShenBOSSFight",
-    "SubBehaviorConfigs": [
+    "id": 800042,
+    "state_machine": "SM_MB1Wuguanzhe00601_InZhenShenBOSSFight",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/AIC_MB1Wuguanzhe00601_InZhenShenBOSSFight.AIC_MB1Wuguanzhe00601_InZhenShenBOSSFight",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/AIMB1Wuguanzhe00601/BT_MB1Wuguanzhe00601_InZhenShenBOSSFight.BT_MB1Wuguanzhe00601_InZhenShenBOSSFight",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800041"
@@ -4807,15 +4807,15 @@
         "value": "80004"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 700731,
-    "StateMachine": "SM_MO1LiufangzhemanMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001_GamePlay.AIC_MO1LiufangzhemanMd00001_GamePlay",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/BT_MO1LiufangzhemanMd00001_GamePlay.BT_MO1LiufangzhemanMd00001_GamePlay",
-    "SubBehaviorConfigs": [
+    "id": 700731,
+    "state_machine": "SM_MO1LiufangzhemanMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/AIC_MO1LiufangzhemanMd00001_GamePlay.AIC_MO1LiufangzhemanMd00001_GamePlay",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LiufangzhemanMd00001/BT_MO1LiufangzhemanMd00001_GamePlay.BT_MO1LiufangzhemanMd00001_GamePlay",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70072"
@@ -4841,29 +4841,29 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 200049,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Honglvdeng/BT_VM_MO1Honglvdeng.BT_VM_MO1Honglvdeng",
-    "SubBehaviorConfigs": [
+    "id": 200049,
+    "state_machine": "",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/AIC_VM_Common.AIC_VM_Common",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Vsion/VM_Ordinary/VM_MO1Honglvdeng/BT_VM_MO1Honglvdeng.BT_VM_MO1Honglvdeng",
+    "sub_behavior_configs": [
       {
         "key": "AiBaseSkill",
         "value": "200049"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 800091,
-    "StateMachine": "SM_ML1WuChangluMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/AIC_ML1WuChangluMd00601.AIC_ML1WuChangluMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/BT_ML1WuChangluMd00601.BT_ML1WuChangluMd00601",
-    "SubBehaviorConfigs": [
+    "id": 800091,
+    "state_machine": "SM_ML1WuChangluMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/AIC_ML1WuChangluMd00601.AIC_ML1WuChangluMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/BT_ML1WuChangluMd00601.BT_ML1WuChangluMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800091"
@@ -4885,15 +4885,15 @@
         "value": "80009"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 770213,
-    "StateMachine": "SM_ME1QunJingMd00001_Chong",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/AIC_ME1QunJingMd00001_New.AIC_ME1QunJingMd00001_New",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/BT_ME1QunJingMd00001_New.BT_ME1QunJingMd00001_New",
-    "SubBehaviorConfigs": [
+    "id": 770213,
+    "state_machine": "SM_ME1QunJingMd00001_Chong",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/AIC_ME1QunJingMd00001_New.AIC_ME1QunJingMd00001_New",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1QunJingMd00001/BT_ME1QunJingMd00001_New.BT_ME1QunJingMd00001_New",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77021"
@@ -4919,15 +4919,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 770242,
-    "StateMachine": "SM_ME1GuangtankeMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/AIC_ME1GuangtankeMd00501.AIC_ME1GuangtankeMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/BT_ME1GuangtankeMd00501_BeiLuoYe1.BT_ME1GuangtankeMd00501_BeiLuoYe1",
-    "SubBehaviorConfigs": [
+    "id": 770242,
+    "state_machine": "SM_ME1GuangtankeMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/AIC_ME1GuangtankeMd00501.AIC_ME1GuangtankeMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1GuangtankeMd00501/BT_ME1GuangtankeMd00501_BeiLuoYe1.BT_ME1GuangtankeMd00501_BeiLuoYe1",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77024"
@@ -4953,15 +4953,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 3
+    "team": true,
+    "monster_type": 3
   },
   {
-    "Id": 770381,
-    "StateMachine": "SM_ME1JiancuxiongMd00001_Pai",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1JiancuxiongMd00001/AIC_ME1JiancuxiongMd00001.AIC_ME1JiancuxiongMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1JiancuxiongMd00001/BT_ME1JiancuxiongMd00001.BT_ME1JiancuxiongMd00001",
-    "SubBehaviorConfigs": [
+    "id": 770381,
+    "state_machine": "SM_ME1JiancuxiongMd00001_Pai",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1JiancuxiongMd00001/AIC_ME1JiancuxiongMd00001.AIC_ME1JiancuxiongMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1JiancuxiongMd00001/BT_ME1JiancuxiongMd00001.BT_ME1JiancuxiongMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77038"
@@ -4987,15 +4987,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 70120,
-    "StateMachine": "SM_ML1YangYangMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/NPC/AIML1YangYangMd00001/AIC_ML1YangYangMd00001.AIC_ML1YangYangMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/NPC/AIML1YangYangMd00001/BT_ML1YangYangMd00001.BT_ML1YangYangMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70120,
+    "state_machine": "SM_ML1YangYangMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/NPC/AIML1YangYangMd00001/AIC_ML1YangYangMd00001.AIC_ML1YangYangMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/NPC/AIML1YangYangMd00001/BT_ML1YangYangMd00001.BT_ML1YangYangMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70120"
@@ -5021,15 +5021,15 @@
         "value": "1001"
       }
     ],
-    "Team": false,
-    "MonsterType": 1
+    "team": false,
+    "monster_type": 1
   },
   {
-    "Id": 70121,
-    "StateMachine": "SM_ML1YuanWuMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/NPC/AIML1YuanWuMd00001/AIC_ML1YuanWuMd00001.AIC_ML1YuanWuMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/NPC/AIML1YuanWuMd00001/BT_ML1YuanWuMd00001.BT_ML1YuanWuMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70121,
+    "state_machine": "SM_ML1YuanWuMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/NPC/AIML1YuanWuMd00001/AIC_ML1YuanWuMd00001.AIC_ML1YuanWuMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/NPC/AIML1YuanWuMd00001/BT_ML1YuanWuMd00001.BT_ML1YuanWuMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70120"
@@ -5055,15 +5055,15 @@
         "value": "1001"
       }
     ],
-    "Team": false,
-    "MonsterType": 1
+    "team": false,
+    "monster_type": 1
   },
   {
-    "Id": 70122,
-    "StateMachine": "SM_ML1TaoQiMd00001",
-    "AiController": "/Game/Aki/AI/AIMonster/NPC/AIML1TaoQiMd00001/AIC_ML1TaoQiMd00001.AIC_ML1TaoQiMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/NPC/AIML1TaoQiMd00001/BT_ML1TaoQiMd00001.BT_ML1TaoQiMd00001",
-    "SubBehaviorConfigs": [
+    "id": 70122,
+    "state_machine": "SM_ML1TaoQiMd00001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/NPC/AIML1TaoQiMd00001/AIC_ML1TaoQiMd00001.AIC_ML1TaoQiMd00001",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/NPC/AIML1TaoQiMd00001/BT_ML1TaoQiMd00001.BT_ML1TaoQiMd00001",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70120"
@@ -5089,15 +5089,15 @@
         "value": "1001"
       }
     ],
-    "Team": false,
-    "MonsterType": 1
+    "team": false,
+    "monster_type": 1
   },
   {
-    "Id": 24291001,
-    "StateMachine": "SM_MO1AnjinMd006001",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AnjinMd00601/AIC_MO1AnjinMd00601.AIC_MO1AnjinMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AnjinMd00601/System/BT_MO1AnjinMd00601_Guide.BT_MO1AnjinMd00601_Guide",
-    "SubBehaviorConfigs": [
+    "id": 24291001,
+    "state_machine": "SM_MO1AnjinMd006001",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AnjinMd00601/AIC_MO1AnjinMd00601.AIC_MO1AnjinMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1AnjinMd00601/System/BT_MO1AnjinMd00601_Guide.BT_MO1AnjinMd00601_Guide",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "70065"
@@ -5123,15 +5123,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 4
+    "team": true,
+    "monster_type": 4
   },
   {
-    "Id": 24291002,
-    "StateMachine": "SM_ME1AntankeMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/AIC_ME1AntankeMd00601.AIC_ME1AntankeMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/BT_ME1AntankeMd00601_Guide.BT_ME1AntankeMd00601_Guide",
-    "SubBehaviorConfigs": [
+    "id": 24291002,
+    "state_machine": "SM_ME1AntankeMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/AIC_ME1AntankeMd00601.AIC_ME1AntankeMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Elite/AIME1AntankeMd00601/BT_ME1AntankeMd00601_Guide.BT_ME1AntankeMd00601_Guide",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "77024"
@@ -5157,15 +5157,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 1
+    "team": true,
+    "monster_type": 1
   },
   {
-    "Id": 700531,
-    "StateMachine": "SM_MO1LeilieMd00301",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LeilieMd00301/AIC_MO1LeilieMd00301.AIC_MO1LeilieMd00301",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LeilieMd00301/BT_MO1LeilieMd00301.BT_MO1LeilieMd00301",
-    "SubBehaviorConfigs": [
+    "id": 700531,
+    "state_machine": "SM_MO1LeilieMd00301",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LeilieMd00301/AIC_MO1LeilieMd00301.AIC_MO1LeilieMd00301",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1LeilieMd00301/BT_MO1LeilieMd00301.BT_MO1LeilieMd00301",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "700531"
@@ -5191,15 +5191,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 700701,
-    "StateMachine": "SM_MO1BinglieMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinglieMd00201/AIC_MO1BinglieMd00201.AIC_MO1BinglieMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinglieMd00201/BT_MO1BinglieMd00201.BT_MO1BinglieMd00201",
-    "SubBehaviorConfigs": [
+    "id": 700701,
+    "state_machine": "SM_MO1BinglieMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinglieMd00201/AIC_MO1BinglieMd00201.AIC_MO1BinglieMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1BinglieMd00201/BT_MO1BinglieMd00201.BT_MO1BinglieMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "700531"
@@ -5225,15 +5225,15 @@
         "value": "1001"
       }
     ],
-    "Team": true,
-    "MonsterType": 5
+    "team": true,
+    "monster_type": 5
   },
   {
-    "Id": 800021,
-    "StateMachine": "SM_ML1LinrenMd00301",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00301/AIC_ML1LinrenMd00301_01.AIC_ML1LinrenMd00301_01",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00301/BT_ML1LinrenMd00301_01.BT_ML1LinrenMd00301_01",
-    "SubBehaviorConfigs": [
+    "id": 800021,
+    "state_machine": "SM_ML1LinrenMd00301",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00301/AIC_ML1LinrenMd00301_01.AIC_ML1LinrenMd00301_01",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00301/BT_ML1LinrenMd00301_01.BT_ML1LinrenMd00301_01",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800021"
@@ -5255,15 +5255,15 @@
         "value": "80002"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800031,
-    "StateMachine": "SM_ML1LinrenMd00311",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00311/AIC_ML1LinrenMd00311.AIC_ML1LinrenMd00311",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00311/BT_ML1LinrenMd00311.BT_ML1LinrenMd00311",
-    "SubBehaviorConfigs": [
+    "id": 800031,
+    "state_machine": "SM_ML1LinrenMd00311",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00311/AIC_ML1LinrenMd00311.AIC_ML1LinrenMd00311",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00311/BT_ML1LinrenMd00311.BT_ML1LinrenMd00311",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800031"
@@ -5285,15 +5285,15 @@
         "value": "80003"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800052,
-    "StateMachine": "SM_MB1MingzhongzhiguiMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Boss/MB1MingzhongzhiguiMd00201/AIC_MB1MingzhongzhiguiMd00201.AIC_MB1MingzhongzhiguiMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/MB1MingzhongzhiguiMd00201/BT_MB1MingzhongzhiguiMd00201.BT_MB1MingzhongzhiguiMd00201",
-    "SubBehaviorConfigs": [
+    "id": 800052,
+    "state_machine": "SM_MB1MingzhongzhiguiMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Boss/MB1MingzhongzhiguiMd00201/AIC_MB1MingzhongzhiguiMd00201.AIC_MB1MingzhongzhiguiMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Boss/MB1MingzhongzhiguiMd00201/BT_MB1MingzhongzhiguiMd00201.BT_MB1MingzhongzhiguiMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800052"
@@ -5311,15 +5311,15 @@
         "value": "80005"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800092,
-    "StateMachine": "SM_ML1WuChangluMd00601",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/AIC_ML1WuChangluMd00601.AIC_ML1WuChangluMd00601",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/BT_ML1WuChangluMd00601.BT_ML1WuChangluMd00601",
-    "SubBehaviorConfigs": [
+    "id": 800092,
+    "state_machine": "SM_ML1WuChangluMd00601",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/AIC_ML1WuChangluMd00601.AIC_ML1WuChangluMd00601",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1WuChangluMd00601/BT_ML1WuChangluMd00601.BT_ML1WuChangluMd00601",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800092"
@@ -5341,15 +5341,15 @@
         "value": "80009"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800101,
-    "StateMachine": "SM_ML1FerLianMd00201",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00201/AIC_ML1FerLianMd00201.AIC_ML1FerLianMd00201",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00201/BT_ML1FerLianMd00201.BT_ML1FerLianMd00201",
-    "SubBehaviorConfigs": [
+    "id": 800101,
+    "state_machine": "SM_ML1FerLianMd00201",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00201/AIC_ML1FerLianMd00201.AIC_ML1FerLianMd00201",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1FerLianMd00201/BT_ML1FerLianMd00201.BT_ML1FerLianMd00201",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800101"
@@ -5367,15 +5367,15 @@
         "value": "80010"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800111,
-    "StateMachine": "SM_ML1HuiYingMd00101",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1HuiYingMd00101/AIC_ML1HuiYingMd00101.AIC_ML1HuiYingMd00101",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1HuiYingMd00101/BT_ML1HuiYingMd00101.BT_ML1HuiYingMd00101",
-    "SubBehaviorConfigs": [
+    "id": 800111,
+    "state_machine": "SM_ML1HuiYingMd00101",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1HuiYingMd00101/AIC_ML1HuiYingMd00101.AIC_ML1HuiYingMd00101",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1HuiYingMd00101/BT_ML1HuiYingMd00101.BT_ML1HuiYingMd00101",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800111"
@@ -5397,15 +5397,15 @@
         "value": "80011"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 800121,
-    "StateMachine": "SM_ML1AiShengGuYuanMd00501",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/AIC_ML1AiShengGuYuanMd00501.AIC_ML1AiShengGuYuanMd00501",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/BT_ML1AiShengGuYuanMd00501.BT_ML1AiShengGuYuanMd00501",
-    "SubBehaviorConfigs": [
+    "id": 800121,
+    "state_machine": "SM_ML1AiShengGuYuanMd00501",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/AIC_ML1AiShengGuYuanMd00501.AIC_ML1AiShengGuYuanMd00501",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1AiShengGuYuanMd00501/BT_ML1AiShengGuYuanMd00501.BT_ML1AiShengGuYuanMd00501",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "800121"
@@ -5423,15 +5423,15 @@
         "value": "80012"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   },
   {
-    "Id": 80003,
-    "StateMachine": "SM_ML1LinrenMd00311",
-    "AiController": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00311/AIC_ML1LinrenMd00311.AIC_ML1LinrenMd00311",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00311/BT_ML1LinrenMd00311.BT_ML1LinrenMd00311",
-    "SubBehaviorConfigs": [
+    "id": 80003,
+    "state_machine": "SM_ML1LinrenMd00311",
+    "ai_controller": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00311/AIC_ML1LinrenMd00311.AIC_ML1LinrenMd00311",
+    "behavior_tree": "/Game/Aki/AI/AIMonster/Lord/AIML1LinrenMd00311/BT_ML1LinrenMd00311.BT_ML1LinrenMd00311",
+    "sub_behavior_configs": [
       {
         "key": "AiSense",
         "value": "80003"
@@ -5453,7 +5453,7 @@
         "value": "80003"
       }
     ],
-    "Team": false,
-    "MonsterType": 4
+    "team": false,
+    "monster_type": 4
   }
 ]

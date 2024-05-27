@@ -1,117 +1,117 @@
 [
   {
-    "Id": 1,
-    "Times": 1,
-    "Quality": 3,
-    "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_S.Seq_Gacha_One_S",
-    "DefaultColor": {
+    "id": 1,
+    "times": 1,
+    "quality": 3,
+    "final_show_sequence_path": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_S.Seq_Gacha_One_S",
+    "default_color": {
       "r": 1.0,
       "g": 1.0,
       "b": 1.0,
       "a": 1.0
     },
-    "FinalColor": {
+    "final_color": {
       "r": 0.92,
       "g": 1.0,
       "b": 0.973,
       "a": 1.0
     },
-    "DefaultProcess": 0.15,
-    "ChangeColorProcess": 0.5,
-    "CompleteChangeColorProcess": 0.66,
-    "PlaySequenceProcess": 0.99,
-    "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
+    "default_process": 0.15,
+    "change_color_process": 0.5,
+    "complete_change_color_process": 0.66,
+    "play_sequence_process": 0.99,
+    "slide_curve_asset_path": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
   },
   {
-    "Id": 2,
-    "Times": 1,
-    "Quality": 4,
-    "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_SR.Seq_Gacha_One_SR",
-    "DefaultColor": {
+    "id": 2,
+    "times": 1,
+    "quality": 4,
+    "final_show_sequence_path": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_SR.Seq_Gacha_One_SR",
+    "default_color": {
       "r": 1.0,
       "g": 1.0,
       "b": 1.0,
       "a": 1.0
     },
-    "FinalColor": {
+    "final_color": {
       "r": 0.874,
       "g": 0.71,
       "b": 1.0,
       "a": 1.0
     },
-    "DefaultProcess": 0.15,
-    "ChangeColorProcess": 0.5,
-    "CompleteChangeColorProcess": 0.66,
-    "PlaySequenceProcess": 0.99,
-    "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
+    "default_process": 0.15,
+    "change_color_process": 0.5,
+    "complete_change_color_process": 0.66,
+    "play_sequence_process": 0.99,
+    "slide_curve_asset_path": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
   },
   {
-    "Id": 3,
-    "Times": 10,
-    "Quality": 4,
-    "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_Ten_SR.Seq_Gacha_Ten_SR",
-    "DefaultColor": {
+    "id": 3,
+    "times": 10,
+    "quality": 4,
+    "final_show_sequence_path": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_Ten_SR.Seq_Gacha_Ten_SR",
+    "default_color": {
       "r": 1.0,
       "g": 1.0,
       "b": 1.0,
       "a": 1.0
     },
-    "FinalColor": {
+    "final_color": {
       "r": 0.874,
       "g": 0.71,
       "b": 1.0,
       "a": 1.0
     },
-    "DefaultProcess": 0.15,
-    "ChangeColorProcess": 0.5,
-    "CompleteChangeColorProcess": 0.66,
-    "PlaySequenceProcess": 0.99,
-    "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
+    "default_process": 0.15,
+    "change_color_process": 0.5,
+    "complete_change_color_process": 0.66,
+    "play_sequence_process": 0.99,
+    "slide_curve_asset_path": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
   },
   {
-    "Id": 4,
-    "Times": 1,
-    "Quality": 5,
-    "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_SSR.Seq_Gacha_One_SSR",
-    "DefaultColor": {
+    "id": 4,
+    "times": 1,
+    "quality": 5,
+    "final_show_sequence_path": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_One_SSR.Seq_Gacha_One_SSR",
+    "default_color": {
       "r": 1.0,
       "g": 1.0,
       "b": 1.0,
       "a": 1.0
     },
-    "FinalColor": {
+    "final_color": {
       "r": 1.0,
       "g": 0.91,
       "b": 0.72,
       "a": 1.0
     },
-    "DefaultProcess": 0.15,
-    "ChangeColorProcess": 0.5,
-    "CompleteChangeColorProcess": 0.66,
-    "PlaySequenceProcess": 0.99,
-    "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
+    "default_process": 0.15,
+    "change_color_process": 0.5,
+    "complete_change_color_process": 0.66,
+    "play_sequence_process": 0.99,
+    "slide_curve_asset_path": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
   },
   {
-    "Id": 5,
-    "Times": 10,
-    "Quality": 5,
-    "FinalShowSequencePath": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_Ten_SSR.Seq_Gacha_Ten_SSR",
-    "DefaultColor": {
+    "id": 5,
+    "times": 10,
+    "quality": 5,
+    "final_show_sequence_path": "/Game/Aki/Sequence/Main_Seq/Function_Seq/ChouKa/Seq_Gacha_Ten_SSR.Seq_Gacha_Ten_SSR",
+    "default_color": {
       "r": 1.0,
       "g": 1.0,
       "b": 1.0,
       "a": 1.0
     },
-    "FinalColor": {
+    "final_color": {
       "r": 1.0,
       "g": 0.91,
       "b": 0.72,
       "a": 1.0
     },
-    "DefaultProcess": 0.15,
-    "ChangeColorProcess": 0.5,
-    "CompleteChangeColorProcess": 0.66,
-    "PlaySequenceProcess": 0.99,
-    "SlideCurveAssetPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
+    "default_process": 0.15,
+    "change_color_process": 0.5,
+    "complete_change_color_process": 0.66,
+    "play_sequence_process": 0.99,
+    "slide_curve_asset_path": "/Game/Aki/UI/UIResources/UiLuckdraw/Curve/DrawMain_SliderCurve.DrawMain_SliderCurve"
   }
 ]

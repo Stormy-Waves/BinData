@@ -1,69 +1,69 @@
 [
   {
-    "Quality": 2,
-    "LevelLimit": 10,
-    "SlotUnlockLevel": [],
-    "IdentifyCost": [
+    "quality": 2,
+    "level_limit": 10,
+    "slot_unlock_level": [],
+    "identify_cost": [
       {
         "key": 36000011,
         "value": 10
       }
     ],
-    "IdentifyCoin": 200,
-    "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityB.SP_VisionlQualityB"
+    "identify_coin": 200,
+    "quality_sprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityB.SP_VisionlQualityB"
   },
   {
-    "Quality": 3,
-    "LevelLimit": 15,
-    "SlotUnlockLevel": [
+    "quality": 3,
+    "level_limit": 15,
+    "slot_unlock_level": [
       5,
       10,
       15
     ],
-    "IdentifyCost": [
+    "identify_cost": [
       {
         "key": 36000012,
         "value": 10
       }
     ],
-    "IdentifyCoin": 500,
-    "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityC.SP_VisionlQualityC"
+    "identify_coin": 500,
+    "quality_sprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityC.SP_VisionlQualityC"
   },
   {
-    "Quality": 4,
-    "LevelLimit": 20,
-    "SlotUnlockLevel": [
+    "quality": 4,
+    "level_limit": 20,
+    "slot_unlock_level": [
       5,
       10,
       15,
       20
     ],
-    "IdentifyCost": [
+    "identify_cost": [
       {
         "key": 36000013,
         "value": 10
       }
     ],
-    "IdentifyCoin": 1000,
-    "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityD.SP_VisionlQualityD"
+    "identify_coin": 1000,
+    "quality_sprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityD.SP_VisionlQualityD"
   },
   {
-    "Quality": 5,
-    "LevelLimit": 25,
-    "SlotUnlockLevel": [
+    "quality": 5,
+    "level_limit": 25,
+    "slot_unlock_level": [
       5,
       10,
       15,
       20,
       25
     ],
-    "IdentifyCost": [
+    "identify_cost": [
       {
         "key": 36000014,
         "value": 10
       }
     ],
-    "IdentifyCoin": 2000,
-    "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityE.SP_VisionlQualityE"
+    "identify_coin": 2000,
+    "quality_sprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityE.SP_VisionlQualityE"
   }
 ]

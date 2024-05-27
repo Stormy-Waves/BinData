@@ -1,2594 +1,2594 @@
 [
   {
-    "Id": 1,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 1,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 800.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 3000.0,
       "max": 5000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -500.0,
       "max": 900.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 3,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 3,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 800.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 3000.0,
       "max": 5000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -100.0,
       "max": 500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
       "max": 4500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 10,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 10,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 0.0,
       "max": 1.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 5000.0,
       "max": 8000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
       "max": 4500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 11,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 11,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 100.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 12,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 12,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1200.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 50000.0,
       "max": 50100.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "功能.逻辑状态标识.潜行状态",
-    "SwornHatredTag": "功能.逻辑状态标识.潜行仇恨"
+    "max_move_from_born": -1.0,
+    "exclude_tag": "功能.逻辑状态标识.潜行状态",
+    "sworn_hatred_tag": "功能.逻辑状态标识.潜行仇恨"
   },
   {
-    "Id": 21001,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 21001,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 800.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 5000.0,
       "max": 8000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 21006,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 21006,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 800.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 5000.0,
       "max": 8000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 21007,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 21007,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1200.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 5000.0,
       "max": 8000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 21008,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 21008,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 5000.0,
       "max": 8000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 21012,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 21012,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 800.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 5000.0,
       "max": 8000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 21015,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 21015,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 800.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 5000.0,
       "max": 8000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70051,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70051,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70053,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70053,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 2000.0,
       "max": 3500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70054,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70054,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 15000.0,
       "max": 18000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 50000.0,
       "max": 100000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -5000.0,
       "max": 10000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -5000.0,
       "max": 10000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70056,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70056,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -10000.0,
       "max": 50000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -10000.0,
       "max": 50000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70065,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70065,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70068,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70068,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70070,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70070,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 2000.0,
       "max": 3500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70072,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70072,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 700720,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 700720,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 800.0,
       "max": 810.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 100.0,
       "max": 200.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -500.0,
       "max": 500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -500.0,
       "max": 500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
       "max": 4500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70074,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70074,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70075,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70075,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70100,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70100,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70105,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70105,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 800.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77005,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77005,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77021,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77021,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77022,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77022,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77026,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77026,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77027,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77027,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77028,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77028,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77029,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77029,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 2000.0,
       "max": 3500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77033,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77033,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77036,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77036,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 2000.0,
       "max": 3500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77038,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77038,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80002,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80002,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 8000.0,
       "max": 9000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": 4250.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 4250.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80003,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80003,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 8000.0,
       "max": 9000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": 4250.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 4250.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80004,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80004,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 10000.0,
       "max": 11000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1500.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1500.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5500.0,
       "max": 6500.0
     },
-    "MaxMoveFromBorn": 4500.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 4500.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80005,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80005,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 13000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1500.0,
       "max": 3000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1500.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5500.0,
       "max": 7000.0
     },
-    "MaxMoveFromBorn": 5500.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 5500.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80006,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80006,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 30000.0,
       "max": 31000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 15000.0,
       "max": 15000.0
     },
-    "MaxMoveFromBorn": 14000.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 14000.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80007,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80007,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 13000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 3000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 6000.0,
       "max": 7000.0
     },
-    "MaxMoveFromBorn": 5900.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 5900.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80008,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80008,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 12100.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 6000.0,
       "max": 7000.0
     },
-    "MaxMoveFromBorn": 3300.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 3300.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80011,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80011,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 8000.0,
       "max": 10000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1500.0,
       "max": 1000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -3000.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
       "max": 5000.0
     },
-    "MaxMoveFromBorn": 4000.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 4000.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80015,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80015,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 12100.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 6000.0,
       "max": 7000.0
     },
-    "MaxMoveFromBorn": 6000.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 6000.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80009,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80009,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 8000.0,
       "max": 10000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -3000.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 3500.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": 3750.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 3750.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80010,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80010,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 13000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -10001.0,
       "max": 10001.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 6000.0,
       "max": 7000.0
     },
-    "MaxMoveFromBorn": 5500.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 5500.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80016,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80016,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 8000.0,
       "max": 10000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -500.0,
       "max": 1000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -500.0,
       "max": 1000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4500.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": 4500.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 4500.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 90001,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 90001,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 2500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 2000.0,
       "max": 3000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -100.0,
       "max": 500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -100.0,
       "max": 500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
       "max": 5000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77041,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77041,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80012,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80012,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 12100.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 4000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -10001.0,
       "max": 10001.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5500.0,
       "max": 6500.0
     },
-    "MaxMoveFromBorn": 5500.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 5500.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77045,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77045,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 4000.0,
       "max": 5500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1500.0,
       "max": 2500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 7000.0,
       "max": 7500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 170000,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 170000,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 35000.0,
       "max": 40000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -20000.0,
       "max": 10000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -20000.0,
       "max": 10000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": -35000.0,
       "max": 40000.0
     },
-    "MaxMoveFromBorn": 50050.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": "行为状态.逻辑状态.前台"
+    "max_move_from_born": 50050.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": "行为状态.逻辑状态.前台"
   },
   {
-    "Id": 80014,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80014,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 20000.0,
       "max": 21000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -20000.0,
       "max": 10000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -20000.0,
       "max": 10000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 11500.0,
       "max": 12000.0
     },
-    "MaxMoveFromBorn": 50050.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 50050.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70078,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70078,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 2000.0,
       "max": 3500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 700721,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 700721,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 2000.0,
       "max": 3500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70106,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70106,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 9000.0,
       "max": 10000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 13,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 13,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 4000.0,
       "max": 5000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80013,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80013,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 12100.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5500.0,
       "max": 6500.0
     },
-    "MaxMoveFromBorn": 5500.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 5500.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 80017,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 80017,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 55000.0,
       "max": 56000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 95000.0,
       "max": 100000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -50000.0,
       "max": 50000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -50000.0,
       "max": 50000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 55000.0,
       "max": 56000.0
     },
-    "MaxMoveFromBorn": 60000.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 60000.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800051,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800051,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 13000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 3000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 6000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": 5500.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 5500.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77042,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77042,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70111,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70111,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77047,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77047,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70092,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70092,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 9000.0,
       "max": 10000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800041,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800041,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 9000.0,
       "max": 9100.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1500.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1500.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
-      "max": 5300.0
+      "max": 4100.0
     },
-    "MaxMoveFromBorn": 3800.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 4000.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70116,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70116,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 4000.0,
       "max": 4500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77048,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77048,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 2000.0,
       "max": 3500.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 7000.0,
       "max": 7500.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70119,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70119,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 14,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 14,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 300.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 5000.0,
       "max": 8000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 15,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 15,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1000.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 5000.0,
       "max": 8000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 77024,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 77024,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70107,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70107,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 1500.0,
       "max": 3000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1000.0,
       "max": 1500.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800091,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800091,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 6000.0,
       "max": 8000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -3000.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
       "max": 5500.0
     },
-    "MaxMoveFromBorn": 2800.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 2800.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 70120,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 70120,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 3000.0,
       "max": 5000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 100000.0,
       "max": -214748.36
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 700531,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 700531,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 4000.0,
       "max": 5000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5000.0,
       "max": 6000.0
     },
-    "MaxMoveFromBorn": -1.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": -1.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800021,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800021,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 8000.0,
       "max": 9000.0
     },
-    "DisengageTimeRange": {
-      "min": 40000.0,
-      "max": 45000.0
+    "disengage_time_range": {
+      "min": 5000.0,
+      "max": 6000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
-      "max": 5000.0
+      "max": 4500.0
     },
-    "MaxMoveFromBorn": 3000.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 3000.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800031,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800031,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 8000.0,
       "max": 9000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -5000.0,
       "max": 5000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 3200.0,
-      "max": 4200.0
+      "max": 3300.0
     },
-    "MaxMoveFromBorn": 3000.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 3000.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800052,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800052,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 13000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1500.0,
       "max": 3000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -1500.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 7500.0,
       "max": 7600.0
     },
-    "MaxMoveFromBorn": 4700.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 4700.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800111,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800111,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 8000.0,
       "max": 10000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -1500.0,
       "max": 1000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -3000.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
-      "min": 4200.0,
-      "max": 5100.0
+    "disengage_born_distance": {
+      "min": 3200.0,
+      "max": 4200.0
     },
-    "MaxMoveFromBorn": 4000.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 4000.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800121,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800121,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 12100.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 4000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -10001.0,
       "max": 10001.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 5500.0,
       "max": 6500.0
     },
-    "MaxMoveFromBorn": 5300.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 5500.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800092,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800092,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 8000.0,
       "max": 10000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -2000.0,
       "max": 2000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -3000.0,
       "max": 3000.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 4000.0,
       "max": 5000.0
     },
-    "MaxMoveFromBorn": 3750.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 3750.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   },
   {
-    "Id": 800101,
-    "BaseHatred": 1.0,
-    "DecreaseRate": 0.8,
-    "DecreaseTimeLength": 5000.0,
-    "DecreaseTimeCd": 10000.0,
-    "IncreaseRateWhenDecreasing": 1.0,
-    "MinClearTime": 1000.0,
-    "DisengageDistanceRange": {
+    "id": 800101,
+    "base_hatred": 1.0,
+    "decrease_rate": 0.8,
+    "decrease_time_length": 5000.0,
+    "decrease_time_cd": 10000.0,
+    "increase_rate_when_decreasing": 1.0,
+    "min_clear_time": 1000.0,
+    "disengage_distance_range": {
       "min": 12000.0,
       "max": 13000.0
     },
-    "DisengageTimeRange": {
+    "disengage_time_range": {
       "min": 40000.0,
       "max": 45000.0
     },
-    "DisengageHeightRange": {
+    "disengage_height_range": {
       "min": -10000.0,
       "max": 10000.0
     },
-    "DisengageHeightRangeMax": {
+    "disengage_height_range_max": {
       "min": -10001.0,
       "max": 10001.0
     },
-    "DisengageBornDistance": {
+    "disengage_born_distance": {
       "min": 6000.0,
       "max": 7000.0
     },
-    "MaxMoveFromBorn": 5500.0,
-    "ExcludeTag": "行为状态.逻辑状态.隐身",
-    "SwornHatredTag": ""
+    "max_move_from_born": 5500.0,
+    "exclude_tag": "行为状态.逻辑状态.隐身",
+    "sworn_hatred_tag": ""
   }
 ]

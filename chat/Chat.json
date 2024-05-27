@@ -1,20 +1,20 @@
 [
   {
-    "Id": 1,
-    "Name": "Chat_1_Name",
-    "BuildLimit": 0,
-    "SaveMsgLimit": 30,
-    "LocalSaveMsgLimit": 100,
-    "SaveMsgTime": 30,
-    "ChatCd": 500
+    "id": 1,
+    "name": "Chat_1_Name",
+    "build_limit": 0,
+    "save_msg_limit": 30,
+    "local_save_msg_limit": 100,
+    "save_msg_time": 30,
+    "chat_cd": 500
   },
   {
-    "Id": 2,
-    "Name": "Chat_2_Name",
-    "BuildLimit": 1,
-    "SaveMsgLimit": 30,
-    "LocalSaveMsgLimit": 100,
-    "SaveMsgTime": 5,
-    "ChatCd": 500
+    "id": 2,
+    "name": "Chat_2_Name",
+    "build_limit": 1,
+    "save_msg_limit": 30,
+    "local_save_msg_limit": 100,
+    "save_msg_time": 5,
+    "chat_cd": 500
   }
 ]

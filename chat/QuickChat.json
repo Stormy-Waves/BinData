@@ -1,34 +1,34 @@
 [
   {
-    "Id": 1,
-    "QuickChatContent": "QuickChat_1_QuickChatContent"
+    "id": 1,
+    "quick_chat_content": "QuickChat_1_QuickChatContent"
   },
   {
-    "Id": 2,
-    "QuickChatContent": "QuickChat_2_QuickChatContent"
+    "id": 2,
+    "quick_chat_content": "QuickChat_2_QuickChatContent"
   },
   {
-    "Id": 3,
-    "QuickChatContent": "QuickChat_3_QuickChatContent"
+    "id": 3,
+    "quick_chat_content": "QuickChat_3_QuickChatContent"
   },
   {
-    "Id": 4,
-    "QuickChatContent": "QuickChat_4_QuickChatContent"
+    "id": 4,
+    "quick_chat_content": "QuickChat_4_QuickChatContent"
   },
   {
-    "Id": 5,
-    "QuickChatContent": "QuickChat_5_QuickChatContent"
+    "id": 5,
+    "quick_chat_content": "QuickChat_5_QuickChatContent"
   },
   {
-    "Id": 6,
-    "QuickChatContent": "QuickChat_6_QuickChatContent"
+    "id": 6,
+    "quick_chat_content": "QuickChat_6_QuickChatContent"
   },
   {
-    "Id": 7,
-    "QuickChatContent": "QuickChat_7_QuickChatContent"
+    "id": 7,
+    "quick_chat_content": "QuickChat_7_QuickChatContent"
   },
   {
-    "Id": 8,
-    "QuickChatContent": "QuickChat_8_QuickChatContent"
+    "id": 8,
+    "quick_chat_content": "QuickChat_8_QuickChatContent"
   }
 ]

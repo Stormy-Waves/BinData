@@ -1,14 +1,14 @@
 [
   {
-    "Id": "ItemIcon256",
-    "ConfigParam": "Icon"
+    "id": "ItemIcon256",
+    "config_param": "Icon"
   },
   {
-    "Id": "ItemIcon160",
-    "ConfigParam": "IconMiddle"
+    "id": "ItemIcon160",
+    "config_param": "IconMiddle"
   },
   {
-    "Id": "ItemIcon80",
-    "ConfigParam": "IconSmall"
+    "id": "ItemIcon80",
+    "config_param": "IconSmall"
   }
 ]

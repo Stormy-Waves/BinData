@@ -1,15 +1,15 @@
 [
   {
-    "Id": 1,
-    "AxisName": "LookUp",
-    "AxisType": 1,
-    "PcKeys": [
+    "id": 1,
+    "axis_name": "LookUp",
+    "axis_type": 1,
+    "pc_keys": [
       {
         "key": "MouseY",
         "value": -1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_RightY",
         "value": 0.7
@@ -19,13 +19,13 @@
         "value": 0.7
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 2,
-    "AxisName": "MoveForward",
-    "AxisType": 1,
-    "PcKeys": [
+    "id": 2,
+    "axis_name": "MoveForward",
+    "axis_type": 1,
+    "pc_keys": [
       {
         "key": "S",
         "value": -1.0
@@ -35,7 +35,7 @@
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftY",
         "value": 1.0
@@ -45,13 +45,13 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 3,
-    "AxisName": "MoveRight",
-    "AxisType": 1,
-    "PcKeys": [
+    "id": 3,
+    "axis_name": "MoveRight",
+    "axis_type": 1,
+    "pc_keys": [
       {
         "key": "A",
         "value": -1.0
@@ -61,7 +61,7 @@
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
         "value": 1.0
@@ -71,19 +71,19 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 4,
-    "AxisName": "Turn",
-    "AxisType": 1,
-    "PcKeys": [
+    "id": 4,
+    "axis_name": "Turn",
+    "axis_type": 1,
+    "pc_keys": [
       {
         "key": "MouseX",
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_RightX",
         "value": 0.7
@@ -93,45 +93,45 @@
         "value": 0.7
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 5,
-    "AxisName": "Zoom",
-    "AxisType": 1,
-    "PcKeys": [
+    "id": 5,
+    "axis_name": "Zoom",
+    "axis_type": 1,
+    "pc_keys": [
       {
         "key": "MouseWheelAxis",
         "value": 1.0
       }
     ],
-    "GamepadKeys": [],
-    "DisplayName": ""
+    "gamepad_keys": [],
+    "display_name": ""
   },
   {
-    "Id": 6,
-    "AxisName": "WheelAxis",
-    "AxisType": 1,
-    "PcKeys": [
+    "id": 6,
+    "axis_name": "WheelAxis",
+    "axis_type": 1,
+    "pc_keys": [
       {
         "key": "MouseWheelAxis",
         "value": 1.0
       }
     ],
-    "GamepadKeys": [],
-    "DisplayName": ""
+    "gamepad_keys": [],
+    "display_name": ""
   },
   {
-    "Id": 7,
-    "AxisName": "UiIncrease",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 7,
+    "axis_name": "UiIncrease",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "C",
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_RightTriggerAxis",
         "value": -1.0
@@ -141,19 +141,19 @@
         "value": -1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 8,
-    "AxisName": "UiReduce",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 8,
+    "axis_name": "UiReduce",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "Z",
         "value": -1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftTriggerAxis",
         "value": 1.0
@@ -163,13 +163,13 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 9,
-    "AxisName": "UiMoveForward",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 9,
+    "axis_name": "UiMoveForward",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "S",
         "value": -1.0
@@ -179,7 +179,7 @@
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftY",
         "value": 1.0
@@ -189,13 +189,13 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 10,
-    "AxisName": "UiMoveRight",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 10,
+    "axis_name": "UiMoveRight",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "A",
         "value": -1.0
@@ -205,7 +205,7 @@
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
         "value": 1.0
@@ -215,14 +215,14 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 11,
-    "AxisName": "UiIncrease2",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 11,
+    "axis_name": "UiIncrease2",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_DPad_Right",
         "value": 0.2
@@ -240,14 +240,14 @@
         "value": 0.2
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 12,
-    "AxisName": "UiReduce2",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 12,
+    "axis_name": "UiReduce2",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_DPad_Left",
         "value": -0.2
@@ -265,14 +265,14 @@
         "value": 0.2
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 13,
-    "AxisName": "NavigationTopDown",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 13,
+    "axis_name": "NavigationTopDown",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftY",
         "value": 1.0
@@ -282,14 +282,14 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 14,
-    "AxisName": "NavigationLeftRight",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 14,
+    "axis_name": "NavigationLeftRight",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
         "value": 1.0
@@ -299,14 +299,14 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 15,
-    "AxisName": "UiScroll1",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 15,
+    "axis_name": "UiScroll1",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_RightY",
         "value": 1.0
@@ -316,14 +316,14 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 16,
-    "AxisName": "UiScroll2",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 16,
+    "axis_name": "UiScroll2",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_RightX",
         "value": 1.0
@@ -333,19 +333,19 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 17,
-    "AxisName": "UiLookUp",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 17,
+    "axis_name": "UiLookUp",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "MouseY",
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_RightY",
         "value": 1.0
@@ -355,19 +355,19 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 18,
-    "AxisName": "UiTurn",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 18,
+    "axis_name": "UiTurn",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "MouseX",
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_RightX",
         "value": 1.0
@@ -377,32 +377,32 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 19,
-    "AxisName": "UiWheelAxis",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 19,
+    "axis_name": "UiWheelAxis",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "MouseWheelAxis",
         "value": 1.0
       }
     ],
-    "GamepadKeys": [],
-    "DisplayName": ""
+    "gamepad_keys": [],
+    "display_name": ""
   },
   {
-    "Id": 20,
-    "AxisName": "Ui左摇杆",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 20,
+    "axis_name": "Ui左摇杆",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "Mouse2D",
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_Left2D",
         "value": 1.0
@@ -412,19 +412,19 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 21,
-    "AxisName": "Ui右摇杆",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 21,
+    "axis_name": "Ui右摇杆",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "Mouse2D",
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_Right2D",
         "value": 1.0
@@ -434,13 +434,13 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 22,
-    "AxisName": "MouseMove",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 22,
+    "axis_name": "MouseMove",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "MouseX",
         "value": 1.0
@@ -450,15 +450,15 @@
         "value": 1.0
       }
     ],
-    "GamepadKeys": [],
-    "DisplayName": ""
+    "gamepad_keys": [],
+    "display_name": ""
   },
   {
-    "Id": 23,
-    "AxisName": "NextGroup",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 23,
+    "axis_name": "NextGroup",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
         "value": 1.0
@@ -468,14 +468,14 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 24,
-    "AxisName": "PrevGroup",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 24,
+    "axis_name": "PrevGroup",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
         "value": 1.0
@@ -485,14 +485,14 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 25,
-    "AxisName": "MapIncrease",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 25,
+    "axis_name": "MapIncrease",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftTriggerAxis",
         "value": -1.0
@@ -502,14 +502,14 @@
         "value": -1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 26,
-    "AxisName": "MapReduce",
-    "AxisType": 4,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 26,
+    "axis_name": "MapReduce",
+    "axis_type": 4,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_RightTriggerAxis",
         "value": 1.0
@@ -519,13 +519,13 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 27,
-    "AxisName": "MapMoveForward",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 27,
+    "axis_name": "MapMoveForward",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "S",
         "value": -1.0
@@ -535,7 +535,7 @@
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftY",
         "value": 1.0
@@ -545,13 +545,13 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   },
   {
-    "Id": 28,
-    "AxisName": "MapMoveRight",
-    "AxisType": 4,
-    "PcKeys": [
+    "id": 28,
+    "axis_name": "MapMoveRight",
+    "axis_type": 4,
+    "pc_keys": [
       {
         "key": "A",
         "value": -1.0
@@ -561,7 +561,7 @@
         "value": 1.0
       }
     ],
-    "GamepadKeys": [
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
         "value": 1.0
@@ -571,6 +571,6 @@
         "value": 1.0
       }
     ],
-    "DisplayName": ""
+    "display_name": ""
   }
 ]

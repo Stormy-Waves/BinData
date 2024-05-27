@@ -1,49 +1,49 @@
 [
   {
-    "Id": 70140001,
-    "SpecialItemType": 0,
-    "UseInstance": true,
-    "BanTags": [
+    "id": 70140001,
+    "special_item_type": 0,
+    "use_instance": true,
+    "ban_tags": [
       "行为状态.逻辑状态.进入战斗",
       "行为状态.逻辑状态.技能中"
     ],
-    "AllowTags": [
+    "allow_tags": [
       "行为状态.位置状态.地面",
       "行为状态.逻辑状态.拍照范围中"
     ]
   },
   {
-    "Id": 70140002,
-    "SpecialItemType": 0,
-    "UseInstance": false,
-    "BanTags": [
+    "id": 70140002,
+    "special_item_type": 0,
+    "use_instance": false,
+    "ban_tags": [
       "关卡.道具.怨鸟泽.禁止使用龙卷",
       "怪物.AiShengGuYuan.孤鸯常驻战斗子镜头"
     ],
-    "AllowTags": [
+    "allow_tags": [
       "行为状态.位置状态.地面",
       "关卡.道具.怨鸟泽.可使用龙卷区域"
     ]
   },
   {
-    "Id": 70139304,
-    "SpecialItemType": 1,
-    "UseInstance": false,
-    "BanTags": [],
-    "AllowTags": []
+    "id": 70139304,
+    "special_item_type": 1,
+    "use_instance": false,
+    "ban_tags": [],
+    "allow_tags": []
   },
   {
-    "Id": 70140011,
-    "SpecialItemType": 1,
-    "UseInstance": true,
-    "BanTags": [],
-    "AllowTags": []
+    "id": 70140011,
+    "special_item_type": 1,
+    "use_instance": true,
+    "ban_tags": [],
+    "allow_tags": []
   },
   {
-    "Id": 70139300,
-    "SpecialItemType": 1,
-    "UseInstance": false,
-    "BanTags": [],
-    "AllowTags": []
+    "id": 70139300,
+    "special_item_type": 1,
+    "use_instance": false,
+    "ban_tags": [],
+    "allow_tags": []
   }
 ]

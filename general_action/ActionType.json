@@ -1,2626 +1,2626 @@
 [
   {
-    "Type": "DestroySelf",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "DestroySelf",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "DestroyTargetWithTag",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "DestroyTargetWithTag",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "CreateEntity",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "CreateEntity",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "EntityID",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "CreateRange",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveTag",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveTag",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Target",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AddTag",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AddTag",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Target",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "GetItem",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "GetItem",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "ItemID",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Count",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveItem",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveItem",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "ItemID",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Count",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ManageQuestStep",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ManageQuestStep",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "QuestID",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "StepID",
         "value": "Int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "ManageWay",
         "value": "String"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ResetQuestStep",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ResetQuestStep",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "QuestID",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "StepID",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ActivateCreatureGen",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ActivateCreatureGen",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ActivateDynamicCreatureGen",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ActivateDynamicCreatureGen",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGenID",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "PosStrategy",
         "value": "String"
       }
     ],
-    "Param3": [],
-    "Param4": [
+    "param3": [],
+    "param4": [
       {
         "key": "PosX",
         "value": "Int"
       }
     ],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveDynamicCreatureGen",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveDynamicCreatureGen",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGenID",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AddCreatureTag",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AddCreatureTag",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveCreatureTag",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveCreatureTag",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "MonitorTargetDeathCount",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "MonitorTargetDeathCount",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "CallCondition",
         "value": "Int"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "CallEvent",
         "value": "Int"
       }
     ],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ActivateInteraction",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "ActivateInteraction",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "UpdateInterState",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "UpdateInterState",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "QuestID",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "StepID",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "CloseWidget",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "CloseWidget",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "UpdateQuestIcon",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "UpdateQuestIcon",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SetPos",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SetPos",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "xPos",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "yPos",
         "value": "Int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "zPos",
         "value": "Int"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "Target",
         "value": "String"
       }
     ],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SetOffset",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SetOffset",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "zOffset",
         "value": "Int"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SetRotation",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SetRotation",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "xRotation",
         "value": "Int"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ChangeFightIntensity",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ChangeFightIntensity",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "FightIntensity",
         "value": "Int"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "UpdatePlayerInfoTag",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "UpdatePlayerInfoTag",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Flag",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "OpenShop",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "OpenShop",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "ShopId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ChangeAI",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ChangeAI",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "AIConfig",
         "value": "String"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "GuideTrigger",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "GuideTrigger",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GuideGroupId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "BeginStatueAdoreGP",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "BeginStatueAdoreGP",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "BeginCipher",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "BeginCipher",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CipherConfigID",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "FocusOnInformationBoard",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "FocusOnInformationBoard",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "InstSettle",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "InstSettle",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Result",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "OpenInstance",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "OpenInstance",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "InstanceId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "TeleportTrigger",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "TeleportTrigger",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "TeleportId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AudioEvent",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AudioEvent",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "EventPath",
         "value": "String"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SendGameplayEventToPlayer",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SendGameplayEventToPlayer",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GameplayTag",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Both",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "GuideFinish",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "GuideFinish",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GuidePassword",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SceneStepFail",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SceneStepFail",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "SceneStepGroupId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "JumpToSceneStep",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "JumpToSceneStep",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "SceneStepGroupId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "SceneStepId",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SetRevivePoint",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SetRevivePoint",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AdjustTodTime",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AdjustTodTime",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Minute",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SetReviveId",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SetReviveId",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "ReviveId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AddReviveRegion",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AddReviveRegion",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "ReviveId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveReviveRegion",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveReviveRegion",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "ReviveId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AddEntityCommonTag",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AddEntityCommonTag",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "EntityCommonTag",
         "value": "String"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveEntityCommonTag",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveEntityCommonTag",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "EntityCommonTag",
         "value": "String"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "OpenUI",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "OpenUI",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "UIName",
         "value": "String"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "Prompt",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "Prompt",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "TipId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AddBuffToPlayer",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AddBuffToPlayer",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Id",
         "value": "Long"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveBuffFromPlayer",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveBuffFromPlayer",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Id",
         "value": "Long"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AddBuffToCreature",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AddBuffToCreature",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "BuffId",
         "value": "Long"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveBuffFromCreature",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveBuffFromCreature",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "BuffId",
         "value": "Long"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "OpenInstanceEntrance",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "OpenInstanceEntrance",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "EntranceId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "UnlockInstanceEntrance",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "UnlockInstanceEntrance",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "EntranceId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "UpdateInstanceEntranceUnlockStatus",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "UpdateInstanceEntranceUnlockStatus",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "EntranceId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RefreshCreatureGen",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RefreshCreatureGen",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "AreaId",
         "value": "String"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "InstTrialRoleActivate",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "InstTrialRoleActivate",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "RoleId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "InstTrialRoletInactivate",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "InstTrialRoletInactivate",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "RoleId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "WorldTrialRoleActivate",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "WorldTrialRoleActivate",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "RoleId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "RegionId",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "WorldTrialRoleInactivate",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "WorldTrialRoleInactivate",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "RoleId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "UnlockExploreTool",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "UnlockExploreTool",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "ExploreSkillId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SetTargetPos",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SetTargetPos",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "xPos",
         "value": "Float"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "yPos",
         "value": "Float"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "zPos",
         "value": "Float"
       }
     ],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "OpenDragonPool",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "OpenDragonPool",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "DragonPoolId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "CameraLookAtPosition",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "CameraLookAtPosition",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "X",
         "value": "Float"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Y",
         "value": "Float"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "Z",
         "value": "Float"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "FadeInTime",
         "value": "Float"
       }
     ],
-    "Param5": [
+    "param5": [
       {
         "key": "StayTime",
         "value": "Float"
       }
     ],
-    "Param6": [
+    "param6": [
       {
         "key": "FadeOutTime",
         "value": "Float"
       }
     ],
-    "Param7": [
+    "param7": [
       {
         "key": "LockCameraInput",
         "value": "Float"
       }
     ],
-    "Param8": []
+    "param8": []
   },
   {
-    "Type": "ExitCameraLookAtPosition",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "ExitCameraLookAtPosition",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SetPlayerMoveControl",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SetPlayerMoveControl",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Left",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Right",
         "value": "Int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "Forward",
         "value": "Int"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "Back",
         "value": "Int"
       }
     ],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SetPlayerCameraLockState",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SetPlayerCameraLockState",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "IsLock",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "PlayPlot",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "PlayPlot",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "NetworkId",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "NetworkRes",
         "value": "String"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "IsCache",
         "value": "Int"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "WaitTick",
         "value": "Int"
       }
     ],
-    "Param5": [
+    "param5": [
       {
         "key": "PlotConfigRes",
         "value": "String"
       }
     ],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "SetTimeSlowDown",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "SetTimeSlowDown",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "DilationPercent",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "WaitFlyControl",
-    "IsClientTrigger": true,
-    "NeedTick": true,
-    "Param1": [
+    "type": "WaitFlyControl",
+    "is_client_trigger": true,
+    "need_tick": true,
+    "param1": [
       {
         "key": "WaitTime",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Success",
         "value": "Int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "Failure",
         "value": "Int"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "WaitTime",
-    "IsClientTrigger": true,
-    "NeedTick": true,
-    "Param1": [
+    "type": "WaitTime",
+    "is_client_trigger": true,
+    "need_tick": true,
+    "param1": [
       {
         "key": "Time",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "TriggerExit",
-    "IsClientTrigger": true,
-    "NeedTick": true,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "TriggerExit",
+    "is_client_trigger": true,
+    "need_tick": true,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "CheckFlyState",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "CheckFlyState",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Success",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Failure",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "TimerController",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "TimerController",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "TimerID",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Activate",
         "value": "Int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "TipId",
         "value": "Int"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "InstStepProgressFail",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "InstStepProgressFail",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "DoDrop",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "DoDrop",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "DropId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "DisableQuestStep",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "DisableQuestStep",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "QuestID",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "StepID",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "OpenJoinTeamView",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "OpenJoinTeamView",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "DescriptionId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "CaptureRequest",
-    "IsClientTrigger": true,
-    "NeedTick": true,
-    "Param1": [
+    "type": "CaptureRequest",
+    "is_client_trigger": true,
+    "need_tick": true,
+    "param1": [
       {
         "key": "Success",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ShowDialog",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ShowDialog",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "IsCache",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "RowName",
         "value": "Int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "DataTableName",
         "value": "String"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "RemoveTime",
         "value": "Int"
       }
     ],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ChangePatrol",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ChangePatrol",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "PatrolIndex",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "PlayWuYinSequence",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "PlayWuYinSequence",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "SequenceName",
         "value": "String"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "StartShootTarget",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "StartShootTarget",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ExchangeReward",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ExchangeReward",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "ExchangeRewardId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "TreasurBoxIdleFlow",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "TreasurBoxIdleFlow",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "StateId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "GenId",
         "value": "Int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "EntityId",
         "value": "int"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "TreasurBoxToDeath",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "TreasurBoxToDeath",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GenId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "EntityId",
         "value": "int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "CameraShake",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "CameraShake",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "MatineeCameraShake",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "MinInterval",
         "value": "Float"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "MaxInterval",
         "value": "Float"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "InnerRadius",
         "value": "Float"
       }
     ],
-    "Param5": [
+    "param5": [
       {
         "key": "OuterRadius",
         "value": "Float"
       }
     ],
-    "Param6": [
+    "param6": [
       {
         "key": "Falloff",
         "value": "Float"
       }
     ],
-    "Param7": [
+    "param7": [
       {
         "key": "OrientShakeTowardsEpicenter",
         "value": "String"
       }
     ],
-    "Param8": []
+    "param8": []
   },
   {
-    "Type": "OpenWorldMap",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "OpenWorldMap",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "GamePlaySwitch",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "GamePlaySwitch",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GamePlayId",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Switch",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "GamePlayComplete",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "GamePlayComplete",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GamePlayId",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "GamePlayReward",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "GamePlayReward",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LoadSceneStepGroup",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "LoadSceneStepGroup",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "StepGroupId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AddTagTreasureBox",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AddTagTreasureBox",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "long"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "EntityConfigId",
         "value": "int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "EntityCommonTag",
         "value": "String"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveTagTreasureBox",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveTagTreasureBox",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "long"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "EntityConfigId",
         "value": "int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "EntityCommonTag",
         "value": "String"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveAllNotTagTreasureBox",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveAllNotTagTreasureBox",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "long"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "EntityConfigId",
         "value": "int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoveOneNotTagTreasureBox",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoveOneNotTagTreasureBox",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CreatureGen",
         "value": "long"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "EntityConfigId",
         "value": "int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "OpenRegionQuest",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "OpenRegionQuest",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "BoardId",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "OpenHelp",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "OpenHelp",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "HelpGroupId",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "OpenContributionLevelView",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "OpenContributionLevelView",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "BoardId",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventStartSneak",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "LevelEventStartSneak",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GroupId",
         "value": "int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventFailSneak",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "LevelEventFailSneak",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "InstReward",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "InstReward",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "EntityCommonTag",
         "value": "string"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ToggleAreaState",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ToggleAreaState",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "AreaID",
         "value": "int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "State",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "FloorFlowerInit",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "FloorFlowerInit",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "FloorFlowerUse",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "FloorFlowerUse",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "PointId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "State",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventPlayerLoockAt",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "LevelEventPlayerLoockAt",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "PosY",
         "value": "Float"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "PosY",
         "value": "Float"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "PosY",
         "value": "Float"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "CameraMove",
         "value": "String"
       }
     ],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventToLocation",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "LevelEventToLocation",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "RotX",
         "value": "Float"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "RotY",
         "value": "Float"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "RotZ",
         "value": "Float"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "GenId",
         "value": "Long"
       }
     ],
-    "Param5": [
+    "param5": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "AddInstTimer",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "AddInstTimer",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "TimerId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "DelInstTimer",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "DelInstTimer",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "TimerId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ResetInstTimer",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ResetInstTimer",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "TimerId",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventLaunchBullet",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "LevelEventLaunchBullet",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "BulletRowName",
         "value": "String"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Radius",
         "value": "Float"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "Height",
         "value": "Float"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventSetBlackBoardValue",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "LevelEventSetBlackBoardValue",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GenId",
         "value": "Long"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Tag",
         "value": "String"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "Type",
         "value": "String"
       }
     ],
-    "Param4": [
+    "param4": [
       {
         "key": "Key",
         "value": "String"
       }
     ],
-    "Param5": [
+    "param5": [
       {
         "key": "Value",
         "value": "String"
       }
     ],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventSuccessSneak",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "LevelEventSuccessSneak",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "TimerControllerServer",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "TimerControllerServer",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "TimerId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Activate",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "TimerControllerServerAddSecond",
-    "IsClientTrigger": false,
-    "NeedTick": false,
-    "Param1": [
+    "type": "TimerControllerServerAddSecond",
+    "is_client_trigger": false,
+    "need_tick": false,
+    "param1": [
       {
         "key": "TimerId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "Second",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventControlTodTime",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "LevelEventControlTodTime",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "State",
         "value": "Bool"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "PlayMovie",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "PlayMovie",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "CgName",
         "value": "String"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventForceLockOnSpecialTagTarget",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "LevelEventForceLockOnSpecialTagTarget",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "EntityId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "IsLockOn",
         "value": "Bool"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "DisableMapView",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "DisableMapView",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "IsOn",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "LevelEventUnlockElevator",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "LevelEventUnlockElevator",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GenId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "EntityId",
         "value": "Int"
       }
     ],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ToggleSceneItemLockState",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "ToggleSceneItemLockState",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ToggleSceneItemActiveState",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "type": "ToggleSceneItemActiveState",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [],
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "RemoteActiveElevator",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "RemoteActiveElevator",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "GenId",
         "value": "Int"
       }
     ],
-    "Param2": [
+    "param2": [
       {
         "key": "EntityId",
         "value": "Int"
       }
     ],
-    "Param3": [
+    "param3": [
       {
         "key": "Way",
         "value": "Int"
       }
     ],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   },
   {
-    "Type": "ToggleVoiceCheckState",
-    "IsClientTrigger": true,
-    "NeedTick": false,
-    "Param1": [
+    "type": "ToggleVoiceCheckState",
+    "is_client_trigger": true,
+    "need_tick": false,
+    "param1": [
       {
         "key": "IsOpen",
         "value": "Int"
       }
     ],
-    "Param2": [],
-    "Param3": [],
-    "Param4": [],
-    "Param5": [],
-    "Param6": [],
-    "Param7": [],
-    "Param8": []
+    "param2": [],
+    "param3": [],
+    "param4": [],
+    "param5": [],
+    "param6": [],
+    "param7": [],
+    "param8": []
   }
 ]

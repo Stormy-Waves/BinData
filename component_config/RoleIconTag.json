@@ -1,34 +1,34 @@
 [
   {
-    "Id": "RoleIcon1",
-    "ConfigParam": "RoleHeadIcon"
+    "id": "RoleIcon1",
+    "config_param": "RoleHeadIcon"
   },
   {
-    "Id": "RoleIcon2",
-    "ConfigParam": "Card"
+    "id": "RoleIcon2",
+    "config_param": "Card"
   },
   {
-    "Id": "RoleIcon3",
-    "ConfigParam": "FormationRoleCard"
+    "id": "RoleIcon3",
+    "config_param": "FormationRoleCard"
   },
   {
-    "Id": "RoleIcon4",
-    "ConfigParam": "RoleStand"
+    "id": "RoleIcon4",
+    "config_param": "RoleStand"
   },
   {
-    "Id": "RoleIcon5",
-    "ConfigParam": "RoleHeadIconBig"
+    "id": "RoleIcon5",
+    "config_param": "RoleHeadIconBig"
   },
   {
-    "Id": "ItemIcon160",
-    "ConfigParam": "RoleHeadIcon"
+    "id": "ItemIcon160",
+    "config_param": "RoleHeadIcon"
   },
   {
-    "Id": "RoleIcon6",
-    "ConfigParam": "RoleHeadIconLarge"
+    "id": "RoleIcon6",
+    "config_param": "RoleHeadIconLarge"
   },
   {
-    "Id": "RoleIcon7",
-    "ConfigParam": "RoleHeadIconCircle"
+    "id": "RoleIcon7",
+    "config_param": "RoleHeadIconCircle"
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "Id": 1402,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1402,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.07,
       1.13,
@@ -13,9 +13,9 @@
     ]
   },
   {
-    "Id": 1202,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1202,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.07,
       1.13,
@@ -26,9 +26,9 @@
     ]
   },
   {
-    "Id": 1503,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1503,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.03,
       1.05,
@@ -39,9 +39,9 @@
     ]
   },
   {
-    "Id": 1501,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1501,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.03,
       1.06,
@@ -52,9 +52,9 @@
     ]
   },
   {
-    "Id": 1102,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1102,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.07,
       1.13,
@@ -65,9 +65,9 @@
     ]
   },
   {
-    "Id": 1601,
-    "Attr": 10,
-    "LifeSeatBoostFactor": [
+    "id": 1601,
+    "attr": 10,
+    "life_seat_boost_factor": [
       1.0,
       1.07,
       1.13,
@@ -78,9 +78,9 @@
     ]
   },
   {
-    "Id": 1502,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1502,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.03,
       1.06,
@@ -91,9 +91,9 @@
     ]
   },
   {
-    "Id": 1103,
-    "Attr": 2,
-    "LifeSeatBoostFactor": [
+    "id": 1103,
+    "attr": 2,
+    "life_seat_boost_factor": [
       1.0,
       1.07,
       1.13,
@@ -104,9 +104,9 @@
     ]
   },
   {
-    "Id": 1203,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1203,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.03,
       1.05,
@@ -117,9 +117,9 @@
     ]
   },
   {
-    "Id": 1602,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1602,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.07,
       1.13,
@@ -130,9 +130,9 @@
     ]
   },
   {
-    "Id": 1403,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1403,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.07,
       1.13,
@@ -143,9 +143,9 @@
     ]
   },
   {
-    "Id": 1404,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1404,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.09,
       1.19,
@@ -156,9 +156,9 @@
     ]
   },
   {
-    "Id": 1204,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1204,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.07,
       1.13,
@@ -169,9 +169,9 @@
     ]
   },
   {
-    "Id": 1301,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1301,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.03,
       1.05,
@@ -182,9 +182,9 @@
     ]
   },
   {
-    "Id": 1302,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1302,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.09,
       1.19,
@@ -195,9 +195,9 @@
     ]
   },
   {
-    "Id": 1303,
-    "Attr": 10,
-    "LifeSeatBoostFactor": [
+    "id": 1303,
+    "attr": 10,
+    "life_seat_boost_factor": [
       1.0,
       1.07,
       1.13,
@@ -208,9 +208,9 @@
     ]
   },
   {
-    "Id": 1604,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1604,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.03,
       1.06,
@@ -221,9 +221,9 @@
     ]
   },
   {
-    "Id": 1605,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1605,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.03,
       1.06,
@@ -234,9 +234,9 @@
     ]
   },
   {
-    "Id": 1405,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1405,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.03,
       1.05,
@@ -247,9 +247,9 @@
     ]
   },
   {
-    "Id": 1104,
-    "Attr": 7,
-    "LifeSeatBoostFactor": [
+    "id": 1104,
+    "attr": 7,
+    "life_seat_boost_factor": [
       1.0,
       1.03,
       1.05,

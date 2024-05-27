@@ -1,40 +1,40 @@
 [
   {
-    "Id": 0,
-    "BaseType": [
+    "id": 0,
+    "base_type": [
       0
     ],
-    "VisibleTags": [],
-    "HiddenTags": []
+    "visible_tags": [],
+    "hidden_tags": []
   },
   {
-    "Id": 100,
-    "BaseType": [
+    "id": 100,
+    "base_type": [
       0,
       1
     ],
-    "VisibleTags": [
+    "visible_tags": [
       "",
       "角色.BaseRole.Debug功能.高攻击力#角色.BaseRole.Debug功能.低攻击力"
     ],
-    "HiddenTags": []
+    "hidden_tags": []
   },
   {
-    "Id": 1301,
-    "BaseType": [
+    "id": 1301,
+    "base_type": [
       0,
       1
     ],
-    "VisibleTags": [],
-    "HiddenTags": []
+    "visible_tags": [],
+    "hidden_tags": []
   },
   {
-    "Id": 1404,
-    "BaseType": [
+    "id": 1404,
+    "base_type": [
       0,
       1
     ],
-    "VisibleTags": [],
-    "HiddenTags": []
+    "visible_tags": [],
+    "hidden_tags": []
   }
 ]

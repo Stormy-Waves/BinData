@@ -1,86 +1,86 @@
 [
   {
-    "Id": "play_ui_fb_concerto_energy",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_concerto_energy.play_ui_fb_concerto_energy"
+    "id": "play_ui_fb_concerto_energy",
+    "path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_concerto_energy.play_ui_fb_concerto_energy"
   },
   {
-    "Id": "SignalDecodeGame_count_down",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_number.play_ui_fx_com_count_number"
+    "id": "SignalDecodeGame_count_down",
+    "path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_number.play_ui_fx_com_count_number"
   },
   {
-    "Id": "SignalDecodeGame_count_down_End",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_start.play_ui_fx_com_count_start"
+    "id": "SignalDecodeGame_count_down_End",
+    "path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_com_count_start.play_ui_fx_com_count_start"
   },
   {
-    "Id": "SignalDecodeGame_play_base_noise",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_noise.play_amb_interact_capture_signal_noise"
+    "id": "SignalDecodeGame_play_base_noise",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_noise.play_amb_interact_capture_signal_noise"
   },
   {
-    "Id": "SignalDecodeGame_stop_base_noise",
-    "Path": "/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_noise.stop_amb_interact_capture_signal_noise"
+    "id": "SignalDecodeGame_stop_base_noise",
+    "path": "/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_noise.stop_amb_interact_capture_signal_noise"
   },
   {
-    "Id": "SignalDecodeGame_play_press_loop",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_press_loop.play_amb_interact_capture_signal_press_loop"
+    "id": "SignalDecodeGame_play_press_loop",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_press_loop.play_amb_interact_capture_signal_press_loop"
   },
   {
-    "Id": "SignalDecodeGame_stop_press_loop",
-    "Path": "/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_press_loop.stop_amb_interact_capture_signal_press_loop"
+    "id": "SignalDecodeGame_stop_press_loop",
+    "path": "/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_press_loop.stop_amb_interact_capture_signal_press_loop"
   },
   {
-    "Id": "SignalDecodeGame_release_correct",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_correct.play_amb_interact_capture_signal_release_correct"
+    "id": "SignalDecodeGame_release_correct",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_correct.play_amb_interact_capture_signal_release_correct"
   },
   {
-    "Id": "SignalDecodeGame_release_error",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_error.play_amb_interact_capture_signal_release_error"
+    "id": "SignalDecodeGame_release_error",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_error.play_amb_interact_capture_signal_release_error"
   },
   {
-    "Id": "SceneItemDrop_play_item_pickup",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_pickup.play_ui_fb_pickup"
+    "id": "SceneItemDrop_play_item_pickup",
+    "path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_pickup.play_ui_fb_pickup"
   },
   {
-    "Id": "play_amb_interact_sundial_inner_circle_loop",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_loop.play_amb_interact_sundial_inner_circle_loop"
+    "id": "play_amb_interact_sundial_inner_circle_loop",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_loop.play_amb_interact_sundial_inner_circle_loop"
   },
   {
-    "Id": "play_amb_interact_sundial_inner_circle_stuck",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_stuck.play_amb_interact_sundial_inner_circle_stuck"
+    "id": "play_amb_interact_sundial_inner_circle_stuck",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_inner_circle_stuck.play_amb_interact_sundial_inner_circle_stuck"
   },
   {
-    "Id": "play_amb_interact_sundial_outer_circle_loop",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_loop.play_amb_interact_sundial_outer_circle_loop"
+    "id": "play_amb_interact_sundial_outer_circle_loop",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_loop.play_amb_interact_sundial_outer_circle_loop"
   },
   {
-    "Id": "play_amb_interact_sundial_outer_circle_stuck",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_stuck.play_amb_interact_sundial_outer_circle_stuck"
+    "id": "play_amb_interact_sundial_outer_circle_stuck",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_outer_circle_stuck.play_amb_interact_sundial_outer_circle_stuck"
   },
   {
-    "Id": "play_amb_interact_sundial_activate",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_activate.play_amb_interact_sundial_activate"
+    "id": "play_amb_interact_sundial_activate",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_activate.play_amb_interact_sundial_activate"
   },
   {
-    "Id": "play_amb_interact_sundial_deactivate",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_deactivate.play_amb_interact_sundial_deactivate"
+    "id": "play_amb_interact_sundial_deactivate",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_deactivate.play_amb_interact_sundial_deactivate"
   },
   {
-    "Id": "play_amb_interact_sundial_finish",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_finish.play_amb_interact_sundial_finish"
+    "id": "play_amb_interact_sundial_finish",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_sundial_finish.play_amb_interact_sundial_finish"
   },
   {
-    "Id": "play_ui_fx_spl_gen_page_open",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_page_open.play_ui_fx_spl_gen_page_open"
+    "id": "play_ui_fx_spl_gen_page_open",
+    "path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_page_open.play_ui_fx_spl_gen_page_open"
   },
   {
-    "Id": "play_ui_fx_spl_gen_page_close",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_page_close.play_ui_fx_spl_gen_page_close"
+    "id": "play_ui_fx_spl_gen_page_close",
+    "path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_page_close.play_ui_fx_spl_gen_page_close"
   },
   {
-    "Id": "play_ui_fx_spl_gen_robot_success_vo",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_robot_success_vo.play_ui_fx_spl_gen_robot_success_vo"
+    "id": "play_ui_fx_spl_gen_robot_success_vo",
+    "path": "/Game/Aki/WwiseAudio/Events/play_ui_fx_spl_gen_robot_success_vo.play_ui_fx_spl_gen_robot_success_vo"
   },
   {
-    "Id": "play_ui_fb_warn",
-    "Path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_warn.play_ui_fb_warn"
+    "id": "play_ui_fb_warn",
+    "path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_warn.play_ui_fb_warn"
   }
 ]

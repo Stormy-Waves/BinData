@@ -1,106 +1,106 @@
 [
   {
-    "ShopId": 1,
-    "TabId": 1,
-    "Sort": 1,
-    "Name": "PayShopTab_1_1_Name",
-    "Logic": 3,
-    "Enable": false
+    "shop_id": 1,
+    "tab_id": 1,
+    "sort": 1,
+    "name": "PayShopTab_1_1_Name",
+    "logic": 3,
+    "enable": false
   },
   {
-    "ShopId": 1,
-    "TabId": 2,
-    "Sort": 2,
-    "Name": "PayShopTab_1_2_Name",
-    "Logic": 1,
-    "Enable": true
+    "shop_id": 1,
+    "tab_id": 2,
+    "sort": 2,
+    "name": "PayShopTab_1_2_Name",
+    "logic": 1,
+    "enable": true
   },
   {
-    "ShopId": 4,
-    "TabId": 1,
-    "Sort": 1,
-    "Name": "PayShopTab_4_1_Name",
-    "Logic": 2,
-    "Enable": true
+    "shop_id": 4,
+    "tab_id": 1,
+    "sort": 1,
+    "name": "PayShopTab_4_1_Name",
+    "logic": 2,
+    "enable": true
   },
   {
-    "ShopId": 4,
-    "TabId": 2,
-    "Sort": 2,
-    "Name": "PayShopTab_4_2_Name",
-    "Logic": 2,
-    "Enable": true
+    "shop_id": 4,
+    "tab_id": 2,
+    "sort": 2,
+    "name": "PayShopTab_4_2_Name",
+    "logic": 2,
+    "enable": true
   },
   {
-    "ShopId": 4,
-    "TabId": 3,
-    "Sort": 3,
-    "Name": "PayShopTab_4_3_Name",
-    "Logic": 2,
-    "Enable": true
+    "shop_id": 4,
+    "tab_id": 3,
+    "sort": 3,
+    "name": "PayShopTab_4_3_Name",
+    "logic": 2,
+    "enable": true
   },
   {
-    "ShopId": 3,
-    "TabId": 1,
-    "Sort": 1,
-    "Name": "PayShopTab_3_1_Name",
-    "Logic": 3,
-    "Enable": true
+    "shop_id": 3,
+    "tab_id": 1,
+    "sort": 1,
+    "name": "PayShopTab_3_1_Name",
+    "logic": 3,
+    "enable": true
   },
   {
-    "ShopId": 3,
-    "TabId": 2,
-    "Sort": 2,
-    "Name": "PayShopTab_3_2_Name",
-    "Logic": 3,
-    "Enable": true
+    "shop_id": 3,
+    "tab_id": 2,
+    "sort": 2,
+    "name": "PayShopTab_3_2_Name",
+    "logic": 3,
+    "enable": true
   },
   {
-    "ShopId": 3,
-    "TabId": 3,
-    "Sort": 3,
-    "Name": "PayShopTab_1_1_Name",
-    "Logic": 3,
-    "Enable": true
+    "shop_id": 3,
+    "tab_id": 3,
+    "sort": 3,
+    "name": "PayShopTab_1_1_Name",
+    "logic": 3,
+    "enable": true
   },
   {
-    "ShopId": 100,
-    "TabId": 1,
-    "Sort": 1,
-    "Name": "PayShopTab_1_2_Name",
-    "Logic": 1,
-    "Enable": true
+    "shop_id": 100,
+    "tab_id": 1,
+    "sort": 1,
+    "name": "PayShopTab_1_2_Name",
+    "logic": 1,
+    "enable": true
   },
   {
-    "ShopId": 100,
-    "TabId": 2,
-    "Sort": 1,
-    "Name": "PayShopTab_1_2_Name",
-    "Logic": 1,
-    "Enable": true
+    "shop_id": 100,
+    "tab_id": 2,
+    "sort": 1,
+    "name": "PayShopTab_1_2_Name",
+    "logic": 1,
+    "enable": true
   },
   {
-    "ShopId": 201,
-    "TabId": 1,
-    "Sort": 1,
-    "Name": "PayShopTab_Rogue_Name",
-    "Logic": 2,
-    "Enable": true
+    "shop_id": 201,
+    "tab_id": 1,
+    "sort": 1,
+    "name": "PayShopTab_Rogue_Name",
+    "logic": 2,
+    "enable": true
   },
   {
-    "ShopId": 5,
-    "TabId": 1,
-    "Sort": 1,
-    "Name": "PayShopTab_5_1_Name",
-    "Logic": 1,
-    "Enable": true
+    "shop_id": 5,
+    "tab_id": 1,
+    "sort": 1,
+    "name": "PayShopTab_5_1_Name",
+    "logic": 1,
+    "enable": true
   },
   {
-    "ShopId": 5,
-    "TabId": 2,
-    "Sort": 2,
-    "Name": "PayShopTab_5_2_Name",
-    "Logic": 2,
-    "Enable": true
+    "shop_id": 5,
+    "tab_id": 2,
+    "sort": 2,
+    "name": "PayShopTab_5_2_Name",
+    "logic": 2,
+    "enable": true
   }
 ]

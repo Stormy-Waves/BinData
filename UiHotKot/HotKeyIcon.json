@@ -1,542 +1,542 @@
 [
   {
-    "KeyName": "快捷键对应的UE4定义的字符串名字",
-    "Icon": ""
+    "key_name": "快捷键对应的UE4定义的字符串名字",
+    "icon": ""
   },
   {
-    "KeyName": "Key是键盘(只有一个图)或者手柄的key值",
-    "Icon": "图标路径"
+    "key_name": "Key是键盘(只有一个图)或者手柄的key值",
+    "icon": "图标路径"
   },
   {
-    "KeyName": "KeyBoard",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnPcSignBg.SP_CommonBtnPcSignBg"
+    "key_name": "KeyBoard",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnPcSignBg.SP_CommonBtnPcSignBg"
   },
   {
-    "KeyName": "LeftMouseButton",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseLeft_UI.T_IconPcBtn_MouseLeft_UI"
+    "key_name": "LeftMouseButton",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseLeft_UI.T_IconPcBtn_MouseLeft_UI"
   },
   {
-    "KeyName": "RightMouseButton",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseRight_UI.T_IconPcBtn_MouseRight_UI"
+    "key_name": "RightMouseButton",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseRight_UI.T_IconPcBtn_MouseRight_UI"
   },
   {
-    "KeyName": "MiddleMouseButton",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseMiddle_UI.T_IconPcBtn_MouseMiddle_UI"
+    "key_name": "MiddleMouseButton",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseMiddle_UI.T_IconPcBtn_MouseMiddle_UI"
   },
   {
-    "KeyName": "Gamepad_LeftThumbstick",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI"
+    "key_name": "Gamepad_LeftThumbstick",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI"
   },
   {
-    "KeyName": "Gamepad_RightThumbstick",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI"
+    "key_name": "Gamepad_RightThumbstick",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI"
   },
   {
-    "KeyName": "Gamepad_Special_Left",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI"
+    "key_name": "Gamepad_Special_Left",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI"
   },
   {
-    "KeyName": "Gamepad_Special_Left_X",
-    "Icon": ""
+    "key_name": "Gamepad_Special_Left_X",
+    "icon": ""
   },
   {
-    "KeyName": "Gamepad_Special_Left_Y",
-    "Icon": ""
+    "key_name": "Gamepad_Special_Left_Y",
+    "icon": ""
   },
   {
-    "KeyName": "Gamepad_Special_Right",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI"
+    "key_name": "Gamepad_Special_Right",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI"
   },
   {
-    "KeyName": "Gamepad_FaceButton_Bottom",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI"
+    "key_name": "Gamepad_FaceButton_Bottom",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI"
   },
   {
-    "KeyName": "Gamepad_FaceButton_Right",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI"
+    "key_name": "Gamepad_FaceButton_Right",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI"
   },
   {
-    "KeyName": "Gamepad_FaceButton_Left",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI"
+    "key_name": "Gamepad_FaceButton_Left",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI"
   },
   {
-    "KeyName": "Gamepad_FaceButton_Top",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI"
+    "key_name": "Gamepad_FaceButton_Top",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI"
   },
   {
-    "KeyName": "Gamepad_LeftShoulder",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI"
+    "key_name": "Gamepad_LeftShoulder",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI"
   },
   {
-    "KeyName": "Gamepad_RightShoulder",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI"
+    "key_name": "Gamepad_RightShoulder",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI"
   },
   {
-    "KeyName": "Gamepad_LeftTrigger",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI"
+    "key_name": "Gamepad_LeftTrigger",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI"
   },
   {
-    "KeyName": "Gamepad_RightTrigger",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI"
+    "key_name": "Gamepad_RightTrigger",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI"
   },
   {
-    "KeyName": "Gamepad_DPad_Up",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI"
+    "key_name": "Gamepad_DPad_Up",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI"
   },
   {
-    "KeyName": "Gamepad_DPad_Down",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI"
+    "key_name": "Gamepad_DPad_Down",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI"
   },
   {
-    "KeyName": "Gamepad_DPad_Right",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI"
+    "key_name": "Gamepad_DPad_Right",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI"
   },
   {
-    "KeyName": "Gamepad_DPad_Left",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI"
+    "key_name": "Gamepad_DPad_Left",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI"
   },
   {
-    "KeyName": "Gamepad_LeftStick_Up",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
+    "key_name": "Gamepad_LeftStick_Up",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
   },
   {
-    "KeyName": "Gamepad_LeftStick_Down",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
+    "key_name": "Gamepad_LeftStick_Down",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
   },
   {
-    "KeyName": "Gamepad_LeftStick_Right",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
+    "key_name": "Gamepad_LeftStick_Right",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
   },
   {
-    "KeyName": "Gamepad_LeftStick_Left",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
+    "key_name": "Gamepad_LeftStick_Left",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
   },
   {
-    "KeyName": "Gamepad_RightStick_Up",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
+    "key_name": "Gamepad_RightStick_Up",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
   },
   {
-    "KeyName": "Gamepad_RightStick_Down",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
+    "key_name": "Gamepad_RightStick_Down",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
   },
   {
-    "KeyName": "Gamepad_RightStick_Right",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
+    "key_name": "Gamepad_RightStick_Right",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
   },
   {
-    "KeyName": "Gamepad_RightStick_Left",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
+    "key_name": "Gamepad_RightStick_Left",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
   },
   {
-    "KeyName": "MouseWheelAxis",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyWheelAxis_UI.T_IconPcBtn_KeyWheelAxis_UI"
+    "key_name": "MouseWheelAxis",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyWheelAxis_UI.T_IconPcBtn_KeyWheelAxis_UI"
   },
   {
-    "KeyName": "Gamepad_LeftX",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI"
+    "key_name": "Gamepad_LeftX",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI"
   },
   {
-    "KeyName": "Gamepad_LeftY",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI"
+    "key_name": "Gamepad_LeftY",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI"
   },
   {
-    "KeyName": "Gamepad_RightX",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI"
+    "key_name": "Gamepad_RightX",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI"
   },
   {
-    "KeyName": "Gamepad_RightY",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI"
+    "key_name": "Gamepad_RightY",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI"
   },
   {
-    "KeyName": "Zero",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key0_UI.T_IconPcBtn_Key0_UI"
+    "key_name": "Zero",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key0_UI.T_IconPcBtn_Key0_UI"
   },
   {
-    "KeyName": "One",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key1_UI.T_IconPcBtn_Key1_UI"
+    "key_name": "One",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key1_UI.T_IconPcBtn_Key1_UI"
   },
   {
-    "KeyName": "Two",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key2_UI.T_IconPcBtn_Key2_UI"
+    "key_name": "Two",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key2_UI.T_IconPcBtn_Key2_UI"
   },
   {
-    "KeyName": "Three",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key3_UI.T_IconPcBtn_Key3_UI"
+    "key_name": "Three",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key3_UI.T_IconPcBtn_Key3_UI"
   },
   {
-    "KeyName": "Four",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key4_UI.T_IconPcBtn_Key4_UI"
+    "key_name": "Four",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key4_UI.T_IconPcBtn_Key4_UI"
   },
   {
-    "KeyName": "Five",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key5_UI.T_IconPcBtn_Key5_UI"
+    "key_name": "Five",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key5_UI.T_IconPcBtn_Key5_UI"
   },
   {
-    "KeyName": "Six",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key6_UI.T_IconPcBtn_Key6_UI"
+    "key_name": "Six",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key6_UI.T_IconPcBtn_Key6_UI"
   },
   {
-    "KeyName": "Seven",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key7_UI.T_IconPcBtn_Key7_UI"
+    "key_name": "Seven",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key7_UI.T_IconPcBtn_Key7_UI"
   },
   {
-    "KeyName": "Eight",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key8_UI.T_IconPcBtn_Key8_UI"
+    "key_name": "Eight",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key8_UI.T_IconPcBtn_Key8_UI"
   },
   {
-    "KeyName": "Night",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key9_UI.T_IconPcBtn_Key9_UI"
+    "key_name": "Night",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key9_UI.T_IconPcBtn_Key9_UI"
   },
   {
-    "KeyName": "A",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyA_UI.T_IconPcBtn_KeyA_UI"
+    "key_name": "A",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyA_UI.T_IconPcBtn_KeyA_UI"
   },
   {
-    "KeyName": "Add",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyAdd_UI.T_IconPcBtn_KeyAdd_UI"
+    "key_name": "Add",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyAdd_UI.T_IconPcBtn_KeyAdd_UI"
   },
   {
-    "KeyName": "Apostrophe",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyApostrophe_UI.T_IconPcBtn_KeyApostrophe_UI"
+    "key_name": "Apostrophe",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyApostrophe_UI.T_IconPcBtn_KeyApostrophe_UI"
   },
   {
-    "KeyName": "B",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyB_UI.T_IconPcBtn_KeyB_UI"
+    "key_name": "B",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyB_UI.T_IconPcBtn_KeyB_UI"
   },
   {
-    "KeyName": "Backslash",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyBackslash_UI.T_IconPcBtn_KeyBackslash_UI"
+    "key_name": "Backslash",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyBackslash_UI.T_IconPcBtn_KeyBackslash_UI"
   },
   {
-    "KeyName": "BackSpace",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyBackSpace_UI.T_IconPcBtn_KeyBackSpace_UI"
+    "key_name": "BackSpace",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyBackSpace_UI.T_IconPcBtn_KeyBackSpace_UI"
   },
   {
-    "KeyName": "C",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyC_UI.T_IconPcBtn_KeyC_UI"
+    "key_name": "C",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyC_UI.T_IconPcBtn_KeyC_UI"
   },
   {
-    "KeyName": "CapsLock",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyCapsLock_UI.T_IconPcBtn_KeyCapsLock_UI"
+    "key_name": "CapsLock",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyCapsLock_UI.T_IconPcBtn_KeyCapsLock_UI"
   },
   {
-    "KeyName": "Comma",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyComma_UI.T_IconPcBtn_KeyComma_UI"
+    "key_name": "Comma",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyComma_UI.T_IconPcBtn_KeyComma_UI"
   },
   {
-    "KeyName": "D",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyD_UI.T_IconPcBtn_KeyD_UI"
+    "key_name": "D",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyD_UI.T_IconPcBtn_KeyD_UI"
   },
   {
-    "KeyName": "Decimal",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDecimal_UI.T_IconPcBtn_KeyDecimal_UI"
+    "key_name": "Decimal",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDecimal_UI.T_IconPcBtn_KeyDecimal_UI"
   },
   {
-    "KeyName": "Delete",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDelete_UI.T_IconPcBtn_KeyDelete_UI"
+    "key_name": "Delete",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDelete_UI.T_IconPcBtn_KeyDelete_UI"
   },
   {
-    "KeyName": "Divide",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDivide_UI.T_IconPcBtn_KeyDivide_UI"
+    "key_name": "Divide",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDivide_UI.T_IconPcBtn_KeyDivide_UI"
   },
   {
-    "KeyName": "Down",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDown_UI.T_IconPcBtn_KeyDown_UI"
+    "key_name": "Down",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDown_UI.T_IconPcBtn_KeyDown_UI"
   },
   {
-    "KeyName": "E",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyE_UI.T_IconPcBtn_KeyE_UI"
+    "key_name": "E",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyE_UI.T_IconPcBtn_KeyE_UI"
   },
   {
-    "KeyName": "End",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEnd_UI.T_IconPcBtn_KeyEnd_UI"
+    "key_name": "End",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEnd_UI.T_IconPcBtn_KeyEnd_UI"
   },
   {
-    "KeyName": "Enter",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEnter_UI.T_IconPcBtn_KeyEnter_UI"
+    "key_name": "Enter",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEnter_UI.T_IconPcBtn_KeyEnter_UI"
   },
   {
-    "KeyName": "Equals",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEquals_UI.T_IconPcBtn_KeyEquals_UI"
+    "key_name": "Equals",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEquals_UI.T_IconPcBtn_KeyEquals_UI"
   },
   {
-    "KeyName": "Escape",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEsc_UI.T_IconPcBtn_KeyEsc_UI"
+    "key_name": "Escape",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEsc_UI.T_IconPcBtn_KeyEsc_UI"
   },
   {
-    "KeyName": "F10",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF10_UI.T_IconPcBtn_KeyF10_UI"
+    "key_name": "F10",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF10_UI.T_IconPcBtn_KeyF10_UI"
   },
   {
-    "KeyName": "F11",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF11_UI.T_IconPcBtn_KeyF11_UI"
+    "key_name": "F11",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF11_UI.T_IconPcBtn_KeyF11_UI"
   },
   {
-    "KeyName": "F12",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF12_UI.T_IconPcBtn_KeyF12_UI"
+    "key_name": "F12",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF12_UI.T_IconPcBtn_KeyF12_UI"
   },
   {
-    "KeyName": "F1",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF1_UI.T_IconPcBtn_KeyF1_UI"
+    "key_name": "F1",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF1_UI.T_IconPcBtn_KeyF1_UI"
   },
   {
-    "KeyName": "F2",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF2_UI.T_IconPcBtn_KeyF2_UI"
+    "key_name": "F2",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF2_UI.T_IconPcBtn_KeyF2_UI"
   },
   {
-    "KeyName": "F3",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF3_UI.T_IconPcBtn_KeyF3_UI"
+    "key_name": "F3",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF3_UI.T_IconPcBtn_KeyF3_UI"
   },
   {
-    "KeyName": "F4",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF4_UI.T_IconPcBtn_KeyF4_UI"
+    "key_name": "F4",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF4_UI.T_IconPcBtn_KeyF4_UI"
   },
   {
-    "KeyName": "F5",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF5_UI.T_IconPcBtn_KeyF5_UI"
+    "key_name": "F5",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF5_UI.T_IconPcBtn_KeyF5_UI"
   },
   {
-    "KeyName": "F6",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF6_UI.T_IconPcBtn_KeyF6_UI"
+    "key_name": "F6",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF6_UI.T_IconPcBtn_KeyF6_UI"
   },
   {
-    "KeyName": "F7",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF7_UI.T_IconPcBtn_KeyF7_UI"
+    "key_name": "F7",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF7_UI.T_IconPcBtn_KeyF7_UI"
   },
   {
-    "KeyName": "F8",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF8_UI.T_IconPcBtn_KeyF8_UI"
+    "key_name": "F8",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF8_UI.T_IconPcBtn_KeyF8_UI"
   },
   {
-    "KeyName": "F9",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF9_UI.T_IconPcBtn_KeyF9_UI"
+    "key_name": "F9",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF9_UI.T_IconPcBtn_KeyF9_UI"
   },
   {
-    "KeyName": "F",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF_UI.T_IconPcBtn_KeyF_UI"
+    "key_name": "F",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF_UI.T_IconPcBtn_KeyF_UI"
   },
   {
-    "KeyName": "G",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyG_UI.T_IconPcBtn_KeyG_UI"
+    "key_name": "G",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyG_UI.T_IconPcBtn_KeyG_UI"
   },
   {
-    "KeyName": "H",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyH_UI.T_IconPcBtn_KeyH_UI"
+    "key_name": "H",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyH_UI.T_IconPcBtn_KeyH_UI"
   },
   {
-    "KeyName": "Hyphen",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyHyphen_UI.T_IconPcBtn_KeyHyphen_UI"
+    "key_name": "Hyphen",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyHyphen_UI.T_IconPcBtn_KeyHyphen_UI"
   },
   {
-    "KeyName": "I",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyI_UI.T_IconPcBtn_KeyI_UI"
+    "key_name": "I",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyI_UI.T_IconPcBtn_KeyI_UI"
   },
   {
-    "KeyName": "Insert",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyInsert_UI.T_IconPcBtn_KeyInsert_UI"
+    "key_name": "Insert",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyInsert_UI.T_IconPcBtn_KeyInsert_UI"
   },
   {
-    "KeyName": "J",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyJ_UI.T_IconPcBtn_KeyJ_UI"
+    "key_name": "J",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyJ_UI.T_IconPcBtn_KeyJ_UI"
   },
   {
-    "KeyName": "K",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyK_UI.T_IconPcBtn_KeyK_UI"
+    "key_name": "K",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyK_UI.T_IconPcBtn_KeyK_UI"
   },
   {
-    "KeyName": "L",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyL_UI.T_IconPcBtn_KeyL_UI"
+    "key_name": "L",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyL_UI.T_IconPcBtn_KeyL_UI"
   },
   {
-    "KeyName": "Left",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeft_UI.T_IconPcBtn_KeyLeft_UI"
+    "key_name": "Left",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeft_UI.T_IconPcBtn_KeyLeft_UI"
   },
   {
-    "KeyName": "LeftAlt",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftAlt_UI.T_IconPcBtn_KeyLeftAlt_UI"
+    "key_name": "LeftAlt",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftAlt_UI.T_IconPcBtn_KeyLeftAlt_UI"
   },
   {
-    "KeyName": "LeftBracket",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftBracket_UI.T_IconPcBtn_KeyLeftBracket_UI"
+    "key_name": "LeftBracket",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftBracket_UI.T_IconPcBtn_KeyLeftBracket_UI"
   },
   {
-    "KeyName": "LeftCtrl",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftCtrl_UI.T_IconPcBtn_KeyLeftCtrl_UI"
+    "key_name": "LeftCtrl",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftCtrl_UI.T_IconPcBtn_KeyLeftCtrl_UI"
   },
   {
-    "KeyName": "LeftShift",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftShift_UI.T_IconPcBtn_KeyLeftShift_UI"
+    "key_name": "LeftShift",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftShift_UI.T_IconPcBtn_KeyLeftShift_UI"
   },
   {
-    "KeyName": "M",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyM_UI.T_IconPcBtn_KeyM_UI"
+    "key_name": "M",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyM_UI.T_IconPcBtn_KeyM_UI"
   },
   {
-    "KeyName": "Multiply",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyMultiply_UI.T_IconPcBtn_KeyMultiply_UI"
+    "key_name": "Multiply",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyMultiply_UI.T_IconPcBtn_KeyMultiply_UI"
   },
   {
-    "KeyName": "N",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyN_UI.T_IconPcBtn_KeyN_UI"
+    "key_name": "N",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyN_UI.T_IconPcBtn_KeyN_UI"
   },
   {
-    "KeyName": "NumPadEight",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadEight_UI.T_IconPcBtn_KeyNumPadEight_UI"
+    "key_name": "NumPadEight",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadEight_UI.T_IconPcBtn_KeyNumPadEight_UI"
   },
   {
-    "KeyName": "NumPadFive",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadFive_UI.T_IconPcBtn_KeyNumPadFive_UI"
+    "key_name": "NumPadFive",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadFive_UI.T_IconPcBtn_KeyNumPadFive_UI"
   },
   {
-    "KeyName": "NumPadFour",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadFour_UI.T_IconPcBtn_KeyNumPadFour_UI"
+    "key_name": "NumPadFour",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadFour_UI.T_IconPcBtn_KeyNumPadFour_UI"
   },
   {
-    "KeyName": "NumPadNine",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadNine_UI.T_IconPcBtn_KeyNumPadNine_UI"
+    "key_name": "NumPadNine",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadNine_UI.T_IconPcBtn_KeyNumPadNine_UI"
   },
   {
-    "KeyName": "NumPadOne",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadOne_UI.T_IconPcBtn_KeyNumPadOne_UI"
+    "key_name": "NumPadOne",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadOne_UI.T_IconPcBtn_KeyNumPadOne_UI"
   },
   {
-    "KeyName": "NumPadSeven",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadSeven_UI.T_IconPcBtn_KeyNumPadSeven_UI"
+    "key_name": "NumPadSeven",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadSeven_UI.T_IconPcBtn_KeyNumPadSeven_UI"
   },
   {
-    "KeyName": "NumPadSix",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadSix_UI.T_IconPcBtn_KeyNumPadSix_UI"
+    "key_name": "NumPadSix",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadSix_UI.T_IconPcBtn_KeyNumPadSix_UI"
   },
   {
-    "KeyName": "NumPadThree",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadThree_UI.T_IconPcBtn_KeyNumPadThree_UI"
+    "key_name": "NumPadThree",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadThree_UI.T_IconPcBtn_KeyNumPadThree_UI"
   },
   {
-    "KeyName": "NumPadTwo",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadTwo_UI.T_IconPcBtn_KeyNumPadTwo_UI"
+    "key_name": "NumPadTwo",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadTwo_UI.T_IconPcBtn_KeyNumPadTwo_UI"
   },
   {
-    "KeyName": "NumPadZero",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadZero_UI.T_IconPcBtn_KeyNumPadZero_UI"
+    "key_name": "NumPadZero",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadZero_UI.T_IconPcBtn_KeyNumPadZero_UI"
   },
   {
-    "KeyName": "O",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyO_UI.T_IconPcBtn_KeyO_UI"
+    "key_name": "O",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyO_UI.T_IconPcBtn_KeyO_UI"
   },
   {
-    "KeyName": "P",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyP_UI.T_IconPcBtn_KeyP_UI"
+    "key_name": "P",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyP_UI.T_IconPcBtn_KeyP_UI"
   },
   {
-    "KeyName": "PageDown",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPageDown_UI.T_IconPcBtn_KeyPageDown_UI"
+    "key_name": "PageDown",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPageDown_UI.T_IconPcBtn_KeyPageDown_UI"
   },
   {
-    "KeyName": "PageUp",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPageUp_UI.T_IconPcBtn_KeyPageUp_UI"
+    "key_name": "PageUp",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPageUp_UI.T_IconPcBtn_KeyPageUp_UI"
   },
   {
-    "KeyName": "Period",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPeriod_UI.T_IconPcBtn_KeyPeriod_UI"
+    "key_name": "Period",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPeriod_UI.T_IconPcBtn_KeyPeriod_UI"
   },
   {
-    "KeyName": "Q",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyQ_UI.T_IconPcBtn_KeyQ_UI"
+    "key_name": "Q",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyQ_UI.T_IconPcBtn_KeyQ_UI"
   },
   {
-    "KeyName": "R",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyR_UI.T_IconPcBtn_KeyR_UI"
+    "key_name": "R",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyR_UI.T_IconPcBtn_KeyR_UI"
   },
   {
-    "KeyName": "Right",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRight_UI.T_IconPcBtn_KeyRight_UI"
+    "key_name": "Right",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRight_UI.T_IconPcBtn_KeyRight_UI"
   },
   {
-    "KeyName": "RightAlt",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightAlt_UI.T_IconPcBtn_KeyRightAlt_UI"
+    "key_name": "RightAlt",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightAlt_UI.T_IconPcBtn_KeyRightAlt_UI"
   },
   {
-    "KeyName": "RightBracket",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightBracket_UI.T_IconPcBtn_KeyRightBracket_UI"
+    "key_name": "RightBracket",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightBracket_UI.T_IconPcBtn_KeyRightBracket_UI"
   },
   {
-    "KeyName": "RightCtrl",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightCtrl_UI.T_IconPcBtn_KeyRightCtrl_UI"
+    "key_name": "RightCtrl",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightCtrl_UI.T_IconPcBtn_KeyRightCtrl_UI"
   },
   {
-    "KeyName": "RightShift",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightShift_UI.T_IconPcBtn_KeyRightShift_UI"
+    "key_name": "RightShift",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightShift_UI.T_IconPcBtn_KeyRightShift_UI"
   },
   {
-    "KeyName": "S",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyS_UI.T_IconPcBtn_KeyS_UI"
+    "key_name": "S",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyS_UI.T_IconPcBtn_KeyS_UI"
   },
   {
-    "KeyName": "Semicolon",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySemicolon_UI.T_IconPcBtn_KeySemicolon_UI"
+    "key_name": "Semicolon",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySemicolon_UI.T_IconPcBtn_KeySemicolon_UI"
   },
   {
-    "KeyName": "Slash",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySlash_UI.T_IconPcBtn_KeySlash_UI"
+    "key_name": "Slash",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySlash_UI.T_IconPcBtn_KeySlash_UI"
   },
   {
-    "KeyName": "SpaceBar",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySpaceBar_UI.T_IconPcBtn_KeySpaceBar_UI"
+    "key_name": "SpaceBar",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySpaceBar_UI.T_IconPcBtn_KeySpaceBar_UI"
   },
   {
-    "KeyName": "Subtract",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySubtract_UI.T_IconPcBtn_KeySubtract_UI"
+    "key_name": "Subtract",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySubtract_UI.T_IconPcBtn_KeySubtract_UI"
   },
   {
-    "KeyName": "T",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyT_UI.T_IconPcBtn_KeyT_UI"
+    "key_name": "T",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyT_UI.T_IconPcBtn_KeyT_UI"
   },
   {
-    "KeyName": "Tab",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTab_UI.T_IconPcBtn_KeyTab_UI"
+    "key_name": "Tab",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTab_UI.T_IconPcBtn_KeyTab_UI"
   },
   {
-    "KeyName": "Tilde",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTilde_UI.T_IconPcBtn_KeyTilde_UI"
+    "key_name": "Tilde",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTilde_UI.T_IconPcBtn_KeyTilde_UI"
   },
   {
-    "KeyName": "U",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyU_UI.T_IconPcBtn_KeyU_UI"
+    "key_name": "U",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyU_UI.T_IconPcBtn_KeyU_UI"
   },
   {
-    "KeyName": "Up",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyUp_UI.T_IconPcBtn_KeyUp_UI"
+    "key_name": "Up",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyUp_UI.T_IconPcBtn_KeyUp_UI"
   },
   {
-    "KeyName": "V",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyV_UI.T_IconPcBtn_KeyV_UI"
+    "key_name": "V",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyV_UI.T_IconPcBtn_KeyV_UI"
   },
   {
-    "KeyName": "W",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyW_UI.T_IconPcBtn_KeyW_UI"
+    "key_name": "W",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyW_UI.T_IconPcBtn_KeyW_UI"
   },
   {
-    "KeyName": "X",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyX_UI.T_IconPcBtn_KeyX_UI"
+    "key_name": "X",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyX_UI.T_IconPcBtn_KeyX_UI"
   },
   {
-    "KeyName": "Y",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyY_UI.T_IconPcBtn_KeyY_UI"
+    "key_name": "Y",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyY_UI.T_IconPcBtn_KeyY_UI"
   },
   {
-    "KeyName": "Z",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyZ_UI.T_IconPcBtn_KeyZ_UI"
+    "key_name": "Z",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyZ_UI.T_IconPcBtn_KeyZ_UI"
   },
   {
-    "KeyName": "Gamepad_Left2D",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
+    "key_name": "Gamepad_Left2D",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
   },
   {
-    "KeyName": "Gamepad_Right2D",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
+    "key_name": "Gamepad_Right2D",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
   },
   {
-    "KeyName": "Mouse2D",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Mouse_UI.T_IconPcBtn_Mouse_UI"
+    "key_name": "Mouse2D",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Mouse_UI.T_IconPcBtn_Mouse_UI"
   }
 ]

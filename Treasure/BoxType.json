@@ -1,42 +1,42 @@
 [
   {
-    "Id": 1,
-    "Mark": "通用宝箱",
-    "StartState": 1,
-    "IdleState": [
+    "id": 1,
+    "mark": "通用宝箱",
+    "start_state": 1,
+    "idle_state": [
       2
     ],
-    "IdleStartState": [
+    "idle_start_state": [
       2
     ],
-    "DeathState": 4,
-    "OpenTime": 1.0
+    "death_state": 4,
+    "open_time": 1.0
   },
   {
-    "Id": 2,
-    "Mark": "黑石增生宝箱",
-    "StartState": 1,
-    "IdleState": [
+    "id": 2,
+    "mark": "黑石增生宝箱",
+    "start_state": 1,
+    "idle_state": [
       5,
       6
     ],
-    "IdleStartState": [
+    "idle_start_state": [
       5
     ],
-    "DeathState": 4,
-    "OpenTime": 1.0
+    "death_state": 4,
+    "open_time": 1.0
   },
   {
-    "Id": 3,
-    "Mark": "玩法生成宝箱",
-    "StartState": 7,
-    "IdleState": [
+    "id": 3,
+    "mark": "玩法生成宝箱",
+    "start_state": 7,
+    "idle_state": [
       2
     ],
-    "IdleStartState": [
+    "idle_start_state": [
       2
     ],
-    "DeathState": 4,
-    "OpenTime": 1.0
+    "death_state": 4,
+    "open_time": 1.0
   }
 ]

@@ -1,156 +1,156 @@
 [
   {
-    "MarkId": 1,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_01_UI.SP_IconMap_Task_01_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_01_1_UI.SP_IconMap_Task_01_1_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_01_1_UI.T_IconMap_Task_01_1_UI",
-    "IconDistant": 0,
-    "TrackTextStartEffectColor": "#F7D16EFF",
-    "ShowRange": [
+    "mark_id": 1,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_01_UI.SP_IconMap_Task_01_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_01_1_UI.SP_IconMap_Task_01_1_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_01_1_UI.T_IconMap_Task_01_1_UI",
+    "icon_distant": 0,
+    "track_text_start_effect_color": "#F7D16EFF",
+    "show_range": [
       -9999,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 2,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_01_UI.SP_IconMap_Task_01_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_01_1_UI.SP_IconMap_Task_01_1_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_01_1_UI.T_IconMap_Task_01_1_UI",
-    "IconDistant": 0,
-    "TrackTextStartEffectColor": "#F7D16EFF",
-    "ShowRange": [
+    "mark_id": 2,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_01_UI.SP_IconMap_Task_01_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_01_1_UI.SP_IconMap_Task_01_1_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_01_1_UI.T_IconMap_Task_01_1_UI",
+    "icon_distant": 0,
+    "track_text_start_effect_color": "#F7D16EFF",
+    "show_range": [
       -9999,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 3,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_02_UI.SP_IconMap_Task_02_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_02_1_UI.SP_IconMap_Task_02_1_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_02_1_UI.T_IconMap_Task_02_1_UI",
-    "IconDistant": 330,
-    "TrackTextStartEffectColor": "#92D2E5FF",
-    "ShowRange": [
+    "mark_id": 3,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_02_UI.SP_IconMap_Task_02_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_02_1_UI.SP_IconMap_Task_02_1_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_02_1_UI.T_IconMap_Task_02_1_UI",
+    "icon_distant": 330,
+    "track_text_start_effect_color": "#92D2E5FF",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 4,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_02_UI.SP_IconMap_Task_02_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_02_1_UI.SP_IconMap_Task_02_1_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_02_1_UI.T_IconMap_Task_02_1_UI",
-    "IconDistant": 330,
-    "TrackTextStartEffectColor": "#92D2E5FF",
-    "ShowRange": [
+    "mark_id": 4,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_02_UI.SP_IconMap_Task_02_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_02_1_UI.SP_IconMap_Task_02_1_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_02_1_UI.T_IconMap_Task_02_1_UI",
+    "icon_distant": 330,
+    "track_text_start_effect_color": "#92D2E5FF",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 5,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_03_UI.SP_IconMap_Task_03_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_03_1_UI.SP_IconMap_Task_03_1_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_03_1_UI.T_IconMap_Task_03_1_UI",
-    "IconDistant": 330,
-    "TrackTextStartEffectColor": "#A972EDFF",
-    "ShowRange": [
+    "mark_id": 5,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_03_UI.SP_IconMap_Task_03_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_03_1_UI.SP_IconMap_Task_03_1_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_03_1_UI.T_IconMap_Task_03_1_UI",
+    "icon_distant": 330,
+    "track_text_start_effect_color": "#A972EDFF",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 6,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_06_UI.SP_IconMap_Task_06_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_06_1_UI.SP_IconMap_Task_06_1_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_06_1_UI.T_IconMap_Task_06_1_UI",
-    "IconDistant": 330,
-    "TrackTextStartEffectColor": "#AAD673FF",
-    "ShowRange": [
+    "mark_id": 6,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_06_UI.SP_IconMap_Task_06_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_06_1_UI.SP_IconMap_Task_06_1_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_06_1_UI.T_IconMap_Task_06_1_UI",
+    "icon_distant": 330,
+    "track_text_start_effect_color": "#AAD673FF",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 7,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_05_UI.SP_IconMap_Task_05_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_05_UI.SP_IconMap_Task_05_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_05_UI.T_IconMap_Task_05_UI",
-    "IconDistant": 330,
-    "TrackTextStartEffectColor": "",
-    "ShowRange": [
+    "mark_id": 7,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_05_UI.SP_IconMap_Task_05_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_05_UI.SP_IconMap_Task_05_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_05_UI.T_IconMap_Task_05_UI",
+    "icon_distant": 330,
+    "track_text_start_effect_color": "",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 8,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_07_UI.SP_IconMap_Task_07_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_07_UI.SP_IconMap_Task_07_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/Mission/T_IconMechanics.T_IconMechanics",
-    "IconDistant": 0,
-    "TrackTextStartEffectColor": "",
-    "ShowRange": [
+    "mark_id": 8,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_07_UI.SP_IconMap_Task_07_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_07_UI.SP_IconMap_Task_07_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/Mission/T_IconMechanics.T_IconMechanics",
+    "icon_distant": 0,
+    "track_text_start_effect_color": "",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 9,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_08_UI.SP_IconMap_Task_08_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_08_UI.SP_IconMap_Task_08_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/Mission/T_IconPhantomB.T_IconPhantomB",
-    "IconDistant": 0,
-    "TrackTextStartEffectColor": "",
-    "ShowRange": [
+    "mark_id": 9,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_08_UI.SP_IconMap_Task_08_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_08_UI.SP_IconMap_Task_08_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/Mission/T_IconPhantomB.T_IconPhantomB",
+    "icon_distant": 0,
+    "track_text_start_effect_color": "",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 10,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_10_UI.SP_IconMap_Task_10_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_10_1_UI.SP_IconMap_Task_10_1_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_10_1_UI.T_IconMap_Task_10_1_UI",
-    "IconDistant": 330,
-    "TrackTextStartEffectColor": "#53BE94FF",
-    "ShowRange": [
+    "mark_id": 10,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_10_UI.SP_IconMap_Task_10_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_10_1_UI.SP_IconMap_Task_10_1_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_10_1_UI.T_IconMap_Task_10_1_UI",
+    "icon_distant": 330,
+    "track_text_start_effect_color": "#53BE94FF",
+    "show_range": [
       -9999,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   },
   {
-    "MarkId": 11,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_11_UI.SP_IconMap_Task_11_UI",
-    "MarkAcceptablePic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_11_1_UI.SP_IconMap_Task_11_1_UI",
-    "NpcTaskIcon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_11_1_UI.T_IconMap_Task_11_1_UI",
-    "IconDistant": 330,
-    "TrackTextStartEffectColor": "#DCC186FF",
-    "ShowRange": [
+    "mark_id": 11,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_11_UI.SP_IconMap_Task_11_UI",
+    "mark_acceptable_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Task_11_1_UI.SP_IconMap_Task_11_1_UI",
+    "npc_task_icon": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Task_11_1_UI.T_IconMap_Task_11_1_UI",
+    "icon_distant": 330,
+    "track_text_start_effect_color": "#DCC186FF",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 9,
-    "Scale": 0.9
+    "show_priority": 9,
+    "scale": 0.9
   }
 ]

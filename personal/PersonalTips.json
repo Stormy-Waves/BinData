@@ -1,93 +1,93 @@
 [
   {
-    "Id": 1,
-    "FunctionId": 1,
-    "Sort": 0,
-    "Description": "PersonalTips_1_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnPingbi2.SP_TipsBtnPingbi2"
+    "id": 1,
+    "function_id": 1,
+    "sort": 0,
+    "description": "PersonalTips_1_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnPingbi2.SP_TipsBtnPingbi2"
   },
   {
-    "Id": 2,
-    "FunctionId": 1,
-    "Sort": 0,
-    "Description": "PersonalTips_2_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnPingbi2.SP_TipsBtnPingbi2"
+    "id": 2,
+    "function_id": 1,
+    "sort": 0,
+    "description": "PersonalTips_2_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnPingbi2.SP_TipsBtnPingbi2"
   },
   {
-    "Id": 3,
-    "FunctionId": 1,
-    "Sort": 0,
-    "Description": "PersonalTips_3_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnLahei.SP_TipsBtnLahei"
+    "id": 3,
+    "function_id": 1,
+    "sort": 0,
+    "description": "PersonalTips_3_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnLahei.SP_TipsBtnLahei"
   },
   {
-    "Id": 4,
-    "FunctionId": 1,
-    "Sort": 0,
-    "Description": "PersonalTips_4_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnShanchu.SP_TipsBtnShanchu"
+    "id": 4,
+    "function_id": 1,
+    "sort": 0,
+    "description": "PersonalTips_4_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnShanchu.SP_TipsBtnShanchu"
   },
   {
-    "Id": 5,
-    "FunctionId": 1,
-    "Sort": 0,
-    "Description": "PersonalTips_5_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnLahei.SP_TipsBtnLahei"
+    "id": 5,
+    "function_id": 1,
+    "sort": 0,
+    "description": "PersonalTips_5_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_TipsBtnLahei.SP_TipsBtnLahei"
   },
   {
-    "Id": 6,
-    "FunctionId": 2,
-    "Sort": 0,
-    "Description": "PersonalTips_6_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Head.SP_PersonalTips_temp_Head"
+    "id": 6,
+    "function_id": 2,
+    "sort": 0,
+    "description": "PersonalTips_6_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Head.SP_PersonalTips_temp_Head"
   },
   {
-    "Id": 7,
-    "FunctionId": 2,
-    "Sort": 0,
-    "Description": "PersonalTips_7_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Name.SP_PersonalTips_temp_Name"
+    "id": 7,
+    "function_id": 2,
+    "sort": 0,
+    "description": "PersonalTips_7_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Name.SP_PersonalTips_temp_Name"
   },
   {
-    "Id": 8,
-    "FunctionId": 2,
-    "Sort": 0,
-    "Description": "PersonalTips_8_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_ChangeName.SP_PersonalTips_temp_ChangeName"
+    "id": 8,
+    "function_id": 2,
+    "sort": 0,
+    "description": "PersonalTips_8_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_ChangeName.SP_PersonalTips_temp_ChangeName"
   },
   {
-    "Id": 9,
-    "FunctionId": 2,
-    "Sort": 0,
-    "Description": "PersonalTips_9_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_ChangeWord.SP_PersonalTips_temp_ChangeWord"
+    "id": 9,
+    "function_id": 2,
+    "sort": 0,
+    "description": "PersonalTips_9_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_ChangeWord.SP_PersonalTips_temp_ChangeWord"
   },
   {
-    "Id": 10,
-    "FunctionId": 2,
-    "Sort": 0,
-    "Description": "PersonalTips_10_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Birthday.SP_PersonalTips_temp_Birthday"
+    "id": 10,
+    "function_id": 2,
+    "sort": 0,
+    "description": "PersonalTips_10_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Birthday.SP_PersonalTips_temp_Birthday"
   },
   {
-    "Id": 11,
-    "FunctionId": 2,
-    "Sort": 0,
-    "Description": "PersonalTips_11_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Copy.SP_PersonalTips_temp_Copy"
+    "id": 11,
+    "function_id": 2,
+    "sort": 0,
+    "description": "PersonalTips_11_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Copy.SP_PersonalTips_temp_Copy"
   },
   {
-    "Id": 12,
-    "FunctionId": 1,
-    "Sort": 0,
-    "Description": "PersonalTips_12_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Head.SP_PersonalTips_temp_Head"
+    "id": 12,
+    "function_id": 1,
+    "sort": 0,
+    "description": "PersonalTips_12_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/UiIndividualization/Atlas/SP_PersonalTips_temp_Head.SP_PersonalTips_temp_Head"
   },
   {
-    "Id": 13,
-    "FunctionId": 1,
-    "Sort": 0,
-    "Description": "PersonalTips_13_Description",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon4.SP_CommonBtnIcon4"
+    "id": 13,
+    "function_id": 1,
+    "sort": 0,
+    "description": "PersonalTips_13_Description",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon4.SP_CommonBtnIcon4"
   }
 ]

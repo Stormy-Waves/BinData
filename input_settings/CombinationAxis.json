@@ -1,10 +1,10 @@
 [
   {
-    "Id": 1,
-    "AxisName": "Zoom",
-    "AxisType": 1,
-    "PcKeyMap": [],
-    "GamepadKeyMap": [
+    "id": 1,
+    "axis_name": "Zoom",
+    "axis_type": 1,
+    "pc_key_map": [],
+    "gamepad_key_map": [
       {
         "key": "Gamepad_LeftTriggerAxis",
         "value": "Gamepad_LeftShoulder"
@@ -22,7 +22,7 @@
         "value": "GenericUSBController_Button5"
       }
     ],
-    "SecondaryKeyScaleMap": [
+    "secondary_key_scale_map": [
       {
         "key": "Up",
         "value": 1.0
@@ -48,7 +48,7 @@
         "value": 80.0
       }
     ],
-    "MobileIconPath": "",
-    "DisplayName": ""
+    "mobile_icon_path": "",
+    "display_name": ""
   }
 ]

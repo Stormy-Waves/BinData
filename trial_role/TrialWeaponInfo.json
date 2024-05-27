@@ -1,3458 +1,3458 @@
 [
   {
-    "Id": 1,
-    "WeaponId": 21010011,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 1,
+    "weapon_id": 21010011,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 2,
-    "WeaponId": 21020011,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 2,
+    "weapon_id": 21020011,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 3,
-    "WeaponId": 21030011,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 3,
+    "weapon_id": 21030011,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 4,
-    "WeaponId": 21040011,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 4,
+    "weapon_id": 21040011,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 5,
-    "WeaponId": 21050011,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 5,
+    "weapon_id": 21050011,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 6,
-    "WeaponId": 21020011,
-    "WeaponLevel": 4,
-    "WeaponResonanceLevel": 4
+    "id": 6,
+    "weapon_id": 21020011,
+    "weapon_level": 4,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 7,
-    "WeaponId": 21010011,
-    "WeaponLevel": 4,
-    "WeaponResonanceLevel": 4
+    "id": 7,
+    "weapon_id": 21010011,
+    "weapon_level": 4,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 8,
-    "WeaponId": 21020011,
-    "WeaponLevel": 4,
-    "WeaponResonanceLevel": 4
+    "id": 8,
+    "weapon_id": 21020011,
+    "weapon_level": 4,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 9,
-    "WeaponId": 21020011,
-    "WeaponLevel": 4,
-    "WeaponResonanceLevel": 4
+    "id": 9,
+    "weapon_id": 21020011,
+    "weapon_level": 4,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 10,
-    "WeaponId": 21050011,
-    "WeaponLevel": 4,
-    "WeaponResonanceLevel": 4
+    "id": 10,
+    "weapon_id": 21050011,
+    "weapon_level": 4,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 11,
-    "WeaponId": 21050011,
-    "WeaponLevel": 4,
-    "WeaponResonanceLevel": 4
+    "id": 11,
+    "weapon_id": 21050011,
+    "weapon_level": 4,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 12,
-    "WeaponId": 21020011,
-    "WeaponLevel": 4,
-    "WeaponResonanceLevel": 4
+    "id": 12,
+    "weapon_id": 21020011,
+    "weapon_level": 4,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 13,
-    "WeaponId": 21020011,
-    "WeaponLevel": 4,
-    "WeaponResonanceLevel": 4
+    "id": 13,
+    "weapon_id": 21020011,
+    "weapon_level": 4,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 14,
-    "WeaponId": 21050015,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 4
+    "id": 14,
+    "weapon_id": 21050015,
+    "weapon_level": 40,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 15,
-    "WeaponId": 21020011,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 4
+    "id": 15,
+    "weapon_id": 21020011,
+    "weapon_level": 40,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 16,
-    "WeaponId": 21020015,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 4
+    "id": 16,
+    "weapon_id": 21020015,
+    "weapon_level": 40,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 17,
-    "WeaponId": 21030015,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 4
+    "id": 17,
+    "weapon_id": 21030015,
+    "weapon_level": 40,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 18,
-    "WeaponId": 21020011,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 4
+    "id": 18,
+    "weapon_id": 21020011,
+    "weapon_level": 40,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 19,
-    "WeaponId": 21020011,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 4
+    "id": 19,
+    "weapon_id": 21020011,
+    "weapon_level": 40,
+    "weapon_resonance_level": 4
   },
   {
-    "Id": 20,
-    "WeaponId": 21020015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 20,
+    "weapon_id": 21020015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 21,
-    "WeaponId": 21030015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 21,
+    "weapon_id": 21030015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 22,
-    "WeaponId": 21020015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 22,
+    "weapon_id": 21020015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 23,
-    "WeaponId": 21020015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 23,
+    "weapon_id": 21020015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 24,
-    "WeaponId": 21020015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 24,
+    "weapon_id": 21020015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 25,
-    "WeaponId": 21010015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 25,
+    "weapon_id": 21010015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 26,
-    "WeaponId": 21050015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 26,
+    "weapon_id": 21050015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 27,
-    "WeaponId": 21020015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 27,
+    "weapon_id": 21020015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 28,
-    "WeaponId": 21050015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 28,
+    "weapon_id": 21050015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 29,
-    "WeaponId": 21050015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 29,
+    "weapon_id": 21050015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 30,
-    "WeaponId": 21020015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 30,
+    "weapon_id": 21020015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 31,
-    "WeaponId": 21030015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 31,
+    "weapon_id": 21030015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 32,
-    "WeaponId": 21010015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 32,
+    "weapon_id": 21010015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 33,
-    "WeaponId": 21030015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 33,
+    "weapon_id": 21030015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 34,
-    "WeaponId": 21010015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 34,
+    "weapon_id": 21010015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 35,
-    "WeaponId": 21050015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 35,
+    "weapon_id": 21050015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 36,
-    "WeaponId": 21040015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 5
+    "id": 36,
+    "weapon_id": 21040015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 5
   },
   {
-    "Id": 101,
-    "WeaponId": 21020013,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 101,
+    "weapon_id": 21020013,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 102,
-    "WeaponId": 21030013,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 102,
+    "weapon_id": 21030013,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 103,
-    "WeaponId": 21050011,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 103,
+    "weapon_id": 21050011,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 104,
-    "WeaponId": 21030011,
-    "WeaponLevel": 15,
-    "WeaponResonanceLevel": 1
+    "id": 104,
+    "weapon_id": 21030011,
+    "weapon_level": 15,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010501,
-    "WeaponId": 21010074,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21010501,
+    "weapon_id": 21010074,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010510,
-    "WeaponId": 21010074,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21010510,
+    "weapon_id": 21010074,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010520,
-    "WeaponId": 21010074,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21010520,
+    "weapon_id": 21010074,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010530,
-    "WeaponId": 21010074,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21010530,
+    "weapon_id": 21010074,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010540,
-    "WeaponId": 21010074,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21010540,
+    "weapon_id": 21010074,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010550,
-    "WeaponId": 21010074,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21010550,
+    "weapon_id": 21010074,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010560,
-    "WeaponId": 21010074,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21010560,
+    "weapon_id": 21010074,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010570,
-    "WeaponId": 21010074,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21010570,
+    "weapon_id": 21010074,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010580,
-    "WeaponId": 21010074,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21010580,
+    "weapon_id": 21010074,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010590,
-    "WeaponId": 21010074,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21010590,
+    "weapon_id": 21010074,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020501,
-    "WeaponId": 21020074,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21020501,
+    "weapon_id": 21020074,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020510,
-    "WeaponId": 21020074,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21020510,
+    "weapon_id": 21020074,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020520,
-    "WeaponId": 21020074,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21020520,
+    "weapon_id": 21020074,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020530,
-    "WeaponId": 21020074,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21020530,
+    "weapon_id": 21020074,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020540,
-    "WeaponId": 21020074,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21020540,
+    "weapon_id": 21020074,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020550,
-    "WeaponId": 21020074,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21020550,
+    "weapon_id": 21020074,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020560,
-    "WeaponId": 21020074,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21020560,
+    "weapon_id": 21020074,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020570,
-    "WeaponId": 21020074,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21020570,
+    "weapon_id": 21020074,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020580,
-    "WeaponId": 21020074,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21020580,
+    "weapon_id": 21020074,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020590,
-    "WeaponId": 21020074,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21020590,
+    "weapon_id": 21020074,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030501,
-    "WeaponId": 21030074,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21030501,
+    "weapon_id": 21030074,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030510,
-    "WeaponId": 21030074,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21030510,
+    "weapon_id": 21030074,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030520,
-    "WeaponId": 21030074,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21030520,
+    "weapon_id": 21030074,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030530,
-    "WeaponId": 21030074,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21030530,
+    "weapon_id": 21030074,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030540,
-    "WeaponId": 21030074,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21030540,
+    "weapon_id": 21030074,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030550,
-    "WeaponId": 21030074,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21030550,
+    "weapon_id": 21030074,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030560,
-    "WeaponId": 21030074,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21030560,
+    "weapon_id": 21030074,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030570,
-    "WeaponId": 21030074,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21030570,
+    "weapon_id": 21030074,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030580,
-    "WeaponId": 21030074,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21030580,
+    "weapon_id": 21030074,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030590,
-    "WeaponId": 21030074,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21030590,
+    "weapon_id": 21030074,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040501,
-    "WeaponId": 21040074,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21040501,
+    "weapon_id": 21040074,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040510,
-    "WeaponId": 21040074,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21040510,
+    "weapon_id": 21040074,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040520,
-    "WeaponId": 21040074,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21040520,
+    "weapon_id": 21040074,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040530,
-    "WeaponId": 21040074,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21040530,
+    "weapon_id": 21040074,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040540,
-    "WeaponId": 21040074,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21040540,
+    "weapon_id": 21040074,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040550,
-    "WeaponId": 21040074,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21040550,
+    "weapon_id": 21040074,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040560,
-    "WeaponId": 21040074,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21040560,
+    "weapon_id": 21040074,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040570,
-    "WeaponId": 21040074,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21040570,
+    "weapon_id": 21040074,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040580,
-    "WeaponId": 21040074,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21040580,
+    "weapon_id": 21040074,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040590,
-    "WeaponId": 21040074,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21040590,
+    "weapon_id": 21040074,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050501,
-    "WeaponId": 21050074,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21050501,
+    "weapon_id": 21050074,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050510,
-    "WeaponId": 21050074,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21050510,
+    "weapon_id": 21050074,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050520,
-    "WeaponId": 21050074,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21050520,
+    "weapon_id": 21050074,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050530,
-    "WeaponId": 21050074,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21050530,
+    "weapon_id": 21050074,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050540,
-    "WeaponId": 21050074,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21050540,
+    "weapon_id": 21050074,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050550,
-    "WeaponId": 21050074,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21050550,
+    "weapon_id": 21050074,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050560,
-    "WeaponId": 21050074,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21050560,
+    "weapon_id": 21050074,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050570,
-    "WeaponId": 21050074,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21050570,
+    "weapon_id": 21050074,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050580,
-    "WeaponId": 21050074,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21050580,
+    "weapon_id": 21050074,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050590,
-    "WeaponId": 21050074,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21050590,
+    "weapon_id": 21050074,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010401,
-    "WeaponId": 21010024,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21010401,
+    "weapon_id": 21010024,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010410,
-    "WeaponId": 21010024,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21010410,
+    "weapon_id": 21010024,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010420,
-    "WeaponId": 21010024,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21010420,
+    "weapon_id": 21010024,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010430,
-    "WeaponId": 21010024,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21010430,
+    "weapon_id": 21010024,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010440,
-    "WeaponId": 21010024,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21010440,
+    "weapon_id": 21010024,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010450,
-    "WeaponId": 21010024,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21010450,
+    "weapon_id": 21010024,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010460,
-    "WeaponId": 21010024,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21010460,
+    "weapon_id": 21010024,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010470,
-    "WeaponId": 21010024,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21010470,
+    "weapon_id": 21010024,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010480,
-    "WeaponId": 21010024,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21010480,
+    "weapon_id": 21010024,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010490,
-    "WeaponId": 21010024,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21010490,
+    "weapon_id": 21010024,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020401,
-    "WeaponId": 21020024,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21020401,
+    "weapon_id": 21020024,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020410,
-    "WeaponId": 21020024,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21020410,
+    "weapon_id": 21020024,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020420,
-    "WeaponId": 21020024,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21020420,
+    "weapon_id": 21020024,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020430,
-    "WeaponId": 21020024,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21020430,
+    "weapon_id": 21020024,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020440,
-    "WeaponId": 21020024,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21020440,
+    "weapon_id": 21020024,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020450,
-    "WeaponId": 21020024,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21020450,
+    "weapon_id": 21020024,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020460,
-    "WeaponId": 21020024,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21020460,
+    "weapon_id": 21020024,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020470,
-    "WeaponId": 21020024,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21020470,
+    "weapon_id": 21020024,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020480,
-    "WeaponId": 21020024,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21020480,
+    "weapon_id": 21020024,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020490,
-    "WeaponId": 21020024,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21020490,
+    "weapon_id": 21020024,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030401,
-    "WeaponId": 21030024,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21030401,
+    "weapon_id": 21030024,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030410,
-    "WeaponId": 21030024,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21030410,
+    "weapon_id": 21030024,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030420,
-    "WeaponId": 21030024,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21030420,
+    "weapon_id": 21030024,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030430,
-    "WeaponId": 21030024,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21030430,
+    "weapon_id": 21030024,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030440,
-    "WeaponId": 21030024,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21030440,
+    "weapon_id": 21030024,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030450,
-    "WeaponId": 21030024,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21030450,
+    "weapon_id": 21030024,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030460,
-    "WeaponId": 21030024,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21030460,
+    "weapon_id": 21030024,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030470,
-    "WeaponId": 21030024,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21030470,
+    "weapon_id": 21030024,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030480,
-    "WeaponId": 21030024,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21030480,
+    "weapon_id": 21030024,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030490,
-    "WeaponId": 21030024,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21030490,
+    "weapon_id": 21030024,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040401,
-    "WeaponId": 21040024,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21040401,
+    "weapon_id": 21040024,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040410,
-    "WeaponId": 21040024,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21040410,
+    "weapon_id": 21040024,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040420,
-    "WeaponId": 21040024,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21040420,
+    "weapon_id": 21040024,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040430,
-    "WeaponId": 21040024,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21040430,
+    "weapon_id": 21040024,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040440,
-    "WeaponId": 21040024,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21040440,
+    "weapon_id": 21040024,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040450,
-    "WeaponId": 21040024,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21040450,
+    "weapon_id": 21040024,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040460,
-    "WeaponId": 21040024,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21040460,
+    "weapon_id": 21040024,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040470,
-    "WeaponId": 21040024,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21040470,
+    "weapon_id": 21040024,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040480,
-    "WeaponId": 21040024,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21040480,
+    "weapon_id": 21040024,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040490,
-    "WeaponId": 21040024,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21040490,
+    "weapon_id": 21040024,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050401,
-    "WeaponId": 21050024,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21050401,
+    "weapon_id": 21050024,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050410,
-    "WeaponId": 21050024,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21050410,
+    "weapon_id": 21050024,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050420,
-    "WeaponId": 21050024,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21050420,
+    "weapon_id": 21050024,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050430,
-    "WeaponId": 21050024,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21050430,
+    "weapon_id": 21050024,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050440,
-    "WeaponId": 21050024,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21050440,
+    "weapon_id": 21050024,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050450,
-    "WeaponId": 21050024,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21050450,
+    "weapon_id": 21050024,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050460,
-    "WeaponId": 21050024,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21050460,
+    "weapon_id": 21050024,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050470,
-    "WeaponId": 21050024,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21050470,
+    "weapon_id": 21050024,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050480,
-    "WeaponId": 21050024,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21050480,
+    "weapon_id": 21050024,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050490,
-    "WeaponId": 21050024,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21050490,
+    "weapon_id": 21050024,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010301,
-    "WeaponId": 21010013,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21010301,
+    "weapon_id": 21010013,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010310,
-    "WeaponId": 21010013,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21010310,
+    "weapon_id": 21010013,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010320,
-    "WeaponId": 21010013,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21010320,
+    "weapon_id": 21010013,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010330,
-    "WeaponId": 21010013,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21010330,
+    "weapon_id": 21010013,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010340,
-    "WeaponId": 21010013,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21010340,
+    "weapon_id": 21010013,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010350,
-    "WeaponId": 21010013,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21010350,
+    "weapon_id": 21010013,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010360,
-    "WeaponId": 21010013,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21010360,
+    "weapon_id": 21010013,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010370,
-    "WeaponId": 21010013,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21010370,
+    "weapon_id": 21010013,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010380,
-    "WeaponId": 21010013,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21010380,
+    "weapon_id": 21010013,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010390,
-    "WeaponId": 21010013,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21010390,
+    "weapon_id": 21010013,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020301,
-    "WeaponId": 21020013,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21020301,
+    "weapon_id": 21020013,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020310,
-    "WeaponId": 21020013,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21020310,
+    "weapon_id": 21020013,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020320,
-    "WeaponId": 21020013,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21020320,
+    "weapon_id": 21020013,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020330,
-    "WeaponId": 21020013,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21020330,
+    "weapon_id": 21020013,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020340,
-    "WeaponId": 21020013,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21020340,
+    "weapon_id": 21020013,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020350,
-    "WeaponId": 21020013,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21020350,
+    "weapon_id": 21020013,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020360,
-    "WeaponId": 21020013,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21020360,
+    "weapon_id": 21020013,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020370,
-    "WeaponId": 21020013,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21020370,
+    "weapon_id": 21020013,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020380,
-    "WeaponId": 21020013,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21020380,
+    "weapon_id": 21020013,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020390,
-    "WeaponId": 21020013,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21020390,
+    "weapon_id": 21020013,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030301,
-    "WeaponId": 21030013,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21030301,
+    "weapon_id": 21030013,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030310,
-    "WeaponId": 21030013,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21030310,
+    "weapon_id": 21030013,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030320,
-    "WeaponId": 21030013,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21030320,
+    "weapon_id": 21030013,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030330,
-    "WeaponId": 21030013,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21030330,
+    "weapon_id": 21030013,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030340,
-    "WeaponId": 21030013,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21030340,
+    "weapon_id": 21030013,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030350,
-    "WeaponId": 21030013,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21030350,
+    "weapon_id": 21030013,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030360,
-    "WeaponId": 21030013,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21030360,
+    "weapon_id": 21030013,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030370,
-    "WeaponId": 21030013,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21030370,
+    "weapon_id": 21030013,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030380,
-    "WeaponId": 21030013,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21030380,
+    "weapon_id": 21030013,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030390,
-    "WeaponId": 21030013,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21030390,
+    "weapon_id": 21030013,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040301,
-    "WeaponId": 21040024,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21040301,
+    "weapon_id": 21040024,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040310,
-    "WeaponId": 21040024,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21040310,
+    "weapon_id": 21040024,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040320,
-    "WeaponId": 21040024,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21040320,
+    "weapon_id": 21040024,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040330,
-    "WeaponId": 21040024,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21040330,
+    "weapon_id": 21040024,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040340,
-    "WeaponId": 21040024,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21040340,
+    "weapon_id": 21040024,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040350,
-    "WeaponId": 21040024,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21040350,
+    "weapon_id": 21040024,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040360,
-    "WeaponId": 21040024,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21040360,
+    "weapon_id": 21040024,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040370,
-    "WeaponId": 21040024,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21040370,
+    "weapon_id": 21040024,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040380,
-    "WeaponId": 21040024,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21040380,
+    "weapon_id": 21040024,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040390,
-    "WeaponId": 21040024,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21040390,
+    "weapon_id": 21040024,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050301,
-    "WeaponId": 21050013,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21050301,
+    "weapon_id": 21050013,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050310,
-    "WeaponId": 21050013,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21050310,
+    "weapon_id": 21050013,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050320,
-    "WeaponId": 21050013,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21050320,
+    "weapon_id": 21050013,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050330,
-    "WeaponId": 21050013,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21050330,
+    "weapon_id": 21050013,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050340,
-    "WeaponId": 21050013,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21050340,
+    "weapon_id": 21050013,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050350,
-    "WeaponId": 21050013,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21050350,
+    "weapon_id": 21050013,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050360,
-    "WeaponId": 21050013,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21050360,
+    "weapon_id": 21050013,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050370,
-    "WeaponId": 21050013,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21050370,
+    "weapon_id": 21050013,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050380,
-    "WeaponId": 21050013,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21050380,
+    "weapon_id": 21050013,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050390,
-    "WeaponId": 21050013,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21050390,
+    "weapon_id": 21050013,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 37,
-    "WeaponId": 21010015,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 37,
+    "weapon_id": 21010015,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102301,
-    "WeaponId": 21010023,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21102301,
+    "weapon_id": 21010023,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102310,
-    "WeaponId": 21010023,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21102310,
+    "weapon_id": 21010023,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102320,
-    "WeaponId": 21010023,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21102320,
+    "weapon_id": 21010023,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102330,
-    "WeaponId": 21010023,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21102330,
+    "weapon_id": 21010023,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102340,
-    "WeaponId": 21010023,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21102340,
+    "weapon_id": 21010023,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102350,
-    "WeaponId": 21010023,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21102350,
+    "weapon_id": 21010023,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102360,
-    "WeaponId": 21010023,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21102360,
+    "weapon_id": 21010023,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102370,
-    "WeaponId": 21010023,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21102370,
+    "weapon_id": 21010023,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102380,
-    "WeaponId": 21010023,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21102380,
+    "weapon_id": 21010023,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21102390,
-    "WeaponId": 21010023,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21102390,
+    "weapon_id": 21010023,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202301,
-    "WeaponId": 21020023,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21202301,
+    "weapon_id": 21020023,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202310,
-    "WeaponId": 21020023,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21202310,
+    "weapon_id": 21020023,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202320,
-    "WeaponId": 21020023,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21202320,
+    "weapon_id": 21020023,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202330,
-    "WeaponId": 21020023,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21202330,
+    "weapon_id": 21020023,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202340,
-    "WeaponId": 21020023,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21202340,
+    "weapon_id": 21020023,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202350,
-    "WeaponId": 21020023,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21202350,
+    "weapon_id": 21020023,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202360,
-    "WeaponId": 21020023,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21202360,
+    "weapon_id": 21020023,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202370,
-    "WeaponId": 21020023,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21202370,
+    "weapon_id": 21020023,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202380,
-    "WeaponId": 21020023,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21202380,
+    "weapon_id": 21020023,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21202390,
-    "WeaponId": 21020023,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21202390,
+    "weapon_id": 21020023,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502301,
-    "WeaponId": 21050023,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21502301,
+    "weapon_id": 21050023,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502310,
-    "WeaponId": 21050023,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21502310,
+    "weapon_id": 21050023,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502320,
-    "WeaponId": 21050023,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21502320,
+    "weapon_id": 21050023,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502330,
-    "WeaponId": 21050023,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21502330,
+    "weapon_id": 21050023,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502340,
-    "WeaponId": 21050023,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21502340,
+    "weapon_id": 21050023,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502350,
-    "WeaponId": 21050023,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21502350,
+    "weapon_id": 21050023,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502360,
-    "WeaponId": 21050023,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21502360,
+    "weapon_id": 21050023,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502370,
-    "WeaponId": 21050023,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21502370,
+    "weapon_id": 21050023,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502380,
-    "WeaponId": 21050023,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21502380,
+    "weapon_id": 21050023,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21502390,
-    "WeaponId": 21050023,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21502390,
+    "weapon_id": 21050023,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110501,
-    "WeaponId": 21010015,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21110501,
+    "weapon_id": 21010015,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110510,
-    "WeaponId": 21010015,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21110510,
+    "weapon_id": 21010015,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110520,
-    "WeaponId": 21010015,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21110520,
+    "weapon_id": 21010015,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110530,
-    "WeaponId": 21010015,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21110530,
+    "weapon_id": 21010015,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110540,
-    "WeaponId": 21010015,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21110540,
+    "weapon_id": 21010015,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110550,
-    "WeaponId": 21010015,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21110550,
+    "weapon_id": 21010015,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110560,
-    "WeaponId": 21010015,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21110560,
+    "weapon_id": 21010015,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110570,
-    "WeaponId": 21010015,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21110570,
+    "weapon_id": 21010015,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110580,
-    "WeaponId": 21010015,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21110580,
+    "weapon_id": 21010015,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21110590,
-    "WeaponId": 21010015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21110590,
+    "weapon_id": 21010015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210501,
-    "WeaponId": 21020015,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21210501,
+    "weapon_id": 21020015,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210510,
-    "WeaponId": 21020015,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21210510,
+    "weapon_id": 21020015,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210520,
-    "WeaponId": 21020015,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21210520,
+    "weapon_id": 21020015,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210530,
-    "WeaponId": 21020015,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21210530,
+    "weapon_id": 21020015,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210540,
-    "WeaponId": 21020015,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21210540,
+    "weapon_id": 21020015,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210550,
-    "WeaponId": 21020015,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21210550,
+    "weapon_id": 21020015,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210560,
-    "WeaponId": 21020015,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21210560,
+    "weapon_id": 21020015,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210570,
-    "WeaponId": 21020015,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21210570,
+    "weapon_id": 21020015,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210580,
-    "WeaponId": 21020015,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21210580,
+    "weapon_id": 21020015,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21210590,
-    "WeaponId": 21020015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21210590,
+    "weapon_id": 21020015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310501,
-    "WeaponId": 21030015,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21310501,
+    "weapon_id": 21030015,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310510,
-    "WeaponId": 21030015,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21310510,
+    "weapon_id": 21030015,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310520,
-    "WeaponId": 21030015,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21310520,
+    "weapon_id": 21030015,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310530,
-    "WeaponId": 21030015,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21310530,
+    "weapon_id": 21030015,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310540,
-    "WeaponId": 21030015,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21310540,
+    "weapon_id": 21030015,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310550,
-    "WeaponId": 21030015,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21310550,
+    "weapon_id": 21030015,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310560,
-    "WeaponId": 21030015,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21310560,
+    "weapon_id": 21030015,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310570,
-    "WeaponId": 21030015,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21310570,
+    "weapon_id": 21030015,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310580,
-    "WeaponId": 21030015,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21310580,
+    "weapon_id": 21030015,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21310590,
-    "WeaponId": 21030015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21310590,
+    "weapon_id": 21030015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410501,
-    "WeaponId": 21040015,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21410501,
+    "weapon_id": 21040015,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410510,
-    "WeaponId": 21040015,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21410510,
+    "weapon_id": 21040015,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410520,
-    "WeaponId": 21040015,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21410520,
+    "weapon_id": 21040015,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410530,
-    "WeaponId": 21040015,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21410530,
+    "weapon_id": 21040015,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410540,
-    "WeaponId": 21040015,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21410540,
+    "weapon_id": 21040015,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410550,
-    "WeaponId": 21040015,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21410550,
+    "weapon_id": 21040015,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410560,
-    "WeaponId": 21040015,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21410560,
+    "weapon_id": 21040015,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410570,
-    "WeaponId": 21040015,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21410570,
+    "weapon_id": 21040015,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410580,
-    "WeaponId": 21040015,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21410580,
+    "weapon_id": 21040015,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21410590,
-    "WeaponId": 21040015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21410590,
+    "weapon_id": 21040015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510501,
-    "WeaponId": 21050015,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21510501,
+    "weapon_id": 21050015,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510510,
-    "WeaponId": 21050015,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21510510,
+    "weapon_id": 21050015,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510520,
-    "WeaponId": 21050015,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21510520,
+    "weapon_id": 21050015,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510530,
-    "WeaponId": 21050015,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21510530,
+    "weapon_id": 21050015,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510540,
-    "WeaponId": 21050015,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21510540,
+    "weapon_id": 21050015,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510550,
-    "WeaponId": 21050015,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21510550,
+    "weapon_id": 21050015,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510560,
-    "WeaponId": 21050015,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21510560,
+    "weapon_id": 21050015,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510570,
-    "WeaponId": 21050015,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21510570,
+    "weapon_id": 21050015,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510580,
-    "WeaponId": 21050015,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21510580,
+    "weapon_id": 21050015,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21510590,
-    "WeaponId": 21050015,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21510590,
+    "weapon_id": 21050015,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111501,
-    "WeaponId": 21010016,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21111501,
+    "weapon_id": 21010016,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111510,
-    "WeaponId": 21010016,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21111510,
+    "weapon_id": 21010016,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111520,
-    "WeaponId": 21010016,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21111520,
+    "weapon_id": 21010016,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111530,
-    "WeaponId": 21010016,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21111530,
+    "weapon_id": 21010016,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111540,
-    "WeaponId": 21010016,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21111540,
+    "weapon_id": 21010016,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111550,
-    "WeaponId": 21010016,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21111550,
+    "weapon_id": 21010016,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111560,
-    "WeaponId": 21010016,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21111560,
+    "weapon_id": 21010016,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111570,
-    "WeaponId": 21010016,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21111570,
+    "weapon_id": 21010016,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111580,
-    "WeaponId": 21010016,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21111580,
+    "weapon_id": 21010016,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21111590,
-    "WeaponId": 21010016,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21111590,
+    "weapon_id": 21010016,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104301,
-    "WeaponId": 21010043,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21104301,
+    "weapon_id": 21010043,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104310,
-    "WeaponId": 21010043,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21104310,
+    "weapon_id": 21010043,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104320,
-    "WeaponId": 21010043,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21104320,
+    "weapon_id": 21010043,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104330,
-    "WeaponId": 21010043,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21104330,
+    "weapon_id": 21010043,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104340,
-    "WeaponId": 21010043,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21104340,
+    "weapon_id": 21010043,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104350,
-    "WeaponId": 21010043,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21104350,
+    "weapon_id": 21010043,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104360,
-    "WeaponId": 21010043,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21104360,
+    "weapon_id": 21010043,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104370,
-    "WeaponId": 21010043,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21104370,
+    "weapon_id": 21010043,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104380,
-    "WeaponId": 21010043,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21104380,
+    "weapon_id": 21010043,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104390,
-    "WeaponId": 21010043,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21104390,
+    "weapon_id": 21010043,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204301,
-    "WeaponId": 21020043,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21204301,
+    "weapon_id": 21020043,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204310,
-    "WeaponId": 21020043,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21204310,
+    "weapon_id": 21020043,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204320,
-    "WeaponId": 21020043,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21204320,
+    "weapon_id": 21020043,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204330,
-    "WeaponId": 21020043,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21204330,
+    "weapon_id": 21020043,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204340,
-    "WeaponId": 21020043,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21204340,
+    "weapon_id": 21020043,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204350,
-    "WeaponId": 21020043,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21204350,
+    "weapon_id": 21020043,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204360,
-    "WeaponId": 21020043,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21204360,
+    "weapon_id": 21020043,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204370,
-    "WeaponId": 21020043,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21204370,
+    "weapon_id": 21020043,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204380,
-    "WeaponId": 21020043,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21204380,
+    "weapon_id": 21020043,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204390,
-    "WeaponId": 21020043,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21204390,
+    "weapon_id": 21020043,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504301,
-    "WeaponId": 21050043,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21504301,
+    "weapon_id": 21050043,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504310,
-    "WeaponId": 21050043,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21504310,
+    "weapon_id": 21050043,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504320,
-    "WeaponId": 21050043,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21504320,
+    "weapon_id": 21050043,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504330,
-    "WeaponId": 21050043,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21504330,
+    "weapon_id": 21050043,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504340,
-    "WeaponId": 21050043,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21504340,
+    "weapon_id": 21050043,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504350,
-    "WeaponId": 21050043,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21504350,
+    "weapon_id": 21050043,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504360,
-    "WeaponId": 21050043,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21504360,
+    "weapon_id": 21050043,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504370,
-    "WeaponId": 21050043,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21504370,
+    "weapon_id": 21050043,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504380,
-    "WeaponId": 21050043,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21504380,
+    "weapon_id": 21050043,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504390,
-    "WeaponId": 21050043,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21504390,
+    "weapon_id": 21050043,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105301,
-    "WeaponId": 21010053,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21105301,
+    "weapon_id": 21010053,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105310,
-    "WeaponId": 21010053,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21105310,
+    "weapon_id": 21010053,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105320,
-    "WeaponId": 21010053,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21105320,
+    "weapon_id": 21010053,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105330,
-    "WeaponId": 21010053,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21105330,
+    "weapon_id": 21010053,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105340,
-    "WeaponId": 21010053,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21105340,
+    "weapon_id": 21010053,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105350,
-    "WeaponId": 21010053,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21105350,
+    "weapon_id": 21010053,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105360,
-    "WeaponId": 21010053,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21105360,
+    "weapon_id": 21010053,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105370,
-    "WeaponId": 21010053,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21105370,
+    "weapon_id": 21010053,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105380,
-    "WeaponId": 21010053,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21105380,
+    "weapon_id": 21010053,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21105390,
-    "WeaponId": 21010053,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21105390,
+    "weapon_id": 21010053,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205301,
-    "WeaponId": 21020053,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21205301,
+    "weapon_id": 21020053,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205310,
-    "WeaponId": 21020053,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21205310,
+    "weapon_id": 21020053,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205320,
-    "WeaponId": 21020053,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21205320,
+    "weapon_id": 21020053,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205330,
-    "WeaponId": 21020053,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21205330,
+    "weapon_id": 21020053,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205340,
-    "WeaponId": 21020053,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21205340,
+    "weapon_id": 21020053,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205350,
-    "WeaponId": 21020053,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21205350,
+    "weapon_id": 21020053,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205360,
-    "WeaponId": 21020053,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21205360,
+    "weapon_id": 21020053,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205370,
-    "WeaponId": 21020053,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21205370,
+    "weapon_id": 21020053,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205380,
-    "WeaponId": 21020053,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21205380,
+    "weapon_id": 21020053,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21205390,
-    "WeaponId": 21020053,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21205390,
+    "weapon_id": 21020053,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305301,
-    "WeaponId": 21030053,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21305301,
+    "weapon_id": 21030053,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305310,
-    "WeaponId": 21030053,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21305310,
+    "weapon_id": 21030053,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305320,
-    "WeaponId": 21030053,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21305320,
+    "weapon_id": 21030053,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305330,
-    "WeaponId": 21030053,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21305330,
+    "weapon_id": 21030053,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305340,
-    "WeaponId": 21030053,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21305340,
+    "weapon_id": 21030053,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305350,
-    "WeaponId": 21030053,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21305350,
+    "weapon_id": 21030053,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305360,
-    "WeaponId": 21030053,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21305360,
+    "weapon_id": 21030053,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305370,
-    "WeaponId": 21030053,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21305370,
+    "weapon_id": 21030053,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305380,
-    "WeaponId": 21030053,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21305380,
+    "weapon_id": 21030053,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21305390,
-    "WeaponId": 21030053,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21305390,
+    "weapon_id": 21030053,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405301,
-    "WeaponId": 21040053,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21405301,
+    "weapon_id": 21040053,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405310,
-    "WeaponId": 21040053,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21405310,
+    "weapon_id": 21040053,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405320,
-    "WeaponId": 21040053,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21405320,
+    "weapon_id": 21040053,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405330,
-    "WeaponId": 21040053,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21405330,
+    "weapon_id": 21040053,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405340,
-    "WeaponId": 21040053,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21405340,
+    "weapon_id": 21040053,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405350,
-    "WeaponId": 21040053,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21405350,
+    "weapon_id": 21040053,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405360,
-    "WeaponId": 21040053,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21405360,
+    "weapon_id": 21040053,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405370,
-    "WeaponId": 21040053,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21405370,
+    "weapon_id": 21040053,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405380,
-    "WeaponId": 21040053,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21405380,
+    "weapon_id": 21040053,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21405390,
-    "WeaponId": 21040053,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21405390,
+    "weapon_id": 21040053,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505301,
-    "WeaponId": 21050053,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21505301,
+    "weapon_id": 21050053,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505310,
-    "WeaponId": 21050053,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21505310,
+    "weapon_id": 21050053,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505320,
-    "WeaponId": 21050053,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21505320,
+    "weapon_id": 21050053,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505330,
-    "WeaponId": 21050053,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21505330,
+    "weapon_id": 21050053,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505340,
-    "WeaponId": 21050053,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21505340,
+    "weapon_id": 21050053,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505350,
-    "WeaponId": 21050053,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21505350,
+    "weapon_id": 21050053,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505360,
-    "WeaponId": 21050053,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21505360,
+    "weapon_id": 21050053,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505370,
-    "WeaponId": 21050053,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21505370,
+    "weapon_id": 21050053,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505380,
-    "WeaponId": 21050053,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21505380,
+    "weapon_id": 21050053,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21505390,
-    "WeaponId": 21050053,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21505390,
+    "weapon_id": 21050053,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106401,
-    "WeaponId": 21010064,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21106401,
+    "weapon_id": 21010064,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106410,
-    "WeaponId": 21010064,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21106410,
+    "weapon_id": 21010064,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106420,
-    "WeaponId": 21010064,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21106420,
+    "weapon_id": 21010064,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106430,
-    "WeaponId": 21010064,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21106430,
+    "weapon_id": 21010064,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106440,
-    "WeaponId": 21010064,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21106440,
+    "weapon_id": 21010064,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106450,
-    "WeaponId": 21010064,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21106450,
+    "weapon_id": 21010064,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106460,
-    "WeaponId": 21010064,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21106460,
+    "weapon_id": 21010064,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106470,
-    "WeaponId": 21010064,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21106470,
+    "weapon_id": 21010064,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106480,
-    "WeaponId": 21010064,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21106480,
+    "weapon_id": 21010064,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21106490,
-    "WeaponId": 21010064,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21106490,
+    "weapon_id": 21010064,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206401,
-    "WeaponId": 21020064,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21206401,
+    "weapon_id": 21020064,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206410,
-    "WeaponId": 21020064,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21206410,
+    "weapon_id": 21020064,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206420,
-    "WeaponId": 21020064,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21206420,
+    "weapon_id": 21020064,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206430,
-    "WeaponId": 21020064,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21206430,
+    "weapon_id": 21020064,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206440,
-    "WeaponId": 21020064,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21206440,
+    "weapon_id": 21020064,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206450,
-    "WeaponId": 21020064,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21206450,
+    "weapon_id": 21020064,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206460,
-    "WeaponId": 21020064,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21206460,
+    "weapon_id": 21020064,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206470,
-    "WeaponId": 21020064,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21206470,
+    "weapon_id": 21020064,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206480,
-    "WeaponId": 21020064,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21206480,
+    "weapon_id": 21020064,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21206490,
-    "WeaponId": 21020064,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21206490,
+    "weapon_id": 21020064,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306401,
-    "WeaponId": 21030064,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21306401,
+    "weapon_id": 21030064,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306410,
-    "WeaponId": 21030064,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21306410,
+    "weapon_id": 21030064,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306420,
-    "WeaponId": 21030064,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21306420,
+    "weapon_id": 21030064,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306430,
-    "WeaponId": 21030064,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21306430,
+    "weapon_id": 21030064,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306440,
-    "WeaponId": 21030064,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21306440,
+    "weapon_id": 21030064,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306450,
-    "WeaponId": 21030064,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21306450,
+    "weapon_id": 21030064,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306460,
-    "WeaponId": 21030064,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21306460,
+    "weapon_id": 21030064,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306470,
-    "WeaponId": 21030064,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21306470,
+    "weapon_id": 21030064,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306480,
-    "WeaponId": 21030064,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21306480,
+    "weapon_id": 21030064,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21306490,
-    "WeaponId": 21030064,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21306490,
+    "weapon_id": 21030064,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506401,
-    "WeaponId": 21050064,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21506401,
+    "weapon_id": 21050064,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506410,
-    "WeaponId": 21050064,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21506410,
+    "weapon_id": 21050064,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506420,
-    "WeaponId": 21050064,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21506420,
+    "weapon_id": 21050064,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506430,
-    "WeaponId": 21050064,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21506430,
+    "weapon_id": 21050064,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506440,
-    "WeaponId": 21050064,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21506440,
+    "weapon_id": 21050064,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506450,
-    "WeaponId": 21050064,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21506450,
+    "weapon_id": 21050064,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506460,
-    "WeaponId": 21050064,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21506460,
+    "weapon_id": 21050064,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506470,
-    "WeaponId": 21050064,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21506470,
+    "weapon_id": 21050064,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506480,
-    "WeaponId": 21050064,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21506480,
+    "weapon_id": 21050064,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21506490,
-    "WeaponId": 21050064,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21506490,
+    "weapon_id": 21050064,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401301,
-    "WeaponId": 21040013,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21401301,
+    "weapon_id": 21040013,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401310,
-    "WeaponId": 21040013,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21401310,
+    "weapon_id": 21040013,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401320,
-    "WeaponId": 21040013,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21401320,
+    "weapon_id": 21040013,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401330,
-    "WeaponId": 21040013,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21401330,
+    "weapon_id": 21040013,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401340,
-    "WeaponId": 21040013,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21401340,
+    "weapon_id": 21040013,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401350,
-    "WeaponId": 21040013,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21401350,
+    "weapon_id": 21040013,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401360,
-    "WeaponId": 21040013,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21401360,
+    "weapon_id": 21040013,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401370,
-    "WeaponId": 21040013,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21401370,
+    "weapon_id": 21040013,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401380,
-    "WeaponId": 21040013,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21401380,
+    "weapon_id": 21040013,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21401390,
-    "WeaponId": 21040013,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21401390,
+    "weapon_id": 21040013,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302301,
-    "WeaponId": 21030023,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21302301,
+    "weapon_id": 21030023,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302310,
-    "WeaponId": 21030023,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21302310,
+    "weapon_id": 21030023,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302320,
-    "WeaponId": 21030023,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21302320,
+    "weapon_id": 21030023,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302330,
-    "WeaponId": 21030023,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21302330,
+    "weapon_id": 21030023,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302340,
-    "WeaponId": 21030023,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21302340,
+    "weapon_id": 21030023,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302350,
-    "WeaponId": 21030023,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21302350,
+    "weapon_id": 21030023,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302360,
-    "WeaponId": 21030023,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21302360,
+    "weapon_id": 21030023,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302370,
-    "WeaponId": 21030023,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21302370,
+    "weapon_id": 21030023,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302380,
-    "WeaponId": 21030023,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21302380,
+    "weapon_id": 21030023,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21302390,
-    "WeaponId": 21030023,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21302390,
+    "weapon_id": 21030023,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402301,
-    "WeaponId": 21040023,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21402301,
+    "weapon_id": 21040023,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402310,
-    "WeaponId": 21040023,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21402310,
+    "weapon_id": 21040023,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402320,
-    "WeaponId": 21040023,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21402320,
+    "weapon_id": 21040023,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402330,
-    "WeaponId": 21040023,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21402330,
+    "weapon_id": 21040023,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402340,
-    "WeaponId": 21040023,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21402340,
+    "weapon_id": 21040023,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402350,
-    "WeaponId": 21040023,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21402350,
+    "weapon_id": 21040023,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402360,
-    "WeaponId": 21040023,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21402360,
+    "weapon_id": 21040023,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402370,
-    "WeaponId": 21040023,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21402370,
+    "weapon_id": 21040023,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402380,
-    "WeaponId": 21040023,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21402380,
+    "weapon_id": 21040023,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21402390,
-    "WeaponId": 21040023,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21402390,
+    "weapon_id": 21040023,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103401,
-    "WeaponId": 21010034,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21103401,
+    "weapon_id": 21010034,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103410,
-    "WeaponId": 21010034,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21103410,
+    "weapon_id": 21010034,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103420,
-    "WeaponId": 21010034,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21103420,
+    "weapon_id": 21010034,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103430,
-    "WeaponId": 21010034,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21103430,
+    "weapon_id": 21010034,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103440,
-    "WeaponId": 21010034,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21103440,
+    "weapon_id": 21010034,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103450,
-    "WeaponId": 21010034,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21103450,
+    "weapon_id": 21010034,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103460,
-    "WeaponId": 21010034,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21103460,
+    "weapon_id": 21010034,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103470,
-    "WeaponId": 21010034,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21103470,
+    "weapon_id": 21010034,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103480,
-    "WeaponId": 21010034,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21103480,
+    "weapon_id": 21010034,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21103490,
-    "WeaponId": 21010034,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21103490,
+    "weapon_id": 21010034,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203401,
-    "WeaponId": 21020034,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21203401,
+    "weapon_id": 21020034,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203410,
-    "WeaponId": 21020034,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21203410,
+    "weapon_id": 21020034,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203420,
-    "WeaponId": 21020034,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21203420,
+    "weapon_id": 21020034,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203430,
-    "WeaponId": 21020034,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21203430,
+    "weapon_id": 21020034,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203440,
-    "WeaponId": 21020034,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21203440,
+    "weapon_id": 21020034,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203450,
-    "WeaponId": 21020034,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21203450,
+    "weapon_id": 21020034,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203460,
-    "WeaponId": 21020034,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21203460,
+    "weapon_id": 21020034,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203470,
-    "WeaponId": 21020034,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21203470,
+    "weapon_id": 21020034,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203480,
-    "WeaponId": 21020034,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21203480,
+    "weapon_id": 21020034,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21203490,
-    "WeaponId": 21020034,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21203490,
+    "weapon_id": 21020034,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303401,
-    "WeaponId": 21030034,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21303401,
+    "weapon_id": 21030034,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303410,
-    "WeaponId": 21030034,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21303410,
+    "weapon_id": 21030034,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303420,
-    "WeaponId": 21030034,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21303420,
+    "weapon_id": 21030034,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303430,
-    "WeaponId": 21030034,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21303430,
+    "weapon_id": 21030034,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303440,
-    "WeaponId": 21030034,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21303440,
+    "weapon_id": 21030034,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303450,
-    "WeaponId": 21030034,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21303450,
+    "weapon_id": 21030034,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303460,
-    "WeaponId": 21030034,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21303460,
+    "weapon_id": 21030034,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303470,
-    "WeaponId": 21030034,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21303470,
+    "weapon_id": 21030034,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303480,
-    "WeaponId": 21030034,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21303480,
+    "weapon_id": 21030034,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21303490,
-    "WeaponId": 21030034,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21303490,
+    "weapon_id": 21030034,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403401,
-    "WeaponId": 21040034,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21403401,
+    "weapon_id": 21040034,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403410,
-    "WeaponId": 21040034,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21403410,
+    "weapon_id": 21040034,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403420,
-    "WeaponId": 21040034,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21403420,
+    "weapon_id": 21040034,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403430,
-    "WeaponId": 21040034,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21403430,
+    "weapon_id": 21040034,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403440,
-    "WeaponId": 21040034,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21403440,
+    "weapon_id": 21040034,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403450,
-    "WeaponId": 21040034,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21403450,
+    "weapon_id": 21040034,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403460,
-    "WeaponId": 21040034,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21403460,
+    "weapon_id": 21040034,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403470,
-    "WeaponId": 21040034,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21403470,
+    "weapon_id": 21040034,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403480,
-    "WeaponId": 21040034,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21403480,
+    "weapon_id": 21040034,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21403490,
-    "WeaponId": 21040034,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21403490,
+    "weapon_id": 21040034,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503401,
-    "WeaponId": 21050034,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21503401,
+    "weapon_id": 21050034,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503410,
-    "WeaponId": 21050034,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21503410,
+    "weapon_id": 21050034,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503420,
-    "WeaponId": 21050034,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21503420,
+    "weapon_id": 21050034,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503430,
-    "WeaponId": 21050034,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21503430,
+    "weapon_id": 21050034,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503440,
-    "WeaponId": 21050034,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21503440,
+    "weapon_id": 21050034,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503450,
-    "WeaponId": 21050034,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21503450,
+    "weapon_id": 21050034,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503460,
-    "WeaponId": 21050034,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21503460,
+    "weapon_id": 21050034,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503470,
-    "WeaponId": 21050034,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21503470,
+    "weapon_id": 21050034,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503480,
-    "WeaponId": 21050034,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21503480,
+    "weapon_id": 21050034,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21503490,
-    "WeaponId": 21050034,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21503490,
+    "weapon_id": 21050034,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104401,
-    "WeaponId": 21010044,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21104401,
+    "weapon_id": 21010044,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104410,
-    "WeaponId": 21010044,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21104410,
+    "weapon_id": 21010044,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104420,
-    "WeaponId": 21010044,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21104420,
+    "weapon_id": 21010044,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104430,
-    "WeaponId": 21010044,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21104430,
+    "weapon_id": 21010044,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104440,
-    "WeaponId": 21010044,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21104440,
+    "weapon_id": 21010044,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104450,
-    "WeaponId": 21010044,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21104450,
+    "weapon_id": 21010044,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104460,
-    "WeaponId": 21010044,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21104460,
+    "weapon_id": 21010044,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104470,
-    "WeaponId": 21010044,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21104470,
+    "weapon_id": 21010044,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104480,
-    "WeaponId": 21010044,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21104480,
+    "weapon_id": 21010044,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21104490,
-    "WeaponId": 21010044,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21104490,
+    "weapon_id": 21010044,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204401,
-    "WeaponId": 21020044,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21204401,
+    "weapon_id": 21020044,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204410,
-    "WeaponId": 21020044,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21204410,
+    "weapon_id": 21020044,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204420,
-    "WeaponId": 21020044,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21204420,
+    "weapon_id": 21020044,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204430,
-    "WeaponId": 21020044,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21204430,
+    "weapon_id": 21020044,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204440,
-    "WeaponId": 21020044,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21204440,
+    "weapon_id": 21020044,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204450,
-    "WeaponId": 21020044,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21204450,
+    "weapon_id": 21020044,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204460,
-    "WeaponId": 21020044,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21204460,
+    "weapon_id": 21020044,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204470,
-    "WeaponId": 21020044,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21204470,
+    "weapon_id": 21020044,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204480,
-    "WeaponId": 21020044,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21204480,
+    "weapon_id": 21020044,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21204490,
-    "WeaponId": 21020044,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21204490,
+    "weapon_id": 21020044,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304401,
-    "WeaponId": 21030044,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21304401,
+    "weapon_id": 21030044,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304410,
-    "WeaponId": 21030044,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21304410,
+    "weapon_id": 21030044,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304420,
-    "WeaponId": 21030044,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21304420,
+    "weapon_id": 21030044,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304430,
-    "WeaponId": 21030044,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21304430,
+    "weapon_id": 21030044,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304440,
-    "WeaponId": 21030044,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21304440,
+    "weapon_id": 21030044,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304450,
-    "WeaponId": 21030044,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21304450,
+    "weapon_id": 21030044,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304460,
-    "WeaponId": 21030044,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21304460,
+    "weapon_id": 21030044,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304470,
-    "WeaponId": 21030044,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21304470,
+    "weapon_id": 21030044,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304480,
-    "WeaponId": 21030044,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21304480,
+    "weapon_id": 21030044,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304490,
-    "WeaponId": 21030044,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21304490,
+    "weapon_id": 21030044,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404401,
-    "WeaponId": 21040044,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21404401,
+    "weapon_id": 21040044,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404410,
-    "WeaponId": 21040044,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21404410,
+    "weapon_id": 21040044,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404420,
-    "WeaponId": 21040044,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21404420,
+    "weapon_id": 21040044,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404430,
-    "WeaponId": 21040044,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21404430,
+    "weapon_id": 21040044,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404440,
-    "WeaponId": 21040044,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21404440,
+    "weapon_id": 21040044,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404450,
-    "WeaponId": 21040044,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21404450,
+    "weapon_id": 21040044,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404460,
-    "WeaponId": 21040044,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21404460,
+    "weapon_id": 21040044,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404470,
-    "WeaponId": 21040044,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21404470,
+    "weapon_id": 21040044,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404480,
-    "WeaponId": 21040044,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21404480,
+    "weapon_id": 21040044,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404490,
-    "WeaponId": 21040044,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21404490,
+    "weapon_id": 21040044,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504401,
-    "WeaponId": 21050044,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21504401,
+    "weapon_id": 21050044,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504410,
-    "WeaponId": 21050044,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21504410,
+    "weapon_id": 21050044,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504420,
-    "WeaponId": 21050044,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21504420,
+    "weapon_id": 21050044,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504430,
-    "WeaponId": 21050044,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21504430,
+    "weapon_id": 21050044,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504440,
-    "WeaponId": 21050044,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21504440,
+    "weapon_id": 21050044,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504450,
-    "WeaponId": 21050044,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21504450,
+    "weapon_id": 21050044,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504460,
-    "WeaponId": 21050044,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21504460,
+    "weapon_id": 21050044,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504470,
-    "WeaponId": 21050044,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21504470,
+    "weapon_id": 21050044,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504480,
-    "WeaponId": 21050044,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21504480,
+    "weapon_id": 21050044,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21504490,
-    "WeaponId": 21050044,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21504490,
+    "weapon_id": 21050044,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304301,
-    "WeaponId": 21030043,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21304301,
+    "weapon_id": 21030043,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304310,
-    "WeaponId": 21030043,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21304310,
+    "weapon_id": 21030043,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304320,
-    "WeaponId": 21030043,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21304320,
+    "weapon_id": 21030043,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304330,
-    "WeaponId": 21030043,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21304330,
+    "weapon_id": 21030043,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304340,
-    "WeaponId": 21030043,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21304340,
+    "weapon_id": 21030043,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304350,
-    "WeaponId": 21030043,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21304350,
+    "weapon_id": 21030043,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304360,
-    "WeaponId": 21030043,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21304360,
+    "weapon_id": 21030043,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304370,
-    "WeaponId": 21030043,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21304370,
+    "weapon_id": 21030043,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304380,
-    "WeaponId": 21030043,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21304380,
+    "weapon_id": 21030043,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21304390,
-    "WeaponId": 21030043,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21304390,
+    "weapon_id": 21030043,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404301,
-    "WeaponId": 21040043,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21404301,
+    "weapon_id": 21040043,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404310,
-    "WeaponId": 21040043,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21404310,
+    "weapon_id": 21040043,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404320,
-    "WeaponId": 21040043,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21404320,
+    "weapon_id": 21040043,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404330,
-    "WeaponId": 21040043,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21404330,
+    "weapon_id": 21040043,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404340,
-    "WeaponId": 21040043,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21404340,
+    "weapon_id": 21040043,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404350,
-    "WeaponId": 21040043,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21404350,
+    "weapon_id": 21040043,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404360,
-    "WeaponId": 21040043,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21404360,
+    "weapon_id": 21040043,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404370,
-    "WeaponId": 21040043,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21404370,
+    "weapon_id": 21040043,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404380,
-    "WeaponId": 21040043,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21404380,
+    "weapon_id": 21040043,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21404390,
-    "WeaponId": 21040043,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21404390,
+    "weapon_id": 21040043,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501601,
-    "WeaponId": 21050016,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21501601,
+    "weapon_id": 21050016,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501610,
-    "WeaponId": 21050016,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21501610,
+    "weapon_id": 21050016,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501620,
-    "WeaponId": 21050016,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21501620,
+    "weapon_id": 21050016,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501630,
-    "WeaponId": 21050016,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21501630,
+    "weapon_id": 21050016,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501640,
-    "WeaponId": 21050016,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21501640,
+    "weapon_id": 21050016,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501650,
-    "WeaponId": 21050016,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21501650,
+    "weapon_id": 21050016,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501660,
-    "WeaponId": 21050016,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21501660,
+    "weapon_id": 21050016,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501670,
-    "WeaponId": 21050016,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21501670,
+    "weapon_id": 21050016,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501680,
-    "WeaponId": 21050016,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21501680,
+    "weapon_id": 21050016,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21501690,
-    "WeaponId": 21050016,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21501690,
+    "weapon_id": 21050016,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406401,
-    "WeaponId": 21040064,
-    "WeaponLevel": 1,
-    "WeaponResonanceLevel": 1
+    "id": 21406401,
+    "weapon_id": 21040064,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406410,
-    "WeaponId": 21040064,
-    "WeaponLevel": 10,
-    "WeaponResonanceLevel": 1
+    "id": 21406410,
+    "weapon_id": 21040064,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406420,
-    "WeaponId": 21040064,
-    "WeaponLevel": 20,
-    "WeaponResonanceLevel": 1
+    "id": 21406420,
+    "weapon_id": 21040064,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406430,
-    "WeaponId": 21040064,
-    "WeaponLevel": 30,
-    "WeaponResonanceLevel": 1
+    "id": 21406430,
+    "weapon_id": 21040064,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406440,
-    "WeaponId": 21040064,
-    "WeaponLevel": 40,
-    "WeaponResonanceLevel": 1
+    "id": 21406440,
+    "weapon_id": 21040064,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406450,
-    "WeaponId": 21040064,
-    "WeaponLevel": 50,
-    "WeaponResonanceLevel": 1
+    "id": 21406450,
+    "weapon_id": 21040064,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406460,
-    "WeaponId": 21040064,
-    "WeaponLevel": 60,
-    "WeaponResonanceLevel": 1
+    "id": 21406460,
+    "weapon_id": 21040064,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406470,
-    "WeaponId": 21040064,
-    "WeaponLevel": 70,
-    "WeaponResonanceLevel": 1
+    "id": 21406470,
+    "weapon_id": 21040064,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406480,
-    "WeaponId": 21040064,
-    "WeaponLevel": 80,
-    "WeaponResonanceLevel": 1
+    "id": 21406480,
+    "weapon_id": 21040064,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21406490,
-    "WeaponId": 21040064,
-    "WeaponLevel": 90,
-    "WeaponResonanceLevel": 1
+    "id": 21406490,
+    "weapon_id": 21040064,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21010345,
-    "WeaponId": 21010013,
-    "WeaponLevel": 45,
-    "WeaponResonanceLevel": 1
+    "id": 21010345,
+    "weapon_id": 21010013,
+    "weapon_level": 45,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21020345,
-    "WeaponId": 21020013,
-    "WeaponLevel": 45,
-    "WeaponResonanceLevel": 1
+    "id": 21020345,
+    "weapon_id": 21020013,
+    "weapon_level": 45,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21030345,
-    "WeaponId": 21030013,
-    "WeaponLevel": 45,
-    "WeaponResonanceLevel": 1
+    "id": 21030345,
+    "weapon_id": 21030013,
+    "weapon_level": 45,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21040345,
-    "WeaponId": 21040024,
-    "WeaponLevel": 45,
-    "WeaponResonanceLevel": 1
+    "id": 21040345,
+    "weapon_id": 21040024,
+    "weapon_level": 45,
+    "weapon_resonance_level": 1
   },
   {
-    "Id": 21050345,
-    "WeaponId": 21050013,
-    "WeaponLevel": 45,
-    "WeaponResonanceLevel": 1
+    "id": 21050345,
+    "weapon_id": 21050013,
+    "weapon_level": 45,
+    "weapon_resonance_level": 1
   }
 ]

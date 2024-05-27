@@ -1,19 +1,19 @@
 [
   {
-    "Id": 25,
-    "BreachGroupId": 1501,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 25,
+    "breach_group_id": 1501,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 26,
-    "BreachGroupId": 1501,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 26,
+    "breach_group_id": 1501,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -23,15 +23,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 27,
-    "BreachGroupId": 1501,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 27,
+    "breach_group_id": 1501,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -49,15 +49,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 28,
-    "BreachGroupId": 1501,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 28,
+    "breach_group_id": 1501,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -75,15 +75,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 29,
-    "BreachGroupId": 1501,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 29,
+    "breach_group_id": 1501,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -101,15 +101,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 30,
-    "BreachGroupId": 1501,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 30,
+    "breach_group_id": 1501,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -127,15 +127,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 31,
-    "BreachGroupId": 1501,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 31,
+    "breach_group_id": 1501,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -153,15 +153,15 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 33,
-    "BreachGroupId": 1502,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 33,
+    "breach_group_id": 1502,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -171,15 +171,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 34,
-    "BreachGroupId": 1502,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 34,
+    "breach_group_id": 1502,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -197,15 +197,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 35,
-    "BreachGroupId": 1502,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 35,
+    "breach_group_id": 1502,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -223,15 +223,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 36,
-    "BreachGroupId": 1502,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 36,
+    "breach_group_id": 1502,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -249,15 +249,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 37,
-    "BreachGroupId": 1502,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 37,
+    "breach_group_id": 1502,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -275,15 +275,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 38,
-    "BreachGroupId": 1502,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 38,
+    "breach_group_id": 1502,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -301,24 +301,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 39,
-    "BreachGroupId": 1202,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 39,
+    "breach_group_id": 1202,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 41,
-    "BreachGroupId": 1202,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 41,
+    "breach_group_id": 1202,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 3
@@ -336,15 +336,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 42,
-    "BreachGroupId": 1202,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 42,
+    "breach_group_id": 1202,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 6
@@ -362,15 +362,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 43,
-    "BreachGroupId": 1202,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 43,
+    "breach_group_id": 1202,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 9
@@ -388,15 +388,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 44,
-    "BreachGroupId": 1202,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 44,
+    "breach_group_id": 1202,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 12
@@ -414,15 +414,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 45,
-    "BreachGroupId": 1202,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 45,
+    "breach_group_id": 1202,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 16
@@ -440,24 +440,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 46,
-    "BreachGroupId": 1402,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 46,
+    "breach_group_id": 1402,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 47,
-    "BreachGroupId": 1402,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 47,
+    "breach_group_id": 1402,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100031,
         "value": 4
@@ -467,15 +467,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 49,
-    "BreachGroupId": 1402,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 49,
+    "breach_group_id": 1402,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 6
@@ -493,15 +493,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 50,
-    "BreachGroupId": 1402,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 50,
+    "breach_group_id": 1402,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 9
@@ -519,15 +519,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 51,
-    "BreachGroupId": 1402,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 51,
+    "breach_group_id": 1402,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 12
@@ -545,15 +545,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 52,
-    "BreachGroupId": 1402,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 52,
+    "breach_group_id": 1402,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 16
@@ -571,24 +571,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 53,
-    "BreachGroupId": 1503,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 53,
+    "breach_group_id": 1503,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 54,
-    "BreachGroupId": 1503,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 54,
+    "breach_group_id": 1503,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100021,
         "value": 4
@@ -598,15 +598,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 55,
-    "BreachGroupId": 1503,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 55,
+    "breach_group_id": 1503,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400034,
         "value": 3
@@ -624,15 +624,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 57,
-    "BreachGroupId": 1503,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 57,
+    "breach_group_id": 1503,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400034,
         "value": 9
@@ -650,15 +650,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 58,
-    "BreachGroupId": 1503,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 58,
+    "breach_group_id": 1503,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400034,
         "value": 12
@@ -676,15 +676,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 59,
-    "BreachGroupId": 1503,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 59,
+    "breach_group_id": 1503,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400034,
         "value": 16
@@ -702,24 +702,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 60,
-    "BreachGroupId": 1103,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 60,
+    "breach_group_id": 1103,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 61,
-    "BreachGroupId": 1103,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 61,
+    "breach_group_id": 1103,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100021,
         "value": 4
@@ -729,15 +729,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 62,
-    "BreachGroupId": 1103,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 62,
+    "breach_group_id": 1103,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 3
@@ -755,15 +755,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 63,
-    "BreachGroupId": 1103,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 63,
+    "breach_group_id": 1103,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 6
@@ -781,15 +781,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 65,
-    "BreachGroupId": 1103,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 65,
+    "breach_group_id": 1103,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 12
@@ -807,15 +807,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 66,
-    "BreachGroupId": 1103,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 66,
+    "breach_group_id": 1103,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 16
@@ -833,24 +833,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 67,
-    "BreachGroupId": 1102,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 67,
+    "breach_group_id": 1102,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 68,
-    "BreachGroupId": 1102,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 68,
+    "breach_group_id": 1102,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -860,15 +860,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 69,
-    "BreachGroupId": 1102,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 69,
+    "breach_group_id": 1102,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 3
@@ -886,15 +886,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 70,
-    "BreachGroupId": 1102,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 70,
+    "breach_group_id": 1102,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 6
@@ -912,15 +912,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 71,
-    "BreachGroupId": 1102,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 71,
+    "breach_group_id": 1102,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 9
@@ -938,15 +938,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 73,
-    "BreachGroupId": 1102,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 73,
+    "breach_group_id": 1102,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 16
@@ -964,24 +964,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 74,
-    "BreachGroupId": 1203,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 74,
+    "breach_group_id": 1203,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 75,
-    "BreachGroupId": 1203,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 75,
+    "breach_group_id": 1203,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -991,15 +991,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 76,
-    "BreachGroupId": 1203,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 76,
+    "breach_group_id": 1203,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 3
@@ -1017,15 +1017,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 77,
-    "BreachGroupId": 1203,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 77,
+    "breach_group_id": 1203,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 6
@@ -1043,15 +1043,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 78,
-    "BreachGroupId": 1203,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 78,
+    "breach_group_id": 1203,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 9
@@ -1069,15 +1069,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 79,
-    "BreachGroupId": 1203,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 79,
+    "breach_group_id": 1203,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 12
@@ -1095,24 +1095,24 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 81,
-    "BreachGroupId": 1601,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 81,
+    "breach_group_id": 1601,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 82,
-    "BreachGroupId": 1601,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 82,
+    "breach_group_id": 1601,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100021,
         "value": 4
@@ -1122,15 +1122,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 83,
-    "BreachGroupId": 1601,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 83,
+    "breach_group_id": 1601,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 3
@@ -1148,15 +1148,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 84,
-    "BreachGroupId": 1601,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 84,
+    "breach_group_id": 1601,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 6
@@ -1174,15 +1174,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 85,
-    "BreachGroupId": 1601,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 85,
+    "breach_group_id": 1601,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 9
@@ -1200,15 +1200,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 86,
-    "BreachGroupId": 1601,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 86,
+    "breach_group_id": 1601,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 12
@@ -1226,15 +1226,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 87,
-    "BreachGroupId": 1601,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 87,
+    "breach_group_id": 1601,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 16
@@ -1252,15 +1252,15 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 89,
-    "BreachGroupId": 1602,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 89,
+    "breach_group_id": 1602,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100031,
         "value": 4
@@ -1270,15 +1270,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 90,
-    "BreachGroupId": 1602,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 90,
+    "breach_group_id": 1602,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400014,
         "value": 3
@@ -1296,15 +1296,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 91,
-    "BreachGroupId": 1602,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 91,
+    "breach_group_id": 1602,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400014,
         "value": 6
@@ -1322,15 +1322,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 92,
-    "BreachGroupId": 1602,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 92,
+    "breach_group_id": 1602,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400014,
         "value": 9
@@ -1348,15 +1348,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 93,
-    "BreachGroupId": 1602,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 93,
+    "breach_group_id": 1602,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400014,
         "value": 12
@@ -1374,15 +1374,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 94,
-    "BreachGroupId": 1602,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 94,
+    "breach_group_id": 1602,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400014,
         "value": 16
@@ -1400,24 +1400,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 95,
-    "BreachGroupId": 1403,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 95,
+    "breach_group_id": 1403,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 97,
-    "BreachGroupId": 1403,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 97,
+    "breach_group_id": 1403,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 3
@@ -1435,15 +1435,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 98,
-    "BreachGroupId": 1403,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 98,
+    "breach_group_id": 1403,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 6
@@ -1461,15 +1461,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 99,
-    "BreachGroupId": 1403,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 99,
+    "breach_group_id": 1403,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 9
@@ -1487,15 +1487,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 100,
-    "BreachGroupId": 1403,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 100,
+    "breach_group_id": 1403,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 12
@@ -1513,15 +1513,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 101,
-    "BreachGroupId": 1403,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 101,
+    "breach_group_id": 1403,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 16
@@ -1539,24 +1539,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 102,
-    "BreachGroupId": 1204,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 102,
+    "breach_group_id": 1204,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 103,
-    "BreachGroupId": 1204,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 103,
+    "breach_group_id": 1204,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -1566,15 +1566,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 105,
-    "BreachGroupId": 1204,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 105,
+    "breach_group_id": 1204,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 6
@@ -1592,15 +1592,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 106,
-    "BreachGroupId": 1204,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 106,
+    "breach_group_id": 1204,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 9
@@ -1618,15 +1618,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 107,
-    "BreachGroupId": 1204,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 107,
+    "breach_group_id": 1204,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 12
@@ -1644,15 +1644,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 108,
-    "BreachGroupId": 1204,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 108,
+    "breach_group_id": 1204,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 16
@@ -1670,24 +1670,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 109,
-    "BreachGroupId": 1404,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 109,
+    "breach_group_id": 1404,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 110,
-    "BreachGroupId": 1404,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 110,
+    "breach_group_id": 1404,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100021,
         "value": 4
@@ -1697,15 +1697,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 111,
-    "BreachGroupId": 1404,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 111,
+    "breach_group_id": 1404,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 3
@@ -1723,15 +1723,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 113,
-    "BreachGroupId": 1404,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 113,
+    "breach_group_id": 1404,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 9
@@ -1749,15 +1749,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 114,
-    "BreachGroupId": 1404,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 114,
+    "breach_group_id": 1404,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 12
@@ -1775,15 +1775,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 115,
-    "BreachGroupId": 1404,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 115,
+    "breach_group_id": 1404,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 16
@@ -1801,24 +1801,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 116,
-    "BreachGroupId": 1603,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 116,
+    "breach_group_id": 1603,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 117,
-    "BreachGroupId": 1603,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 117,
+    "breach_group_id": 1603,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -1828,15 +1828,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 118,
-    "BreachGroupId": 1603,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 118,
+    "breach_group_id": 1603,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 3
@@ -1854,15 +1854,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 119,
-    "BreachGroupId": 1603,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 119,
+    "breach_group_id": 1603,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 6
@@ -1880,15 +1880,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 121,
-    "BreachGroupId": 1603,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 121,
+    "breach_group_id": 1603,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 12
@@ -1906,15 +1906,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 122,
-    "BreachGroupId": 1603,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 122,
+    "breach_group_id": 1603,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 16
@@ -1932,24 +1932,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 123,
-    "BreachGroupId": 1302,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 123,
+    "breach_group_id": 1302,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 124,
-    "BreachGroupId": 1302,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 124,
+    "breach_group_id": 1302,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -1959,15 +1959,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 125,
-    "BreachGroupId": 1302,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 125,
+    "breach_group_id": 1302,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400084,
         "value": 3
@@ -1985,15 +1985,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 126,
-    "BreachGroupId": 1302,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 126,
+    "breach_group_id": 1302,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400084,
         "value": 6
@@ -2011,15 +2011,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 127,
-    "BreachGroupId": 1302,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 127,
+    "breach_group_id": 1302,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400084,
         "value": 9
@@ -2037,15 +2037,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 129,
-    "BreachGroupId": 1302,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 129,
+    "breach_group_id": 1302,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400084,
         "value": 16
@@ -2063,24 +2063,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 130,
-    "BreachGroupId": 1301,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 130,
+    "breach_group_id": 1301,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 131,
-    "BreachGroupId": 1301,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 131,
+    "breach_group_id": 1301,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100031,
         "value": 4
@@ -2090,15 +2090,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 132,
-    "BreachGroupId": 1301,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 132,
+    "breach_group_id": 1301,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400024,
         "value": 3
@@ -2116,15 +2116,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 133,
-    "BreachGroupId": 1301,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 133,
+    "breach_group_id": 1301,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400024,
         "value": 6
@@ -2142,15 +2142,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 134,
-    "BreachGroupId": 1301,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 134,
+    "breach_group_id": 1301,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400024,
         "value": 9
@@ -2168,15 +2168,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 135,
-    "BreachGroupId": 1301,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 135,
+    "breach_group_id": 1301,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400024,
         "value": 12
@@ -2194,15 +2194,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 136,
-    "BreachGroupId": 1301,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 136,
+    "breach_group_id": 1301,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400024,
         "value": 16
@@ -2220,24 +2220,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 32,
-    "BreachGroupId": 1502,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 32,
+    "breach_group_id": 1502,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 40,
-    "BreachGroupId": 1202,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 40,
+    "breach_group_id": 1202,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -2247,15 +2247,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 48,
-    "BreachGroupId": 1402,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 48,
+    "breach_group_id": 1402,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 3
@@ -2273,15 +2273,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 56,
-    "BreachGroupId": 1503,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 56,
+    "breach_group_id": 1503,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400034,
         "value": 6
@@ -2299,15 +2299,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 64,
-    "BreachGroupId": 1103,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 64,
+    "breach_group_id": 1103,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 9
@@ -2325,15 +2325,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 72,
-    "BreachGroupId": 1102,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 72,
+    "breach_group_id": 1102,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 12
@@ -2351,15 +2351,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 80,
-    "BreachGroupId": 1203,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 80,
+    "breach_group_id": 1203,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 16
@@ -2377,24 +2377,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 88,
-    "BreachGroupId": 1602,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 88,
+    "breach_group_id": 1602,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 96,
-    "BreachGroupId": 1403,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 96,
+    "breach_group_id": 1403,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100021,
         "value": 4
@@ -2404,15 +2404,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 104,
-    "BreachGroupId": 1204,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 104,
+    "breach_group_id": 1204,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400044,
         "value": 3
@@ -2430,15 +2430,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 112,
-    "BreachGroupId": 1404,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 112,
+    "breach_group_id": 1404,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 6
@@ -2456,15 +2456,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 120,
-    "BreachGroupId": 1603,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 120,
+    "breach_group_id": 1603,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400064,
         "value": 9
@@ -2482,15 +2482,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 128,
-    "BreachGroupId": 1302,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 128,
+    "breach_group_id": 1302,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400084,
         "value": 12
@@ -2508,24 +2508,24 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 137,
-    "BreachGroupId": 1303,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 137,
+    "breach_group_id": 1303,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 138,
-    "BreachGroupId": 1303,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 138,
+    "breach_group_id": 1303,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100031,
         "value": 4
@@ -2535,15 +2535,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 139,
-    "BreachGroupId": 1303,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 139,
+    "breach_group_id": 1303,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400134,
         "value": 3
@@ -2561,15 +2561,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 140,
-    "BreachGroupId": 1303,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 140,
+    "breach_group_id": 1303,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400134,
         "value": 6
@@ -2587,15 +2587,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 141,
-    "BreachGroupId": 1303,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 141,
+    "breach_group_id": 1303,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400134,
         "value": 9
@@ -2613,15 +2613,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 142,
-    "BreachGroupId": 1303,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 142,
+    "breach_group_id": 1303,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400134,
         "value": 12
@@ -2639,15 +2639,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 143,
-    "BreachGroupId": 1303,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 143,
+    "breach_group_id": 1303,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400134,
         "value": 16
@@ -2665,24 +2665,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 144,
-    "BreachGroupId": 1604,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 144,
+    "breach_group_id": 1604,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 145,
-    "BreachGroupId": 1604,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 145,
+    "breach_group_id": 1604,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -2692,15 +2692,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 146,
-    "BreachGroupId": 1604,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 146,
+    "breach_group_id": 1604,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2718,15 +2718,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 147,
-    "BreachGroupId": 1604,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 147,
+    "breach_group_id": 1604,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2744,15 +2744,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 148,
-    "BreachGroupId": 1604,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 148,
+    "breach_group_id": 1604,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2770,15 +2770,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 149,
-    "BreachGroupId": 1604,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 149,
+    "breach_group_id": 1604,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2796,15 +2796,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 150,
-    "BreachGroupId": 1604,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 150,
+    "breach_group_id": 1604,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2822,24 +2822,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 151,
-    "BreachGroupId": 1605,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 151,
+    "breach_group_id": 1605,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 152,
-    "BreachGroupId": 1605,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 152,
+    "breach_group_id": 1605,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -2849,15 +2849,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 153,
-    "BreachGroupId": 1605,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 153,
+    "breach_group_id": 1605,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2875,15 +2875,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 154,
-    "BreachGroupId": 1605,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 154,
+    "breach_group_id": 1605,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2901,15 +2901,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 155,
-    "BreachGroupId": 1605,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 155,
+    "breach_group_id": 1605,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2927,15 +2927,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 156,
-    "BreachGroupId": 1605,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 156,
+    "breach_group_id": 1605,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2953,15 +2953,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 157,
-    "BreachGroupId": 1605,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 157,
+    "breach_group_id": 1605,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41300005,
         "value": 1
@@ -2979,24 +2979,24 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 158,
-    "BreachGroupId": 1104,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 158,
+    "breach_group_id": 1104,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 159,
-    "BreachGroupId": 1104,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 159,
+    "breach_group_id": 1104,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -3006,15 +3006,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 160,
-    "BreachGroupId": 1104,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 160,
+    "breach_group_id": 1104,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 3
@@ -3032,15 +3032,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 161,
-    "BreachGroupId": 1104,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 161,
+    "breach_group_id": 1104,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 6
@@ -3058,15 +3058,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 162,
-    "BreachGroupId": 1104,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 162,
+    "breach_group_id": 1104,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 9
@@ -3084,15 +3084,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 163,
-    "BreachGroupId": 1104,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 163,
+    "breach_group_id": 1104,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 12
@@ -3110,15 +3110,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 164,
-    "BreachGroupId": 1104,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 164,
+    "breach_group_id": 1104,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400074,
         "value": 16
@@ -3136,114 +3136,114 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 500701,
-    "BreachGroupId": 5007,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 500701,
+    "breach_group_id": 5007,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 500601,
-    "BreachGroupId": 5006,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 500601,
+    "breach_group_id": 5006,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 500101,
-    "BreachGroupId": 5001,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 500101,
+    "breach_group_id": 5001,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 500201,
-    "BreachGroupId": 5002,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 500201,
+    "breach_group_id": 5002,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 500301,
-    "BreachGroupId": 5003,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 500301,
+    "breach_group_id": 5003,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 500401,
-    "BreachGroupId": 5004,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 500401,
+    "breach_group_id": 5004,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 500501,
-    "BreachGroupId": 5005,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 500501,
+    "breach_group_id": 5005,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 500801,
-    "BreachGroupId": 5008,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 500801,
+    "breach_group_id": 5008,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 500901,
-    "BreachGroupId": 5009,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 500901,
+    "breach_group_id": 5009,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 501201,
-    "BreachGroupId": 5012,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 501201,
+    "breach_group_id": 5012,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 165,
-    "BreachGroupId": 1405,
-    "BreachLevel": 0,
-    "MaxLevel": 20,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 504001
+    "id": 165,
+    "breach_group_id": 1405,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
   },
   {
-    "Id": 166,
-    "BreachGroupId": 1405,
-    "BreachLevel": 1,
-    "MaxLevel": 40,
-    "BreachConsume": [
+    "id": 166,
+    "breach_group_id": 1405,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
       {
         "key": 41100011,
         "value": 4
@@ -3253,15 +3253,15 @@
         "value": 5000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504002
+    "breach_reward": 0,
+    "condition_id": 504002
   },
   {
-    "Id": 167,
-    "BreachGroupId": 1405,
-    "BreachLevel": 2,
-    "MaxLevel": 50,
-    "BreachConsume": [
+    "id": 167,
+    "breach_group_id": 1405,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 3
@@ -3279,15 +3279,15 @@
         "value": 10000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504003
+    "breach_reward": 0,
+    "condition_id": 504003
   },
   {
-    "Id": 168,
-    "BreachGroupId": 1405,
-    "BreachLevel": 3,
-    "MaxLevel": 60,
-    "BreachConsume": [
+    "id": 168,
+    "breach_group_id": 1405,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 6
@@ -3305,15 +3305,15 @@
         "value": 15000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504004
+    "breach_reward": 0,
+    "condition_id": 504004
   },
   {
-    "Id": 169,
-    "BreachGroupId": 1405,
-    "BreachLevel": 4,
-    "MaxLevel": 70,
-    "BreachConsume": [
+    "id": 169,
+    "breach_group_id": 1405,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 9
@@ -3331,15 +3331,15 @@
         "value": 20000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504005
+    "breach_reward": 0,
+    "condition_id": 504005
   },
   {
-    "Id": 170,
-    "BreachGroupId": 1405,
-    "BreachLevel": 5,
-    "MaxLevel": 80,
-    "BreachConsume": [
+    "id": 170,
+    "breach_group_id": 1405,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 12
@@ -3357,15 +3357,15 @@
         "value": 40000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504006
+    "breach_reward": 0,
+    "condition_id": 504006
   },
   {
-    "Id": 171,
-    "BreachGroupId": 1405,
-    "BreachLevel": 6,
-    "MaxLevel": 90,
-    "BreachConsume": [
+    "id": 171,
+    "breach_group_id": 1405,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
       {
         "key": 41400054,
         "value": 16
@@ -3383,34 +3383,34 @@
         "value": 80000
       }
     ],
-    "BreachReward": 0,
-    "ConditionId": 504007
+    "breach_reward": 0,
+    "condition_id": 504007
   },
   {
-    "Id": 501301,
-    "BreachGroupId": 5013,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 501301,
+    "breach_group_id": 5013,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 501401,
-    "BreachGroupId": 5014,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 501401,
+    "breach_group_id": 5014,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   },
   {
-    "Id": 501501,
-    "BreachGroupId": 5015,
-    "BreachLevel": 0,
-    "MaxLevel": 90,
-    "BreachConsume": [],
-    "BreachReward": 0,
-    "ConditionId": 0
+    "id": 501501,
+    "breach_group_id": 5015,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "MarkId": 300802,
-    "EffectResourcePath": "/Game/Aki/UI/UIResources/UiWorldMap/Prefabs/UiItem_Mark_Radar_Effect.UiItem_Mark_Radar_Effect"
+    "mark_id": 300802,
+    "effect_resource_path": "/Game/Aki/UI/UIResources/UiWorldMap/Prefabs/UiItem_Mark_Radar_Effect.UiItem_Mark_Radar_Effect"
   }
 ]

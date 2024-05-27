@@ -1,522 +1,522 @@
 [
   {
-    "Id": 1,
-    "KeyName": "Gamepad_FaceButton_Bottom",
-    "KeyDescription": "A",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCha_UI.T_IconPcBtn_PsCha_UI"
-  },
-  {
-    "Id": 2,
-    "KeyName": "Gamepad_FaceButton_Left",
-    "KeyDescription": "X",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsKuang_UI.T_IconPcBtn_PsKuang_UI"
-  },
-  {
-    "Id": 3,
-    "KeyName": "Gamepad_FaceButton_Top",
-    "KeyDescription": "Y",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsJian_UI.T_IconPcBtn_PsJian_UI"
-  },
-  {
-    "Id": 4,
-    "KeyName": "Gamepad_FaceButton_Right",
-    "KeyDescription": "B",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsYuan_UI.T_IconPcBtn_PsYuan_UI"
-  },
-  {
-    "Id": 5,
-    "KeyName": "Gamepad_LeftX",
-    "KeyDescription": "左摇杆X",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI"
-  },
-  {
-    "Id": 6,
-    "KeyName": "Gamepad_LeftY",
-    "KeyDescription": "左摇杆Y",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI"
-  },
-  {
-    "Id": 7,
-    "KeyName": "Gamepad_RightX",
-    "KeyDescription": "右摇杆X",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI"
-  },
-  {
-    "Id": 8,
-    "KeyName": "Gamepad_RightY",
-    "KeyDescription": "右摇杆Y",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI"
-  },
-  {
-    "Id": 9,
-    "KeyName": "Gamepad_DPad_Down",
-    "KeyDescription": "控制键下",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI"
-  },
-  {
-    "Id": 10,
-    "KeyName": "Gamepad_DPad_Left",
-    "KeyDescription": "控制键左",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI"
-  },
-  {
-    "Id": 11,
-    "KeyName": "Gamepad_DPad_Up",
-    "KeyDescription": "控制键上",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI"
-  },
-  {
-    "Id": 12,
-    "KeyName": "Gamepad_DPad_Right",
-    "KeyDescription": "控制键右",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI"
-  },
-  {
-    "Id": 13,
-    "KeyName": "Gamepad_Special_Left",
-    "KeyDescription": "左边特殊键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsShare_UI.T_IconPcBtn_PsShare_UI"
+    "id": 1,
+    "key_name": "Gamepad_FaceButton_Bottom",
+    "key_description": "A",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCha_UI.T_IconPcBtn_PsCha_UI"
+  },
+  {
+    "id": 2,
+    "key_name": "Gamepad_FaceButton_Left",
+    "key_description": "X",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsKuang_UI.T_IconPcBtn_PsKuang_UI"
+  },
+  {
+    "id": 3,
+    "key_name": "Gamepad_FaceButton_Top",
+    "key_description": "Y",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsJian_UI.T_IconPcBtn_PsJian_UI"
+  },
+  {
+    "id": 4,
+    "key_name": "Gamepad_FaceButton_Right",
+    "key_description": "B",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsYuan_UI.T_IconPcBtn_PsYuan_UI"
+  },
+  {
+    "id": 5,
+    "key_name": "Gamepad_LeftX",
+    "key_description": "左摇杆X",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI"
+  },
+  {
+    "id": 6,
+    "key_name": "Gamepad_LeftY",
+    "key_description": "左摇杆Y",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI"
+  },
+  {
+    "id": 7,
+    "key_name": "Gamepad_RightX",
+    "key_description": "右摇杆X",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI"
+  },
+  {
+    "id": 8,
+    "key_name": "Gamepad_RightY",
+    "key_description": "右摇杆Y",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI"
+  },
+  {
+    "id": 9,
+    "key_name": "Gamepad_DPad_Down",
+    "key_description": "控制键下",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI"
+  },
+  {
+    "id": 10,
+    "key_name": "Gamepad_DPad_Left",
+    "key_description": "控制键左",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI"
+  },
+  {
+    "id": 11,
+    "key_name": "Gamepad_DPad_Up",
+    "key_description": "控制键上",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI"
+  },
+  {
+    "id": 12,
+    "key_name": "Gamepad_DPad_Right",
+    "key_description": "控制键右",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI"
+  },
+  {
+    "id": 13,
+    "key_name": "Gamepad_Special_Left",
+    "key_description": "左边特殊键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsShare_UI.T_IconPcBtn_PsShare_UI"
   },
   {
-    "Id": 14,
-    "KeyName": "Gamepad_Special_Right",
-    "KeyDescription": "右边特殊键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCai_UI.T_IconPcBtn_PsCai_UI"
+    "id": 14,
+    "key_name": "Gamepad_Special_Right",
+    "key_description": "右边特殊键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCai_UI.T_IconPcBtn_PsCai_UI"
   },
   {
-    "Id": 15,
-    "KeyName": "Gamepad_LeftShoulder",
-    "KeyDescription": "左肩键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL1_UI.T_IconPcBtn_PsL1_UI"
+    "id": 15,
+    "key_name": "Gamepad_LeftShoulder",
+    "key_description": "左肩键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL1_UI.T_IconPcBtn_PsL1_UI"
   },
   {
-    "Id": 16,
-    "KeyName": "Gamepad_RightShoulder",
-    "KeyDescription": "右肩键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR1_UI.T_IconPcBtn_PsR1_UI"
+    "id": 16,
+    "key_name": "Gamepad_RightShoulder",
+    "key_description": "右肩键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR1_UI.T_IconPcBtn_PsR1_UI"
   },
   {
-    "Id": 17,
-    "KeyName": "Gamepad_LeftTriggerAxis",
-    "KeyDescription": "左扳机（轴）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
+    "id": 17,
+    "key_name": "Gamepad_LeftTriggerAxis",
+    "key_description": "左扳机（轴）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
   },
   {
-    "Id": 18,
-    "KeyName": "Gamepad_RightTriggerAxis",
-    "KeyDescription": "右扳机（轴）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
+    "id": 18,
+    "key_name": "Gamepad_RightTriggerAxis",
+    "key_description": "右扳机（轴）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
   },
   {
-    "Id": 19,
-    "KeyName": "Gamepad_RightThumbstick",
-    "KeyDescription": "右摇杆按下",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI"
+    "id": 19,
+    "key_name": "Gamepad_RightThumbstick",
+    "key_description": "右摇杆按下",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI"
   },
   {
-    "Id": 20,
-    "KeyName": "Gamepad_LeftTrigger",
-    "KeyDescription": "左触发杆",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
+    "id": 20,
+    "key_name": "Gamepad_LeftTrigger",
+    "key_description": "左触发杆",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
   },
   {
-    "Id": 21,
-    "KeyName": "Gamepad_RightTrigger",
-    "KeyDescription": "右触发杆",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
+    "id": 21,
+    "key_name": "Gamepad_RightTrigger",
+    "key_description": "右触发杆",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
   },
   {
-    "Id": 22,
-    "KeyName": "Gamepad_LeftThumbstick",
-    "KeyDescription": "左摇杆按下",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI"
+    "id": 22,
+    "key_name": "Gamepad_LeftThumbstick",
+    "key_description": "左摇杆按下",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI"
   },
   {
-    "Id": 23,
-    "KeyName": "Gamepad_LeftStick_Up",
-    "KeyDescription": "左摇杆上（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI"
+    "id": 23,
+    "key_name": "Gamepad_LeftStick_Up",
+    "key_description": "左摇杆上（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI"
   },
   {
-    "Id": 24,
-    "KeyName": "Gamepad_LeftStick_Down",
-    "KeyDescription": "左摇杆下（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI"
+    "id": 24,
+    "key_name": "Gamepad_LeftStick_Down",
+    "key_description": "左摇杆下（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI"
   },
   {
-    "Id": 25,
-    "KeyName": "Gamepad_LeftStick_Right",
-    "KeyDescription": "左摇杆右（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI"
+    "id": 25,
+    "key_name": "Gamepad_LeftStick_Right",
+    "key_description": "左摇杆右（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI"
   },
   {
-    "Id": 26,
-    "KeyName": "Gamepad_LeftStick_Left",
-    "KeyDescription": "左摇杆左（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI"
+    "id": 26,
+    "key_name": "Gamepad_LeftStick_Left",
+    "key_description": "左摇杆左（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI"
   },
   {
-    "Id": 27,
-    "KeyName": "Gamepad_RightStick_Up",
-    "KeyDescription": "右摇杆上（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI"
+    "id": 27,
+    "key_name": "Gamepad_RightStick_Up",
+    "key_description": "右摇杆上（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI"
   },
   {
-    "Id": 28,
-    "KeyName": "Gamepad_RightStick_Down",
-    "KeyDescription": "右摇杆下（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI"
+    "id": 28,
+    "key_name": "Gamepad_RightStick_Down",
+    "key_description": "右摇杆下（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI"
   },
   {
-    "Id": 29,
-    "KeyName": "Gamepad_RightStick_Right",
-    "KeyDescription": "右摇杆右（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI"
+    "id": 29,
+    "key_name": "Gamepad_RightStick_Right",
+    "key_description": "右摇杆右（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI"
   },
   {
-    "Id": 30,
-    "KeyName": "Gamepad_RightStick_Left",
-    "KeyDescription": "右摇杆左（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI"
+    "id": 30,
+    "key_name": "Gamepad_RightStick_Left",
+    "key_description": "右摇杆左（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI"
   },
   {
-    "Id": 31,
-    "KeyName": "Gamepad_Left2D",
-    "KeyDescription": "左摇杆",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
+    "id": 31,
+    "key_name": "Gamepad_Left2D",
+    "key_description": "左摇杆",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
   },
   {
-    "Id": 32,
-    "KeyName": "Gamepad_Right2D",
-    "KeyDescription": "右摇杆",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
+    "id": 32,
+    "key_name": "Gamepad_Right2D",
+    "key_description": "右摇杆",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
   },
   {
-    "Id": 33,
-    "KeyName": "GenericUSBController_Button2",
-    "KeyDescription": "A",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCha_UI.T_IconPcBtn_PsCha_UI"
+    "id": 33,
+    "key_name": "GenericUSBController_Button2",
+    "key_description": "A",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI.T_IconPcBtn_XboxGamepad_FaceButton_Bottom_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCha_UI.T_IconPcBtn_PsCha_UI"
   },
   {
-    "Id": 34,
-    "KeyName": "GenericUSBController_Button1",
-    "KeyDescription": "X",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsKuang_UI.T_IconPcBtn_PsKuang_UI"
+    "id": 34,
+    "key_name": "GenericUSBController_Button1",
+    "key_description": "X",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Left_UI.T_IconPcBtn_XboxGamepad_FaceButton_Left_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsKuang_UI.T_IconPcBtn_PsKuang_UI"
   },
   {
-    "Id": 35,
-    "KeyName": "GenericUSBController_Button4",
-    "KeyDescription": "Y",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsJian_UI.T_IconPcBtn_PsJian_UI"
+    "id": 35,
+    "key_name": "GenericUSBController_Button4",
+    "key_description": "Y",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Top_UI.T_IconPcBtn_XboxGamepad_FaceButton_Top_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsJian_UI.T_IconPcBtn_PsJian_UI"
   },
   {
-    "Id": 36,
-    "KeyName": "GenericUSBController_Button3",
-    "KeyDescription": "B",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsYuan_UI.T_IconPcBtn_PsYuan_UI"
+    "id": 36,
+    "key_name": "GenericUSBController_Button3",
+    "key_description": "B",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_FaceButton_Right_UI.T_IconPcBtn_XboxGamepad_FaceButton_Right_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsYuan_UI.T_IconPcBtn_PsYuan_UI"
   },
   {
-    "Id": 37,
-    "KeyName": "GenericUSBController_Axis6",
-    "KeyDescription": "左摇杆X",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI"
+    "id": 37,
+    "key_name": "GenericUSBController_Axis6",
+    "key_description": "左摇杆X",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox29_UI.T_IconPcBtn_Xbox29_UI"
   },
   {
-    "Id": 38,
-    "KeyName": "GenericUSBController_Axis5",
-    "KeyDescription": "左摇杆Y",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI"
+    "id": 38,
+    "key_name": "GenericUSBController_Axis5",
+    "key_description": "左摇杆Y",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox19_UI.T_IconPcBtn_Xbox19_UI"
   },
   {
-    "Id": 39,
-    "KeyName": "GenericUSBController_Axis4",
-    "KeyDescription": "右摇杆X",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI"
+    "id": 39,
+    "key_name": "GenericUSBController_Axis4",
+    "key_description": "右摇杆X",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox10_UI.T_IconPcBtn_Xbox10_UI"
   },
   {
-    "Id": 40,
-    "KeyName": "GenericUSBController_Axis3",
-    "KeyDescription": "右摇杆Y",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI"
+    "id": 40,
+    "key_name": "GenericUSBController_Axis3",
+    "key_description": "右摇杆Y",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox20_UI.T_IconPcBtn_Xbox20_UI"
   },
   {
-    "Id": 45,
-    "KeyName": "GenericUSBController_Button9",
-    "KeyDescription": "左边特殊键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsShare_UI.T_IconPcBtn_PsShare_UI"
+    "id": 45,
+    "key_name": "GenericUSBController_Button9",
+    "key_description": "左边特殊键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox18_UI.T_IconPcBtn_Xbox18_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsShare_UI.T_IconPcBtn_PsShare_UI"
   },
   {
-    "Id": 46,
-    "KeyName": "GenericUSBController_Button10",
-    "KeyDescription": "右边特殊键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCai_UI.T_IconPcBtn_PsCai_UI"
+    "id": 46,
+    "key_name": "GenericUSBController_Button10",
+    "key_description": "右边特殊键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox17_UI.T_IconPcBtn_Xbox17_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsCai_UI.T_IconPcBtn_PsCai_UI"
   },
   {
-    "Id": 47,
-    "KeyName": "GenericUSBController_Button5",
-    "KeyDescription": "左肩键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL1_UI.T_IconPcBtn_PsL1_UI"
+    "id": 47,
+    "key_name": "GenericUSBController_Button5",
+    "key_description": "左肩键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftShoulder_UI.T_IconPcBtn_XboxGamepad_LeftShoulder_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL1_UI.T_IconPcBtn_PsL1_UI"
   },
   {
-    "Id": 48,
-    "KeyName": "GenericUSBController_Button6",
-    "KeyDescription": "右肩键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR1_UI.T_IconPcBtn_PsR1_UI"
+    "id": 48,
+    "key_name": "GenericUSBController_Button6",
+    "key_description": "右肩键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightShoulder_UI.T_IconPcBtn_XboxGamepad_RightShoulder_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR1_UI.T_IconPcBtn_PsR1_UI"
   },
   {
-    "Id": 49,
-    "KeyName": "GenericUSBController_Axis2",
-    "KeyDescription": "左扳机（轴）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
+    "id": 49,
+    "key_name": "GenericUSBController_Axis2",
+    "key_description": "左扳机（轴）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
   },
   {
-    "Id": 50,
-    "KeyName": "GenericUSBController_Axis1",
-    "KeyDescription": "右扳机（轴）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
+    "id": 50,
+    "key_name": "GenericUSBController_Axis1",
+    "key_description": "右扳机（轴）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
   },
   {
-    "Id": 51,
-    "KeyName": "GenericUSBController_Button12",
-    "KeyDescription": "右摇杆按下",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI"
+    "id": 51,
+    "key_name": "GenericUSBController_Button12",
+    "key_description": "右摇杆按下",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI.T_IconPcBtn_XboxGamepad_RightThumbstickPress_UI"
   },
   {
-    "Id": 52,
-    "KeyName": "GenericUSBController_Button7",
-    "KeyDescription": "左触发杆",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
+    "id": 52,
+    "key_name": "GenericUSBController_Button7",
+    "key_description": "左触发杆",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftTrigger_UI.T_IconPcBtn_XboxGamepad_LeftTrigger_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsL2_UI.T_IconPcBtn_PsL2_UI"
   },
   {
-    "Id": 53,
-    "KeyName": "GenericUSBController_Button8",
-    "KeyDescription": "右触发杆",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
+    "id": 53,
+    "key_name": "GenericUSBController_Button8",
+    "key_description": "右触发杆",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_RightTrigger_UI.T_IconPcBtn_XboxGamepad_RightTrigger_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsR2_UI.T_IconPcBtn_PsR2_UI"
   },
   {
-    "Id": 54,
-    "KeyName": "GenericUSBController_Button11",
-    "KeyDescription": "左摇杆按下",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI"
+    "id": 54,
+    "key_name": "GenericUSBController_Button11",
+    "key_description": "左摇杆按下",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI.T_IconPcBtn_XboxGamepad_LeftThumbstickPress_UI"
   },
   {
-    "Id": 55,
-    "KeyName": "GenericUSBController_Button14",
-    "KeyDescription": "触摸板",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsChu_UI.T_IconPcBtn_PsChu_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsChu_UI.T_IconPcBtn_PsChu_UI"
+    "id": 55,
+    "key_name": "GenericUSBController_Button14",
+    "key_description": "触摸板",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsChu_UI.T_IconPcBtn_PsChu_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_PsChu_UI.T_IconPcBtn_PsChu_UI"
   },
   {
-    "Id": 41,
-    "KeyName": "GenericUSBController_Button18",
-    "KeyDescription": "控制键下",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI"
+    "id": 41,
+    "key_name": "GenericUSBController_Button18",
+    "key_description": "控制键下",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox16_UI.T_IconPcBtn_Xbox16_UI"
   },
   {
-    "Id": 42,
-    "KeyName": "GenericUSBController_Button19",
-    "KeyDescription": "控制键左",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI"
-  },
-  {
-    "Id": 43,
-    "KeyName": "GenericUSBController_Button16",
-    "KeyDescription": "控制键上",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI"
-  },
-  {
-    "Id": 44,
-    "KeyName": "GenericUSBController_Button17",
-    "KeyDescription": "控制键右",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI"
-  },
-  {
-    "Id": 56,
-    "KeyName": "GenericUSBController_Button20",
-    "KeyDescription": "左摇杆上（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI"
-  },
-  {
-    "Id": 57,
-    "KeyName": "GenericUSBController_Button21",
-    "KeyDescription": "左摇杆下（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI"
-  },
-  {
-    "Id": 58,
-    "KeyName": "GenericUSBController_Button23",
-    "KeyDescription": "左摇杆右（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI"
-  },
-  {
-    "Id": 59,
-    "KeyName": "GenericUSBController_Button22",
-    "KeyDescription": "左摇杆左（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI"
-  },
-  {
-    "Id": 60,
-    "KeyName": "GenericUSBController_Button24",
-    "KeyDescription": "右摇杆上（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI"
-  },
-  {
-    "Id": 61,
-    "KeyName": "GenericUSBController_Button25",
-    "KeyDescription": "右摇杆下（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI"
-  },
-  {
-    "Id": 62,
-    "KeyName": "GenericUSBController_Button27",
-    "KeyDescription": "右摇杆右（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI"
-  },
-  {
-    "Id": 63,
-    "KeyName": "GenericUSBController_Button26",
-    "KeyDescription": "右摇杆左（按钮）",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI"
-  },
-  {
-    "Id": 64,
-    "KeyName": "GenericUSBController_Button28",
-    "KeyDescription": "左摇杆",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
-  },
-  {
-    "Id": 65,
-    "KeyName": "GenericUSBController_Button29",
-    "KeyDescription": "右摇杆",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI",
-    "PsKeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
+    "id": 42,
+    "key_name": "GenericUSBController_Button19",
+    "key_description": "控制键左",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox15_UI.T_IconPcBtn_Xbox15_UI"
+  },
+  {
+    "id": 43,
+    "key_name": "GenericUSBController_Button16",
+    "key_description": "控制键上",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox14_UI.T_IconPcBtn_Xbox14_UI"
+  },
+  {
+    "id": 44,
+    "key_name": "GenericUSBController_Button17",
+    "key_description": "控制键右",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Xbox13_UI.T_IconPcBtn_Xbox13_UI"
+  },
+  {
+    "id": 56,
+    "key_name": "GenericUSBController_Button20",
+    "key_description": "左摇杆上（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLUp_UI.T_IconPcBtn_KeyLUp_UI"
+  },
+  {
+    "id": 57,
+    "key_name": "GenericUSBController_Button21",
+    "key_description": "左摇杆下（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLDown_UI.T_IconPcBtn_KeyLDown_UI"
+  },
+  {
+    "id": 58,
+    "key_name": "GenericUSBController_Button23",
+    "key_description": "左摇杆右（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLRight_UI.T_IconPcBtn_KeyLRight_UI"
+  },
+  {
+    "id": 59,
+    "key_name": "GenericUSBController_Button22",
+    "key_description": "左摇杆左（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLLeft_UI.T_IconPcBtn_KeyLLeft_UI"
+  },
+  {
+    "id": 60,
+    "key_name": "GenericUSBController_Button24",
+    "key_description": "右摇杆上（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRUp_UI.T_IconPcBtn_KeyRUp_UI"
+  },
+  {
+    "id": 61,
+    "key_name": "GenericUSBController_Button25",
+    "key_description": "右摇杆下（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRDown_UI.T_IconPcBtn_KeyRDown_UI"
+  },
+  {
+    "id": 62,
+    "key_name": "GenericUSBController_Button27",
+    "key_description": "右摇杆右（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRRight_UI.T_IconPcBtn_KeyRRight_UI"
+  },
+  {
+    "id": 63,
+    "key_name": "GenericUSBController_Button26",
+    "key_description": "右摇杆左（按钮）",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRLeft_UI.T_IconPcBtn_KeyRLeft_UI"
+  },
+  {
+    "id": 64,
+    "key_name": "GenericUSBController_Button28",
+    "key_description": "左摇杆",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxL_UI.T_IconPcBtn_XboxL_UI"
+  },
+  {
+    "id": 65,
+    "key_name": "GenericUSBController_Button29",
+    "key_description": "右摇杆",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI",
+    "ps_key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_XboxR_UI.T_IconPcBtn_XboxR_UI"
   }
 ]

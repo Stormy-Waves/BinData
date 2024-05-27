@@ -1,332 +1,332 @@
 [
   {
-    "Id": 1504,
-    "MaleFormation": [
+    "id": 1504,
+    "male_formation": [
       15010006,
       14040006
     ],
-    "FemaleFormation": [
+    "female_formation": [
       15020006,
       14040006
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 91,
-    "MaleFormation": [
+    "id": 91,
+    "male_formation": [
       14040005
     ],
-    "FemaleFormation": [
+    "female_formation": [
       14040005
     ],
-    "OnlyTrial": false,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": false,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 94,
-    "MaleFormation": [
-      11042000,
-      15012000
+    "id": 94,
+    "male_formation": [
+      11040001,
+      15010001
     ],
-    "FemaleFormation": [
-      11042000,
-      15022000
+    "female_formation": [
+      11040001,
+      15020001
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 95,
-    "MaleFormation": [
+    "id": 95,
+    "male_formation": [
       13020001
     ],
-    "FemaleFormation": [
+    "female_formation": [
       13020001
     ],
-    "OnlyTrial": false,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": false,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 77,
-    "MaleFormation": [
+    "id": 77,
+    "male_formation": [
       15010006,
       14040006
     ],
-    "FemaleFormation": [
+    "female_formation": [
       15020006,
       14040006
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 1505,
-    "MaleFormation": [
+    "id": 1505,
+    "male_formation": [
       1008006,
       1008005,
       1008008
     ],
-    "FemaleFormation": [
+    "female_formation": [
       1008007,
       1008005,
       1008008
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 8101,
-    "MaleFormation": [
+    "id": 8101,
+    "male_formation": [
       14047004,
       12047004,
       11037004
     ],
-    "FemaleFormation": [
+    "female_formation": [
       14047004,
       12047004,
       11037004
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 8102,
-    "MaleFormation": [
+    "id": 8102,
+    "male_formation": [
       12047004,
       14027004,
       16017004
     ],
-    "FemaleFormation": [
+    "female_formation": [
       12047004,
       14027004,
       16017004
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 8103,
-    "MaleFormation": [
+    "id": 8103,
+    "male_formation": [
       16027004,
       15017004,
       11037004
     ],
-    "FemaleFormation": [
+    "female_formation": [
       16027004,
       15027004,
       11037004
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 8104,
-    "MaleFormation": [
+    "id": 8104,
+    "male_formation": [
       12027004,
       14027004,
       16017004
     ],
-    "FemaleFormation": [
+    "female_formation": [
       12027004,
       14027004,
       16017004
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 8105,
-    "MaleFormation": [
+    "id": 8105,
+    "male_formation": [
       13027004,
       13037004,
       11037004
     ],
-    "FemaleFormation": [
+    "female_formation": [
       13027004,
       13037004,
       11037004
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 8106,
-    "MaleFormation": [
+    "id": 8106,
+    "male_formation": [
       16017004,
       15017004,
       14027004
     ],
-    "FemaleFormation": [
+    "female_formation": [
       16017004,
       15027004,
       14027004
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 8107,
-    "MaleFormation": [
+    "id": 8107,
+    "male_formation": [
       14037004,
       12027004,
       14027004
     ],
-    "FemaleFormation": [
+    "female_formation": [
       14037004,
       12027004,
       14027004
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 8108,
-    "MaleFormation": [
+    "id": 8108,
+    "male_formation": [
       13037004,
       14027004,
       11037004
     ],
-    "FemaleFormation": [
+    "female_formation": [
       13037004,
       14027004,
       11037004
     ],
-    "OnlyTrial": true,
-    "AutoChange": true,
-    "ShowInEntrance": true
+    "only_trial": true,
+    "auto_change": true,
+    "show_in_entrance": true
   },
   {
-    "Id": 8002,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8002,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8003,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8003,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8004,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8004,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8005,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8005,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8006,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8006,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8151,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8151,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8152,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8152,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8153,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8153,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8154,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8154,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8155,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8155,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8156,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8156,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8157,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8157,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8158,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8158,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8159,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8159,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   },
   {
-    "Id": 8160,
-    "MaleFormation": [],
-    "FemaleFormation": [],
-    "OnlyTrial": false,
-    "AutoChange": false,
-    "ShowInEntrance": false
+    "id": 8160,
+    "male_formation": [],
+    "female_formation": [],
+    "only_trial": false,
+    "auto_change": false,
+    "show_in_entrance": false
   }
 ]

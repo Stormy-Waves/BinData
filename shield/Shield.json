@@ -1,10 +1,10 @@
 [
   {
-    "Id": 1,
-    "Priority": 1,
-    "RefrenceAttribute": 3,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1,
+    "priority": 1,
+    "refrence_attribute": 3,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -13,7 +13,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -24,11 +24,11 @@
     ]
   },
   {
-    "Id": 2,
-    "Priority": 2,
-    "RefrenceAttribute": 3,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 2,
+    "priority": 2,
+    "refrence_attribute": 3,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -37,7 +37,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -48,11 +48,11 @@
     ]
   },
   {
-    "Id": 3,
-    "Priority": 3,
-    "RefrenceAttribute": 1,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 3,
+    "priority": 3,
+    "refrence_attribute": 1,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.0,
       1.0,
       1.0,
@@ -61,7 +61,7 @@
       1.0,
       1.0
     ],
-    "Value": [
+    "value": [
       1.0,
       1.0,
       1.0,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "Id": 4,
-    "Priority": 4,
-    "RefrenceAttribute": 1,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 4,
+    "priority": 4,
+    "refrence_attribute": 1,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.0,
       1.0,
       1.0,
@@ -85,7 +85,7 @@
       1.0,
       1.0
     ],
-    "Value": [
+    "value": [
       1.0,
       1.0,
       1.0,
@@ -96,11 +96,11 @@
     ]
   },
   {
-    "Id": 5,
-    "Priority": 5,
-    "RefrenceAttribute": 1,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 5,
+    "priority": 5,
+    "refrence_attribute": 1,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.0,
       1.0,
       1.0,
@@ -109,7 +109,7 @@
       1.0,
       1.0
     ],
-    "Value": [
+    "value": [
       1.0,
       1.0,
       1.0,
@@ -120,11 +120,11 @@
     ]
   },
   {
-    "Id": 6,
-    "Priority": 6,
-    "RefrenceAttribute": 1,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 6,
+    "priority": 6,
+    "refrence_attribute": 1,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.0,
       1.0,
       1.0,
@@ -133,7 +133,7 @@
       1.0,
       1.0
     ],
-    "Value": [
+    "value": [
       1.0,
       1.0,
       1.0,
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "Id": 7,
-    "Priority": 7,
-    "RefrenceAttribute": 1,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 7,
+    "priority": 7,
+    "refrence_attribute": 1,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.0,
       1.0,
       1.0,
@@ -157,7 +157,7 @@
       1.0,
       1.0
     ],
-    "Value": [
+    "value": [
       1.0,
       1.0,
       1.0,
@@ -168,11 +168,11 @@
     ]
   },
   {
-    "Id": 77027001,
-    "Priority": 1,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 77027001,
+    "priority": 1,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -181,7 +181,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -192,11 +192,11 @@
     ]
   },
   {
-    "Id": 77027002,
-    "Priority": 1,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 77027002,
+    "priority": 1,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -205,7 +205,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -216,11 +216,11 @@
     ]
   },
   {
-    "Id": 11036000,
-    "Priority": 3,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 11036000,
+    "priority": 3,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -229,7 +229,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -240,11 +240,11 @@
     ]
   },
   {
-    "Id": 11036001,
-    "Priority": 2,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 11036001,
+    "priority": 2,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -253,7 +253,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -264,11 +264,11 @@
     ]
   },
   {
-    "Id": 11036002,
-    "Priority": 1,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 11036002,
+    "priority": 1,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -277,7 +277,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -288,11 +288,11 @@
     ]
   },
   {
-    "Id": 1503951010,
-    "Priority": 3,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1503951010,
+    "priority": 3,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.2,
       1.2,
       1.2,
@@ -301,7 +301,7 @@
       1.2,
       1.2
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -312,11 +312,11 @@
     ]
   },
   {
-    "Id": 1303900001,
-    "Priority": 3,
-    "RefrenceAttribute": 10,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1303900001,
+    "priority": 3,
+    "refrence_attribute": 10,
+    "refrence_target": 0,
+    "attribute_rate": [
       2.0,
       2.0,
       2.0,
@@ -325,7 +325,7 @@
       2.0,
       2.0
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -336,11 +336,11 @@
     ]
   },
   {
-    "Id": 900210000,
-    "Priority": 3,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 900210000,
+    "priority": 3,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.3,
       0.3,
       0.3,
@@ -349,7 +349,7 @@
       0.3,
       0.3
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -360,11 +360,11 @@
     ]
   },
   {
-    "Id": 900210001,
-    "Priority": 3,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 900210001,
+    "priority": 3,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.2,
       1.2,
       1.2,
@@ -373,7 +373,7 @@
       1.2,
       1.2
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -384,11 +384,11 @@
     ]
   },
   {
-    "Id": 900210021,
-    "Priority": 3,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 900210021,
+    "priority": 3,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.3,
       0.3,
       0.3,
@@ -397,7 +397,7 @@
       0.3,
       0.3
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -408,11 +408,11 @@
     ]
   },
   {
-    "Id": 900210002,
-    "Priority": 3,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 900210002,
+    "priority": 3,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -421,7 +421,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -432,11 +432,11 @@
     ]
   },
   {
-    "Id": 1103430512,
-    "Priority": 1,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1103430512,
+    "priority": 1,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.3,
       0.3,
       0.3,
@@ -445,7 +445,7 @@
       0.3,
       0.3
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -456,11 +456,11 @@
     ]
   },
   {
-    "Id": 2000220101,
-    "Priority": 1,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 1,
-    "AttributeRate": [
+    "id": 2000220101,
+    "priority": 1,
+    "refrence_attribute": 2,
+    "refrence_target": 1,
+    "attribute_rate": [
       0.3,
       0.3,
       0.3,
@@ -469,7 +469,7 @@
       0.3,
       0.3
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -480,11 +480,11 @@
     ]
   },
   {
-    "Id": 900210092,
-    "Priority": 3,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 900210092,
+    "priority": 3,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.6,
       0.6,
       0.6,
@@ -493,7 +493,7 @@
       0.6,
       0.6
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -504,11 +504,11 @@
     ]
   },
   {
-    "Id": 2000010101,
-    "Priority": 1,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 1,
-    "AttributeRate": [
+    "id": 2000010101,
+    "priority": 1,
+    "refrence_attribute": 2,
+    "refrence_target": 1,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -517,7 +517,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -528,11 +528,11 @@
     ]
   },
   {
-    "Id": 2000200101,
-    "Priority": 1,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 1,
-    "AttributeRate": [
+    "id": 2000200101,
+    "priority": 1,
+    "refrence_attribute": 2,
+    "refrence_target": 1,
+    "attribute_rate": [
       0.2,
       0.2,
       0.2,
@@ -541,7 +541,7 @@
       0.2,
       0.2
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -552,11 +552,11 @@
     ]
   },
   {
-    "Id": 14050001,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050001,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1706,
       0.1774,
       0.1842,
@@ -578,7 +578,7 @@
       0.6243,
       0.6538
     ],
-    "Value": [
+    "value": [
       437.0,
       490.0,
       546.0,
@@ -602,11 +602,11 @@
     ]
   },
   {
-    "Id": 14050002,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050002,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1706,
       0.1774,
       0.1842,
@@ -628,7 +628,7 @@
       0.6243,
       0.6538
     ],
-    "Value": [
+    "value": [
       437.0,
       490.0,
       546.0,
@@ -652,11 +652,11 @@
     ]
   },
   {
-    "Id": 14050003,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050003,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.3412,
       0.3549,
       0.3685,
@@ -678,7 +678,7 @@
       1.2486,
       1.3077
     ],
-    "Value": [
+    "value": [
       875.0,
       980.0,
       1093.0,
@@ -702,11 +702,11 @@
     ]
   },
   {
-    "Id": 1601025101,
-    "Priority": 1,
-    "RefrenceAttribute": 10,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1601025101,
+    "priority": 1,
+    "refrence_attribute": 10,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1125,
       0.117,
       0.1215,
@@ -728,7 +728,7 @@
       0.4116,
       0.4311
     ],
-    "Value": [
+    "value": [
       300.0,
       336.0,
       375.0,
@@ -752,11 +752,11 @@
     ]
   },
   {
-    "Id": 1601026101,
-    "Priority": 2,
-    "RefrenceAttribute": 10,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1601026101,
+    "priority": 2,
+    "refrence_attribute": 10,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1687,
       0.1755,
       0.1822,
@@ -778,7 +778,7 @@
       0.6174,
       0.6467
     ],
-    "Value": [
+    "value": [
       450.0,
       504.0,
       562.0,
@@ -802,11 +802,11 @@
     ]
   },
   {
-    "Id": 1601027101,
-    "Priority": 3,
-    "RefrenceAttribute": 10,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1601027101,
+    "priority": 3,
+    "refrence_attribute": 10,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.2812,
       0.2925,
       0.3037,
@@ -828,7 +828,7 @@
       1.0291,
       1.0778
     ],
-    "Value": [
+    "value": [
       750.0,
       840.0,
       937.0,
@@ -852,11 +852,11 @@
     ]
   },
   {
-    "Id": 14050004,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050004,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.455,
       0.4732,
       0.4914,
@@ -878,7 +878,7 @@
       1.6648,
       1.7436
     ],
-    "Value": [
+    "value": [
       1166.0,
       1306.0,
       1458.0,
@@ -902,11 +902,11 @@
     ]
   },
   {
-    "Id": 14050005,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050005,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.2047,
       0.2129,
       0.2211,
@@ -928,7 +928,7 @@
       0.7491,
       0.7846
     ],
-    "Value": [
+    "value": [
       525.0,
       588.0,
       656.0,
@@ -952,11 +952,11 @@
     ]
   },
   {
-    "Id": 14050006,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050006,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.2047,
       0.2129,
       0.2211,
@@ -978,7 +978,7 @@
       0.7491,
       0.7846
     ],
-    "Value": [
+    "value": [
       525.0,
       588.0,
       656.0,
@@ -1002,11 +1002,11 @@
     ]
   },
   {
-    "Id": 14050007,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050007,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.4095,
       0.4258,
       0.4422,
@@ -1028,7 +1028,7 @@
       1.4983,
       1.5693
     ],
-    "Value": [
+    "value": [
       1050.0,
       1176.0,
       1312.0,
@@ -1052,11 +1052,11 @@
     ]
   },
   {
-    "Id": 14050008,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050008,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.546,
       0.5678,
       0.5896,
@@ -1078,7 +1078,7 @@
       1.9978,
       2.0924
     ],
-    "Value": [
+    "value": [
       1400.0,
       1568.0,
       1750.0,
@@ -1102,11 +1102,11 @@
     ]
   },
   {
-    "Id": 14050009,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050009,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.1375,
       1.183,
       1.2285,
@@ -1128,7 +1128,7 @@
       4.1621,
       4.3592
     ],
-    "Value": [
+    "value": [
       2916.0,
       3266.0,
       3645.0,
@@ -1152,11 +1152,11 @@
     ]
   },
   {
-    "Id": 621020105,
-    "Priority": 1,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 621020105,
+    "priority": 1,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.0,
       1.0,
       1.0,
@@ -1165,7 +1165,7 @@
       1.0,
       1.0
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -1176,11 +1176,11 @@
     ]
   },
   {
-    "Id": 640005007,
-    "Priority": 5,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 640005007,
+    "priority": 5,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       10.0,
       10.0,
       10.0,
@@ -1189,7 +1189,7 @@
       10.0,
       10.0
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -1200,11 +1200,11 @@
     ]
   },
   {
-    "Id": 200011001,
-    "Priority": 1,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 1,
-    "AttributeRate": [
+    "id": 200011001,
+    "priority": 1,
+    "refrence_attribute": 2,
+    "refrence_target": 1,
+    "attribute_rate": [
       0.1,
       0.1,
       0.1,
@@ -1213,7 +1213,7 @@
       0.1,
       0.1
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -1224,11 +1224,11 @@
     ]
   },
   {
-    "Id": 14050010,
-    "Priority": 4,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 14050010,
+    "priority": 4,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       1.365,
       1.4196,
       1.4742,
@@ -1250,7 +1250,7 @@
       4.9946,
       5.231
     ],
-    "Value": [
+    "value": [
       3500.0,
       3920.0,
       4375.0,
@@ -1274,11 +1274,11 @@
     ]
   },
   {
-    "Id": 900312001,
-    "Priority": 5,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 900312001,
+    "priority": 5,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.15,
       0.15,
       0.15,
@@ -1287,7 +1287,7 @@
       0.15,
       0.15
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -1298,11 +1298,11 @@
     ]
   },
   {
-    "Id": 900312002,
-    "Priority": 5,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 900312002,
+    "priority": 5,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.15,
       0.15,
       0.15,
@@ -1311,7 +1311,7 @@
       0.15,
       0.15
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -1322,11 +1322,11 @@
     ]
   },
   {
-    "Id": 938000301,
-    "Priority": 5,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 938000301,
+    "priority": 5,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.15,
       0.15,
       0.15,
@@ -1335,7 +1335,7 @@
       0.15,
       0.15
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -1346,11 +1346,11 @@
     ]
   },
   {
-    "Id": 1601025102,
-    "Priority": 1,
-    "RefrenceAttribute": 10,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1601025102,
+    "priority": 1,
+    "refrence_attribute": 10,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.1575,
       0.1638,
       0.1701,
@@ -1372,7 +1372,7 @@
       0.5763,
       0.6035
     ],
-    "Value": [
+    "value": [
       420.0,
       470.0,
       525.0,
@@ -1396,11 +1396,11 @@
     ]
   },
   {
-    "Id": 1601026102,
-    "Priority": 2,
-    "RefrenceAttribute": 10,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1601026102,
+    "priority": 2,
+    "refrence_attribute": 10,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.2362,
       0.2457,
       0.2551,
@@ -1422,7 +1422,7 @@
       0.8644,
       0.9053
     ],
-    "Value": [
+    "value": [
       630.0,
       705.0,
       787.0,
@@ -1446,11 +1446,11 @@
     ]
   },
   {
-    "Id": 1601027102,
-    "Priority": 3,
-    "RefrenceAttribute": 10,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 1601027102,
+    "priority": 3,
+    "refrence_attribute": 10,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.3937,
       0.4095,
       0.4252,
@@ -1472,7 +1472,7 @@
       1.4407,
       1.5089
     ],
-    "Value": [
+    "value": [
       1050.0,
       1176.0,
       1312.0,
@@ -1496,14 +1496,14 @@
     ]
   },
   {
-    "Id": 611020002,
-    "Priority": 3,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 1,
-    "AttributeRate": [
+    "id": 611020002,
+    "priority": 3,
+    "refrence_attribute": 2,
+    "refrence_target": 1,
+    "attribute_rate": [
       1.5
     ],
-    "Value": [
+    "value": [
       1.0,
       1.0,
       1.0,
@@ -1514,11 +1514,11 @@
     ]
   },
   {
-    "Id": 900312003,
-    "Priority": 5,
-    "RefrenceAttribute": 2,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 900312003,
+    "priority": 5,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.05,
       0.05,
       0.05,
@@ -1527,7 +1527,7 @@
       0.05,
       0.05
     ],
-    "Value": [
+    "value": [
       0.0,
       0.0,
       0.0,
@@ -1538,14 +1538,14 @@
     ]
   },
   {
-    "Id": 920080201,
-    "Priority": 3,
-    "RefrenceAttribute": 7,
-    "RefrenceTarget": 0,
-    "AttributeRate": [
+    "id": 920080201,
+    "priority": 3,
+    "refrence_attribute": 7,
+    "refrence_target": 0,
+    "attribute_rate": [
       0.0
     ],
-    "Value": [
+    "value": [
       3000.0
     ]
   }

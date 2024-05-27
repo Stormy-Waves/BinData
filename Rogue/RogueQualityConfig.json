@@ -1,47 +1,47 @@
 [
   {
-    "Id": 1,
-    "PhantomBgA": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgA.T_RogueVisionBgA",
-    "PhantomBgB": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSA.T_RogueHeadSA",
-    "PhantomBgC": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBA.T_RogueHeadBA",
-    "TokenBg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgA.T_RogueTokenBgA",
-    "TokenColor": "CBCBCBFF",
-    "RoleNiagaraColor": "FFFFFFFF"
+    "id": 1,
+    "phantom_bg_a": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgA.T_RogueVisionBgA",
+    "phantom_bg_b": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSA.T_RogueHeadSA",
+    "phantom_bg_c": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBA.T_RogueHeadBA",
+    "token_bg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgA.T_RogueTokenBgA",
+    "token_color": "CBCBCBFF",
+    "role_niagara_color": "FFFFFFFF"
   },
   {
-    "Id": 2,
-    "PhantomBgA": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgD.T_RogueVisionBgD",
-    "PhantomBgB": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSD.T_RogueHeadSD",
-    "PhantomBgC": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBD.T_RogueHeadBD",
-    "TokenBg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgD.T_RogueTokenBgD",
-    "TokenColor": "BCDD88FF",
-    "RoleNiagaraColor": "B8DEFFFF"
+    "id": 2,
+    "phantom_bg_a": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgD.T_RogueVisionBgD",
+    "phantom_bg_b": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSD.T_RogueHeadSD",
+    "phantom_bg_c": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBD.T_RogueHeadBD",
+    "token_bg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgD.T_RogueTokenBgD",
+    "token_color": "BCDD88FF",
+    "role_niagara_color": "B8DEFFFF"
   },
   {
-    "Id": 3,
-    "PhantomBgA": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgC.T_RogueVisionBgC",
-    "PhantomBgB": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSC.T_RogueHeadSC",
-    "PhantomBgC": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBC.T_RogueHeadBC",
-    "TokenBg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgC.T_RogueTokenBgC",
-    "TokenColor": "88B5DDFF",
-    "RoleNiagaraColor": "AAC1B3FF"
+    "id": 3,
+    "phantom_bg_a": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgC.T_RogueVisionBgC",
+    "phantom_bg_b": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSC.T_RogueHeadSC",
+    "phantom_bg_c": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBC.T_RogueHeadBC",
+    "token_bg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgC.T_RogueTokenBgC",
+    "token_color": "88B5DDFF",
+    "role_niagara_color": "AAC1B3FF"
   },
   {
-    "Id": 4,
-    "PhantomBgA": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgE.T_RogueVisionBgE",
-    "PhantomBgB": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSE.T_RogueHeadSE",
-    "PhantomBgC": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBE.T_RogueHeadBE",
-    "TokenBg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgE.T_RogueTokenBgE",
-    "TokenColor": "D388DDFF",
-    "RoleNiagaraColor": "EEBAFCFF"
+    "id": 4,
+    "phantom_bg_a": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgE.T_RogueVisionBgE",
+    "phantom_bg_b": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSE.T_RogueHeadSE",
+    "phantom_bg_c": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBE.T_RogueHeadBE",
+    "token_bg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgE.T_RogueTokenBgE",
+    "token_color": "D388DDFF",
+    "role_niagara_color": "EEBAFCFF"
   },
   {
-    "Id": 5,
-    "PhantomBgA": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgB.T_RogueVisionBgB",
-    "PhantomBgB": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSB.T_RogueHeadSB",
-    "PhantomBgC": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBB.T_RogueHeadBB",
-    "TokenBg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgB.T_RogueTokenBgB",
-    "TokenColor": "FFDE66FF",
-    "RoleNiagaraColor": "FBF9E8FF"
+    "id": 5,
+    "phantom_bg_a": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueVisionBgB.T_RogueVisionBgB",
+    "phantom_bg_b": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadSB.T_RogueHeadSB",
+    "phantom_bg_c": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueHeadBB.T_RogueHeadBB",
+    "token_bg": "/Game/Aki/UI/UIResources/UiRogue/Image/T_RogueTokenBgB.T_RogueTokenBgB",
+    "token_color": "FFDE66FF",
+    "role_niagara_color": "FBF9E8FF"
   }
 ]

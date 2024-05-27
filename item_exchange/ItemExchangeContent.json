@@ -1,9 +1,9 @@
 [
   {
-    "ItemId": 3,
-    "Times": 1,
-    "GainCount": 1,
-    "Consume": [
+    "item_id": 3,
+    "times": 1,
+    "gain_count": 1,
+    "consume": [
       {
         "key": 4,
         "value": 1
@@ -11,10 +11,10 @@
     ]
   },
   {
-    "ItemId": 50001,
-    "Times": 1,
-    "GainCount": 1,
-    "Consume": [
+    "item_id": 50001,
+    "times": 1,
+    "gain_count": 1,
+    "consume": [
       {
         "key": 3,
         "value": 160
@@ -22,10 +22,10 @@
     ]
   },
   {
-    "ItemId": 50002,
-    "Times": 1,
-    "GainCount": 1,
-    "Consume": [
+    "item_id": 50002,
+    "times": 1,
+    "gain_count": 1,
+    "consume": [
       {
         "key": 3,
         "value": 160
@@ -33,10 +33,10 @@
     ]
   },
   {
-    "ItemId": 50005,
-    "Times": 1,
-    "GainCount": 1,
-    "Consume": [
+    "item_id": 50005,
+    "times": 1,
+    "gain_count": 1,
+    "consume": [
       {
         "key": 3,
         "value": 160

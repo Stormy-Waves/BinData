@@ -1,42 +1,42 @@
 [
   {
-    "ViewName": "DefaultView",
-    "SortIndex": -1
+    "view_name": "DefaultView",
+    "sort_index": -1
   },
   {
-    "ViewName": "FunctionOpenView",
-    "SortIndex": 10
+    "view_name": "FunctionOpenView",
+    "sort_index": 10
   },
   {
-    "ViewName": "JoinTeamView",
-    "SortIndex": 20
+    "view_name": "JoinTeamView",
+    "sort_index": 20
   },
   {
-    "ViewName": "GuidePictureAndTextView",
-    "SortIndex": 30
+    "view_name": "GuidePictureAndTextView",
+    "sort_index": 30
   },
   {
-    "ViewName": "GuideTutorialView",
-    "SortIndex": 30
+    "view_name": "GuideTutorialView",
+    "sort_index": 30
   },
   {
-    "ViewName": "ChapterStartFloatTips",
-    "SortIndex": 8
+    "view_name": "ChapterStartFloatTips",
+    "sort_index": 8
   },
   {
-    "ViewName": "ChapterEndFloatTips",
-    "SortIndex": 8
+    "view_name": "ChapterEndFloatTips",
+    "sort_index": 8
   },
   {
-    "ViewName": "MonthCardRewardView",
-    "SortIndex": 10
+    "view_name": "MonthCardRewardView",
+    "sort_index": 10
   },
   {
-    "ViewName": "RoleNewJoinView",
-    "SortIndex": 20
+    "view_name": "RoleNewJoinView",
+    "sort_index": 20
   },
   {
-    "ViewName": "RoleNewJoinTipView",
-    "SortIndex": 21
+    "view_name": "RoleNewJoinTipView",
+    "sort_index": 21
   }
 ]

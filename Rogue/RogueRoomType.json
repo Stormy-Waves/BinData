@@ -1,182 +1,182 @@
 [
   {
-    "Id": 1,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "qidian"
+    "id": 1,
+    "room_tips_type": 0,
+    "rooms_music_state": "qidian"
   },
   {
-    "Id": 2,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_xiaoguai1"
+    "id": 2,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_xiaoguai1"
   },
   {
-    "Id": 3,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_xiaoguai2"
+    "id": 3,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_xiaoguai2"
   },
   {
-    "Id": 4,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_elite1"
+    "id": 4,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite1"
   },
   {
-    "Id": 5,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_elite2"
+    "id": 5,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite2"
   },
   {
-    "Id": 6,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_rest"
+    "id": 6,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_rest"
   },
   {
-    "Id": 7,
-    "RoomTipsType": 1,
-    "RoomsMusicState": "stage1_special"
+    "id": 7,
+    "room_tips_type": 1,
+    "rooms_music_state": "stage1_special"
   },
   {
-    "Id": 8,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_elite2"
+    "id": 8,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite2"
   },
   {
-    "Id": 9,
-    "RoomTipsType": 2,
-    "RoomsMusicState": "stage1_boss0"
+    "id": 9,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss0"
   },
   {
-    "Id": 10,
-    "RoomTipsType": 2,
-    "RoomsMusicState": "stage1_boss1"
+    "id": 10,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss1"
   },
   {
-    "Id": 11,
-    "RoomTipsType": 2,
-    "RoomsMusicState": "stage1_boss2"
+    "id": 11,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss2"
   },
   {
-    "Id": 12,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "buttom"
+    "id": 12,
+    "room_tips_type": 0,
+    "rooms_music_state": "buttom"
   },
   {
-    "Id": 13,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_challenge"
+    "id": 13,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_challenge"
   },
   {
-    "Id": 14,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_elite1"
+    "id": 14,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite1"
   },
   {
-    "Id": 15,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_shop"
+    "id": 15,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_shop"
   },
   {
-    "Id": 16,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_role"
+    "id": 16,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_role"
   },
   {
-    "Id": 17,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "qidian"
+    "id": 17,
+    "room_tips_type": 0,
+    "rooms_music_state": "qidian"
   },
   {
-    "Id": 18,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_challenge"
+    "id": 18,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_challenge"
   },
   {
-    "Id": 19,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_challenge"
+    "id": 19,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_challenge"
   },
   {
-    "Id": 20,
-    "RoomTipsType": 2,
-    "RoomsMusicState": "stage1_boss2"
+    "id": 20,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss2"
   },
   {
-    "Id": 21,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_rest"
+    "id": 21,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_rest"
   },
   {
-    "Id": 22,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_rest"
+    "id": 22,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_rest"
   },
   {
-    "Id": 23,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_rest"
+    "id": 23,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_rest"
   },
   {
-    "Id": 101,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "qidian"
+    "id": 101,
+    "room_tips_type": 0,
+    "rooms_music_state": "qidian"
   },
   {
-    "Id": 102,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_xiaoguai1"
+    "id": 102,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_xiaoguai1"
   },
   {
-    "Id": 103,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_xiaoguai2"
+    "id": 103,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_xiaoguai2"
   },
   {
-    "Id": 104,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_wushuang"
+    "id": 104,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_wushuang"
   },
   {
-    "Id": 105,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_rest"
+    "id": 105,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_rest"
   },
   {
-    "Id": 106,
-    "RoomTipsType": 2,
-    "RoomsMusicState": "stage1_boss1"
+    "id": 106,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss1"
   },
   {
-    "Id": 24,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_rest"
+    "id": 24,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_rest"
   },
   {
-    "Id": 25,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_elite2"
+    "id": 25,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite2"
   },
   {
-    "Id": 26,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_rest"
+    "id": 26,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_rest"
   },
   {
-    "Id": 27,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_rest"
+    "id": 27,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_rest"
   },
   {
-    "Id": 28,
-    "RoomTipsType": 2,
-    "RoomsMusicState": "stage1_boss2"
+    "id": 28,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss2"
   },
   {
-    "Id": 29,
-    "RoomTipsType": 2,
-    "RoomsMusicState": "stage1_boss2"
+    "id": 29,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss2"
   },
   {
-    "Id": 30,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_rest"
+    "id": 30,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_rest"
   }
 ]

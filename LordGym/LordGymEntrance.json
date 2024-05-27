@@ -1,8 +1,8 @@
 [
   {
-    "Id": 10010,
-    "MarkId": 4020,
-    "LordGymList": [
+    "id": 10010,
+    "mark_id": 4020,
+    "lord_gym_list": [
       1001,
       1002,
       1003,
@@ -10,14 +10,14 @@
       1005,
       1006
     ],
-    "EntranceTitle": "BossEn_title_01",
-    "EntranceDescription": "BossEn_detail_01",
-    "IsDebug": false
+    "entrance_title": "BossEn_title_01",
+    "entrance_description": "BossEn_detail_01",
+    "is_debug": false
   },
   {
-    "Id": 11010,
-    "MarkId": 4021,
-    "LordGymList": [
+    "id": 11010,
+    "mark_id": 4021,
+    "lord_gym_list": [
       1101,
       1102,
       1103,
@@ -25,14 +25,14 @@
       1105,
       1106
     ],
-    "EntranceTitle": "BossEn_title_02",
-    "EntranceDescription": "BossEn_detail_02",
-    "IsDebug": false
+    "entrance_title": "BossEn_title_02",
+    "entrance_description": "BossEn_detail_02",
+    "is_debug": false
   },
   {
-    "Id": 12010,
-    "MarkId": 4022,
-    "LordGymList": [
+    "id": 12010,
+    "mark_id": 4022,
+    "lord_gym_list": [
       1201,
       1202,
       1203,
@@ -40,14 +40,14 @@
       1205,
       1206
     ],
-    "EntranceTitle": "BossEn_title_03",
-    "EntranceDescription": "BossEn_detail_03",
-    "IsDebug": false
+    "entrance_title": "BossEn_title_03",
+    "entrance_description": "BossEn_detail_03",
+    "is_debug": false
   },
   {
-    "Id": 13010,
-    "MarkId": 4023,
-    "LordGymList": [
+    "id": 13010,
+    "mark_id": 4023,
+    "lord_gym_list": [
       1301,
       1302,
       1303,
@@ -55,8 +55,8 @@
       1305,
       1306
     ],
-    "EntranceTitle": "BossEn_title_04",
-    "EntranceDescription": "BossEn_detail_04",
-    "IsDebug": false
+    "entrance_title": "BossEn_title_04",
+    "entrance_description": "BossEn_detail_04",
+    "is_debug": false
   }
 ]

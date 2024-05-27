@@ -1,56 +1,56 @@
 [
   {
-    "Id": "0",
-    "PhysicsAssetPath": "",
-    "BoneNames": [
+    "id": "0",
+    "physics_asset_path": "",
+    "bone_names": [
       "Bip001LThigh",
       "Bip001RThigh"
     ]
   },
   {
-    "Id": "FemaleS",
-    "PhysicsAssetPath": "/Game/Aki/Character/Role/FemaleS/BasePhysics/R2T1AnkeMd10011_Caughted_Physics.R2T1AnkeMd10011_Caughted_Physics",
-    "BoneNames": [
+    "id": "FemaleS",
+    "physics_asset_path": "/Game/Aki/Character/Role/FemaleS/BasePhysics/R2T1AnkeMd10011_Caughted_Physics.R2T1AnkeMd10011_Caughted_Physics",
+    "bone_names": [
       "Bip001LThigh",
       "Bip001RThigh"
     ]
   },
   {
-    "Id": "FemaleM",
-    "PhysicsAssetPath": "/Game/Aki/Character/Role/FemaleM/BasePhysics/R2T1PlayerFemaleMd10011_Caughted_Physics.R2T1PlayerFemaleMd10011_Caughted_Physics",
-    "BoneNames": [
+    "id": "FemaleM",
+    "physics_asset_path": "/Game/Aki/Character/Role/FemaleM/BasePhysics/R2T1PlayerFemaleMd10011_Caughted_Physics.R2T1PlayerFemaleMd10011_Caughted_Physics",
+    "bone_names": [
       "Bip001LThigh",
       "Bip001RThigh"
     ]
   },
   {
-    "Id": "FemaleXL",
-    "PhysicsAssetPath": "/Game/Aki/Character/Role/FemaleXL/BasePhysics/R2T1BaiLianMd10011_Caughted_Physics.R2T1BaiLianMd10011_Caughted_Physics",
-    "BoneNames": [
+    "id": "FemaleXL",
+    "physics_asset_path": "/Game/Aki/Character/Role/FemaleXL/BasePhysics/R2T1BaiLianMd10011_Caughted_Physics.R2T1BaiLianMd10011_Caughted_Physics",
+    "bone_names": [
       "Bip001LThigh",
       "Bip001RThigh"
     ]
   },
   {
-    "Id": "MaleS",
-    "PhysicsAssetPath": "/Game/Aki/Character/Role/MaleS/BasePhysics/R2T1LingyangMd10011_Caughted_Physics.R2T1LingyangMd10011_Caughted_Physics",
-    "BoneNames": [
+    "id": "MaleS",
+    "physics_asset_path": "/Game/Aki/Character/Role/MaleS/BasePhysics/R2T1LingyangMd10011_Caughted_Physics.R2T1LingyangMd10011_Caughted_Physics",
+    "bone_names": [
       "Bip001LThigh",
       "Bip001RThigh"
     ]
   },
   {
-    "Id": "Male",
-    "PhysicsAssetPath": "/Game/Aki/Character/Role/MaleM/BasePhysics/R2T1PlayerMaleMd10011_Caughted_Physics.R2T1PlayerMaleMd10011_Caughted_Physics",
-    "BoneNames": [
+    "id": "Male",
+    "physics_asset_path": "/Game/Aki/Character/Role/MaleM/BasePhysics/R2T1PlayerMaleMd10011_Caughted_Physics.R2T1PlayerMaleMd10011_Caughted_Physics",
+    "bone_names": [
       "Bip001LThigh",
       "Bip001RThigh"
     ]
   },
   {
-    "Id": "MaleXL",
-    "PhysicsAssetPath": "/Game/Aki/Character/Role/MaleXL/BasePhysics/R2T1QiushuiMd10011_Caughted_Physics.R2T1QiushuiMd10011_Caughted_Physics",
-    "BoneNames": [
+    "id": "MaleXL",
+    "physics_asset_path": "/Game/Aki/Character/Role/MaleXL/BasePhysics/R2T1QiushuiMd10011_Caughted_Physics.R2T1QiushuiMd10011_Caughted_Physics",
+    "bone_names": [
       "Bip001LThigh",
       "Bip001RThigh"
     ]

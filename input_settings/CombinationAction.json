@@ -1,10 +1,10 @@
 [
   {
-    "Id": 1,
-    "ActionName": "幻象1",
-    "ActionType": 1,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 1,
+    "action_name": "幻象1",
+    "action_type": 1,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_FaceButton_Top"
@@ -14,16 +14,16 @@
         "value": "GenericUSBController_Button4"
       }
     ],
-    "SecondaryKeyValidTime": -1,
-    "MobileIconPath": "",
-    "DisplayName": ""
+    "secondary_key_valid_time": -1,
+    "mobile_icon_path": "",
+    "display_name": ""
   },
   {
-    "Id": 3,
-    "ActionName": "切换角色4",
-    "ActionType": 1,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 3,
+    "action_name": "切换角色4",
+    "action_type": 1,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_DPad_Down"
@@ -33,16 +33,16 @@
         "value": "GenericUSBController_Button18"
       }
     ],
-    "SecondaryKeyValidTime": -1,
-    "MobileIconPath": "",
-    "DisplayName": ""
+    "secondary_key_valid_time": -1,
+    "mobile_icon_path": "",
+    "display_name": ""
   },
   {
-    "Id": 2,
-    "ActionName": "幻象2",
-    "ActionType": 1,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 2,
+    "action_name": "幻象2",
+    "action_type": 1,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_FaceButton_Left"
@@ -52,16 +52,16 @@
         "value": "GenericUSBController_Button1"
       }
     ],
-    "SecondaryKeyValidTime": -1,
-    "MobileIconPath": "",
-    "DisplayName": ""
+    "secondary_key_valid_time": -1,
+    "mobile_icon_path": "",
+    "display_name": ""
   },
   {
-    "Id": 4,
-    "ActionName": "ZoomIn",
-    "ActionType": 1,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 4,
+    "action_name": "ZoomIn",
+    "action_type": 1,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_LeftTrigger"
@@ -71,16 +71,16 @@
         "value": "GenericUSBController_Button7"
       }
     ],
-    "SecondaryKeyValidTime": -1,
-    "MobileIconPath": "",
-    "DisplayName": ""
+    "secondary_key_valid_time": -1,
+    "mobile_icon_path": "",
+    "display_name": ""
   },
   {
-    "Id": 5,
-    "ActionName": "ZoomOut",
-    "ActionType": 1,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 5,
+    "action_name": "ZoomOut",
+    "action_type": 1,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_RightTrigger"
@@ -90,16 +90,16 @@
         "value": "GenericUSBController_Button8"
       }
     ],
-    "SecondaryKeyValidTime": -1,
-    "MobileIconPath": "",
-    "DisplayName": ""
+    "secondary_key_valid_time": -1,
+    "mobile_icon_path": "",
+    "display_name": ""
   },
   {
-    "Id": 6,
-    "ActionName": "任务追踪",
-    "ActionType": 2,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 6,
+    "action_name": "任务追踪",
+    "action_type": 2,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_RightThumbstick"
@@ -109,16 +109,16 @@
         "value": "GenericUSBController_Button12"
       }
     ],
-    "SecondaryKeyValidTime": -1,
-    "MobileIconPath": "",
-    "DisplayName": ""
+    "secondary_key_valid_time": -1,
+    "mobile_icon_path": "",
+    "display_name": ""
   },
   {
-    "Id": 7,
-    "ActionName": "玩法放弃",
-    "ActionType": 3,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 7,
+    "action_name": "玩法放弃",
+    "action_type": 3,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftThumbstick",
         "value": "Gamepad_RightThumbstick"
@@ -128,16 +128,16 @@
         "value": "GenericUSBController_Button12"
       }
     ],
-    "SecondaryKeyValidTime": -1,
-    "MobileIconPath": "",
-    "DisplayName": ""
+    "secondary_key_valid_time": -1,
+    "mobile_icon_path": "",
+    "display_name": ""
   },
   {
-    "Id": 8,
-    "ActionName": "环境特性",
-    "ActionType": 3,
-    "PcKeys": [],
-    "GamepadKeys": [
+    "id": 8,
+    "action_name": "环境特性",
+    "action_type": 3,
+    "pc_keys": [],
+    "gamepad_keys": [
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_Special_Right"
@@ -147,8 +147,8 @@
         "value": "GenericUSBController_Button10"
       }
     ],
-    "SecondaryKeyValidTime": -1,
-    "MobileIconPath": "",
-    "DisplayName": ""
+    "secondary_key_valid_time": -1,
+    "mobile_icon_path": "",
+    "display_name": ""
   }
 ]

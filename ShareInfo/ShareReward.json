@@ -1,57 +1,57 @@
 [
   {
-    "Id": 1,
-    "ShareType": 1,
-    "ShareReward": [
+    "id": 1,
+    "share_type": 1,
+    "share_reward": [
       {
         "key": 3,
         "value": 20
       }
     ],
-    "UpdateType": 0
+    "update_type": 0
   },
   {
-    "Id": 2,
-    "ShareType": 2,
-    "ShareReward": [
+    "id": 2,
+    "share_type": 2,
+    "share_reward": [
       {
         "key": 3,
         "value": 20
       }
     ],
-    "UpdateType": 0
+    "update_type": 0
   },
   {
-    "Id": 3,
-    "ShareType": 3,
-    "ShareReward": [
+    "id": 3,
+    "share_type": 3,
+    "share_reward": [
       {
         "key": 3,
         "value": 30
       }
     ],
-    "UpdateType": 0
+    "update_type": 0
   },
   {
-    "Id": 4,
-    "ShareType": 3,
-    "ShareReward": [
+    "id": 4,
+    "share_type": 3,
+    "share_reward": [
       {
         "key": 3,
         "value": 30
       }
     ],
-    "UpdateType": 0
+    "update_type": 0
   },
   {
-    "Id": 5,
-    "ShareType": 4,
-    "ShareReward": [
+    "id": 5,
+    "share_type": 4,
+    "share_reward": [
       {
         "key": 3,
         "value": 30
       }
     ],
-    "UpdateType": 0
+    "update_type": 0
   }
 ]

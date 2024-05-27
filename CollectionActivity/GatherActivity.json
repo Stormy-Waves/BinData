@@ -1,18 +1,18 @@
 [
   {
-    "Id": 1,
-    "PlayTask": 880000004,
-    "TaskClue": "1.似乎是黄色的\n2.圆的",
-    "SubmitItem": [
+    "id": 1,
+    "play_task": 880000004,
+    "task_clue": "1.似乎是黄色的\n2.圆的",
+    "submit_item": [
       {
         "key": 1,
         "value": 1
       }
     ],
-    "Reward": 5031001,
-    "LocationEntityConfigId": 109002516,
-    "MarkId": 3,
-    "RewardItem": [
+    "reward": 5031001,
+    "location_entity_config_id": 109002516,
+    "mark_id": 3,
+    "reward_item": [
       {
         "key": 3,
         "value": 20
@@ -28,19 +28,19 @@
     ]
   },
   {
-    "Id": 2,
-    "PlayTask": 880000005,
-    "TaskClue": "1.似乎是黄色的\n2.圆的",
-    "SubmitItem": [
+    "id": 2,
+    "play_task": 880000005,
+    "task_clue": "1.似乎是黄色的\n2.圆的",
+    "submit_item": [
       {
         "key": 1,
         "value": 1
       }
     ],
-    "Reward": 5031002,
-    "LocationEntityConfigId": 109002516,
-    "MarkId": 3,
-    "RewardItem": [
+    "reward": 5031002,
+    "location_entity_config_id": 109002516,
+    "mark_id": 3,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2
@@ -56,19 +56,19 @@
     ]
   },
   {
-    "Id": 3,
-    "PlayTask": 880000006,
-    "TaskClue": "1.似乎是黄色的\n2.圆的",
-    "SubmitItem": [
+    "id": 3,
+    "play_task": 880000006,
+    "task_clue": "1.似乎是黄色的\n2.圆的",
+    "submit_item": [
       {
         "key": 1,
         "value": 1
       }
     ],
-    "Reward": 5031003,
-    "LocationEntityConfigId": 109002516,
-    "MarkId": 3,
-    "RewardItem": [
+    "reward": 5031003,
+    "location_entity_config_id": 109002516,
+    "mark_id": 3,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2
@@ -84,19 +84,19 @@
     ]
   },
   {
-    "Id": 4,
-    "PlayTask": 880000007,
-    "TaskClue": "1.似乎是黄色的\n2.圆的",
-    "SubmitItem": [
+    "id": 4,
+    "play_task": 880000007,
+    "task_clue": "1.似乎是黄色的\n2.圆的",
+    "submit_item": [
       {
         "key": 1,
         "value": 1
       }
     ],
-    "Reward": 5031004,
-    "LocationEntityConfigId": 109002516,
-    "MarkId": 3,
-    "RewardItem": [
+    "reward": 5031004,
+    "location_entity_config_id": 109002516,
+    "mark_id": 3,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2
@@ -112,19 +112,19 @@
     ]
   },
   {
-    "Id": 5,
-    "PlayTask": 880000008,
-    "TaskClue": "1.似乎是黄色的\n2.圆的",
-    "SubmitItem": [
+    "id": 5,
+    "play_task": 880000008,
+    "task_clue": "1.似乎是黄色的\n2.圆的",
+    "submit_item": [
       {
         "key": 1,
         "value": 1
       }
     ],
-    "Reward": 5031005,
-    "LocationEntityConfigId": 109002516,
-    "MarkId": 3,
-    "RewardItem": [
+    "reward": 5031005,
+    "location_entity_config_id": 109002516,
+    "mark_id": 3,
+    "reward_item": [
       {
         "key": 3,
         "value": 20
@@ -140,19 +140,19 @@
     ]
   },
   {
-    "Id": 6,
-    "PlayTask": 880000009,
-    "TaskClue": "1.似乎是黄色的\n2.圆的",
-    "SubmitItem": [
+    "id": 6,
+    "play_task": 880000009,
+    "task_clue": "1.似乎是黄色的\n2.圆的",
+    "submit_item": [
       {
         "key": 1,
         "value": 1
       }
     ],
-    "Reward": 5031006,
-    "LocationEntityConfigId": 109002516,
-    "MarkId": 3,
-    "RewardItem": [
+    "reward": 5031006,
+    "location_entity_config_id": 109002516,
+    "mark_id": 3,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2
@@ -168,19 +168,19 @@
     ]
   },
   {
-    "Id": 7,
-    "PlayTask": 880000010,
-    "TaskClue": "1.似乎是黄色的\n2.圆的",
-    "SubmitItem": [
+    "id": 7,
+    "play_task": 880000010,
+    "task_clue": "1.似乎是黄色的\n2.圆的",
+    "submit_item": [
       {
         "key": 1,
         "value": 1
       }
     ],
-    "Reward": 5031007,
-    "LocationEntityConfigId": 109002516,
-    "MarkId": 3,
-    "RewardItem": [
+    "reward": 5031007,
+    "location_entity_config_id": 109002516,
+    "mark_id": 3,
+    "reward_item": [
       {
         "key": 43010002,
         "value": 2

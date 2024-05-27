@@ -1,170 +1,170 @@
 [
   {
-    "CgId": 101,
-    "CgName": "Start",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_Mp4.M0206_Mp4",
-    "CanSkip": true
+    "cg_id": 101,
+    "cg_name": "Start",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_Mp4.M0206_Mp4",
+    "can_skip": true
   },
   {
-    "CgId": 102,
-    "CgName": "Start",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_nvzhu_Mp4.M0206_nvzhu_Mp4",
-    "CanSkip": true
+    "cg_id": 102,
+    "cg_name": "Start",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_nvzhu_Mp4.M0206_nvzhu_Mp4",
+    "can_skip": true
   },
   {
-    "CgId": 103,
-    "CgName": "C3jinzhoutexie",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelB_Seq/Main/Section1/M01012/M01012_Nanzhu.M01012_Nanzhu",
-    "CanSkip": false
+    "cg_id": 103,
+    "cg_name": "C3jinzhoutexie",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section1/M01012/M01012_Nanzhu.M01012_Nanzhu",
+    "can_skip": false
   },
   {
-    "CgId": 104,
-    "CgName": "C3jinzhoutexie",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelB_Seq/Main/Section1/M01012/M01012_Nvzhu.M01012_Nvzhu",
-    "CanSkip": false
+    "cg_id": 104,
+    "cg_name": "C3jinzhoutexie",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section1/M01012/M01012_Nvzhu.M01012_Nvzhu",
+    "can_skip": false
   },
   {
-    "CgId": 105,
-    "CgName": "C3jiyanfight",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0211/M0211_Nanzhu.M0211_Nanzhu",
-    "CanSkip": true
+    "cg_id": 105,
+    "cg_name": "C3jiyanfight",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0211/M0211_Nanzhu.M0211_Nanzhu",
+    "can_skip": true
   },
   {
-    "CgId": 106,
-    "CgName": "C3jiyanfight",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0211/M0211_Nvzhu.M0211_Nvzhu",
-    "CanSkip": true
+    "cg_id": 106,
+    "cg_name": "C3jiyanfight",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0211/M0211_Nvzhu.M0211_Nvzhu",
+    "can_skip": true
   },
   {
-    "CgId": 107,
-    "CgName": "LYSZW",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Roles/01/Lingyang01/R0004/R0004_Nanzhu.R0004_Nanzhu",
-    "CanSkip": false
+    "cg_id": 107,
+    "cg_name": "LYSZW",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01/Lingyang01/R0004/R0004_Nanzhu.R0004_Nanzhu",
+    "can_skip": false
   },
   {
-    "CgId": 108,
-    "CgName": "LYSZW",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Roles/01/Lingyang01/R0004/R0004_Nvzhu.R0004_Nvzhu",
-    "CanSkip": false
+    "cg_id": 108,
+    "cg_name": "LYSZW",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01/Lingyang01/R0004/R0004_Nvzhu.R0004_Nvzhu",
+    "can_skip": false
   },
   {
-    "CgId": 109,
-    "CgName": "C0002",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0002/C0002.C0002",
-    "CanSkip": false
+    "cg_id": 109,
+    "cg_name": "C0002",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0002/C0002.C0002",
+    "can_skip": false
   },
   {
-    "CgId": 110,
-    "CgName": "C0001",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0001/C0001.C0001",
-    "CanSkip": false
+    "cg_id": 110,
+    "cg_name": "C0001",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0001/C0001.C0001",
+    "can_skip": false
   },
   {
-    "CgId": 111,
-    "CgName": "M0221",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0221/M0221.M0221",
-    "CanSkip": false
+    "cg_id": 111,
+    "cg_name": "M0221",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0221/M0221.M0221",
+    "can_skip": false
   },
   {
-    "CgId": 112,
-    "CgName": "M0221",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0221/M0221.M0221",
-    "CanSkip": false
+    "cg_id": 112,
+    "cg_name": "M0221",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0221/M0221.M0221",
+    "can_skip": false
   },
   {
-    "CgId": 113,
-    "CgName": "C0002",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0002/C0002.C0002",
-    "CanSkip": false
+    "cg_id": 113,
+    "cg_name": "C0002",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0002/C0002.C0002",
+    "can_skip": false
   },
   {
-    "CgId": 114,
-    "CgName": "C0001",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0001/C0001.C0001",
-    "CanSkip": false
+    "cg_id": 114,
+    "cg_name": "C0001",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0001/C0001.C0001",
+    "can_skip": false
   },
   {
-    "CgId": 115,
-    "CgName": "BLY01",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Function/01/DaPaoPoJieJie/DaPaoPoJieJIe_Mp4.DaPaoPoJieJIe_Mp4",
-    "CanSkip": false
+    "cg_id": 115,
+    "cg_name": "BLY01",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Function/01/DaPaoPoJieJie/DaPaoPoJieJIe_Mp4.DaPaoPoJieJIe_Mp4",
+    "can_skip": false
   },
   {
-    "CgId": 116,
-    "CgName": "BLY01",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Function/01/DaPaoPoJieJie/DaPaoPoJieJIe_Mp4.DaPaoPoJieJIe_Mp4",
-    "CanSkip": false
+    "cg_id": 116,
+    "cg_name": "BLY01",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Function/01/DaPaoPoJieJie/DaPaoPoJieJIe_Mp4.DaPaoPoJieJIe_Mp4",
+    "can_skip": false
   },
   {
-    "CgId": 117,
-    "CgName": "BLY02",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0222/M0222_Nvzhu.M0222_Nvzhu",
-    "CanSkip": false
+    "cg_id": 117,
+    "cg_name": "BLY02",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0222/M0222_Nvzhu.M0222_Nvzhu",
+    "can_skip": false
   },
   {
-    "CgId": 118,
-    "CgName": "BLY02",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0222/M0222_Nanzhu.M0222_Nanzhu",
-    "CanSkip": false
+    "cg_id": 118,
+    "cg_name": "BLY02",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0222/M0222_Nanzhu.M0222_Nanzhu",
+    "can_skip": false
   },
   {
-    "CgId": 119,
-    "CgName": "ZhongZhiCC",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Function/01/ZhongZhiCC/ZhongZhiCC_Nvzhu.ZhongZhiCC_Nvzhu",
-    "CanSkip": false
+    "cg_id": 119,
+    "cg_name": "ZhongZhiCC",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Function/01/ZhongZhiCC/ZhongZhiCC_Nvzhu.ZhongZhiCC_Nvzhu",
+    "can_skip": false
   },
   {
-    "CgId": 120,
-    "CgName": "ZhongZhiCC",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Function/01/ZhongZhiCC/ZhongZhiCC_Nanzhu.ZhongZhiCC_Nanzhu",
-    "CanSkip": false
+    "cg_id": 120,
+    "cg_name": "ZhongZhiCC",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Function/01/ZhongZhiCC/ZhongZhiCC_Nanzhu.ZhongZhiCC_Nanzhu",
+    "can_skip": false
   },
   {
-    "CgId": 121,
-    "CgName": "BeiLuoYe01",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/POI/01/BeiLuoYe01/BeiLuoYe01_Nvzhu.BeiLuoYe01_Nvzhu",
-    "CanSkip": false
+    "cg_id": 121,
+    "cg_name": "BeiLuoYe01",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/01/BeiLuoYe01/BeiLuoYe01_Nvzhu.BeiLuoYe01_Nvzhu",
+    "can_skip": false
   },
   {
-    "CgId": 122,
-    "CgName": "BeiLuoYe01",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/POI/01/BeiLuoYe01/BeiLuoYe01_Nanzhu.BeiLuoYe01_Nanzhu",
-    "CanSkip": false
+    "cg_id": 122,
+    "cg_name": "BeiLuoYe01",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/01/BeiLuoYe01/BeiLuoYe01_Nanzhu.BeiLuoYe01_Nanzhu",
+    "can_skip": false
   },
   {
-    "CgId": 123,
-    "CgName": "M0234",
-    "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0234/M0234_Nvzhu.M0234_Nvzhu",
-    "CanSkip": false
+    "cg_id": 123,
+    "cg_name": "M0234",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0234/M0234_Nvzhu.M0234_Nvzhu",
+    "can_skip": false
   },
   {
-    "CgId": 124,
-    "CgName": "M0234",
-    "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0234/M0234_Nanzhu.M0234_Nanzhu",
-    "CanSkip": false
+    "cg_id": 124,
+    "cg_name": "M0234",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0234/M0234_Nanzhu.M0234_Nanzhu",
+    "can_skip": false
   }
 ]

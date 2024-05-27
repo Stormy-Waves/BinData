@@ -1,31 +1,31 @@
 [
   {
-    "Id": 1001,
-    "ViewName": "MailBoxView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1001,
+    "view_name": "MailBoxView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1003,
-    "ViewName": "RoleBreachView",
-    "DefaultUiCameraSettingsName": "1013_M",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": [
+    "id": 1003,
+    "view_name": "RoleBreachView",
+    "default_ui_camera_settings_name": "1013_M",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 3,
+    "body_camera_settings_name_map": [
       {
         "key": "FemaleM",
         "value": "1013_M"
@@ -51,8 +51,8 @@
         "value": "1013_XL"
       }
     ],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
@@ -62,35 +62,35 @@
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1004,
-    "ViewName": "RoleSkillView",
-    "DefaultUiCameraSettingsName": "1008",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1004,
+    "view_name": "RoleSkillView",
+    "default_ui_camera_settings_name": "1008",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1005,
-    "ViewName": "RoleLevelUpView",
-    "DefaultUiCameraSettingsName": "1018_M",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": [
+    "id": 1005,
+    "view_name": "RoleLevelUpView",
+    "default_ui_camera_settings_name": "1018_M",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 3,
+    "body_camera_settings_name_map": [
       {
         "key": "FemaleM",
         "value": "1018_M"
@@ -116,8 +116,8 @@
         "value": "1018_XL"
       }
     ],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
@@ -127,19 +127,19 @@
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1006,
-    "ViewName": "RoleElementView",
-    "DefaultUiCameraSettingsName": "1018_M",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1006,
+    "view_name": "RoleElementView",
+    "default_ui_camera_settings_name": "1018_M",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
@@ -149,17 +149,17 @@
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1007,
-    "ViewName": "ShopView",
-    "DefaultUiCameraSettingsName": "1069",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 2,
-    "BodyCameraSettingsNameMap": [
+    "id": 1007,
+    "view_name": "ShopView",
+    "default_ui_camera_settings_name": "1069",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 2,
+    "body_camera_settings_name_map": [
       {
         "key": "FemaleM",
         "value": "1069"
@@ -185,39 +185,39 @@
         "value": "1069"
       }
     ],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1008,
-    "ViewName": "QuestView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1008,
+    "view_name": "QuestView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 350
+    "ui_camera_delay_time": 350
   },
   {
-    "Id": 1009,
-    "ViewName": "FunctionView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1009,
+    "view_name": "FunctionView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "WorldMapView",
         "value": "10003"
@@ -259,35 +259,35 @@
         "value": "10005"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1011,
-    "ViewName": "InventoryView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1011,
+    "view_name": "InventoryView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 350
+    "ui_camera_delay_time": 350
   },
   {
-    "Id": 1012,
-    "ViewName": "RoleSelectionView",
-    "DefaultUiCameraSettingsName": "1018_M",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": [
+    "id": 1012,
+    "view_name": "RoleSelectionView",
+    "default_ui_camera_settings_name": "1018_M",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 3,
+    "body_camera_settings_name_map": [
       {
         "key": "FemaleM",
         "value": "1018_M"
@@ -313,26 +313,26 @@
         "value": "1018_XL"
       }
     ],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1013,
-    "ViewName": "WeaponRootView",
-    "DefaultUiCameraSettingsName": "1016",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1013,
+    "view_name": "WeaponRootView",
+    "default_ui_camera_settings_name": "1016",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
@@ -350,17 +350,17 @@
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1014,
-    "ViewName": "WeaponReplaceView",
-    "DefaultUiCameraSettingsName": "1011_M",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": [
+    "id": 1014,
+    "view_name": "WeaponReplaceView",
+    "default_ui_camera_settings_name": "1011_M",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 3,
+    "body_camera_settings_name_map": [
       {
         "key": "FemaleM",
         "value": "1011_M"
@@ -386,8 +386,8 @@
         "value": "1011_XL"
       }
     ],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
@@ -397,53 +397,53 @@
         "value": "10013"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1015,
-    "ViewName": "WeaponBreachSuccessView",
-    "DefaultUiCameraSettingsName": "1031",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1015,
+    "view_name": "WeaponBreachSuccessView",
+    "default_ui_camera_settings_name": "1031",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "WeaponRootView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1016,
-    "ViewName": "WeaponResonanceSuccessView",
-    "DefaultUiCameraSettingsName": "1031",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1016,
+    "view_name": "WeaponResonanceSuccessView",
+    "default_ui_camera_settings_name": "1031",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "WeaponRootView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1017,
-    "ViewName": "MingSuView",
-    "DefaultUiCameraSettingsName": "1071",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 2,
-    "BodyCameraSettingsNameMap": [
+    "id": 1017,
+    "view_name": "MingSuView",
+    "default_ui_camera_settings_name": "1071",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 2,
+    "body_camera_settings_name_map": [
       {
         "key": "FemaleM",
         "value": "1071"
@@ -469,21 +469,21 @@
         "value": "1071"
       }
     ],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1018,
-    "ViewName": "TapeRootView",
-    "DefaultUiCameraSettingsName": "1024",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1018,
+    "view_name": "TapeRootView",
+    "default_ui_camera_settings_name": "1024",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
@@ -493,19 +493,19 @@
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1019,
-    "ViewName": "TapeReplaceView",
-    "DefaultUiCameraSettingsName": "1023",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1019,
+    "view_name": "TapeReplaceView",
+    "default_ui_camera_settings_name": "1023",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
@@ -515,164 +515,164 @@
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1020,
-    "ViewName": "InventoryPcView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1020,
+    "view_name": "InventoryPcView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1021,
-    "ViewName": "TimeOfDayView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1021,
+    "view_name": "TimeOfDayView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1022,
-    "ViewName": "InstanceDungeonEntranceView",
-    "DefaultUiCameraSettingsName": "1036",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1022,
+    "view_name": "InstanceDungeonEntranceView",
+    "default_ui_camera_settings_name": "1036",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1023,
-    "ViewName": "InstanceDungeonVictoryView",
-    "DefaultUiCameraSettingsName": "1034",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1023,
+    "view_name": "InstanceDungeonVictoryView",
+    "default_ui_camera_settings_name": "1034",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1024,
-    "ViewName": "InstanceDungeonFailView",
-    "DefaultUiCameraSettingsName": "1034",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1024,
+    "view_name": "InstanceDungeonFailView",
+    "default_ui_camera_settings_name": "1034",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1025,
-    "ViewName": "RegionalQuestView",
-    "DefaultUiCameraSettingsName": "1002",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1025,
+    "view_name": "RegionalQuestView",
+    "default_ui_camera_settings_name": "1002",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1026,
-    "ViewName": "SceneGameplayItemRewardView",
-    "DefaultUiCameraSettingsName": "1035",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1026,
+    "view_name": "SceneGameplayItemRewardView",
+    "default_ui_camera_settings_name": "1035",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1027,
-    "ViewName": "MenuView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1027,
+    "view_name": "MenuView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 350
+    "ui_camera_delay_time": 350
   },
   {
-    "Id": 1028,
-    "ViewName": "RegionContributionLevelView",
-    "DefaultUiCameraSettingsName": "1002",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1028,
+    "view_name": "RegionContributionLevelView",
+    "default_ui_camera_settings_name": "1002",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1029,
-    "ViewName": "ChatView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1029,
+    "view_name": "ChatView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1030,
-    "ViewName": "PayShopRootView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1030,
+    "view_name": "PayShopRootView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
@@ -682,37 +682,37 @@
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1031,
-    "ViewName": "OnlineWorldHallView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1031,
+    "view_name": "OnlineWorldHallView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1032,
-    "ViewName": "GachaMainView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1032,
+    "view_name": "GachaMainView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
@@ -722,182 +722,182 @@
         "value": "10005"
       }
     ],
-    "UiCameraDelayTime": 350
+    "ui_camera_delay_time": 350
   },
   {
-    "Id": 1033,
-    "ViewName": "GachaScanView",
-    "DefaultUiCameraSettingsName": "1041_New",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1033,
+    "view_name": "GachaScanView",
+    "default_ui_camera_settings_name": "1041_New",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1034,
-    "ViewName": "DrawMainView",
-    "DefaultUiCameraSettingsName": "1041_New",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1034,
+    "view_name": "DrawMainView",
+    "default_ui_camera_settings_name": "1041_New",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1035,
-    "ViewName": "TutorialView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1035,
+    "view_name": "TutorialView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1036,
-    "ViewName": "WeaponPreviewView",
-    "DefaultUiCameraSettingsName": "1016_preview",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1036,
+    "view_name": "WeaponPreviewView",
+    "default_ui_camera_settings_name": "1016_preview",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1037,
-    "ViewName": "RoleSkillTreeInfoView",
-    "DefaultUiCameraSettingsName": "",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1037,
+    "view_name": "RoleSkillTreeInfoView",
+    "default_ui_camera_settings_name": "",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1038,
-    "ViewName": "CookRootView",
-    "DefaultUiCameraSettingsName": "1044",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1038,
+    "view_name": "CookRootView",
+    "default_ui_camera_settings_name": "1044",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1039,
-    "ViewName": "SingleTimeTowerVictoryView",
-    "DefaultUiCameraSettingsName": "1034",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1039,
+    "view_name": "SingleTimeTowerVictoryView",
+    "default_ui_camera_settings_name": "1034",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1040,
-    "ViewName": "SingleTimeTowerFailView",
-    "DefaultUiCameraSettingsName": "1034",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1040,
+    "view_name": "SingleTimeTowerFailView",
+    "default_ui_camera_settings_name": "1034",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1041,
-    "ViewName": "ComposeRootView",
-    "DefaultUiCameraSettingsName": "1045",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1041,
+    "view_name": "ComposeRootView",
+    "default_ui_camera_settings_name": "1045",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1042,
-    "ViewName": "ForgingRootView",
-    "DefaultUiCameraSettingsName": "1045",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1042,
+    "view_name": "ForgingRootView",
+    "default_ui_camera_settings_name": "1045",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1043,
-    "ViewName": "TurntableControlView",
-    "DefaultUiCameraSettingsName": "1067",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1043,
+    "view_name": "TurntableControlView",
+    "default_ui_camera_settings_name": "1067",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1044,
-    "ViewName": "RoleRootView",
-    "DefaultUiCameraSettingsName": "1006_Female154",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1044,
+    "view_name": "RoleRootView",
+    "default_ui_camera_settings_name": "1006_Female154",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleAttributeTabView",
         "value": "1001"
@@ -919,56 +919,56 @@
         "value": "10012"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1045,
-    "ViewName": "PersonalRootView",
-    "DefaultUiCameraSettingsName": "1068",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 350
+    "id": 1045,
+    "view_name": "PersonalRootView",
+    "default_ui_camera_settings_name": "1068",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 350
   },
   {
-    "Id": 1046,
-    "ViewName": "PhantomExploreSetView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1046,
+    "view_name": "PhantomExploreSetView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1047,
-    "ViewName": "FriendView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1047,
+    "view_name": "FriendView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1048,
-    "ViewName": "RoguelikeSelectRoleView",
-    "DefaultUiCameraSettingsName": "1006_Female154",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": [
+    "id": 1048,
+    "view_name": "RoguelikeSelectRoleView",
+    "default_ui_camera_settings_name": "1006_Female154",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 3,
+    "body_camera_settings_name_map": [
       {
         "key": "FemaleM",
         "value": "1006_Female154"
@@ -994,8 +994,8 @@
         "value": "1006_Male180"
       }
     ],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
@@ -1005,133 +1005,133 @@
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1049,
-    "ViewName": "AdventureGuideView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1049,
+    "view_name": "AdventureGuideView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1050,
-    "ViewName": "SundialControlView",
-    "DefaultUiCameraSettingsName": "1070",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1050,
+    "view_name": "SundialControlView",
+    "default_ui_camera_settings_name": "1070",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1051,
-    "ViewName": "HandBookEntranceView",
-    "DefaultUiCameraSettingsName": "1061",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1051,
+    "view_name": "HandBookEntranceView",
+    "default_ui_camera_settings_name": "1061",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1052,
-    "ViewName": "AchievementMainView",
-    "DefaultUiCameraSettingsName": "1016",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1052,
+    "view_name": "AchievementMainView",
+    "default_ui_camera_settings_name": "1016",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1053,
-    "ViewName": "RoleFavorInfoView",
-    "DefaultUiCameraSettingsName": "1063",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1053,
+    "view_name": "RoleFavorInfoView",
+    "default_ui_camera_settings_name": "1063",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "1001"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1054,
-    "ViewName": "VisionIntensifyView",
-    "DefaultUiCameraSettingsName": "1026",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1054,
+    "view_name": "VisionIntensifyView",
+    "default_ui_camera_settings_name": "1026",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "VisionEquipmentView",
         "value": "10014"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1055,
-    "ViewName": "RolePreviewRootView",
-    "DefaultUiCameraSettingsName": "1006_Female154",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1055,
+    "view_name": "RolePreviewRootView",
+    "default_ui_camera_settings_name": "1006_Female154",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1056,
-    "ViewName": "RoleNewJoinView",
-    "DefaultUiCameraSettingsName": "1041_New",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1056,
+    "view_name": "RoleNewJoinView",
+    "default_ui_camera_settings_name": "1041_New",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1057,
-    "ViewName": "VisionEquipmentView",
-    "DefaultUiCameraSettingsName": "1025",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1057,
+    "view_name": "VisionEquipmentView",
+    "default_ui_camera_settings_name": "1025",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "10012"
@@ -1149,56 +1149,56 @@
         "value": "10014"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1058,
-    "ViewName": "BattlePassMainView",
-    "DefaultUiCameraSettingsName": "1016_preview",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1058,
+    "view_name": "BattlePassMainView",
+    "default_ui_camera_settings_name": "1016_preview",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1059,
-    "ViewName": "CalabashRootView",
-    "DefaultUiCameraSettingsName": "800031",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1059,
+    "view_name": "CalabashRootView",
+    "default_ui_camera_settings_name": "800031",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1060,
-    "ViewName": "LordGymEntranceView",
-    "DefaultUiCameraSettingsName": "1073",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1060,
+    "view_name": "LordGymEntranceView",
+    "default_ui_camera_settings_name": "1073",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1061,
-    "ViewName": "RogueShopView",
-    "DefaultUiCameraSettingsName": "1069",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 2,
-    "BodyCameraSettingsNameMap": [
+    "id": 1061,
+    "view_name": "RogueShopView",
+    "default_ui_camera_settings_name": "1069",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 2,
+    "body_camera_settings_name_map": [
       {
         "key": "FemaleM",
         "value": "1069"
@@ -1224,37 +1224,37 @@
         "value": "1069"
       }
     ],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1062,
-    "ViewName": "VisionSkinView",
-    "DefaultUiCameraSettingsName": "1026",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1062,
+    "view_name": "VisionSkinView",
+    "default_ui_camera_settings_name": "1026",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "VisionEquipmentView",
         "value": "10014"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1063,
-    "ViewName": "PhantomBattleFettersView",
-    "DefaultUiCameraSettingsName": "1012_Female154",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": [
+    "id": 1063,
+    "view_name": "PhantomBattleFettersView",
+    "default_ui_camera_settings_name": "1012_Female154",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 3,
+    "body_camera_settings_name_map": [
       {
         "key": "FemaleM",
         "value": "1012_Female154"
@@ -1280,8 +1280,8 @@
         "value": "1012_Male180"
       }
     ],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "RoleRootView",
         "value": "10007"
@@ -1295,37 +1295,37 @@
         "value": "10014"
       }
     ],
-    "UiCameraDelayTime": 0
+    "ui_camera_delay_time": 0
   },
   {
-    "Id": 1002,
-    "ViewName": "WorldMapView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [
+    "id": 1002,
+    "view_name": "WorldMapView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [
       {
         "key": "FunctionView",
         "value": "10002"
       }
     ],
-    "UiCameraDelayTime": 300
+    "ui_camera_delay_time": 300
   },
   {
-    "Id": 1065,
-    "ViewName": "GachaResultView",
-    "DefaultUiCameraSettingsName": "1001",
-    "IsCheckSpecialState": false,
-    "SpecialStateCameraSettingName": "1002",
-    "PlayLoadingCameraAnimation": true,
-    "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": [],
-    "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": [],
-    "UiCameraDelayTime": 0
+    "id": 1065,
+    "view_name": "GachaResultView",
+    "default_ui_camera_settings_name": "1001",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": true,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   }
 ]

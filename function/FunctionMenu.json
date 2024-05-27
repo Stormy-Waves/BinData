@@ -1,142 +1,142 @@
 [
   {
-    "FunctionId": 10001,
-    "SortIndex": 15,
-    "FunctionName": "FunctionMenu_10001_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconRole.SP_FuncIconRole",
-    "JumpView": "WBP_Role"
+    "function_id": 10001,
+    "sort_index": 15,
+    "function_name": "FunctionMenu_10001_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconRole.SP_FuncIconRole",
+    "jump_view": "WBP_Role"
   },
   {
-    "FunctionId": 10002,
-    "SortIndex": 27,
-    "FunctionName": "FunctionMenu_10002_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBag.SP_FuncIconBag",
-    "JumpView": "WBP_Inventory"
+    "function_id": 10002,
+    "sort_index": 27,
+    "function_name": "FunctionMenu_10002_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBag.SP_FuncIconBag",
+    "jump_view": "WBP_Inventory"
   },
   {
-    "FunctionId": 10003,
-    "SortIndex": 17,
-    "FunctionName": "FunctionMenu_10041_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconMonster.SP_FuncIconMonster",
-    "JumpView": "WBP_Phantom"
+    "function_id": 10003,
+    "sort_index": 17,
+    "function_name": "FunctionMenu_10041_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconMonster.SP_FuncIconMonster",
+    "jump_view": "WBP_Phantom"
   },
   {
-    "FunctionId": 10004,
-    "SortIndex": 21,
-    "FunctionName": "FunctionMenu_10004_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconRenwu.SP_FuncIconRenwu",
-    "JumpView": "WBP_QuestView"
+    "function_id": 10004,
+    "sort_index": 21,
+    "function_name": "FunctionMenu_10004_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconRenwu.SP_FuncIconRenwu",
+    "jump_view": "WBP_QuestView"
   },
   {
-    "FunctionId": 10007,
-    "SortIndex": 16,
-    "FunctionName": "FunctionMenu_10007_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTeam.SP_FuncIconTeam",
-    "JumpView": "UITeam_Main"
+    "function_id": 10007,
+    "sort_index": 16,
+    "function_name": "FunctionMenu_10007_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTeam.SP_FuncIconTeam",
+    "jump_view": "UITeam_Main"
   },
   {
-    "FunctionId": 10009,
-    "SortIndex": 13,
-    "FunctionName": "FunctionMenu_10009_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconGacha.SP_FuncIconGacha",
-    "JumpView": ""
+    "function_id": 10009,
+    "sort_index": 13,
+    "function_name": "FunctionMenu_10009_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconGacha.SP_FuncIconGacha",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10010,
-    "SortIndex": 11,
-    "FunctionName": "FunctionMenu_10010_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconShop.SP_FuncIconShop",
-    "JumpView": ""
+    "function_id": 10010,
+    "sort_index": 11,
+    "function_name": "FunctionMenu_10010_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconShop.SP_FuncIconShop",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10011,
-    "SortIndex": 22,
-    "FunctionName": "FunctionMenu_10011_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconFriends.SP_FuncIconFriends",
-    "JumpView": ""
+    "function_id": 10011,
+    "sort_index": 22,
+    "function_name": "FunctionMenu_10011_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconFriends.SP_FuncIconFriends",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10013,
-    "SortIndex": 23,
-    "FunctionName": "FunctionMenu_10013_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconAchievement.SP_FuncIconAchievement",
-    "JumpView": ""
+    "function_id": 10013,
+    "sort_index": 23,
+    "function_name": "FunctionMenu_10013_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconAchievement.SP_FuncIconAchievement",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10015,
-    "SortIndex": 26,
-    "FunctionName": "FunctionMenu_10015_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconMap.SP_FuncIconMap",
-    "JumpView": "WBP_WorldMap"
+    "function_id": 10015,
+    "sort_index": 26,
+    "function_name": "FunctionMenu_10015_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconMap.SP_FuncIconMap",
+    "jump_view": "WBP_WorldMap"
   },
   {
-    "FunctionId": 10023,
-    "SortIndex": 20,
-    "FunctionName": "FunctionMenu_10023_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconManual.SP_FuncIconManual",
-    "JumpView": ""
+    "function_id": 10023,
+    "sort_index": 20,
+    "function_name": "FunctionMenu_10023_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconManual.SP_FuncIconManual",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10026,
-    "SortIndex": 28,
-    "FunctionName": "FunctionMenu_10026_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconExplore.SP_FuncIconExplore",
-    "JumpView": ""
+    "function_id": 10026,
+    "sort_index": 28,
+    "function_name": "FunctionMenu_10026_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconExplore.SP_FuncIconExplore",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10028,
-    "SortIndex": 29,
-    "FunctionName": "FunctionMenu_10028_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconQuest.SP_FuncIconQuest",
-    "JumpView": ""
+    "function_id": 10028,
+    "sort_index": 29,
+    "function_name": "FunctionMenu_10028_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconQuest.SP_FuncIconQuest",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10040,
-    "SortIndex": 12,
-    "FunctionName": "FunctionMenu_10040_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBp.SP_FuncIconBp",
-    "JumpView": ""
+    "function_id": 10040,
+    "sort_index": 12,
+    "function_name": "FunctionMenu_10040_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBp.SP_FuncIconBp",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10041,
-    "SortIndex": 17,
-    "FunctionName": "FunctionMenu_10041_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconShuJuWu.SP_FuncIconShuJuWu",
-    "JumpView": ""
+    "function_id": 10041,
+    "sort_index": 17,
+    "function_name": "FunctionMenu_10041_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconShuJuWu.SP_FuncIconShuJuWu",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10022,
-    "SortIndex": 18,
-    "FunctionName": "FunctionMenu_10022_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBaike2.SP_FuncIconBaike2",
-    "JumpView": ""
+    "function_id": 10022,
+    "sort_index": 18,
+    "function_name": "FunctionMenu_10022_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBaike2.SP_FuncIconBaike2",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10053,
-    "SortIndex": 10,
-    "FunctionName": "FunctionMenu_10053_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconActivity.SP_FuncIconActivity",
-    "JumpView": ""
+    "function_id": 10053,
+    "sort_index": 10,
+    "function_name": "FunctionMenu_10053_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconActivity.SP_FuncIconActivity",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10058,
-    "SortIndex": 99,
-    "FunctionName": "FunctionMenu_10054_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FunIconKuro.SP_FunIconKuro",
-    "JumpView": ""
+    "function_id": 10058,
+    "sort_index": 99,
+    "function_name": "FunctionMenu_10054_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FunIconKuro.SP_FunIconKuro",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10051,
-    "SortIndex": 25,
-    "FunctionName": "FunctionMenu_10051_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTujian.SP_FuncIconTujian",
-    "JumpView": ""
+    "function_id": 10051,
+    "sort_index": 25,
+    "function_name": "FunctionMenu_10051_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTujian.SP_FuncIconTujian",
+    "jump_view": ""
   },
   {
-    "FunctionId": 10021,
-    "SortIndex": 30,
-    "FunctionName": "FunctionMenu_10059_FunctionName",
-    "FunctionIcon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FightIconOnline.SP_FightIconOnline",
-    "JumpView": ""
+    "function_id": 10021,
+    "sort_index": 30,
+    "function_name": "FunctionMenu_10059_FunctionName",
+    "function_icon": "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FightIconOnline.SP_FightIconOnline",
+    "jump_view": ""
   }
 ]

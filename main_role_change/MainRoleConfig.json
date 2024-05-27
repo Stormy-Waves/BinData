@@ -1,22 +1,22 @@
 [
   {
-    "Id": 1501,
-    "Gender": 1,
-    "UnlockCondition": 0
+    "id": 1501,
+    "gender": 1,
+    "unlock_condition": 0
   },
   {
-    "Id": 1502,
-    "Gender": 0,
-    "UnlockCondition": 0
+    "id": 1502,
+    "gender": 0,
+    "unlock_condition": 0
   },
   {
-    "Id": 1605,
-    "Gender": 1,
-    "UnlockCondition": 12980240
+    "id": 1605,
+    "gender": 1,
+    "unlock_condition": 12980240
   },
   {
-    "Id": 1604,
-    "Gender": 0,
-    "UnlockCondition": 12980240
+    "id": 1604,
+    "gender": 0,
+    "unlock_condition": 12980240
   }
 ]

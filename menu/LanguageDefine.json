@@ -1,106 +1,106 @@
 [
   {
-    "LanguageType": 0,
-    "LanguageCode": "zh-Hans",
-    "IsShow": true,
-    "QuestionnaireId": 1,
-    "AudioCode": "zh",
-    "SortId": 1
+    "language_type": 0,
+    "language_code": "zh-Hans",
+    "is_show": true,
+    "questionnaire_id": 1,
+    "audio_code": "zh",
+    "sort_id": 1
   },
   {
-    "LanguageType": 1,
-    "LanguageCode": "en",
-    "IsShow": true,
-    "QuestionnaireId": 2,
-    "AudioCode": "en",
-    "SortId": 3
+    "language_type": 1,
+    "language_code": "en",
+    "is_show": true,
+    "questionnaire_id": 2,
+    "audio_code": "en",
+    "sort_id": 3
   },
   {
-    "LanguageType": 2,
-    "LanguageCode": "ja",
-    "IsShow": true,
-    "QuestionnaireId": 4,
-    "AudioCode": "ja",
-    "SortId": 4
+    "language_type": 2,
+    "language_code": "ja",
+    "is_show": true,
+    "questionnaire_id": 4,
+    "audio_code": "ja",
+    "sort_id": 4
   },
   {
-    "LanguageType": 3,
-    "LanguageCode": "ko",
-    "IsShow": true,
-    "QuestionnaireId": 5,
-    "AudioCode": "ko",
-    "SortId": 5
+    "language_type": 3,
+    "language_code": "ko",
+    "is_show": true,
+    "questionnaire_id": 5,
+    "audio_code": "ko",
+    "sort_id": 5
   },
   {
-    "LanguageType": 4,
-    "LanguageCode": "ru",
-    "IsShow": false,
-    "QuestionnaireId": 12,
-    "AudioCode": "ru",
-    "SortId": 9
+    "language_type": 4,
+    "language_code": "ru",
+    "is_show": false,
+    "questionnaire_id": 12,
+    "audio_code": "ru",
+    "sort_id": 9
   },
   {
-    "LanguageType": 5,
-    "LanguageCode": "zh-Hant",
-    "IsShow": true,
-    "QuestionnaireId": 3,
-    "AudioCode": "zh-Hant",
-    "SortId": 2
+    "language_type": 5,
+    "language_code": "zh-Hant",
+    "is_show": true,
+    "questionnaire_id": 3,
+    "audio_code": "zh-Hant",
+    "sort_id": 2
   },
   {
-    "LanguageType": 6,
-    "LanguageCode": "de",
-    "IsShow": true,
-    "QuestionnaireId": 8,
-    "AudioCode": "de",
-    "SortId": 7
+    "language_type": 6,
+    "language_code": "de",
+    "is_show": true,
+    "questionnaire_id": 8,
+    "audio_code": "de",
+    "sort_id": 7
   },
   {
-    "LanguageType": 7,
-    "LanguageCode": "es",
-    "IsShow": true,
-    "QuestionnaireId": 9,
-    "AudioCode": "es",
-    "SortId": 8
+    "language_type": 7,
+    "language_code": "es",
+    "is_show": true,
+    "questionnaire_id": 9,
+    "audio_code": "es",
+    "sort_id": 8
   },
   {
-    "LanguageType": 8,
-    "LanguageCode": "pt",
-    "IsShow": false,
-    "QuestionnaireId": 10,
-    "AudioCode": "pt",
-    "SortId": 10
+    "language_type": 8,
+    "language_code": "pt",
+    "is_show": false,
+    "questionnaire_id": 10,
+    "audio_code": "pt",
+    "sort_id": 10
   },
   {
-    "LanguageType": 9,
-    "LanguageCode": "id",
-    "IsShow": false,
-    "QuestionnaireId": 15,
-    "AudioCode": "id",
-    "SortId": 11
+    "language_type": 9,
+    "language_code": "id",
+    "is_show": false,
+    "questionnaire_id": 15,
+    "audio_code": "id",
+    "sort_id": 11
   },
   {
-    "LanguageType": 10,
-    "LanguageCode": "fr",
-    "IsShow": true,
-    "QuestionnaireId": 7,
-    "AudioCode": "fr",
-    "SortId": 6
+    "language_type": 10,
+    "language_code": "fr",
+    "is_show": true,
+    "questionnaire_id": 7,
+    "audio_code": "fr",
+    "sort_id": 6
   },
   {
-    "LanguageType": 11,
-    "LanguageCode": "vi",
-    "IsShow": false,
-    "QuestionnaireId": 16,
-    "AudioCode": "vi",
-    "SortId": 12
+    "language_type": 11,
+    "language_code": "vi",
+    "is_show": false,
+    "questionnaire_id": 16,
+    "audio_code": "vi",
+    "sort_id": 12
   },
   {
-    "LanguageType": 12,
-    "LanguageCode": "th",
-    "IsShow": false,
-    "QuestionnaireId": 13,
-    "AudioCode": "th",
-    "SortId": 13
+    "language_type": 12,
+    "language_code": "th",
+    "is_show": false,
+    "questionnaire_id": 13,
+    "audio_code": "th",
+    "sort_id": 13
   }
 ]

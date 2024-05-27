@@ -1,62 +1,62 @@
 [
   {
-    "Id": 1,
-    "Tag": "行为状态.逻辑状态.新控物.控制",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT4.SP_IconT4",
-    "Name": "SkillButton_210005_Name"
+    "id": 1,
+    "tag": "行为状态.逻辑状态.新控物.控制",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT4.SP_IconT4",
+    "name": "SkillButton_210005_Name"
   },
   {
-    "Id": 2,
-    "Tag": "角色.Common.技能通用标识.定点钩索可用",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT7.SP_IconT7",
-    "Name": ""
+    "id": 2,
+    "tag": "角色.Common.技能通用标识.定点钩索可用",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT7.SP_IconT7",
+    "name": ""
   },
   {
-    "Id": 3,
-    "Tag": "角色.Common.技能通用标识.定点钩索",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT7.SP_IconT7",
-    "Name": ""
+    "id": 3,
+    "tag": "角色.Common.技能通用标识.定点钩索",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT7.SP_IconT7",
+    "name": ""
   },
   {
-    "Id": 4,
-    "Tag": "GameplayCue.幻象.控物.控物角色表现",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSkillUnlock.SP_IconSkillUnlock",
-    "Name": "SkillButton_210006_Name"
+    "id": 4,
+    "tag": "GameplayCue.幻象.控物.控物角色表现",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSkillUnlock.SP_IconSkillUnlock",
+    "name": "SkillButton_210006_Name"
   },
   {
-    "Id": 5,
-    "Tag": "角色.Common.技能通用标识.控物拼图旋转.可用",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSkillSwitch.SP_IconSkillSwitch",
-    "Name": ""
+    "id": 5,
+    "tag": "角色.Common.技能通用标识.控物拼图旋转.可用",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSkillSwitch.SP_IconSkillSwitch",
+    "name": ""
   },
   {
-    "Id": 6,
-    "Tag": "角色.Common.技能通用标识.控物拼图旋转.不可用",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSkillSwitch.SP_IconSkillSwitch",
-    "Name": ""
+    "id": 6,
+    "tag": "角色.Common.技能通用标识.控物拼图旋转.不可用",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSkillSwitch.SP_IconSkillSwitch",
+    "name": ""
   },
   {
-    "Id": 7,
-    "Tag": "幻象.技能.鳞人二阶段技能期间不进CD",
-    "IconPath": "/Game/Aki/UI/UIResources/UiFight/Image/FightSkill/T_FightHX_Z_B2_UI.T_FightHX_Z_B2_UI",
-    "Name": ""
+    "id": 7,
+    "tag": "幻象.技能.鳞人二阶段技能期间不进CD",
+    "icon_path": "/Game/Aki/UI/UIResources/UiFight/Image/FightSkill/T_FightHX_Z_B2_UI.T_FightHX_Z_B2_UI",
+    "name": ""
   },
   {
-    "Id": 8,
-    "Tag": "行为状态.位置状态.水中",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSwimming.SP_IconSwimming",
-    "Name": ""
+    "id": 8,
+    "tag": "行为状态.位置状态.水中",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconSwimming.SP_IconSwimming",
+    "name": ""
   },
   {
-    "Id": 9,
-    "Tag": "角色.Common.技能通用标识.拉取巨物进入范围",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconPull.SP_IconPull",
-    "Name": ""
+    "id": 9,
+    "tag": "角色.Common.技能通用标识.拉取巨物进入范围",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconPull.SP_IconPull",
+    "name": ""
   },
   {
-    "Id": 10,
-    "Tag": "角色.Common.探索技能.新版控物.抛物线模式",
-    "IconPath": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconAimPre.SP_IconAimPre",
-    "Name": ""
+    "id": 10,
+    "tag": "角色.Common.探索技能.新版控物.抛物线模式",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconAimPre.SP_IconAimPre",
+    "name": ""
   }
 ]

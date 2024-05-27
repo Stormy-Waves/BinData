@@ -1,47 +1,42 @@
 [
   {
-    "Id": 1,
-    "RuleGroupId": 5,
-    "Sort": 10
+    "id": 1,
+    "rule_group_id": 5,
+    "sort": 10
   },
   {
-    "Id": 2,
-    "RuleGroupId": 3,
-    "Sort": 50
+    "id": 2,
+    "rule_group_id": 3,
+    "sort": 50
   },
   {
-    "Id": 3,
-    "RuleGroupId": 4,
-    "Sort": 60
+    "id": 3,
+    "rule_group_id": 4,
+    "sort": 60
   },
   {
-    "Id": 100001,
-    "RuleGroupId": 1,
-    "Sort": 20
+    "id": 100001,
+    "rule_group_id": 1,
+    "sort": 20
   },
   {
-    "Id": 100002,
-    "RuleGroupId": 1,
-    "Sort": 20
+    "id": 100002,
+    "rule_group_id": 1,
+    "sort": 20
   },
   {
-    "Id": 200001,
-    "RuleGroupId": 2,
-    "Sort": 30
+    "id": 200001,
+    "rule_group_id": 2,
+    "sort": 30
   },
   {
-    "Id": 200002,
-    "RuleGroupId": 2,
-    "Sort": 30
+    "id": 200002,
+    "rule_group_id": 2,
+    "sort": 30
   },
   {
-    "Id": 4,
-    "RuleGroupId": 6,
-    "Sort": 10
-  },
-  {
-    "Id": 5,
-    "RuleGroupId": 7,
-    "Sort": 100
+    "id": 4,
+    "rule_group_id": 6,
+    "sort": 10
   }
 ]

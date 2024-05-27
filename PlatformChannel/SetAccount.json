@@ -1,105 +1,105 @@
 [
   {
-    "Id": 1,
-    "PackageType": 0,
-    "Language": [
+    "id": 1,
+    "package_type": 0,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       18,
       19,
       56,
       161,
       167
     ],
-    "Adress": ""
+    "adress": ""
   },
   {
-    "Id": 2,
-    "PackageType": 0,
-    "Language": [
+    "id": 2,
+    "package_type": 0,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       0
     ],
-    "Adress": "https://mc.kurogame.com/p/agreement_public.html"
+    "adress": "https://mc.kurogame.com/p/agreement_public.html"
   },
   {
-    "Id": 3,
-    "PackageType": 0,
-    "Language": [
+    "id": 3,
+    "package_type": 0,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       0
     ],
-    "Adress": "https://mc.kurogame.com/p/personal_privacy.html"
+    "adress": "https://mc.kurogame.com/p/personal_privacy.html"
   },
   {
-    "Id": 4,
-    "PackageType": 0,
-    "Language": [
+    "id": 4,
+    "package_type": 0,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       0
     ],
-    "Adress": "https://mc.kurogame.com/p/child_privacy.html"
+    "adress": "https://mc.kurogame.com/p/child_privacy.html"
   },
   {
-    "Id": 5,
-    "PackageType": 0,
-    "Language": [
+    "id": 5,
+    "package_type": 0,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       0
     ],
-    "Adress": "https://mc.kurogame.com/p/sdk_list.html"
+    "adress": "https://mc.kurogame.com/p/sdk_list.html"
   },
   {
-    "Id": 6,
-    "PackageType": 1,
-    "Language": [
+    "id": 6,
+    "package_type": 1,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       0
     ],
-    "Adress": "https://wutheringwaves.kurogame.com/p/language_{0}/terms_of_service.html"
+    "adress": "https://wutheringwaves.kurogame.com/p/language_{0}/terms_of_service.html"
   },
   {
-    "Id": 7,
-    "PackageType": 1,
-    "Language": [
+    "id": 7,
+    "package_type": 1,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       0
     ],
-    "Adress": "https://wutheringwaves.kurogame.com/p/language_{0}/privacy_policy.html"
+    "adress": "https://wutheringwaves.kurogame.com/p/language_{0}/privacy_policy.html"
   },
   {
-    "Id": 8,
-    "PackageType": 0,
-    "Language": [
+    "id": 8,
+    "package_type": 0,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       0
     ],
-    "Adress": ""
+    "adress": ""
   },
   {
-    "Id": 9,
-    "PackageType": 1,
-    "Language": [
+    "id": 9,
+    "package_type": 1,
+    "language": [
       "all"
     ],
-    "Channel": [
+    "channel": [
       0
     ],
-    "Adress": ""
+    "adress": ""
   }
 ]

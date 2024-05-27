@@ -1,13 +1,13 @@
 [
   {
-    "Id": 100001,
-    "Sort": 11,
-    "SourceType": 3,
-    "SourceId": 50000171,
-    "SourceTitle": "ItemInfo_50000171_Name",
-    "SourceDesc": "WorldNewJourney_100001_SourceDesc",
-    "ConditionId": 0,
-    "JumpTo": [
+    "id": 100001,
+    "sort": 11,
+    "source_type": 3,
+    "source_id": 50000171,
+    "source_title": "ItemInfo_50000171_Name",
+    "source_desc": "WorldNewJourney_100001_SourceDesc",
+    "condition_id": 0,
+    "jump_to": [
       {
         "key": 7,
         "value": "100400001"
@@ -15,14 +15,14 @@
     ]
   },
   {
-    "Id": 100002,
-    "Sort": 12,
-    "SourceType": 3,
-    "SourceId": 50001,
-    "SourceTitle": "ItemInfo_50001_Name",
-    "SourceDesc": "WorldNewJourney_100002_SourceDesc",
-    "ConditionId": 13000012,
-    "JumpTo": [
+    "id": 100002,
+    "sort": 12,
+    "source_type": 3,
+    "source_id": 50001,
+    "source_title": "ItemInfo_50001_Name",
+    "source_desc": "WorldNewJourney_100002_SourceDesc",
+    "condition_id": 13000012,
+    "jump_to": [
       {
         "key": 6,
         "value": "3-2"
@@ -30,14 +30,14 @@
     ]
   },
   {
-    "Id": 100003,
-    "Sort": 13,
-    "SourceType": 0,
-    "SourceId": 100704,
-    "SourceTitle": "RoleInfo_1102_Name",
-    "SourceDesc": "WorldNewJourney_100003_SourceDesc",
-    "ConditionId": 0,
-    "JumpTo": [
+    "id": 100003,
+    "sort": 13,
+    "source_type": 0,
+    "source_id": 100704,
+    "source_title": "RoleInfo_1102_Name",
+    "source_desc": "WorldNewJourney_100003_SourceDesc",
+    "condition_id": 0,
+    "jump_to": [
       {
         "key": 7,
         "value": "100100001"
@@ -45,14 +45,14 @@
     ]
   },
   {
-    "Id": 100004,
-    "Sort": 14,
-    "SourceType": 0,
-    "SourceId": 100716,
-    "SourceTitle": "RoleInfo_1303_Name",
-    "SourceDesc": "WorldNewJourney_100004_SourceDesc",
-    "ConditionId": 13000013,
-    "JumpTo": [
+    "id": 100004,
+    "sort": 14,
+    "source_type": 0,
+    "source_id": 100716,
+    "source_title": "RoleInfo_1303_Name",
+    "source_desc": "WorldNewJourney_100004_SourceDesc",
+    "condition_id": 13000013,
+    "jump_to": [
       {
         "key": 2,
         "value": "301203"
@@ -60,14 +60,14 @@
     ]
   },
   {
-    "Id": 100006,
-    "Sort": 16,
-    "SourceType": 2,
-    "SourceId": 60000215,
-    "SourceTitle": "MonsterInfo_320000070_Name",
-    "SourceDesc": "WorldNewJourney_100006_SourceDesc",
-    "ConditionId": 12005122,
-    "JumpTo": [
+    "id": 100006,
+    "sort": 16,
+    "source_type": 2,
+    "source_id": 60000215,
+    "source_title": "MonsterInfo_320000070_Name",
+    "source_desc": "WorldNewJourney_100006_SourceDesc",
+    "condition_id": 12005122,
+    "jump_to": [
       {
         "key": 8,
         "value": "AdventureTargetView"

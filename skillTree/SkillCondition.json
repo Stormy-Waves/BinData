@@ -1,63 +1,63 @@
 [
   {
-    "Id": 1,
-    "ConditionType": 2,
-    "ConditionParam": [],
-    "Description": "SkillCondition_1_Description"
+    "id": 1,
+    "condition_type": 2,
+    "condition_param": [],
+    "description": "SkillCondition_1_Description"
   },
   {
-    "Id": 2,
-    "ConditionType": 1,
-    "ConditionParam": [
+    "id": 2,
+    "condition_type": 1,
+    "condition_param": [
       {
         "key": 1,
         "value": 1
       }
     ],
-    "Description": "SkillCondition_2_Description"
+    "description": "SkillCondition_2_Description"
   },
   {
-    "Id": 3,
-    "ConditionType": 1,
-    "ConditionParam": [
+    "id": 3,
+    "condition_type": 1,
+    "condition_param": [
       {
         "key": 1,
         "value": 2
       }
     ],
-    "Description": "SkillCondition_3_Description"
+    "description": "SkillCondition_3_Description"
   },
   {
-    "Id": 4,
-    "ConditionType": 1,
-    "ConditionParam": [
+    "id": 4,
+    "condition_type": 1,
+    "condition_param": [
       {
         "key": 2,
         "value": 2
       }
     ],
-    "Description": "SkillCondition_4_Description"
+    "description": "SkillCondition_4_Description"
   },
   {
-    "Id": 5,
-    "ConditionType": 1,
-    "ConditionParam": [
+    "id": 5,
+    "condition_type": 1,
+    "condition_param": [
       {
         "key": 3,
         "value": 1
       }
     ],
-    "Description": "SkillCondition_5_Description"
+    "description": "SkillCondition_5_Description"
   },
   {
-    "Id": 6,
-    "ConditionType": 1,
-    "ConditionParam": [
+    "id": 6,
+    "condition_type": 1,
+    "condition_param": [
       {
         "key": 6,
         "value": 2
       }
     ],
-    "Description": "SkillCondition_6_Description"
+    "description": "SkillCondition_6_Description"
   }
 ]

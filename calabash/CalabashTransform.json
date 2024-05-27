@@ -1,21 +1,21 @@
 [
   {
-    "Id": 20900001,
-    "Location": {
+    "id": 20900001,
+    "location": {
       "x": 9.0,
       "y": 0.0,
       "z": 35.0
     },
-    "Rotation": {
+    "rotation": {
       "x": 97.0,
       "y": 50.0,
       "z": 144.0
     },
-    "Size": {
+    "size": {
       "x": 3.0,
       "y": 3.0,
       "z": 3.0
     },
-    "RotateTime": 80000
+    "rotate_time": 80000
   }
 ]

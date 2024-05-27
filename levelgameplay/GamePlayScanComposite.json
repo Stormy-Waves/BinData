@@ -1,317 +1,317 @@
 [
   {
-    "Uid": 1,
-    "ScanInfos": [
+    "uid": 1,
+    "scan_infos": [
       1
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 2,
-    "ScanInfos": [
+    "uid": 2,
+    "scan_infos": [
       2
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 3,
-    "ScanInfos": [
+    "uid": 3,
+    "scan_infos": [
       3
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 101,
-    "ScanInfos": [
+    "uid": 101,
+    "scan_infos": [
       201
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 102,
-    "ScanInfos": [
+    "uid": 102,
+    "scan_infos": [
       2
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
-    "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
-    "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
-    "ScanConcealEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": true,
-    "ShowInteractionEffect": true,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": true
+    "item_material_data_path": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
+    "near_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
+    "far_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
+    "scan_conceal_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
+    "interaction_effect_interval": 8.0,
+    "show_distance": true,
+    "show_interaction_effect": true,
+    "scan_audio_event": "",
+    "trigger_role_audio": true
   },
   {
-    "Uid": 103,
-    "ScanInfos": [
+    "uid": 103,
+    "scan_infos": [
       2
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
-    "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
-    "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
-    "ScanConcealEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": true,
-    "ShowInteractionEffect": true,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
+    "near_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
+    "far_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
+    "scan_conceal_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
+    "interaction_effect_interval": 8.0,
+    "show_distance": true,
+    "show_interaction_effect": true,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 104,
-    "ScanInfos": [
+    "uid": 104,
+    "scan_infos": [
       212
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
-    "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
-    "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
-    "ScanConcealEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": true,
-    "ShowInteractionEffect": true,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
+    "near_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
+    "far_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
+    "scan_conceal_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
+    "interaction_effect_interval": 8.0,
+    "show_distance": true,
+    "show_interaction_effect": true,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 105,
-    "ScanInfos": [
+    "uid": 105,
+    "scan_infos": [
       300
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
-    "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
-    "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
-    "ScanConcealEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": true,
-    "ShowInteractionEffect": true,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
+    "near_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
+    "far_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
+    "scan_conceal_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
+    "interaction_effect_interval": 8.0,
+    "show_distance": true,
+    "show_interaction_effect": true,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 106,
-    "ScanInfos": [
+    "uid": 106,
+    "scan_infos": [
       2
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
-    "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
-    "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
-    "ScanConcealEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": true,
-    "ShowInteractionEffect": true,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
+    "near_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
+    "far_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
+    "scan_conceal_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
+    "interaction_effect_interval": 8.0,
+    "show_distance": true,
+    "show_interaction_effect": true,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 107,
-    "ScanInfos": [
+    "uid": 107,
+    "scan_infos": [
       2
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": true,
-    "ShowInteractionEffect": true,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": true,
+    "show_interaction_effect": true,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 301,
-    "ScanInfos": [
+    "uid": 301,
+    "scan_infos": [
       201
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 302,
-    "ScanInfos": [
+    "uid": 302,
+    "scan_infos": [
       202
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 303,
-    "ScanInfos": [
+    "uid": 303,
+    "scan_infos": [
       203
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 304,
-    "ScanInfos": [
+    "uid": 304,
+    "scan_infos": [
       204
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 305,
-    "ScanInfos": [
+    "uid": 305,
+    "scan_infos": [
       205
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 306,
-    "ScanInfos": [
+    "uid": 306,
+    "scan_infos": [
       206
     ],
-    "ItemMaterialDataPath": "",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 108,
-    "ScanInfos": [
+    "uid": 108,
+    "scan_infos": [
       2
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
-    "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
-    "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
-    "ScanConcealEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": true,
-    "ShowInteractionEffect": true,
-    "ScanAudioEvent": "play_amb_interact_scan_shengxia",
-    "TriggerRoleAudio": true
+    "item_material_data_path": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
+    "near_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
+    "far_voice_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
+    "scan_conceal_effect_path": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide03.DA_Fx_Group_Scaning_Hide03",
+    "interaction_effect_interval": 8.0,
+    "show_distance": true,
+    "show_interaction_effect": true,
+    "scan_audio_event": "play_amb_interact_scan_shengxia",
+    "trigger_role_audio": true
   },
   {
-    "Uid": 109,
-    "ScanInfos": [
+    "uid": 109,
+    "scan_infos": [
       262
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": true,
-    "ShowInteractionEffect": true,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": true,
+    "show_interaction_effect": true,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 307,
-    "ScanInfos": [
+    "uid": 307,
+    "scan_infos": [
       301
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/EffectGroup/MB1ShanghengMd00501/DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R.DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R",
-    "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/MB1ShanghengMd00501/DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R.DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R",
-    "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/MB1ShanghengMd00501/DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R.DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "/Game/Aki/Effect/EffectGroup/MB1ShanghengMd00501/DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R.DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R",
+    "near_voice_effect_path": "/Game/Aki/Effect/EffectGroup/MB1ShanghengMd00501/DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R.DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R",
+    "far_voice_effect_path": "/Game/Aki/Effect/EffectGroup/MB1ShanghengMd00501/DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R.DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 308,
-    "ScanInfos": [
+    "uid": 308,
+    "scan_infos": [
       308
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Dogmark_01.DA_Fx_Group_UI_Dogmark_01",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Dogmark_01.DA_Fx_Group_UI_Dogmark_01",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   },
   {
-    "Uid": 309,
-    "ScanInfos": [
+    "uid": 309,
+    "scan_infos": [
       309
     ],
-    "ItemMaterialDataPath": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Dogmark_02.DA_Fx_Group_UI_Dogmark_02",
-    "NearVoiceEffectPath": "",
-    "FarVoiceEffectPath": "",
-    "ScanConcealEffectPath": "",
-    "InteractionEffectInterval": 8.0,
-    "ShowDistance": false,
-    "ShowInteractionEffect": false,
-    "ScanAudioEvent": "",
-    "TriggerRoleAudio": false
+    "item_material_data_path": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Dogmark_02.DA_Fx_Group_UI_Dogmark_02",
+    "near_voice_effect_path": "",
+    "far_voice_effect_path": "",
+    "scan_conceal_effect_path": "",
+    "interaction_effect_interval": 8.0,
+    "show_distance": false,
+    "show_interaction_effect": false,
+    "scan_audio_event": "",
+    "trigger_role_audio": false
   }
 ]

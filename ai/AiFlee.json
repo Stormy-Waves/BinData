@@ -1,171 +1,171 @@
 [
   {
-    "Id": 1,
-    "FleeDistance": {
+    "id": 1,
+    "flee_distance": {
       "min": 1000.0,
       "max": 1500.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -45.0,
       "max": 45.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 1000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 1000.0
   },
   {
-    "Id": 2,
-    "FleeDistance": {
+    "id": 2,
+    "flee_distance": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -180.0,
       "max": 180.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 5000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 5000.0
   },
   {
-    "Id": 21001,
-    "FleeDistance": {
+    "id": 21001,
+    "flee_distance": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -180.0,
       "max": 180.0
     },
-    "FleeHeight": 1500.0,
-    "TimeMilliseconds": 10000.0
+    "flee_height": 1500.0,
+    "time_milliseconds": 10000.0
   },
   {
-    "Id": 21006,
-    "FleeDistance": {
+    "id": 21006,
+    "flee_distance": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -25.0,
       "max": 25.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 10000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 10000.0
   },
   {
-    "Id": 21007,
-    "FleeDistance": {
+    "id": 21007,
+    "flee_distance": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -180.0,
       "max": 180.0
     },
-    "FleeHeight": 1500.0,
-    "TimeMilliseconds": 10000.0
+    "flee_height": 1500.0,
+    "time_milliseconds": 10000.0
   },
   {
-    "Id": 21008,
-    "FleeDistance": {
+    "id": 21008,
+    "flee_distance": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -90.0,
       "max": 90.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 10000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 10000.0
   },
   {
-    "Id": 21012,
-    "FleeDistance": {
+    "id": 21012,
+    "flee_distance": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -35.0,
       "max": 35.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 10000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 10000.0
   },
   {
-    "Id": 21015,
-    "FleeDistance": {
+    "id": 21015,
+    "flee_distance": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -35.0,
       "max": 35.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 10000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 10000.0
   },
   {
-    "Id": 21017,
-    "FleeDistance": {
+    "id": 21017,
+    "flee_distance": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -30.0,
       "max": 30.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 3000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 3000.0
   },
   {
-    "Id": 21018,
-    "FleeDistance": {
+    "id": 21018,
+    "flee_distance": {
       "min": 700.0,
       "max": 1000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -15.0,
       "max": 15.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 3000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 3000.0
   },
   {
-    "Id": 21023,
-    "FleeDistance": {
+    "id": 21023,
+    "flee_distance": {
       "min": 1000.0,
       "max": 2000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -25.0,
       "max": 25.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 10000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 10000.0
   },
   {
-    "Id": 21026,
-    "FleeDistance": {
+    "id": 21026,
+    "flee_distance": {
       "min": 500.0,
       "max": 1000.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -25.0,
       "max": 25.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 10000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 10000.0
   },
   {
-    "Id": 70112,
-    "FleeDistance": {
+    "id": 70112,
+    "flee_distance": {
       "min": 600.0,
       "max": 900.0
     },
-    "FleeAngle": {
+    "flee_angle": {
       "min": -90.0,
       "max": 90.0
     },
-    "FleeHeight": 0.0,
-    "TimeMilliseconds": 8000.0
+    "flee_height": 0.0,
+    "time_milliseconds": 8000.0
   }
 ]

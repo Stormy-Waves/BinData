@@ -1,17 +1,17 @@
 [
   {
-    "Id": 1001,
-    "Name": "",
-    "MainName": "UseCommonItem"
+    "id": 1001,
+    "name": "",
+    "main_name": "UseCommonItem"
   },
   {
-    "Id": 1002,
-    "Name": "",
-    "MainName": "Use Sound Track"
+    "id": 1002,
+    "name": "",
+    "main_name": "Use Sound Track"
   },
   {
-    "Id": 1003,
-    "Name": "",
-    "MainName": "Use Interface Jump"
+    "id": 1003,
+    "name": "",
+    "main_name": "Use Interface Jump"
   }
 ]

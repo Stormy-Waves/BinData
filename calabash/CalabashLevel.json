@@ -1,14 +1,14 @@
 [
   {
-    "Level": 1,
-    "LevelUpExp": 30,
-    "LevelUpCondition": 502001,
-    "TempCatchGain": 200,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_1_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 1,
+    "level_up_exp": 30,
+    "level_up_condition": 502001,
+    "temp_catch_gain": 200,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_1_LevelUpDescription",
+    "quality_description": "CalabashLevel_2_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 100
@@ -26,9 +26,9 @@
         "value": 0
       }
     ],
-    "Cost": 8,
-    "RewardId": 4301,
-    "QualityDropWeight": [
+    "cost": 8,
+    "reward_id": 4301,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -48,15 +48,15 @@
     ]
   },
   {
-    "Level": 2,
-    "LevelUpExp": 30,
-    "LevelUpCondition": 502001,
-    "TempCatchGain": 200,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_2_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 2,
+    "level_up_exp": 30,
+    "level_up_condition": 502001,
+    "temp_catch_gain": 200,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_2_LevelUpDescription",
+    "quality_description": "CalabashLevel_2_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 200
@@ -74,9 +74,9 @@
         "value": 0
       }
     ],
-    "Cost": 10,
-    "RewardId": 4302,
-    "QualityDropWeight": [
+    "cost": 10,
+    "reward_id": 4302,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -96,15 +96,15 @@
     ]
   },
   {
-    "Level": 3,
-    "LevelUpExp": 60,
-    "LevelUpCondition": 502001,
-    "TempCatchGain": 400,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_3_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 3,
+    "level_up_exp": 60,
+    "level_up_condition": 502001,
+    "temp_catch_gain": 400,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_3_LevelUpDescription",
+    "quality_description": "CalabashLevel_2_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 300
@@ -122,9 +122,9 @@
         "value": 0
       }
     ],
-    "Cost": 10,
-    "RewardId": 4303,
-    "QualityDropWeight": [
+    "cost": 10,
+    "reward_id": 4303,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -144,15 +144,15 @@
     ]
   },
   {
-    "Level": 4,
-    "LevelUpExp": 100,
-    "LevelUpCondition": 502001,
-    "TempCatchGain": 400,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_4_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 4,
+    "level_up_exp": 100,
+    "level_up_condition": 502001,
+    "temp_catch_gain": 400,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_4_LevelUpDescription",
+    "quality_description": "CalabashLevel_2_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 400
@@ -170,9 +170,9 @@
         "value": 0
       }
     ],
-    "Cost": 10,
-    "RewardId": 4304,
-    "QualityDropWeight": [
+    "cost": 10,
+    "reward_id": 4304,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -192,15 +192,15 @@
     ]
   },
   {
-    "Level": 5,
-    "LevelUpExp": 120,
-    "LevelUpCondition": 502001,
-    "TempCatchGain": 400,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_5_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_3_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 5,
+    "level_up_exp": 120,
+    "level_up_condition": 502001,
+    "temp_catch_gain": 400,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_5_LevelUpDescription",
+    "quality_description": "CalabashLevel_3_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 500
@@ -218,9 +218,9 @@
         "value": 0
       }
     ],
-    "Cost": 10,
-    "RewardId": 4305,
-    "QualityDropWeight": [
+    "cost": 10,
+    "reward_id": 4305,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -240,15 +240,15 @@
     ]
   },
   {
-    "Level": 6,
-    "LevelUpExp": 140,
-    "LevelUpCondition": 502001,
-    "TempCatchGain": 400,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_6_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_3_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 6,
+    "level_up_exp": 140,
+    "level_up_condition": 502001,
+    "temp_catch_gain": 400,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_6_LevelUpDescription",
+    "quality_description": "CalabashLevel_3_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 600
@@ -266,9 +266,9 @@
         "value": 0
       }
     ],
-    "Cost": 10,
-    "RewardId": 4306,
-    "QualityDropWeight": [
+    "cost": 10,
+    "reward_id": 4306,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -288,15 +288,15 @@
     ]
   },
   {
-    "Level": 7,
-    "LevelUpExp": 160,
-    "LevelUpCondition": 502003,
-    "TempCatchGain": 400,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_7_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_3_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 7,
+    "level_up_exp": 160,
+    "level_up_condition": 502003,
+    "temp_catch_gain": 400,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_7_LevelUpDescription",
+    "quality_description": "CalabashLevel_3_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 700
@@ -314,9 +314,9 @@
         "value": 0
       }
     ],
-    "Cost": 10,
-    "RewardId": 4307,
-    "QualityDropWeight": [
+    "cost": 10,
+    "reward_id": 4307,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -336,15 +336,15 @@
     ]
   },
   {
-    "Level": 8,
-    "LevelUpExp": 160,
-    "LevelUpCondition": 502003,
-    "TempCatchGain": 400,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_8_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 8,
+    "level_up_exp": 160,
+    "level_up_condition": 502003,
+    "temp_catch_gain": 400,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_8_LevelUpDescription",
+    "quality_description": "CalabashLevel_4_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 800
@@ -362,9 +362,9 @@
         "value": 0
       }
     ],
-    "Cost": 10,
-    "RewardId": 4308,
-    "QualityDropWeight": [
+    "cost": 10,
+    "reward_id": 4308,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -384,15 +384,15 @@
     ]
   },
   {
-    "Level": 9,
-    "LevelUpExp": 180,
-    "LevelUpCondition": 502003,
-    "TempCatchGain": 400,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_9_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 9,
+    "level_up_exp": 180,
+    "level_up_condition": 502003,
+    "temp_catch_gain": 400,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_9_LevelUpDescription",
+    "quality_description": "CalabashLevel_4_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 900
@@ -410,9 +410,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4309,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4309,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -432,15 +432,15 @@
     ]
   },
   {
-    "Level": 10,
-    "LevelUpExp": 180,
-    "LevelUpCondition": 502003,
-    "TempCatchGain": 400,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_10_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 10,
+    "level_up_exp": 180,
+    "level_up_condition": 502003,
+    "temp_catch_gain": 400,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_10_LevelUpDescription",
+    "quality_description": "CalabashLevel_4_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -458,9 +458,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4310,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4310,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -480,15 +480,15 @@
     ]
   },
   {
-    "Level": 11,
-    "LevelUpExp": 180,
-    "LevelUpCondition": 502003,
-    "TempCatchGain": 400,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_11_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 11,
+    "level_up_exp": 180,
+    "level_up_condition": 502003,
+    "temp_catch_gain": 400,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_11_LevelUpDescription",
+    "quality_description": "CalabashLevel_4_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -506,9 +506,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4311,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4311,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -528,15 +528,15 @@
     ]
   },
   {
-    "Level": 12,
-    "LevelUpExp": 180,
-    "LevelUpCondition": 502003,
-    "TempCatchGain": 500,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_12_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 12,
+    "level_up_exp": 180,
+    "level_up_condition": 502003,
+    "temp_catch_gain": 500,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_12_LevelUpDescription",
+    "quality_description": "CalabashLevel_4_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -554,9 +554,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4312,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4312,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -576,15 +576,15 @@
     ]
   },
   {
-    "Level": 13,
-    "LevelUpExp": 180,
-    "LevelUpCondition": 502003,
-    "TempCatchGain": 500,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_13_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 13,
+    "level_up_exp": 180,
+    "level_up_condition": 502003,
+    "temp_catch_gain": 500,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_13_LevelUpDescription",
+    "quality_description": "CalabashLevel_4_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -602,9 +602,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4313,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4313,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -624,15 +624,15 @@
     ]
   },
   {
-    "Level": 14,
-    "LevelUpExp": 200,
-    "LevelUpCondition": 502004,
-    "TempCatchGain": 600,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_14_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 14,
+    "level_up_exp": 200,
+    "level_up_condition": 502004,
+    "temp_catch_gain": 600,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_14_LevelUpDescription",
+    "quality_description": "CalabashLevel_4_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -650,9 +650,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4314,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4314,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0
@@ -672,15 +672,15 @@
     ]
   },
   {
-    "Level": 15,
-    "LevelUpExp": 200,
-    "LevelUpCondition": 502004,
-    "TempCatchGain": 600,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_15_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 15,
+    "level_up_exp": 200,
+    "level_up_condition": 502004,
+    "temp_catch_gain": 600,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_15_LevelUpDescription",
+    "quality_description": "CalabashLevel_5_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -698,9 +698,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4315,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4315,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 30
@@ -720,15 +720,15 @@
     ]
   },
   {
-    "Level": 16,
-    "LevelUpExp": 200,
-    "LevelUpCondition": 502004,
-    "TempCatchGain": 800,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_16_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 16,
+    "level_up_exp": 200,
+    "level_up_condition": 502004,
+    "temp_catch_gain": 800,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_16_LevelUpDescription",
+    "quality_description": "CalabashLevel_5_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -746,9 +746,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4316,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4316,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 30
@@ -768,15 +768,15 @@
     ]
   },
   {
-    "Level": 17,
-    "LevelUpExp": 200,
-    "LevelUpCondition": 502004,
-    "TempCatchGain": 800,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_17_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 17,
+    "level_up_exp": 200,
+    "level_up_condition": 502004,
+    "temp_catch_gain": 800,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_17_LevelUpDescription",
+    "quality_description": "CalabashLevel_5_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -794,9 +794,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4317,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4317,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 50
@@ -816,15 +816,15 @@
     ]
   },
   {
-    "Level": 18,
-    "LevelUpExp": 220,
-    "LevelUpCondition": 502005,
-    "TempCatchGain": 900,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_18_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 18,
+    "level_up_exp": 220,
+    "level_up_condition": 502005,
+    "temp_catch_gain": 900,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_18_LevelUpDescription",
+    "quality_description": "CalabashLevel_5_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -842,9 +842,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4318,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4318,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 50
@@ -864,15 +864,15 @@
     ]
   },
   {
-    "Level": 19,
-    "LevelUpExp": 250,
-    "LevelUpCondition": 502005,
-    "TempCatchGain": 900,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_19_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 19,
+    "level_up_exp": 250,
+    "level_up_condition": 502005,
+    "temp_catch_gain": 900,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_19_LevelUpDescription",
+    "quality_description": "CalabashLevel_5_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -890,9 +890,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4319,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4319,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 80
@@ -912,15 +912,15 @@
     ]
   },
   {
-    "Level": 20,
-    "LevelUpExp": 9999999,
-    "LevelUpCondition": 502005,
-    "TempCatchGain": 1000,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "CalabashLevel_20_LevelUpDescription",
-    "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 20,
+    "level_up_exp": 9999999,
+    "level_up_condition": 502005,
+    "temp_catch_gain": 1000,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "CalabashLevel_20_LevelUpDescription",
+    "quality_description": "CalabashLevel_5_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 1000
@@ -938,9 +938,9 @@
         "value": 0
       }
     ],
-    "Cost": 12,
-    "RewardId": 4320,
-    "QualityDropWeight": [
+    "cost": 12,
+    "reward_id": 4320,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 80
@@ -960,15 +960,15 @@
     ]
   },
   {
-    "Level": 0,
-    "LevelUpExp": 30,
-    "LevelUpCondition": 502001,
-    "TempCatchGain": 200,
-    "BuffIds": [],
-    "BuffDescription": "",
-    "LevelUpDescription": "",
-    "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": [
+    "level": 0,
+    "level_up_exp": 30,
+    "level_up_condition": 502001,
+    "temp_catch_gain": 200,
+    "buff_ids": [],
+    "buff_description": "",
+    "level_up_description": "",
+    "quality_description": "CalabashLevel_2_QualityDescription",
+    "buff_description_map": [
       {
         "key": 0,
         "value": 100
@@ -986,9 +986,9 @@
         "value": 0
       }
     ],
-    "Cost": 8,
-    "RewardId": 0,
-    "QualityDropWeight": [
+    "cost": 8,
+    "reward_id": 0,
+    "quality_drop_weight": [
       {
         "key": 5,
         "value": 0

@@ -1,7 +1,7 @@
 [
   {
-    "Id": 1,
-    "ElementReactionList": [
+    "id": 1,
+    "element_reaction_list": [
       6,
       5,
       4,
@@ -11,8 +11,8 @@
     ]
   },
   {
-    "Id": 2,
-    "ElementReactionList": [
+    "id": 2,
+    "element_reaction_list": [
       6,
       5,
       4,

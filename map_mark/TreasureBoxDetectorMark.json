@@ -1,14 +1,14 @@
 [
   {
-    "MarkId": 1,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Explorer_UI.SP_IconMap_Explorer_UI",
-    "MarkTitle": "MapMark_TreasureBoxDetector_MarkTitle",
-    "MarkDesc": "MapMark_TreasureBoxDetector_MarkDesc",
-    "ShowPriority": 0,
-    "ShowRange": [
+    "mark_id": 1,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Explorer_UI.SP_IconMap_Explorer_UI",
+    "mark_title": "MapMark_TreasureBoxDetector_MarkTitle",
+    "mark_desc": "MapMark_TreasureBoxDetector_MarkDesc",
+    "show_priority": 0,
+    "show_range": [
       15,
       9999
     ],
-    "Scale": 1.0
+    "scale": 1.0
   }
 ]

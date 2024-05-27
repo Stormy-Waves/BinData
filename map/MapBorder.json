@@ -1,7 +1,7 @@
 [
   {
-    "BorderId": 1,
-    "ConditionId": 0,
-    "PrefabPath": "/Game/Aki/UI/UIResources/UiWorldMap/Prefabs/UiItem_BasePathLine_Edgewall_1-0_BLY.UiItem_BasePathLine_Edgewall_1-0_BLY"
+    "border_id": 1,
+    "condition_id": 0,
+    "prefab_path": "/Game/Aki/UI/UIResources/UiWorldMap/Prefabs/UiItem_BasePathLine_Edgewall_1-0_BLY.UiItem_BasePathLine_Edgewall_1-0_BLY"
   }
 ]

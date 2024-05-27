@@ -1,6 +1,6 @@
 [
   {
-    "Id": "DungeonEntranceIcon",
-    "ConfigParam": "MapBgPath"
+    "id": "DungeonEntranceIcon",
+    "config_param": "MapBgPath"
   }
 ]

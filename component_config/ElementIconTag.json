@@ -1,14 +1,14 @@
 [
   {
-    "Id": "ElementIcon1",
-    "ConfigParam": "Icon"
+    "id": "ElementIcon1",
+    "config_param": "Icon"
   },
   {
-    "Id": "ElementIcon2",
-    "ConfigParam": "Icon2"
+    "id": "ElementIcon2",
+    "config_param": "Icon2"
   },
   {
-    "Id": "ElementIcon3",
-    "ConfigParam": "Icon3"
+    "id": "ElementIcon3",
+    "config_param": "Icon3"
   }
 ]

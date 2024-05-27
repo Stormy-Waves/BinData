@@ -1,27 +1,27 @@
 [
   {
-    "Id": 1,
-    "Goal": 20,
-    "DropId": 50002
+    "id": 1,
+    "goal": 20,
+    "drop_id": 50002
   },
   {
-    "Id": 2,
-    "Goal": 40,
-    "DropId": 50003
+    "id": 2,
+    "goal": 40,
+    "drop_id": 50003
   },
   {
-    "Id": 3,
-    "Goal": 60,
-    "DropId": 50004
+    "id": 3,
+    "goal": 60,
+    "drop_id": 50004
   },
   {
-    "Id": 4,
-    "Goal": 80,
-    "DropId": 50005
+    "id": 4,
+    "goal": 80,
+    "drop_id": 50005
   },
   {
-    "Id": 5,
-    "Goal": 100,
-    "DropId": 50006
+    "id": 5,
+    "goal": 100,
+    "drop_id": 50006
   }
 ]

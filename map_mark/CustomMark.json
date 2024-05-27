@@ -1,62 +1,62 @@
 [
   {
-    "MarkId": 1,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_01_UI.SP_IconMap_Mark_01_UI",
-    "ShowRange": [
+    "mark_id": 1,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_01_UI.SP_IconMap_Mark_01_UI",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 0,
-    "Scale": 0.7
+    "show_priority": 0,
+    "scale": 0.7
   },
   {
-    "MarkId": 2,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_02_UI.SP_IconMap_Mark_02_UI",
-    "ShowRange": [
+    "mark_id": 2,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_02_UI.SP_IconMap_Mark_02_UI",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 0,
-    "Scale": 0.7
+    "show_priority": 0,
+    "scale": 0.7
   },
   {
-    "MarkId": 3,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_03_UI.SP_IconMap_Mark_03_UI",
-    "ShowRange": [
+    "mark_id": 3,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_03_UI.SP_IconMap_Mark_03_UI",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 0,
-    "Scale": 0.7
+    "show_priority": 0,
+    "scale": 0.7
   },
   {
-    "MarkId": 4,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_04_UI.SP_IconMap_Mark_04_UI",
-    "ShowRange": [
+    "mark_id": 4,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_04_UI.SP_IconMap_Mark_04_UI",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 0,
-    "Scale": 0.7
+    "show_priority": 0,
+    "scale": 0.7
   },
   {
-    "MarkId": 5,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_05_UI.SP_IconMap_Mark_05_UI",
-    "ShowRange": [
+    "mark_id": 5,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_05_UI.SP_IconMap_Mark_05_UI",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 0,
-    "Scale": 0.7
+    "show_priority": 0,
+    "scale": 0.7
   },
   {
-    "MarkId": 6,
-    "MarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_06_UI.SP_IconMap_Mark_06_UI",
-    "ShowRange": [
+    "mark_id": 6,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Mark_06_UI.SP_IconMap_Mark_06_UI",
+    "show_range": [
       15,
       9999
     ],
-    "ShowPriority": 0,
-    "Scale": 0.7
+    "show_priority": 0,
+    "scale": 0.7
   }
 ]

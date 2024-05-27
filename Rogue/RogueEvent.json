@@ -1,1094 +1,1094 @@
 [
   {
-    "Id": 10001000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10001000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10001001,
-    "TextId": "RogueEvent_10001001_text",
-    "Title": "RogueEvent_10001001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10001001,
+    "text_id": "RogueEvent_10001001_text",
+    "title": "RogueEvent_10001001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10001002,
-    "TextId": "RogueEvent_10001002_text",
-    "Title": "RogueEvent_10001002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10001002,
+    "text_id": "RogueEvent_10001002_text",
+    "title": "RogueEvent_10001002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10001003,
-    "TextId": "RogueEvent_10001003_text",
-    "Title": "RogueEvent_10001003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10001003,
+    "text_id": "RogueEvent_10001003_text",
+    "title": "RogueEvent_10001003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10002000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10002000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10002001,
-    "TextId": "RogueEvent_10002001_text",
-    "Title": "RogueEvent_10002001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10002001,
+    "text_id": "RogueEvent_10002001_text",
+    "title": "RogueEvent_10002001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10002002,
-    "TextId": "RogueEvent_10002002_text",
-    "Title": "RogueEvent_10002002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10002002,
+    "text_id": "RogueEvent_10002002_text",
+    "title": "RogueEvent_10002002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10002003,
-    "TextId": "RogueEvent_10002003_text",
-    "Title": "RogueEvent_10002003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10002003,
+    "text_id": "RogueEvent_10002003_text",
+    "title": "RogueEvent_10002003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10003000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10003000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 3,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 3,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10003001,
-    "TextId": "RogueEvent_10003001_text",
-    "Title": "RogueEvent_10003001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10003001,
+    "text_id": "RogueEvent_10003001_text",
+    "title": "RogueEvent_10003001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 3,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 3,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10003002,
-    "TextId": "RogueEvent_10003002_text",
-    "Title": "RogueEvent_10003002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10003002,
+    "text_id": "RogueEvent_10003002_text",
+    "title": "RogueEvent_10003002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 3,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 3,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10004000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10004000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 4,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 4,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10004001,
-    "TextId": "RogueEvent_10004001_text",
-    "Title": "RogueEvent_10004001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10004001,
+    "text_id": "RogueEvent_10004001_text",
+    "title": "RogueEvent_10004001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 4,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 4,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10004002,
-    "TextId": "RogueEvent_10004002_text",
-    "Title": "RogueEvent_10004002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10004002,
+    "text_id": "RogueEvent_10004002_text",
+    "title": "RogueEvent_10004002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 4,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 4,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10011000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10011000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10011001,
-    "TextId": "RogueEvent_10001001_text",
-    "Title": "RogueEvent_10001001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10011001,
+    "text_id": "RogueEvent_10001001_text",
+    "title": "RogueEvent_10001001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10011002,
-    "TextId": "RogueEvent_10001002_text",
-    "Title": "RogueEvent_10001002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10011002,
+    "text_id": "RogueEvent_10001002_text",
+    "title": "RogueEvent_10001002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10011003,
-    "TextId": "RogueEvent_10001003_text",
-    "Title": "RogueEvent_10001003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10011003,
+    "text_id": "RogueEvent_10001003_text",
+    "title": "RogueEvent_10001003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10012000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10012000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10012001,
-    "TextId": "RogueEvent_10002001_text",
-    "Title": "RogueEvent_10002001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10012001,
+    "text_id": "RogueEvent_10002001_text",
+    "title": "RogueEvent_10002001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10012002,
-    "TextId": "RogueEvent_10002002_text",
-    "Title": "RogueEvent_10002002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10012002,
+    "text_id": "RogueEvent_10002002_text",
+    "title": "RogueEvent_10002002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10012003,
-    "TextId": "RogueEvent_10002003_text",
-    "Title": "RogueEvent_10002003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10012003,
+    "text_id": "RogueEvent_10002003_text",
+    "title": "RogueEvent_10002003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10013000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10013000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 3,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 3,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10013001,
-    "TextId": "RogueEvent_10003001_text",
-    "Title": "RogueEvent_10003001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10013001,
+    "text_id": "RogueEvent_10003001_text",
+    "title": "RogueEvent_10003001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 3,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 3,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10013002,
-    "TextId": "RogueEvent_10003002_text",
-    "Title": "RogueEvent_10003002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10013002,
+    "text_id": "RogueEvent_10003002_text",
+    "title": "RogueEvent_10003002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 3,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 3,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10014000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10014000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 4,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 4,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10014001,
-    "TextId": "RogueEvent_10004001_text",
-    "Title": "RogueEvent_10004001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10014001,
+    "text_id": "RogueEvent_10004001_text",
+    "title": "RogueEvent_10004001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 4,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 4,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10014002,
-    "TextId": "RogueEvent_10004002_text",
-    "Title": "RogueEvent_10004002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10014002,
+    "text_id": "RogueEvent_10004002_text",
+    "title": "RogueEvent_10004002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 4,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 4,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10015000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10015000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10015001,
-    "TextId": "RogueEvent_10005001_text",
-    "Title": "RogueEvent_10005001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10015001,
+    "text_id": "RogueEvent_10005001_text",
+    "title": "RogueEvent_10005001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10015002,
-    "TextId": "RogueEvent_10005002_text",
-    "Title": "RogueEvent_10005002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10015002,
+    "text_id": "RogueEvent_10005002_text",
+    "title": "RogueEvent_10005002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10015003,
-    "TextId": "RogueEvent_10005003_text",
-    "Title": "RogueEvent_10005003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10015003,
+    "text_id": "RogueEvent_10005003_text",
+    "title": "RogueEvent_10005003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10015004,
-    "TextId": "RogueEvent_10005004_text",
-    "Title": "RogueEvent_10005004_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10015004,
+    "text_id": "RogueEvent_10005004_text",
+    "title": "RogueEvent_10005004_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 5,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 5,
+    "is_copy_camera": true
   },
   {
-    "Id": 10016000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10016000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10016001,
-    "TextId": "RogueEvent_10006001_text",
-    "Title": "RogueEvent_10006001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10016001,
+    "text_id": "RogueEvent_10006001_text",
+    "title": "RogueEvent_10006001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10016002,
-    "TextId": "RogueEvent_10006002_text",
-    "Title": "RogueEvent_10006002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10016002,
+    "text_id": "RogueEvent_10006002_text",
+    "title": "RogueEvent_10006002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10016003,
-    "TextId": "RogueEvent_10006003_text",
-    "Title": "RogueEvent_10006003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10016003,
+    "text_id": "RogueEvent_10006003_text",
+    "title": "RogueEvent_10006003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10016004,
-    "TextId": "RogueEvent_10006004_text",
-    "Title": "RogueEvent_10006004_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10016004,
+    "text_id": "RogueEvent_10006004_text",
+    "title": "RogueEvent_10006004_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 5,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 5,
+    "is_copy_camera": true
   },
   {
-    "Id": 10016005,
-    "TextId": "RogueEvent_10006005_text",
-    "Title": "RogueEvent_10006005_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10016005,
+    "text_id": "RogueEvent_10006005_text",
+    "title": "RogueEvent_10006005_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 6,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 6,
+    "is_copy_camera": true
   },
   {
-    "Id": 10017000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10017000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 7,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 7,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10017001,
-    "TextId": "RogueEvent_10007001_text",
-    "Title": "RogueEvent_10007001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10017001,
+    "text_id": "RogueEvent_10007001_text",
+    "title": "RogueEvent_10007001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 7,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 7,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10017002,
-    "TextId": "RogueEvent_10007002_text",
-    "Title": "RogueEvent_10007002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10017002,
+    "text_id": "RogueEvent_10007002_text",
+    "title": "RogueEvent_10007002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 7,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 7,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10017003,
-    "TextId": "RogueEvent_10007003_text",
-    "Title": "RogueEvent_10007003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10017003,
+    "text_id": "RogueEvent_10007003_text",
+    "title": "RogueEvent_10007003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 7,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 7,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10018000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10018000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 8,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 8,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10018001,
-    "TextId": "RogueEvent_10008001_text",
-    "Title": "RogueEvent_10008001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10018001,
+    "text_id": "RogueEvent_10008001_text",
+    "title": "RogueEvent_10008001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 8,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 8,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10018002,
-    "TextId": "RogueEvent_10008002_text",
-    "Title": "RogueEvent_10008002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10018002,
+    "text_id": "RogueEvent_10008002_text",
+    "title": "RogueEvent_10008002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 8,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 8,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10021000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10021000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10021001,
-    "TextId": "RogueEvent_10001001_text",
-    "Title": "RogueEvent_10001001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10021001,
+    "text_id": "RogueEvent_10001001_text",
+    "title": "RogueEvent_10001001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10021002,
-    "TextId": "RogueEvent_10001002_text",
-    "Title": "RogueEvent_10001002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10021002,
+    "text_id": "RogueEvent_10001002_text",
+    "title": "RogueEvent_10001002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10021003,
-    "TextId": "RogueEvent_10001003_text",
-    "Title": "RogueEvent_10001003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10021003,
+    "text_id": "RogueEvent_10001003_text",
+    "title": "RogueEvent_10001003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 1,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 1,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10022000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10022000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10022001,
-    "TextId": "RogueEvent_10002001_text",
-    "Title": "RogueEvent_10002001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10022001,
+    "text_id": "RogueEvent_10002001_text",
+    "title": "RogueEvent_10002001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10022002,
-    "TextId": "RogueEvent_10002002_text",
-    "Title": "RogueEvent_10002002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10022002,
+    "text_id": "RogueEvent_10002002_text",
+    "title": "RogueEvent_10002002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10022003,
-    "TextId": "RogueEvent_10002003_text",
-    "Title": "RogueEvent_10002003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10022003,
+    "text_id": "RogueEvent_10002003_text",
+    "title": "RogueEvent_10002003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 2,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 2,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10023000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10023000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 3,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 3,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10023001,
-    "TextId": "RogueEvent_10003001_text",
-    "Title": "RogueEvent_10003001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10023001,
+    "text_id": "RogueEvent_10003001_text",
+    "title": "RogueEvent_10003001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 3,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 3,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10023002,
-    "TextId": "RogueEvent_10003002_text",
-    "Title": "RogueEvent_10003002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10023002,
+    "text_id": "RogueEvent_10003002_text",
+    "title": "RogueEvent_10003002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 3,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 3,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10024000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10024000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 4,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 4,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10024001,
-    "TextId": "RogueEvent_10004001_text",
-    "Title": "RogueEvent_10004001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10024001,
+    "text_id": "RogueEvent_10004001_text",
+    "title": "RogueEvent_10004001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 4,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 4,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10024002,
-    "TextId": "RogueEvent_10004002_text",
-    "Title": "RogueEvent_10004002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10024002,
+    "text_id": "RogueEvent_10004002_text",
+    "title": "RogueEvent_10004002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 4,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 4,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10025000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10025000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10025001,
-    "TextId": "RogueEvent_10005001_text",
-    "Title": "RogueEvent_10005001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10025001,
+    "text_id": "RogueEvent_10005001_text",
+    "title": "RogueEvent_10005001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10025002,
-    "TextId": "RogueEvent_10005002_text",
-    "Title": "RogueEvent_10005002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10025002,
+    "text_id": "RogueEvent_10005002_text",
+    "title": "RogueEvent_10005002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10025003,
-    "TextId": "RogueEvent_10005003_text",
-    "Title": "RogueEvent_10005003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10025003,
+    "text_id": "RogueEvent_10005003_text",
+    "title": "RogueEvent_10005003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10025004,
-    "TextId": "RogueEvent_10005004_text",
-    "Title": "RogueEvent_10005004_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10025004,
+    "text_id": "RogueEvent_10005004_text",
+    "title": "RogueEvent_10005004_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 5,
-    "StateId": 5,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 5,
+    "state_id": 5,
+    "is_copy_camera": true
   },
   {
-    "Id": 10026000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10026000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10026001,
-    "TextId": "RogueEvent_10006001_text",
-    "Title": "RogueEvent_10006001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10026001,
+    "text_id": "RogueEvent_10006001_text",
+    "title": "RogueEvent_10006001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10026002,
-    "TextId": "RogueEvent_10006002_text",
-    "Title": "RogueEvent_10006002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10026002,
+    "text_id": "RogueEvent_10006002_text",
+    "title": "RogueEvent_10006002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10026003,
-    "TextId": "RogueEvent_10006003_text",
-    "Title": "RogueEvent_10006003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10026003,
+    "text_id": "RogueEvent_10006003_text",
+    "title": "RogueEvent_10006003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10026004,
-    "TextId": "RogueEvent_10006004_text",
-    "Title": "RogueEvent_10006004_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10026004,
+    "text_id": "RogueEvent_10006004_text",
+    "title": "RogueEvent_10006004_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 5,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 5,
+    "is_copy_camera": true
   },
   {
-    "Id": 10026005,
-    "TextId": "RogueEvent_10006005_text",
-    "Title": "RogueEvent_10006005_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10026005,
+    "text_id": "RogueEvent_10006005_text",
+    "title": "RogueEvent_10006005_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 6,
-    "StateId": 6,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 6,
+    "state_id": 6,
+    "is_copy_camera": true
   },
   {
-    "Id": 10027000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10027000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 7,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 7,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10027001,
-    "TextId": "RogueEvent_10007001_text",
-    "Title": "RogueEvent_10007001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10027001,
+    "text_id": "RogueEvent_10007001_text",
+    "title": "RogueEvent_10007001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 7,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 7,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10027002,
-    "TextId": "RogueEvent_10007002_text",
-    "Title": "RogueEvent_10007002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10027002,
+    "text_id": "RogueEvent_10007002_text",
+    "title": "RogueEvent_10007002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 7,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 7,
+    "state_id": 3,
+    "is_copy_camera": true
   },
   {
-    "Id": 10027003,
-    "TextId": "RogueEvent_10007003_text",
-    "Title": "RogueEvent_10007003_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10027003,
+    "text_id": "RogueEvent_10007003_text",
+    "title": "RogueEvent_10007003_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 7,
-    "StateId": 4,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 7,
+    "state_id": 4,
+    "is_copy_camera": true
   },
   {
-    "Id": 10028000,
-    "TextId": "",
-    "Title": "",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10028000,
+    "text_id": "",
+    "title": "",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 8,
-    "StateId": 1,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 8,
+    "state_id": 1,
+    "is_copy_camera": true
   },
   {
-    "Id": 10028001,
-    "TextId": "RogueEvent_10008001_text",
-    "Title": "RogueEvent_10008001_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10028001,
+    "text_id": "RogueEvent_10008001_text",
+    "title": "RogueEvent_10008001_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 8,
-    "StateId": 2,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 8,
+    "state_id": 2,
+    "is_copy_camera": true
   },
   {
-    "Id": 10028002,
-    "TextId": "RogueEvent_10008002_text",
-    "Title": "RogueEvent_10008002_titile",
-    "Condition": 0,
-    "EventType": 0,
-    "Args": [
+    "id": 10028002,
+    "text_id": "RogueEvent_10008002_text",
+    "title": "RogueEvent_10008002_titile",
+    "condition": 0,
+    "event_type": 0,
+    "args": [
       0
     ],
-    "FlowListName": "剧情_肉鸽_随机事件_rogouB_8002",
-    "FlowId": 8,
-    "StateId": 3,
-    "IsCopyCamera": true
+    "flow_list_name": "剧情_肉鸽_随机事件_rogouB_8002",
+    "flow_id": 8,
+    "state_id": 3,
+    "is_copy_camera": true
   }
 ]

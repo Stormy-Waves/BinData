@@ -1,10 +1,10 @@
 [
   {
-    "Id": 210009,
-    "Name": "SkillButton_210009_Name"
+    "id": 210009,
+    "name": "SkillButton_210009_Name"
   },
   {
-    "Id": 240001,
-    "Name": "SkillButton_240001_Name"
+    "id": 240001,
+    "name": "SkillButton_240001_Name"
   }
 ]

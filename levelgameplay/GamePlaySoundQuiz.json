@@ -1,30 +1,30 @@
 [
   {
-    "Id": 1,
-    "SoundNum": 2,
-    "Type": "static",
-    "Name": "helloworld",
-    "InteractId": "8110003"
+    "id": 1,
+    "sound_num": 2,
+    "type": "static",
+    "name": "helloworld",
+    "interact_id": "8110003"
   },
   {
-    "Id": 2,
-    "SoundNum": 3,
-    "Type": "1",
-    "Name": "",
-    "InteractId": "1"
+    "id": 2,
+    "sound_num": 3,
+    "type": "1",
+    "name": "",
+    "interact_id": "1"
   },
   {
-    "Id": 3,
-    "SoundNum": 4,
-    "Type": "2",
-    "Name": "",
-    "InteractId": "2"
+    "id": 3,
+    "sound_num": 4,
+    "type": "2",
+    "name": "",
+    "interact_id": "2"
   },
   {
-    "Id": 4,
-    "SoundNum": 3,
-    "Type": "3",
-    "Name": "",
-    "InteractId": "3"
+    "id": 4,
+    "sound_num": 3,
+    "type": "3",
+    "name": "",
+    "interact_id": "3"
   }
 ]

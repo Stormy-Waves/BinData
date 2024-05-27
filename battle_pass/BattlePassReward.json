@@ -1,82 +1,82 @@
 [
   {
-    "BattlePassId": 0,
-    "Level": 1,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 1,
+    "free_reward": [
       {
         "key": 2,
         "value": 10000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 3,
         "value": 680
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 2,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 2,
+    "free_reward": [
       {
         "key": 43010001,
         "value": 9
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010002,
         "value": 9
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 3,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 3,
+    "free_reward": [
       {
         "key": 43020001,
         "value": 7
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020002,
         "value": 6
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 4,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 4,
+    "free_reward": [
       {
         "key": 43010001,
         "value": 9
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000001,
         "value": 10
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 5,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 5,
+    "free_reward": [
       {
         "key": 10800,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 10800,
         "value": 1
@@ -86,86 +86,86 @@
         "value": 1
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 6,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 6,
+    "free_reward": [
       {
         "key": 2,
         "value": 10000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 65000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 7,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 7,
+    "free_reward": [
       {
         "key": 43010001,
         "value": 9
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010002,
         "value": 9
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 8,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 8,
+    "free_reward": [
       {
         "key": 43020001,
         "value": 7
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020002,
         "value": 6
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 9,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 9,
+    "free_reward": [
       {
         "key": 43010001,
         "value": 9
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000001,
         "value": 10
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 10,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 10,
+    "free_reward": [
       {
         "key": 50001,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50002,
         "value": 1
@@ -175,86 +175,86 @@
         "value": 1
       }
     ],
-    "IsMilestone": true
+    "is_milestone": true
   },
   {
-    "BattlePassId": 0,
-    "Level": 11,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 11,
+    "free_reward": [
       {
         "key": 2,
         "value": 15000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 95000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 12,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 12,
+    "free_reward": [
       {
         "key": 43010002,
         "value": 6
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010003,
         "value": 7
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 13,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 13,
+    "free_reward": [
       {
         "key": 43020002,
         "value": 4
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020003,
         "value": 4
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 14,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 14,
+    "free_reward": [
       {
         "key": 36000001,
         "value": 5
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000002,
         "value": 10
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 15,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 15,
+    "free_reward": [
       {
         "key": 10800,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 10800,
         "value": 1
@@ -264,86 +264,86 @@
         "value": 9
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 16,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 16,
+    "free_reward": [
       {
         "key": 2,
         "value": 15000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 95000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 17,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 17,
+    "free_reward": [
       {
         "key": 43010002,
         "value": 6
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010003,
         "value": 7
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 18,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 18,
+    "free_reward": [
       {
         "key": 43020002,
         "value": 4
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020003,
         "value": 4
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 19,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 19,
+    "free_reward": [
       {
         "key": 36000001,
         "value": 5
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000002,
         "value": 10
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 20,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 20,
+    "free_reward": [
       {
         "key": 50001,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50002,
         "value": 1
@@ -353,86 +353,86 @@
         "value": 1
       }
     ],
-    "IsMilestone": true
+    "is_milestone": true
   },
   {
-    "BattlePassId": 0,
-    "Level": 21,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 21,
+    "free_reward": [
       {
         "key": 2,
         "value": 15000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 95000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 22,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 22,
+    "free_reward": [
       {
         "key": 43010002,
         "value": 6
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010003,
         "value": 7
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 23,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 23,
+    "free_reward": [
       {
         "key": 43020002,
         "value": 4
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020003,
         "value": 4
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 24,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 24,
+    "free_reward": [
       {
         "key": 36000001,
         "value": 5
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000002,
         "value": 10
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 25,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 25,
+    "free_reward": [
       {
         "key": 10800,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 10800,
         "value": 1
@@ -442,86 +442,86 @@
         "value": 50
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 26,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 26,
+    "free_reward": [
       {
         "key": 2,
         "value": 15000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 95000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 27,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 27,
+    "free_reward": [
       {
         "key": 43010002,
         "value": 6
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010003,
         "value": 7
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 28,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 28,
+    "free_reward": [
       {
         "key": 43020002,
         "value": 4
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020003,
         "value": 4
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 29,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 29,
+    "free_reward": [
       {
         "key": 36000001,
         "value": 5
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000002,
         "value": 10
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 30,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 30,
+    "free_reward": [
       {
         "key": 50001,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50002,
         "value": 1
@@ -531,86 +531,86 @@
         "value": 1
       }
     ],
-    "IsMilestone": true
+    "is_milestone": true
   },
   {
-    "BattlePassId": 0,
-    "Level": 31,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 31,
+    "free_reward": [
       {
         "key": 2,
         "value": 21000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 130000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 32,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 32,
+    "free_reward": [
       {
         "key": 43010003,
         "value": 3
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010003,
         "value": 10
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 33,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 33,
+    "free_reward": [
       {
         "key": 43020003,
         "value": 3
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020003,
         "value": 6
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 34,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 34,
+    "free_reward": [
       {
         "key": 36000002,
         "value": 4
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000003,
         "value": 8
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 35,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 35,
+    "free_reward": [
       {
         "key": 10800,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 10800,
         "value": 1
@@ -620,86 +620,86 @@
         "value": 1
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 36,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 36,
+    "free_reward": [
       {
         "key": 2,
         "value": 21000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 130000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 37,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 37,
+    "free_reward": [
       {
         "key": 43010003,
         "value": 3
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010003,
         "value": 10
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 38,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 38,
+    "free_reward": [
       {
         "key": 43020003,
         "value": 3
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020003,
         "value": 6
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 39,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 39,
+    "free_reward": [
       {
         "key": 36000002,
         "value": 4
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000003,
         "value": 8
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 40,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 40,
+    "free_reward": [
       {
         "key": 50001,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50002,
         "value": 1
@@ -709,86 +709,86 @@
         "value": 50
       }
     ],
-    "IsMilestone": true
+    "is_milestone": true
   },
   {
-    "BattlePassId": 0,
-    "Level": 41,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 41,
+    "free_reward": [
       {
         "key": 2,
         "value": 21000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 130000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 42,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 42,
+    "free_reward": [
       {
         "key": 43010003,
         "value": 3
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010003,
         "value": 10
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 43,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 43,
+    "free_reward": [
       {
         "key": 43020003,
         "value": 3
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020003,
         "value": 6
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 44,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 44,
+    "free_reward": [
       {
         "key": 36000002,
         "value": 4
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000003,
         "value": 8
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 45,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 45,
+    "free_reward": [
       {
         "key": 10800,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 10800,
         "value": 1
@@ -798,86 +798,86 @@
         "value": 50
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 46,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 46,
+    "free_reward": [
       {
         "key": 2,
         "value": 21000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 130000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 47,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 47,
+    "free_reward": [
       {
         "key": 43010003,
         "value": 4
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43010004,
         "value": 6
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 48,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 48,
+    "free_reward": [
       {
         "key": 43020003,
         "value": 3
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 43020004,
         "value": 3
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 49,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 49,
+    "free_reward": [
       {
         "key": 36000003,
         "value": 2
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 36000004,
         "value": 4
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 50,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 50,
+    "free_reward": [
       {
         "key": 50001,
         "value": 1
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50002,
         "value": 1
@@ -887,346 +887,346 @@
         "value": 100
       }
     ],
-    "IsMilestone": true
+    "is_milestone": true
   },
   {
-    "BattlePassId": 0,
-    "Level": 51,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 51,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 20000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 52,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 52,
+    "free_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000084,
         "value": 3
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 53,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 53,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 20000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 54,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 54,
+    "free_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000085,
         "value": 2
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 55,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 55,
+    "free_reward": [
       {
         "key": 50000167,
         "value": 2
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000168,
         "value": 2
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 56,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 56,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 20000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 57,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 57,
+    "free_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000085,
         "value": 2
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 58,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 58,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 20000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 59,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 59,
+    "free_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 60,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 60,
+    "free_reward": [
       {
         "key": 50000167,
         "value": 3
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000168,
         "value": 2
       }
     ],
-    "IsMilestone": true
+    "is_milestone": true
   },
   {
-    "BattlePassId": 0,
-    "Level": 61,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 61,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 20000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 62,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 62,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 63,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 63,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 20000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 64,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 64,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 65,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 65,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 20000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 66,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 66,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 67,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 67,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 20000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 68,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 68,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 69,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 69,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 2,
         "value": 20000
       }
     ],
-    "IsMilestone": false
+    "is_milestone": false
   },
   {
-    "BattlePassId": 0,
-    "Level": 70,
-    "FreeReward": [
+    "battle_pass_id": 0,
+    "level": 70,
+    "free_reward": [
       {
         "key": 2,
         "value": 5000
       }
     ],
-    "PayReward": [
+    "pay_reward": [
       {
         "key": 50000084,
         "value": 2
       }
     ],
-    "IsMilestone": true
+    "is_milestone": true
   }
 ]

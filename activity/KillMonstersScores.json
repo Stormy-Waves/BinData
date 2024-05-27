@@ -1,132 +1,132 @@
 [
   {
-    "Id": 1,
-    "InstanceId": 8151,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033001,
-    "DifficultyOptions": [
+    "id": 1,
+    "instance_id": 8151,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033001,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_1"
+    "desc": "KillMonster_Desc_1"
   },
   {
-    "Id": 2,
-    "InstanceId": 8152,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033002,
-    "DifficultyOptions": [
+    "id": 2,
+    "instance_id": 8152,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033002,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_2"
+    "desc": "KillMonster_Desc_2"
   },
   {
-    "Id": 3,
-    "InstanceId": 8153,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033003,
-    "DifficultyOptions": [
+    "id": 3,
+    "instance_id": 8153,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033003,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_3"
+    "desc": "KillMonster_Desc_3"
   },
   {
-    "Id": 4,
-    "InstanceId": 8154,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033004,
-    "DifficultyOptions": [
+    "id": 4,
+    "instance_id": 8154,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033004,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_4"
+    "desc": "KillMonster_Desc_4"
   },
   {
-    "Id": 5,
-    "InstanceId": 8155,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033005,
-    "DifficultyOptions": [
+    "id": 5,
+    "instance_id": 8155,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033005,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_5"
+    "desc": "KillMonster_Desc_5"
   },
   {
-    "Id": 6,
-    "InstanceId": 8156,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033006,
-    "DifficultyOptions": [
+    "id": 6,
+    "instance_id": 8156,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033006,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_6"
+    "desc": "KillMonster_Desc_6"
   },
   {
-    "Id": 7,
-    "InstanceId": 8157,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033007,
-    "DifficultyOptions": [
+    "id": 7,
+    "instance_id": 8157,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033007,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_7"
+    "desc": "KillMonster_Desc_7"
   },
   {
-    "Id": 8,
-    "InstanceId": 8158,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033008,
-    "DifficultyOptions": [
+    "id": 8,
+    "instance_id": 8158,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033008,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_8"
+    "desc": "KillMonster_Desc_8"
   },
   {
-    "Id": 9,
-    "InstanceId": 8159,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033009,
-    "DifficultyOptions": [
+    "id": 9,
+    "instance_id": 8159,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033009,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_9"
+    "desc": "KillMonster_Desc_9"
   },
   {
-    "Id": 10,
-    "InstanceId": 8160,
-    "ScoreMin": 2000,
-    "ScoreMax": 0,
-    "Reward": 5033010,
-    "DifficultyOptions": [
+    "id": 10,
+    "instance_id": 8160,
+    "score_min": 2000,
+    "score_max": 0,
+    "reward": 5033010,
+    "difficulty_options": [
       1,
       2,
       3
     ],
-    "Desc": "KillMonster_Desc_10"
+    "desc": "KillMonster_Desc_10"
   }
 ]

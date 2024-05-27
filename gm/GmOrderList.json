@@ -1,8 +1,8 @@
 [
   {
-    "Id": 1,
-    "Name": "一键毕业",
-    "OrderList": [
+    "id": 1,
+    "name": "一键毕业",
+    "order_list": [
       "add_item_all",
       "add_new_role_config 140590",
       "add_new_role_config 140290",
@@ -33,9 +33,9 @@
     ]
   },
   {
-    "Id": 2,
-    "Name": "角色测试",
-    "OrderList": [
+    "id": 2,
+    "name": "角色测试",
+    "order_list": [
       "add_item 1 99999",
       "add_item_all",
       "add_all_role",
@@ -43,9 +43,9 @@
     ]
   },
   {
-    "Id": 3,
-    "Name": "幻象测试",
-    "OrderList": [
+    "id": 3,
+    "name": "幻象测试",
+    "order_list": [
       "UnlockVisionSkillAll",
       "add_vision_skill_items",
       "add_item 1 500000",
@@ -55,9 +55,9 @@
     ]
   },
   {
-    "Id": 4,
-    "Name": "联机测试",
-    "OrderList": [
+    "id": 4,
+    "name": "联机测试",
+    "order_list": [
       "add_new_role_config 170010",
       "add_new_role_config 170011",
       "add_new_role_config 170012",
@@ -70,9 +70,9 @@
     ]
   },
   {
-    "Id": 5,
-    "Name": "幻象全部获得",
-    "OrderList": [
+    "id": 5,
+    "name": "幻象全部获得",
+    "order_list": [
       "add_item 60000012 1",
       "add_item 60000013 1",
       "add_item 60000014 1",
@@ -212,9 +212,9 @@
     ]
   },
   {
-    "Id": 21,
-    "Name": "第2章账号快速生成-队伍1",
-    "OrderList": [
+    "id": 21,
+    "name": "第2章账号快速生成-队伍1",
+    "order_list": [
       "add_new_role_config 140215",
       "add_new_role_config 120215",
       "add_new_role_config 150315",
@@ -236,9 +236,9 @@
     ]
   },
   {
-    "Id": 22,
-    "Name": "第2章账号快速生成-队伍2",
-    "OrderList": [
+    "id": 22,
+    "name": "第2章账号快速生成-队伍2",
+    "order_list": [
       "add_new_role_config 140215",
       "add_new_role_config 120215",
       "add_new_role_config 150315",
@@ -260,9 +260,9 @@
     ]
   },
   {
-    "Id": 23,
-    "Name": "第2章账号快速生成-队伍3",
-    "OrderList": [
+    "id": 23,
+    "name": "第2章账号快速生成-队伍3",
+    "order_list": [
       "add_new_role_config 140215",
       "add_new_role_config 120215",
       "add_new_role_config 150315",
@@ -284,9 +284,9 @@
     ]
   },
   {
-    "Id": 24,
-    "Name": "第2章账号快速生成-队伍4",
-    "OrderList": [
+    "id": 24,
+    "name": "第2章账号快速生成-队伍4",
+    "order_list": [
       "add_new_role_config 140215",
       "add_new_role_config 120215",
       "add_new_role_config 150315",
@@ -308,9 +308,9 @@
     ]
   },
   {
-    "Id": 31,
-    "Name": "第3章账号快速生成-队伍1",
-    "OrderList": [
+    "id": 31,
+    "name": "第3章账号快速生成-队伍1",
+    "order_list": [
       "add_new_role_config 140220",
       "add_new_role_config 120220",
       "add_new_role_config 150320",
@@ -332,9 +332,9 @@
     ]
   },
   {
-    "Id": 32,
-    "Name": "第3章账号快速生成-队伍2",
-    "OrderList": [
+    "id": 32,
+    "name": "第3章账号快速生成-队伍2",
+    "order_list": [
       "add_new_role_config 140220",
       "add_new_role_config 120220",
       "add_new_role_config 150320",
@@ -356,9 +356,9 @@
     ]
   },
   {
-    "Id": 33,
-    "Name": "第3章账号快速生成-队伍3",
-    "OrderList": [
+    "id": 33,
+    "name": "第3章账号快速生成-队伍3",
+    "order_list": [
       "add_new_role_config 140220",
       "add_new_role_config 120220",
       "add_new_role_config 150320",
@@ -380,9 +380,9 @@
     ]
   },
   {
-    "Id": 34,
-    "Name": "第3章账号快速生成-队伍4",
-    "OrderList": [
+    "id": 34,
+    "name": "第3章账号快速生成-队伍4",
+    "order_list": [
       "add_new_role_config 140220",
       "add_new_role_config 120220",
       "add_new_role_config 150320",
@@ -404,9 +404,9 @@
     ]
   },
   {
-    "Id": 41,
-    "Name": "第4章账号快速生成-队伍1",
-    "OrderList": [
+    "id": 41,
+    "name": "第4章账号快速生成-队伍1",
+    "order_list": [
       "add_new_role_config 140230",
       "add_new_role_config 120230",
       "add_new_role_config 150330",
@@ -428,9 +428,9 @@
     ]
   },
   {
-    "Id": 42,
-    "Name": "第4章账号快速生成-队伍2",
-    "OrderList": [
+    "id": 42,
+    "name": "第4章账号快速生成-队伍2",
+    "order_list": [
       "add_new_role_config 140230",
       "add_new_role_config 120230",
       "add_new_role_config 150330",
@@ -452,9 +452,9 @@
     ]
   },
   {
-    "Id": 43,
-    "Name": "第4章账号快速生成-队伍3",
-    "OrderList": [
+    "id": 43,
+    "name": "第4章账号快速生成-队伍3",
+    "order_list": [
       "add_new_role_config 140230",
       "add_new_role_config 120230",
       "add_new_role_config 150330",
@@ -476,9 +476,9 @@
     ]
   },
   {
-    "Id": 44,
-    "Name": "第4章账号快速生成-队伍4",
-    "OrderList": [
+    "id": 44,
+    "name": "第4章账号快速生成-队伍4",
+    "order_list": [
       "add_new_role_config 140230",
       "add_new_role_config 120230",
       "add_new_role_config 150330",
@@ -500,9 +500,9 @@
     ]
   },
   {
-    "Id": 51,
-    "Name": "第5章账号快速生成-队伍1",
-    "OrderList": [
+    "id": 51,
+    "name": "第5章账号快速生成-队伍1",
+    "order_list": [
       "add_new_role_config 140230",
       "add_new_role_config 120230",
       "add_new_role_config 150330",
@@ -524,9 +524,9 @@
     ]
   },
   {
-    "Id": 52,
-    "Name": "第5章账号快速生成-队伍2",
-    "OrderList": [
+    "id": 52,
+    "name": "第5章账号快速生成-队伍2",
+    "order_list": [
       "add_new_role_config 140230",
       "add_new_role_config 120230",
       "add_new_role_config 150330",
@@ -548,9 +548,9 @@
     ]
   },
   {
-    "Id": 53,
-    "Name": "第5章账号快速生成-队伍3",
-    "OrderList": [
+    "id": 53,
+    "name": "第5章账号快速生成-队伍3",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -572,9 +572,9 @@
     ]
   },
   {
-    "Id": 54,
-    "Name": "第5章账号快速生成-队伍4",
-    "OrderList": [
+    "id": 54,
+    "name": "第5章账号快速生成-队伍4",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -596,9 +596,9 @@
     ]
   },
   {
-    "Id": 61,
-    "Name": "第6章账号快速生成-队伍1",
-    "OrderList": [
+    "id": 61,
+    "name": "第6章账号快速生成-队伍1",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -620,9 +620,9 @@
     ]
   },
   {
-    "Id": 62,
-    "Name": "第6章账号快速生成-队伍2",
-    "OrderList": [
+    "id": 62,
+    "name": "第6章账号快速生成-队伍2",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -644,9 +644,9 @@
     ]
   },
   {
-    "Id": 63,
-    "Name": "第6章账号快速生成-队伍3",
-    "OrderList": [
+    "id": 63,
+    "name": "第6章账号快速生成-队伍3",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -668,9 +668,9 @@
     ]
   },
   {
-    "Id": 64,
-    "Name": "第6章账号快速生成-队伍4",
-    "OrderList": [
+    "id": 64,
+    "name": "第6章账号快速生成-队伍4",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -692,9 +692,9 @@
     ]
   },
   {
-    "Id": 71,
-    "Name": "第7章账号快速生成-队伍1",
-    "OrderList": [
+    "id": 71,
+    "name": "第7章账号快速生成-队伍1",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -716,9 +716,9 @@
     ]
   },
   {
-    "Id": 72,
-    "Name": "第7章账号快速生成-队伍2",
-    "OrderList": [
+    "id": 72,
+    "name": "第7章账号快速生成-队伍2",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -740,9 +740,9 @@
     ]
   },
   {
-    "Id": 73,
-    "Name": "第7章账号快速生成-队伍3",
-    "OrderList": [
+    "id": 73,
+    "name": "第7章账号快速生成-队伍3",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -764,9 +764,9 @@
     ]
   },
   {
-    "Id": 74,
-    "Name": "第7章账号快速生成-队伍4",
-    "OrderList": [
+    "id": 74,
+    "name": "第7章账号快速生成-队伍4",
+    "order_list": [
       "add_new_role_config 140240",
       "add_new_role_config 120240",
       "add_new_role_config 150340",
@@ -788,9 +788,9 @@
     ]
   },
   {
-    "Id": 6,
-    "Name": "0.60战斗专项测试",
-    "OrderList": [
+    "id": 6,
+    "name": "0.60战斗专项测试",
+    "order_list": [
       "add_new_role_config 170000",
       "add_new_role_config 170001",
       "add_new_role_config 170002",
@@ -850,9 +850,9 @@
     ]
   },
   {
-    "Id": 102,
-    "Name": "PV快速准备",
-    "OrderList": [
+    "id": 102,
+    "name": "PV快速准备",
+    "order_list": [
       "add_new_role_config 140241",
       "add_new_role_config 120241",
       "add_new_role_config 110341",
@@ -872,9 +872,9 @@
     ]
   },
   {
-    "Id": 104,
-    "Name": "一键获得常见道具并解锁H键教程",
-    "OrderList": [
+    "id": 104,
+    "name": "一键获得常见道具并解锁H键教程",
+    "order_list": [
       "add_item 2 1",
       "add_item 3 1",
       "add_item 41100011 1",
@@ -1095,9 +1095,9 @@
     ]
   },
   {
-    "Id": 75,
-    "Name": "全角色10级",
-    "OrderList": [
+    "id": 75,
+    "name": "全角色10级",
+    "order_list": [
       "add_new_role_config 140510",
       "add_new_role_config 140210",
       "add_new_role_config 120210",
@@ -1120,9 +1120,9 @@
     ]
   },
   {
-    "Id": 76,
-    "Name": "全角色15级",
-    "OrderList": [
+    "id": 76,
+    "name": "全角色15级",
+    "order_list": [
       "add_new_role_config 140515",
       "add_new_role_config 140215",
       "add_new_role_config 120215",
@@ -1145,9 +1145,9 @@
     ]
   },
   {
-    "Id": 77,
-    "Name": "全角色20级",
-    "OrderList": [
+    "id": 77,
+    "name": "全角色20级",
+    "order_list": [
       "add_new_role_config 140520",
       "add_new_role_config 140220",
       "add_new_role_config 120220",
@@ -1170,9 +1170,9 @@
     ]
   },
   {
-    "Id": 78,
-    "Name": "全角色30级",
-    "OrderList": [
+    "id": 78,
+    "name": "全角色30级",
+    "order_list": [
       "add_new_role_config 140530",
       "add_new_role_config 140230",
       "add_new_role_config 120230",
@@ -1195,9 +1195,9 @@
     ]
   },
   {
-    "Id": 79,
-    "Name": "全角色40级",
-    "OrderList": [
+    "id": 79,
+    "name": "全角色40级",
+    "order_list": [
       "add_new_role_config 140540",
       "add_new_role_config 140240",
       "add_new_role_config 120240",
@@ -1220,9 +1220,9 @@
     ]
   },
   {
-    "Id": 80,
-    "Name": "全角色50级",
-    "OrderList": [
+    "id": 80,
+    "name": "全角色50级",
+    "order_list": [
       "add_new_role_config 140550",
       "add_new_role_config 140250",
       "add_new_role_config 120250",
@@ -1245,9 +1245,9 @@
     ]
   },
   {
-    "Id": 81,
-    "Name": "全角色60级",
-    "OrderList": [
+    "id": 81,
+    "name": "全角色60级",
+    "order_list": [
       "add_new_role_config 140560",
       "add_new_role_config 140260",
       "add_new_role_config 120260",
@@ -1270,9 +1270,9 @@
     ]
   },
   {
-    "Id": 82,
-    "Name": "全角色70级",
-    "OrderList": [
+    "id": 82,
+    "name": "全角色70级",
+    "order_list": [
       "add_new_role_config 140570",
       "add_new_role_config 140270",
       "add_new_role_config 120270",
@@ -1295,9 +1295,9 @@
     ]
   },
   {
-    "Id": 83,
-    "Name": "全角色80级",
-    "OrderList": [
+    "id": 83,
+    "name": "全角色80级",
+    "order_list": [
       "add_new_role_config 140580",
       "add_new_role_config 140280",
       "add_new_role_config 120280",
@@ -1320,9 +1320,9 @@
     ]
   },
   {
-    "Id": 84,
-    "Name": "全角色90级",
-    "OrderList": [
+    "id": 84,
+    "name": "全角色90级",
+    "order_list": [
       "add_new_role_config 140590",
       "add_new_role_config 140290",
       "add_new_role_config 120290",
@@ -1345,143 +1345,143 @@
     ]
   },
   {
-    "Id": 85,
-    "Name": "暗主",
-    "OrderList": [
+    "id": 85,
+    "name": "暗主",
+    "order_list": [
       "add_new_role_config 160401"
     ]
   },
   {
-    "Id": 105,
-    "Name": "boss战斗测试",
-    "OrderList": [
+    "id": 105,
+    "name": "boss战斗测试",
+    "order_list": [
       "OpenFbEntrance#995"
     ]
   },
   {
-    "Id": 91,
-    "Name": "水上漂1",
-    "OrderList": [
+    "id": 91,
+    "name": "水上漂1",
+    "order_list": [
       "TeleportToEntity#122000136"
     ]
   },
   {
-    "Id": 92,
-    "Name": "水上漂2",
-    "OrderList": [
+    "id": 92,
+    "name": "水上漂2",
+    "order_list": [
       "TeleportToEntity#122000215"
     ]
   },
   {
-    "Id": 93,
-    "Name": "悬停",
-    "OrderList": [
+    "id": 93,
+    "name": "悬停",
+    "order_list": [
       "TeleportToEntity#122000125"
     ]
   },
   {
-    "Id": 94,
-    "Name": "霸体",
-    "OrderList": [
+    "id": 94,
+    "name": "霸体",
+    "order_list": [
       "TeleportToEntity#122000092"
     ]
   },
   {
-    "Id": 95,
-    "Name": "协奏",
-    "OrderList": [
+    "id": 95,
+    "name": "协奏",
+    "order_list": [
       "TeleportToEntity#122000191"
     ]
   },
   {
-    "Id": 96,
-    "Name": "爆炸果1",
-    "OrderList": [
+    "id": 96,
+    "name": "爆炸果1",
+    "order_list": [
       "TeleportToEntity#122000183"
     ]
   },
   {
-    "Id": 97,
-    "Name": "爆炸果2",
-    "OrderList": [
+    "id": 97,
+    "name": "爆炸果2",
+    "order_list": [
       "TeleportToEntity#122000167"
     ]
   },
   {
-    "Id": 98,
-    "Name": "跑酷",
-    "OrderList": [
+    "id": 98,
+    "name": "跑酷",
+    "order_list": [
       "TeleportToEntity#124003687"
     ]
   },
   {
-    "Id": 99,
-    "Name": "乘霄山控物拼图",
-    "OrderList": [
+    "id": 99,
+    "name": "乘霄山控物拼图",
+    "order_list": [
       "TeleportToEntity#130000055"
     ]
   },
   {
-    "Id": 110,
-    "Name": "不落地挑战",
-    "OrderList": [
+    "id": 110,
+    "name": "不落地挑战",
+    "order_list": [
       "TeleportToEntity#109004199"
     ]
   },
   {
-    "Id": 111,
-    "Name": "脉冲装置CE",
-    "OrderList": [
+    "id": 111,
+    "name": "脉冲装置CE",
+    "order_list": [
       "TeleportToEntity#122000245"
     ]
   },
   {
-    "Id": 112,
-    "Name": "悬浮磁石CE",
-    "OrderList": [
+    "id": 112,
+    "name": "悬浮磁石CE",
+    "order_list": [
       "TeleportToEntity#130000014"
     ]
   },
   {
-    "Id": 113,
-    "Name": "旋转房间副本CE",
-    "OrderList": [
+    "id": 113,
+    "name": "旋转房间副本CE",
+    "order_list": [
       "OpenFbEntrance#6001"
     ]
   },
   {
-    "Id": 114,
-    "Name": "横版限时副本CE",
-    "OrderList": [
+    "id": 114,
+    "name": "横版限时副本CE",
+    "order_list": [
       "OpenFbEntrance#6002"
     ]
   },
   {
-    "Id": 106,
-    "Name": "boss战斗测试-备用",
-    "OrderList": [
+    "id": 106,
+    "name": "boss战斗测试-备用",
+    "order_list": [
       "OpenFbEntrance#996"
     ]
   },
   {
-    "Id": 115,
-    "Name": "后山POI任务前半启动",
-    "OrderList": [
+    "id": 115,
+    "name": "后山POI任务前半启动",
+    "order_list": [
       "TeleportToEntity#109004362"
     ]
   },
   {
-    "Id": 116,
-    "Name": "后山POI任务后半启动",
-    "OrderList": [
+    "id": 116,
+    "name": "后山POI任务后半启动",
+    "order_list": [
       "accept_quest 109000001",
       "TeleportToEntity#109004454"
     ]
   },
   {
-    "Id": 117,
-    "Name": "开启跑酷",
-    "OrderList": [
+    "id": 117,
+    "name": "开启跑酷",
+    "order_list": [
       "add_item 1 999999",
       "accept_quest 139000029",
       "finish_quest 139000029",
@@ -1489,37 +1489,37 @@
     ]
   },
   {
-    "Id": 118,
-    "Name": "第一玩法点",
-    "OrderList": [
+    "id": 118,
+    "name": "第一玩法点",
+    "order_list": [
       "TeleportToEntity#106002601"
     ]
   },
   {
-    "Id": 119,
-    "Name": "第二玩法点",
-    "OrderList": [
+    "id": 119,
+    "name": "第二玩法点",
+    "order_list": [
       "TeleportToEntity#106002612"
     ]
   },
   {
-    "Id": 120,
-    "Name": "第三玩法点",
-    "OrderList": [
+    "id": 120,
+    "name": "第三玩法点",
+    "order_list": [
       "TeleportToEntity#106002703"
     ]
   },
   {
-    "Id": 121,
-    "Name": "反诈任务启动",
-    "OrderList": [
+    "id": 121,
+    "name": "反诈任务启动",
+    "order_list": [
       "TeleportToEntity#109005535"
     ]
   },
   {
-    "Id": 122,
-    "Name": "gstar角色（男主）",
-    "OrderList": [
+    "id": 122,
+    "name": "gstar角色（男主）",
+    "order_list": [
       "add_new_role_config 101150101",
       "add_new_role_config 101160201",
       "add_new_role_config 101140401",
@@ -1532,16 +1532,16 @@
     ]
   },
   {
-    "Id": 123,
-    "Name": "鳞人难度分层",
-    "OrderList": [
+    "id": 123,
+    "name": "鳞人难度分层",
+    "order_list": [
       "OpenFbEntrance#994"
     ]
   },
   {
-    "Id": 124,
-    "Name": "gstar角色（女主）",
-    "OrderList": [
+    "id": 124,
+    "name": "gstar角色（女主）",
+    "order_list": [
       "add_new_role_config 101150201",
       "add_new_role_config 101160201",
       "add_new_role_config 101140401",
@@ -1554,51 +1554,51 @@
     ]
   },
   {
-    "Id": 125,
-    "Name": "跑酷一号线",
-    "OrderList": [
+    "id": 125,
+    "name": "跑酷一号线",
+    "order_list": [
       "TeleportToEntity#124003531"
     ]
   },
   {
-    "Id": 126,
-    "Name": "跑酷二号线",
-    "OrderList": [
+    "id": 126,
+    "name": "跑酷二号线",
+    "order_list": [
       "TeleportToEntity#124003592"
     ]
   },
   {
-    "Id": 127,
-    "Name": "跑酷三号线",
-    "OrderList": [
+    "id": 127,
+    "name": "跑酷三号线",
+    "order_list": [
       "TeleportToEntity#124003593"
     ]
   },
   {
-    "Id": 128,
-    "Name": "跑酷四号线",
-    "OrderList": [
+    "id": 128,
+    "name": "跑酷四号线",
+    "order_list": [
       "TeleportToEntity#135000502"
     ]
   },
   {
-    "Id": 129,
-    "Name": "跑酷五号线",
-    "OrderList": [
+    "id": 129,
+    "name": "跑酷五号线",
+    "order_list": [
       "TeleportToEntity#135000500"
     ]
   },
   {
-    "Id": 130,
-    "Name": "跑酷六号线",
-    "OrderList": [
+    "id": 130,
+    "name": "跑酷六号线",
+    "order_list": [
       "TeleportToEntity#135000501"
     ]
   },
   {
-    "Id": 131,
-    "Name": "联机测试角色",
-    "OrderList": [
+    "id": 131,
+    "name": "联机测试角色",
+    "order_list": [
       "add_new_role_config 1011402602",
       "add_new_role_config 1011202602",
       "add_new_role_config 1011503602",
@@ -1621,9 +1621,9 @@
     ]
   },
   {
-    "Id": 132,
-    "Name": "低配90级角色",
-    "OrderList": [
+    "id": 132,
+    "name": "低配90级角色",
+    "order_list": [
       "add_new_role_config 11001",
       "add_new_role_config 11002",
       "add_new_role_config 11003",
@@ -1648,9 +1648,9 @@
     ]
   },
   {
-    "Id": 133,
-    "Name": "小毕业90级角色",
-    "OrderList": [
+    "id": 133,
+    "name": "小毕业90级角色",
+    "order_list": [
       "add_new_role_config 12001",
       "add_new_role_config 12002",
       "add_new_role_config 12003",
@@ -1675,9 +1675,9 @@
     ]
   },
   {
-    "Id": 134,
-    "Name": "大毕业90级角色",
-    "OrderList": [
+    "id": 134,
+    "name": "大毕业90级角色",
+    "order_list": [
       "add_new_role_config 13001",
       "add_new_role_config 13002",
       "add_new_role_config 13003",
@@ -1702,9 +1702,9 @@
     ]
   },
   {
-    "Id": 135,
-    "Name": "一键毕业-关卡测试",
-    "OrderList": [
+    "id": 135,
+    "name": "一键毕业-关卡测试",
+    "order_list": [
       "ShowTipsView#1",
       "add_all_role",
       "set_all_role_to_graduate",

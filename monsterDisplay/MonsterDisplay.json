@@ -1,10 +1,10 @@
 [
   {
-    "Id": 1,
-    "NameStringKey": 1,
-    "Name": 2,
-    "IntroduceStringKey": 3,
-    "Introduce": 4,
-    "MonsterPileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_8_UI.T_IconMonsterPile_8_UI"
+    "id": 1,
+    "name_string_key": 1,
+    "name": 2,
+    "introduce_string_key": 3,
+    "introduce": 4,
+    "monster_pile_icon_asset": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_8_UI.T_IconMonsterPile_8_UI"
   }
 ]

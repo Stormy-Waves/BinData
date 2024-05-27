@@ -1,9 +1,9 @@
 [
   {
-    "Id": 1,
-    "ExecutionRoleId": 1502,
-    "ExecutionSkillId": 1502900,
-    "LimitExecutionTags": [
+    "id": 1,
+    "execution_role_id": 1502,
+    "execution_skill_id": 1502900,
+    "limit_execution_tags": [
       "行为状态.位置状态.空中",
       "行为状态.位置状态.水中",
       "行为状态.位置状态.攀爬",
@@ -18,10 +18,10 @@
     ]
   },
   {
-    "Id": 2,
-    "ExecutionRoleId": 1501,
-    "ExecutionSkillId": 1501900,
-    "LimitExecutionTags": [
+    "id": 2,
+    "execution_role_id": 1501,
+    "execution_skill_id": 1501900,
+    "limit_execution_tags": [
       "行为状态.位置状态.空中",
       "行为状态.位置状态.水中",
       "行为状态.位置状态.攀爬",
@@ -36,10 +36,10 @@
     ]
   },
   {
-    "Id": 5,
-    "ExecutionRoleId": 1502,
-    "ExecutionSkillId": 1503000,
-    "LimitExecutionTags": [
+    "id": 5,
+    "execution_role_id": 1502,
+    "execution_skill_id": 1503000,
+    "limit_execution_tags": [
       "行为状态.位置状态.空中",
       "行为状态.位置状态.水中",
       "行为状态.位置状态.攀爬",
@@ -54,10 +54,10 @@
     ]
   },
   {
-    "Id": 6,
-    "ExecutionRoleId": 1501,
-    "ExecutionSkillId": 15019001,
-    "LimitExecutionTags": [
+    "id": 6,
+    "execution_role_id": 1501,
+    "execution_skill_id": 15019001,
+    "limit_execution_tags": [
       "行为状态.位置状态.空中",
       "行为状态.位置状态.水中",
       "行为状态.位置状态.攀爬",

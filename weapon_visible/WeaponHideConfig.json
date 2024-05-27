@@ -1,7 +1,7 @@
 [
   {
-    "Id": 1,
-    "HideWeaponTags": [
+    "id": 1,
+    "hide_weapon_tags": [
       "行为状态.位置状态.攀爬",
       "行为状态.位置状态.水中",
       "角色.BaseRole.状态通用标识.跑墙",

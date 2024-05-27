@@ -1,7 +1,7 @@
 [
   {
-    "Id": 1,
-    "ReductionData": [
+    "id": 1,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -10,7 +10,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -21,56 +21,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
-      1.0,
-      0.0,
-      0.0,
-      1.0,
-      0.125,
-      1.0,
-      1.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 10000
-  },
-  {
-    "Id": 2,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -79,14 +30,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -95,11 +46,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 3,
-    "ReductionData": [
+    "id": 2,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -108,7 +59,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -119,7 +70,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -128,14 +79,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -144,11 +95,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 4,
-    "ReductionData": [
+    "id": 3,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -157,7 +108,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -168,7 +119,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -177,14 +128,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -193,11 +144,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 5,
-    "ReductionData": [
+    "id": 4,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -206,7 +157,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -217,7 +168,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -226,14 +177,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -242,11 +193,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 6,
-    "ReductionData": [
+    "id": 5,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -255,7 +206,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -266,7 +217,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -275,14 +226,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -291,11 +242,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 7,
-    "ReductionData": [
+    "id": 6,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -304,7 +255,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -315,7 +266,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -324,14 +275,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -340,11 +291,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 101,
-    "ReductionData": [
+    "id": 7,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -353,56 +304,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 102,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -413,350 +315,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 103,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 104,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 105,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 106,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 107,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 10080010,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 20080010,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -765,14 +324,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -781,11 +340,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080009,
-    "ReductionData": [
+    "id": 101,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -794,7 +353,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -805,7 +364,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -814,14 +373,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -830,11 +389,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080009,
-    "ReductionData": [
+    "id": 102,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -843,7 +402,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -854,7 +413,350 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 103,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 104,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 105,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 106,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 107,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 10080010,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 20080010,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -863,14 +765,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -879,11 +781,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080008,
-    "ReductionData": [
+    "id": 10080009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -892,7 +794,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -903,7 +805,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -912,14 +814,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -928,11 +830,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080008,
-    "ReductionData": [
+    "id": 20080009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -941,56 +843,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
-      1.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      1.0,
-      1.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 10000
-  },
-  {
-    "Id": 10080015,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1001,56 +854,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 20080015,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -1059,14 +863,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1075,11 +879,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080012,
-    "ReductionData": [
+    "id": 10080008,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1088,7 +892,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1099,7 +903,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -1108,14 +912,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1124,11 +928,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080012,
-    "ReductionData": [
+    "id": 20080008,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1137,7 +941,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1148,7 +952,105 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 10000
+  },
+  {
+    "id": 10080015,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 20080015,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -1157,14 +1059,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1173,11 +1075,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10180010,
-    "ReductionData": [
+    "id": 10080012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1186,56 +1088,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 0
-  },
-  {
-    "Id": 20180010,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1246,56 +1099,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "WeaponReduction": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "SkillTypeParam": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "Percent": 10000
-  },
-  {
-    "Id": 10080004,
-    "ReductionData": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "AttackTypeData": [
-      0.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -1304,14 +1108,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1320,11 +1124,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080004,
-    "ReductionData": [
+    "id": 20080012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1333,7 +1137,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1344,7 +1148,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -1353,14 +1157,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1369,11 +1173,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080002,
-    "ReductionData": [
+    "id": 10180010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1382,7 +1186,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1393,7 +1197,105 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 20180010,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 10000
+  },
+  {
+    "id": 10080004,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -1402,14 +1304,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1418,11 +1320,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080002,
-    "ReductionData": [
+    "id": 20080004,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1431,7 +1333,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1442,7 +1344,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -1451,14 +1353,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1467,11 +1369,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080003,
-    "ReductionData": [
+    "id": 10080002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1480,7 +1382,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1491,7 +1393,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -1500,14 +1402,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1516,11 +1418,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080003,
-    "ReductionData": [
+    "id": 20080002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1529,7 +1431,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1540,7 +1442,105 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.125,
+      1.0,
+      1.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 10000
+  },
+  {
+    "id": 10080003,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weapon_reduction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "skill_type_param": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "percent": 0
+  },
+  {
+    "id": 20080003,
+    "reduction_data": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "attack_type_data": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -1549,14 +1549,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1565,11 +1565,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080007,
-    "ReductionData": [
+    "id": 10080007,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1578,7 +1578,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1589,7 +1589,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -1598,14 +1598,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1614,11 +1614,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080007,
-    "ReductionData": [
+    "id": 20080007,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1627,7 +1627,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1638,7 +1638,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -1647,14 +1647,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1663,11 +1663,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080011,
-    "ReductionData": [
+    "id": 10080011,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1676,7 +1676,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1687,7 +1687,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -1696,14 +1696,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1712,11 +1712,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080011,
-    "ReductionData": [
+    "id": 20080011,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1725,7 +1725,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1736,7 +1736,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -1745,14 +1745,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1761,11 +1761,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080001,
-    "ReductionData": [
+    "id": 10080001,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1774,7 +1774,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1785,7 +1785,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -1794,14 +1794,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1810,11 +1810,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080001,
-    "ReductionData": [
+    "id": 20080001,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1823,7 +1823,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1834,7 +1834,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -1843,14 +1843,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1859,11 +1859,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080005,
-    "ReductionData": [
+    "id": 10080005,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1872,7 +1872,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1883,7 +1883,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -1892,14 +1892,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1908,11 +1908,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080005,
-    "ReductionData": [
+    "id": 20080005,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1921,7 +1921,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1932,7 +1932,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -1941,14 +1941,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -1957,11 +1957,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080014,
-    "ReductionData": [
+    "id": 10080014,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -1970,7 +1970,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -1981,7 +1981,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -1990,14 +1990,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2006,11 +2006,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080014,
-    "ReductionData": [
+    "id": 20080014,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2019,7 +2019,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2030,7 +2030,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2039,14 +2039,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2055,11 +2055,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10080006,
-    "ReductionData": [
+    "id": 10080006,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2068,7 +2068,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2079,7 +2079,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2088,14 +2088,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2104,11 +2104,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20080006,
-    "ReductionData": [
+    "id": 20080006,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2117,7 +2117,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2128,7 +2128,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2137,14 +2137,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2153,11 +2153,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10180012,
-    "ReductionData": [
+    "id": 10180012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2166,7 +2166,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2177,7 +2177,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2186,14 +2186,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2202,11 +2202,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20180012,
-    "ReductionData": [
+    "id": 20180012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2215,7 +2215,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2226,7 +2226,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2235,14 +2235,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2251,11 +2251,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10280012,
-    "ReductionData": [
+    "id": 10280012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2264,7 +2264,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2275,7 +2275,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2284,14 +2284,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2300,11 +2300,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20280012,
-    "ReductionData": [
+    "id": 20280012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2313,7 +2313,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2324,7 +2324,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2333,14 +2333,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2349,11 +2349,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10380012,
-    "ReductionData": [
+    "id": 10380012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2362,7 +2362,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2373,7 +2373,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2382,14 +2382,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2398,11 +2398,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20380012,
-    "ReductionData": [
+    "id": 20380012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2411,7 +2411,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2422,7 +2422,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2431,14 +2431,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2447,11 +2447,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10480012,
-    "ReductionData": [
+    "id": 10480012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2460,7 +2460,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2471,7 +2471,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2480,14 +2480,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2496,11 +2496,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20480012,
-    "ReductionData": [
+    "id": 20480012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2509,7 +2509,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2520,7 +2520,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2529,14 +2529,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2545,11 +2545,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10580012,
-    "ReductionData": [
+    "id": 10580012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2558,7 +2558,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2569,7 +2569,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2578,14 +2578,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2594,11 +2594,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20580012,
-    "ReductionData": [
+    "id": 20580012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2607,7 +2607,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2618,7 +2618,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2627,14 +2627,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2643,11 +2643,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10680012,
-    "ReductionData": [
+    "id": 10680012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2656,7 +2656,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2667,7 +2667,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2676,14 +2676,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2692,11 +2692,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20680012,
-    "ReductionData": [
+    "id": 20680012,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2705,7 +2705,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2716,7 +2716,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2725,14 +2725,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2741,11 +2741,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10180009,
-    "ReductionData": [
+    "id": 10180009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2754,7 +2754,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2765,7 +2765,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2774,14 +2774,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2790,11 +2790,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20180009,
-    "ReductionData": [
+    "id": 20180009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2803,7 +2803,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2814,7 +2814,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2823,14 +2823,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2839,11 +2839,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10280009,
-    "ReductionData": [
+    "id": 10280009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2852,7 +2852,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2863,7 +2863,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2872,14 +2872,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2888,11 +2888,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20280009,
-    "ReductionData": [
+    "id": 20280009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2901,7 +2901,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2912,7 +2912,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -2921,14 +2921,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2937,11 +2937,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10380009,
-    "ReductionData": [
+    "id": 10380009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2950,7 +2950,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -2961,7 +2961,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -2970,14 +2970,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -2986,11 +2986,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20380009,
-    "ReductionData": [
+    "id": 20380009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -2999,7 +2999,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3010,7 +3010,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3019,14 +3019,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3035,11 +3035,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10480009,
-    "ReductionData": [
+    "id": 10480009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3048,7 +3048,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3059,7 +3059,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3068,14 +3068,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3084,11 +3084,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20480009,
-    "ReductionData": [
+    "id": 20480009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3097,7 +3097,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3108,7 +3108,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3117,14 +3117,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3133,11 +3133,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10580009,
-    "ReductionData": [
+    "id": 10580009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3146,7 +3146,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3157,7 +3157,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3166,14 +3166,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3182,11 +3182,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20580009,
-    "ReductionData": [
+    "id": 20580009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3195,7 +3195,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3206,7 +3206,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3215,14 +3215,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3231,11 +3231,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10680009,
-    "ReductionData": [
+    "id": 10680009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3244,7 +3244,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3255,7 +3255,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3264,14 +3264,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3280,11 +3280,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20680009,
-    "ReductionData": [
+    "id": 20680009,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3293,7 +3293,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3304,7 +3304,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3313,14 +3313,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3329,11 +3329,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10180002,
-    "ReductionData": [
+    "id": 10180002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3342,7 +3342,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3353,7 +3353,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3362,14 +3362,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3378,11 +3378,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20180002,
-    "ReductionData": [
+    "id": 20180002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3391,7 +3391,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3402,7 +3402,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3411,14 +3411,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3427,11 +3427,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10280002,
-    "ReductionData": [
+    "id": 10280002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3440,7 +3440,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3451,7 +3451,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3460,14 +3460,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3476,11 +3476,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20280002,
-    "ReductionData": [
+    "id": 20280002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3489,7 +3489,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3500,7 +3500,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3509,14 +3509,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3525,11 +3525,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10380002,
-    "ReductionData": [
+    "id": 10380002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3538,7 +3538,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3549,7 +3549,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3558,14 +3558,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3574,11 +3574,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20380002,
-    "ReductionData": [
+    "id": 20380002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3587,7 +3587,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3598,7 +3598,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3607,14 +3607,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3623,11 +3623,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10480002,
-    "ReductionData": [
+    "id": 10480002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3636,7 +3636,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3647,7 +3647,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3656,14 +3656,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3672,11 +3672,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20480002,
-    "ReductionData": [
+    "id": 20480002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3685,7 +3685,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3696,7 +3696,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3705,14 +3705,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3721,11 +3721,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10580002,
-    "ReductionData": [
+    "id": 10580002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3734,7 +3734,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3745,7 +3745,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3754,14 +3754,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3770,11 +3770,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20580002,
-    "ReductionData": [
+    "id": 20580002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3783,7 +3783,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3794,7 +3794,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3803,14 +3803,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3819,11 +3819,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10680002,
-    "ReductionData": [
+    "id": 10680002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3832,7 +3832,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3843,7 +3843,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3852,14 +3852,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3868,11 +3868,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20680002,
-    "ReductionData": [
+    "id": 20680002,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3881,7 +3881,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3892,7 +3892,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3901,14 +3901,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3917,11 +3917,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10280010,
-    "ReductionData": [
+    "id": 10280010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3930,7 +3930,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3941,7 +3941,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -3950,14 +3950,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -3966,11 +3966,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20280010,
-    "ReductionData": [
+    "id": 20280010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -3979,7 +3979,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -3990,7 +3990,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -3999,14 +3999,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4015,11 +4015,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10380010,
-    "ReductionData": [
+    "id": 10380010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4028,7 +4028,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4039,7 +4039,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -4048,14 +4048,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4064,11 +4064,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20380010,
-    "ReductionData": [
+    "id": 20380010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4077,7 +4077,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4088,7 +4088,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -4097,14 +4097,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4113,11 +4113,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10480010,
-    "ReductionData": [
+    "id": 10480010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4126,7 +4126,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4137,7 +4137,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -4146,14 +4146,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4162,11 +4162,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20480010,
-    "ReductionData": [
+    "id": 20480010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4175,7 +4175,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4186,7 +4186,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -4195,14 +4195,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4211,11 +4211,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10580010,
-    "ReductionData": [
+    "id": 10580010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4224,7 +4224,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4235,7 +4235,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -4244,14 +4244,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4260,11 +4260,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20580010,
-    "ReductionData": [
+    "id": 20580010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4273,7 +4273,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4284,7 +4284,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -4293,14 +4293,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4309,11 +4309,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10680010,
-    "ReductionData": [
+    "id": 10680010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4322,7 +4322,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4333,7 +4333,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -4342,14 +4342,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4358,11 +4358,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20680010,
-    "ReductionData": [
+    "id": 20680010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4371,7 +4371,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4382,7 +4382,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -4391,14 +4391,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4407,11 +4407,11 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   },
   {
-    "Id": 10780010,
-    "ReductionData": [
+    "id": 10780010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4420,7 +4420,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4431,7 +4431,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       0.0,
       0.0,
       0.0,
@@ -4440,14 +4440,14 @@
       0.0,
       0.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4456,11 +4456,11 @@
       1.0,
       1.0
     ],
-    "Percent": 0
+    "percent": 0
   },
   {
-    "Id": 20780010,
-    "ReductionData": [
+    "id": 20780010,
+    "reduction_data": [
       1.0,
       1.0,
       1.0,
@@ -4469,7 +4469,7 @@
       1.0,
       1.0
     ],
-    "AttackTypeData": [
+    "attack_type_data": [
       0.0,
       1.0,
       1.0,
@@ -4480,7 +4480,7 @@
       1.0,
       1.0
     ],
-    "CorrectData": [
+    "correct_data": [
       1.0,
       0.0,
       0.0,
@@ -4489,14 +4489,14 @@
       1.0,
       1.0
     ],
-    "WeaponReduction": [
+    "weapon_reduction": [
       1.0,
       1.0,
       1.0,
       1.0,
       1.0
     ],
-    "SkillTypeParam": [
+    "skill_type_param": [
       1.0,
       1.0,
       1.0,
@@ -4505,6 +4505,6 @@
       1.0,
       1.0
     ],
-    "Percent": 10000
+    "percent": 10000
   }
 ]

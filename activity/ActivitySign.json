@@ -1,7 +1,7 @@
 [
   {
-    "Id": 100100001,
-    "SignRewards": [
+    "id": 100100001,
+    "sign_rewards": [
       {
         "item_id": 50001,
         "count": 1
@@ -31,10 +31,10 @@
         "count": 2
       }
     ],
-    "ImportantRewardIndex": 4,
-    "ImportantRewardIcon": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_SanhuaPixB.T_SanhuaPixB",
-    "ImportantRewardType": 1,
-    "PreviewList": [
+    "important_reward_index": 4,
+    "important_reward_icon": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_SanhuaPixB.T_SanhuaPixB",
+    "important_reward_type": 1,
+    "preview_list": [
       100704
     ]
   }

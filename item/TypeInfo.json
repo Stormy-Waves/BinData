@@ -1,107 +1,107 @@
 [
   {
-    "Id": 0,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 100,
-    "ItemInfoDisplayType": 0
+    "id": 0,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 100,
+    "item_info_display_type": 0
   },
   {
-    "Id": 1,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 35,
-    "ItemInfoDisplayType": 0
+    "id": 1,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 35,
+    "item_info_display_type": 0
   },
   {
-    "Id": 2,
-    "TypeDescription": "",
-    "Lock": true,
-    "SortIndex": 85,
-    "ItemInfoDisplayType": 1
+    "id": 2,
+    "type_description": "",
+    "lock": true,
+    "sort_index": 85,
+    "item_info_display_type": 1
   },
   {
-    "Id": 3,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 90,
-    "ItemInfoDisplayType": 0
+    "id": 3,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 90,
+    "item_info_display_type": 0
   },
   {
-    "Id": 4,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 30,
-    "ItemInfoDisplayType": 0
+    "id": 4,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 30,
+    "item_info_display_type": 0
   },
   {
-    "Id": 7,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 70,
-    "ItemInfoDisplayType": 0
+    "id": 7,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 70,
+    "item_info_display_type": 0
   },
   {
-    "Id": 9,
-    "TypeDescription": "",
-    "Lock": true,
-    "SortIndex": 80,
-    "ItemInfoDisplayType": 1
+    "id": 9,
+    "type_description": "",
+    "lock": true,
+    "sort_index": 80,
+    "item_info_display_type": 1
   },
   {
-    "Id": 11,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 95,
-    "ItemInfoDisplayType": 0
+    "id": 11,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 95,
+    "item_info_display_type": 0
   },
   {
-    "Id": 60000,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 50,
-    "ItemInfoDisplayType": 0
+    "id": 60000,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 50,
+    "item_info_display_type": 0
   },
   {
-    "Id": 60002,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 45,
-    "ItemInfoDisplayType": 0
+    "id": 60002,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 45,
+    "item_info_display_type": 0
   },
   {
-    "Id": 60003,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 40,
-    "ItemInfoDisplayType": 0
+    "id": 60003,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 40,
+    "item_info_display_type": 0
   },
   {
-    "Id": 13,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 60,
-    "ItemInfoDisplayType": 0
+    "id": 13,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 60,
+    "item_info_display_type": 0
   },
   {
-    "Id": 14,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 75,
-    "ItemInfoDisplayType": 0
+    "id": 14,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 75,
+    "item_info_display_type": 0
   },
   {
-    "Id": 8,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 65,
-    "ItemInfoDisplayType": 0
+    "id": 8,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 65,
+    "item_info_display_type": 0
   },
   {
-    "Id": 15,
-    "TypeDescription": "",
-    "Lock": false,
-    "SortIndex": 55,
-    "ItemInfoDisplayType": 0
+    "id": 15,
+    "type_description": "",
+    "lock": false,
+    "sort_index": 55,
+    "item_info_display_type": 0
   }
 ]

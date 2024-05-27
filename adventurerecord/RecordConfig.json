@@ -1,96 +1,96 @@
 [
   {
-    "Id": 1,
-    "LimitParams": [
+    "id": 1,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300404"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 2,
-    "LimitParams": [
+    "id": 2,
+    "limit_params": [
       {
         "key": "Id",
         "value": "1"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 3,
-    "LimitParams": [],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "id": 3,
+    "limit_params": [],
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 4,
-    "LimitParams": [
+    "id": 4,
+    "limit_params": [
       {
         "key": "Id",
         "value": "40040001"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 5,
-    "LimitParams": [
+    "id": 5,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300901"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 6,
-    "LimitParams": [
+    "id": 6,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300902"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 7,
-    "LimitParams": [
+    "id": 7,
+    "limit_params": [
       {
         "key": "Id",
         "value": "1"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 8,
-    "LimitParams": [],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "id": 8,
+    "limit_params": [],
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 9,
-    "LimitParams": [
+    "id": 9,
+    "limit_params": [
       {
         "key": "Id",
         "value": "40040001"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10,
-    "LimitParams": [
+    "id": 10,
+    "limit_params": [
       {
         "key": "type",
         "value": "null"
@@ -100,40 +100,40 @@
         "value": "30"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 11,
-    "LimitParams": [
+    "id": 11,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300801"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 12,
-    "LimitParams": [
+    "id": 12,
+    "limit_params": [
       {
         "key": "Id",
         "value": "1"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 13,
-    "LimitParams": [],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "id": 13,
+    "limit_params": [],
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 14,
-    "LimitParams": [
+    "id": 14,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -143,18 +143,18 @@
         "value": "30"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 15,
-    "LimitParams": [],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "id": 15,
+    "limit_params": [],
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 16,
-    "LimitParams": [
+    "id": 16,
+    "limit_params": [
       {
         "key": "quality",
         "value": "1"
@@ -164,45 +164,45 @@
         "value": "5"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 17,
-    "LimitParams": [
+    "id": 17,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300301"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 18,
-    "LimitParams": [
+    "id": 18,
+    "limit_params": [
       {
         "key": "Id",
         "value": "1"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 19,
-    "LimitParams": [
+    "id": 19,
+    "limit_params": [
       {
         "key": "Id",
         "value": "40040001"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 20,
-    "LimitParams": [
+    "id": 20,
+    "limit_params": [
       {
         "key": "type",
         "value": "null"
@@ -212,12 +212,12 @@
         "value": "50"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 21,
-    "LimitParams": [
+    "id": 21,
+    "limit_params": [
       {
         "key": "quality",
         "value": "1"
@@ -227,51 +227,51 @@
         "value": "5"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 22,
-    "LimitParams": [
+    "id": 22,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000002"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 23,
-    "LimitParams": [
+    "id": 23,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300701"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 24,
-    "LimitParams": [
+    "id": 24,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300702"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 25,
-    "LimitParams": [],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "id": 25,
+    "limit_params": [],
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 26,
-    "LimitParams": [
+    "id": 26,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -281,414 +281,414 @@
         "value": "50"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 27,
-    "LimitParams": [],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "id": 27,
+    "limit_params": [],
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 28,
-    "LimitParams": [
+    "id": 28,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000003"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 29,
-    "LimitParams": [
+    "id": 29,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000005"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 30,
-    "LimitParams": [
+    "id": 30,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000041"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 31,
-    "LimitParams": [
+    "id": 31,
+    "limit_params": [
       {
         "key": "Id",
         "value": "2"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 32,
-    "LimitParams": [
+    "id": 32,
+    "limit_params": [
       {
         "key": "Id",
         "value": "12"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 33,
-    "LimitParams": [
+    "id": 33,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000102"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 34,
-    "LimitParams": [
+    "id": 34,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000103"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 35,
-    "LimitParams": [
+    "id": 35,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000104"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 36,
-    "LimitParams": [
+    "id": 36,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000105"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 37,
-    "LimitParams": [
+    "id": 37,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000200"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 38,
-    "LimitParams": [
+    "id": 38,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000201"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 39,
-    "LimitParams": [
+    "id": 39,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000202"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 40,
-    "LimitParams": [
+    "id": 40,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000203"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 41,
-    "LimitParams": [
+    "id": 41,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000204"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 42,
-    "LimitParams": [
+    "id": 42,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000205"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 43,
-    "LimitParams": [
+    "id": 43,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000300"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 44,
-    "LimitParams": [
+    "id": 44,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000301"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 45,
-    "LimitParams": [
+    "id": 45,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000302"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 46,
-    "LimitParams": [
+    "id": 46,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000303"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 47,
-    "LimitParams": [
+    "id": 47,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000304"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 48,
-    "LimitParams": [
+    "id": 48,
+    "limit_params": [
       {
         "key": "Id",
         "value": "145000305"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 49,
-    "LimitParams": [
+    "id": 49,
+    "limit_params": [
       {
         "key": "Id",
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 50,
-    "LimitParams": [
+    "id": 50,
+    "limit_params": [
       {
         "key": "Id",
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 51,
-    "LimitParams": [
+    "id": 51,
+    "limit_params": [
       {
         "key": "Id",
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 52,
-    "LimitParams": [
+    "id": 52,
+    "limit_params": [
       {
         "key": "Id",
         "value": "12"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 53,
-    "LimitParams": [
+    "id": 53,
+    "limit_params": [
       {
         "key": "Id",
         "value": "6"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 54,
-    "LimitParams": [
+    "id": 54,
+    "limit_params": [
       {
         "key": "Id",
         "value": "7"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 55,
-    "LimitParams": [
+    "id": 55,
+    "limit_params": [
       {
         "key": "Id",
         "value": "10"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 56,
-    "LimitParams": [
+    "id": 56,
+    "limit_params": [
       {
         "key": "Id",
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 57,
-    "LimitParams": [
+    "id": 57,
+    "limit_params": [
       {
         "key": "Id",
         "value": "12"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 58,
-    "LimitParams": [
+    "id": 58,
+    "limit_params": [
       {
         "key": "Id",
         "value": "8"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 59,
-    "LimitParams": [
+    "id": 59,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000043"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 60,
-    "LimitParams": [
+    "id": 60,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000009"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 61,
-    "LimitParams": [
+    "id": 61,
+    "limit_params": [
       {
         "key": "Id",
         "value": "380001"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 62,
-    "LimitParams": [
+    "id": 62,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "2"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 63,
-    "LimitParams": [
+    "id": 63,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 64,
-    "LimitParams": [
+    "id": 64,
+    "limit_params": [
       {
         "key": "type",
         "value": "null"
@@ -698,12 +698,12 @@
         "value": "30"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 65,
-    "LimitParams": [
+    "id": 65,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -713,23 +713,23 @@
         "value": "20"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 66,
-    "LimitParams": [
+    "id": 66,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "2"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 67,
-    "LimitParams": [
+    "id": 67,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -739,12 +739,12 @@
         "value": "20"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 68,
-    "LimitParams": [
+    "id": 68,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -754,23 +754,23 @@
         "value": "30"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 69,
-    "LimitParams": [
+    "id": 69,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 70,
-    "LimitParams": [
+    "id": 70,
+    "limit_params": [
       {
         "key": "quality",
         "value": "1"
@@ -780,177 +780,177 @@
         "value": "15"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 71,
-    "LimitParams": [
+    "id": 71,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300601"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 72,
-    "LimitParams": [
+    "id": 72,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300602"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 73,
-    "LimitParams": [
+    "id": 73,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000003"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 74,
-    "LimitParams": [
+    "id": 74,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110700000"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 75,
-    "LimitParams": [
+    "id": 75,
+    "limit_params": [
       {
         "key": "Id",
         "value": "112700001"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 76,
-    "LimitParams": [
+    "id": 76,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000008"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 77,
-    "LimitParams": [
+    "id": 77,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000042"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 78,
-    "LimitParams": [
+    "id": 78,
+    "limit_params": [
       {
         "key": "Id",
         "value": "122700008"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 79,
-    "LimitParams": [
+    "id": 79,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000005"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 80,
-    "LimitParams": [
+    "id": 80,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110700001"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 81,
-    "LimitParams": [
+    "id": 81,
+    "limit_params": [
       {
         "key": "Id",
         "value": "110000043"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 82,
-    "LimitParams": [
+    "id": 82,
+    "limit_params": [
       {
         "key": "Id",
         "value": "118700028"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 83,
-    "LimitParams": [
+    "id": 83,
+    "limit_params": [
       {
         "key": "Id",
         "value": "0"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 84,
-    "LimitParams": [
+    "id": 84,
+    "limit_params": [
       {
         "key": "Id",
         "value": "0"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 85,
-    "LimitParams": [
+    "id": 85,
+    "limit_params": [
       {
         "key": "Id",
         "value": "0"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1101,
-    "LimitParams": [
+    "id": 1101,
+    "limit_params": [
       {
         "key": "type",
         "value": "null"
@@ -960,23 +960,23 @@
         "value": "20"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1102,
-    "LimitParams": [
+    "id": 1102,
+    "limit_params": [
       {
         "key": "quality",
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1103,
-    "LimitParams": [
+    "id": 1103,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -986,40 +986,40 @@
         "value": "20"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1104,
-    "LimitParams": [
+    "id": 1104,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300404"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1105,
-    "LimitParams": [
+    "id": 1105,
+    "limit_params": [
       {
         "key": "Id",
         "value": "139000029"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1106,
-    "LimitParams": [],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "id": 1106,
+    "limit_params": [],
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1201,
-    "LimitParams": [
+    "id": 1201,
+    "limit_params": [
       {
         "key": "type",
         "value": "null"
@@ -1029,12 +1029,12 @@
         "value": "30"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1202,
-    "LimitParams": [
+    "id": 1202,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -1044,67 +1044,67 @@
         "value": "30"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1203,
-    "LimitParams": [
+    "id": 1203,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300601"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1204,
-    "LimitParams": [
+    "id": 1204,
+    "limit_params": [
       {
         "key": "Id",
         "value": "139000030"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1205,
-    "LimitParams": [
+    "id": 1205,
+    "limit_params": [
       {
         "key": "CustomTypes",
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1206,
-    "LimitParams": [
+    "id": 1206,
+    "limit_params": [
       {
         "key": "Id",
         "value": "2"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1207,
-    "LimitParams": [
+    "id": 1207,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "2"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1208,
-    "LimitParams": [
+    "id": 1208,
+    "limit_params": [
       {
         "key": "num",
         "value": "1"
@@ -1118,12 +1118,12 @@
         "value": "1"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1301,
-    "LimitParams": [
+    "id": 1301,
+    "limit_params": [
       {
         "key": "type",
         "value": "null"
@@ -1133,18 +1133,18 @@
         "value": "30"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1302,
-    "LimitParams": [],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "id": 1302,
+    "limit_params": [],
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1303,
-    "LimitParams": [
+    "id": 1303,
+    "limit_params": [
       {
         "key": "quality",
         "value": "1"
@@ -1154,56 +1154,56 @@
         "value": "10"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1304,
-    "LimitParams": [
+    "id": 1304,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300901"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1305,
-    "LimitParams": [
+    "id": 1305,
+    "limit_params": [
       {
         "key": "Id",
         "value": "139000031"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1306,
-    "LimitParams": [
+    "id": 1306,
+    "limit_params": [
       {
         "key": "Id",
         "value": "0"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1307,
-    "LimitParams": [
+    "id": 1307,
+    "limit_params": [
       {
         "key": "CustomTypes",
         "value": "5"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1308,
-    "LimitParams": [
+    "id": 1308,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "1"
@@ -1217,12 +1217,12 @@
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1401,
-    "LimitParams": [
+    "id": 1401,
+    "limit_params": [
       {
         "key": "type",
         "value": "null"
@@ -1232,12 +1232,12 @@
         "value": "50"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1402,
-    "LimitParams": [
+    "id": 1402,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -1247,12 +1247,12 @@
         "value": "50"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1403,
-    "LimitParams": [
+    "id": 1403,
+    "limit_params": [
       {
         "key": "quality",
         "value": "1"
@@ -1262,78 +1262,78 @@
         "value": "10"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1404,
-    "LimitParams": [
+    "id": 1404,
+    "limit_params": [
       {
         "key": "Id",
         "value": "300701"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1405,
-    "LimitParams": [
+    "id": 1405,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "1"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1406,
-    "LimitParams": [
+    "id": 1406,
+    "limit_params": [
       {
         "key": "LevelType",
         "value": "0"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1407,
-    "LimitParams": [
+    "id": 1407,
+    "limit_params": [
       {
         "key": "CustomTypes",
         "value": "2"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1408,
-    "LimitParams": [
+    "id": 1408,
+    "limit_params": [
       {
         "key": "Id",
         "value": "0"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1409,
-    "LimitParams": [
+    "id": 1409,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1410,
-    "LimitParams": [
+    "id": 1410,
+    "limit_params": [
       {
         "key": "num",
         "value": "1"
@@ -1343,12 +1343,12 @@
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1501,
-    "LimitParams": [
+    "id": 1501,
+    "limit_params": [
       {
         "key": "type",
         "value": "null"
@@ -1358,12 +1358,12 @@
         "value": "50"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1502,
-    "LimitParams": [
+    "id": 1502,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -1373,12 +1373,12 @@
         "value": "50"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1503,
-    "LimitParams": [
+    "id": 1503,
+    "limit_params": [
       {
         "key": "quality",
         "value": "1"
@@ -1388,12 +1388,12 @@
         "value": "15"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1504,
-    "LimitParams": [
+    "id": 1504,
+    "limit_params": [
       {
         "key": "num",
         "value": "2"
@@ -1403,12 +1403,12 @@
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1505,
-    "LimitParams": [
+    "id": 1505,
+    "limit_params": [
       {
         "key": "Country",
         "value": "1"
@@ -1418,56 +1418,56 @@
         "value": "2"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1506,
-    "LimitParams": [
+    "id": 1506,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1507,
-    "LimitParams": [
+    "id": 1507,
+    "limit_params": [
       {
         "key": "Id",
         "value": "1101"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1508,
-    "LimitParams": [
+    "id": 1508,
+    "limit_params": [
       {
         "key": "CustomTypes",
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1509,
-    "LimitParams": [
+    "id": 1509,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "1"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1510,
-    "LimitParams": [
+    "id": 1510,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "1"
@@ -1481,12 +1481,12 @@
         "value": "12"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1601,
-    "LimitParams": [
+    "id": 1601,
+    "limit_params": [
       {
         "key": "type",
         "value": "null"
@@ -1496,12 +1496,12 @@
         "value": "60"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1602,
-    "LimitParams": [
+    "id": 1602,
+    "limit_params": [
       {
         "key": "quality",
         "value": "null"
@@ -1511,12 +1511,12 @@
         "value": "60"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1603,
-    "LimitParams": [
+    "id": 1603,
+    "limit_params": [
       {
         "key": "quality",
         "value": "1"
@@ -1526,34 +1526,34 @@
         "value": "20"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1604,
-    "LimitParams": [
+    "id": 1604,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "1"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1605,
-    "LimitParams": [
+    "id": 1605,
+    "limit_params": [
       {
         "key": "Quality",
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1606,
-    "LimitParams": [
+    "id": 1606,
+    "limit_params": [
       {
         "key": "DragonPoolId",
         "value": "1"
@@ -1563,45 +1563,45 @@
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1607,
-    "LimitParams": [
+    "id": 1607,
+    "limit_params": [
       {
         "key": "LevelType",
         "value": "0"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1608,
-    "LimitParams": [
+    "id": 1608,
+    "limit_params": [
       {
         "key": "InstId",
         "value": "8003"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1609,
-    "LimitParams": [
+    "id": 1609,
+    "limit_params": [
       {
         "key": "Id",
         "value": "1102"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1610,
-    "LimitParams": [
+    "id": 1610,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "2"
@@ -1615,56 +1615,56 @@
         "value": "6"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10001,
-    "LimitParams": [
+    "id": 10001,
+    "limit_params": [
       {
         "key": "Id",
         "value": "0"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10002,
-    "LimitParams": [
+    "id": 10002,
+    "limit_params": [
       {
         "key": "quality",
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10003,
-    "LimitParams": [
+    "id": 10003,
+    "limit_params": [
       {
         "key": "quality",
         "value": "5"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10004,
-    "LimitParams": [
+    "id": 10004,
+    "limit_params": [
       {
         "key": "Id",
         "value": "1|2"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10005,
-    "LimitParams": [
+    "id": 10005,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "2"
@@ -1678,12 +1678,12 @@
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10006,
-    "LimitParams": [
+    "id": 10006,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "2"
@@ -1697,12 +1697,12 @@
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10007,
-    "LimitParams": [
+    "id": 10007,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "3"
@@ -1716,12 +1716,12 @@
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10008,
-    "LimitParams": [
+    "id": 10008,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "3"
@@ -1735,12 +1735,12 @@
         "value": "2"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10009,
-    "LimitParams": [
+    "id": 10009,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "3"
@@ -1754,12 +1754,12 @@
         "value": "4"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10010,
-    "LimitParams": [
+    "id": 10010,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "1"
@@ -1773,12 +1773,12 @@
         "value": "12"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10011,
-    "LimitParams": [
+    "id": 10011,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "2"
@@ -1792,12 +1792,12 @@
         "value": "12"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10012,
-    "LimitParams": [
+    "id": 10012,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "2"
@@ -1811,12 +1811,12 @@
         "value": "12"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10013,
-    "LimitParams": [
+    "id": 10013,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "3"
@@ -1830,12 +1830,12 @@
         "value": "12"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10014,
-    "LimitParams": [
+    "id": 10014,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "3"
@@ -1849,12 +1849,12 @@
         "value": "6"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10015,
-    "LimitParams": [
+    "id": 10015,
+    "limit_params": [
       {
         "key": "Difficulty",
         "value": "3"
@@ -1868,45 +1868,45 @@
         "value": "12"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10016,
-    "LimitParams": [
+    "id": 10016,
+    "limit_params": [
       {
         "key": "num",
         "value": "50"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10017,
-    "LimitParams": [
+    "id": 10017,
+    "limit_params": [
       {
         "key": "num",
         "value": "100"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 10018,
-    "LimitParams": [
+    "id": 10018,
+    "limit_params": [
       {
         "key": "num",
         "value": "150"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1107,
-    "LimitParams": [
+    "id": 1107,
+    "limit_params": [
       {
         "key": "num",
         "value": "3"
@@ -1920,23 +1920,23 @@
         "value": "0"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1209,
-    "LimitParams": [
+    "id": 1209,
+    "limit_params": [
       {
         "key": "LevelType",
         "value": "6"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1511,
-    "LimitParams": [
+    "id": 1511,
+    "limit_params": [
       {
         "key": "DragonPoolId",
         "value": "1"
@@ -1946,12 +1946,12 @@
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   },
   {
-    "Id": 1611,
-    "LimitParams": [
+    "id": 1611,
+    "limit_params": [
       {
         "key": "num",
         "value": "2"
@@ -1961,7 +1961,7 @@
         "value": "3"
       }
     ],
-    "ProgressNeed": 1,
-    "SaveRecord": true
+    "progress_need": 1,
+    "save_record": true
   }
 ]

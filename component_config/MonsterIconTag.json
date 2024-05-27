@@ -1,10 +1,10 @@
 [
   {
-    "Id": "MonsterHeadIcon",
-    "ConfigParam": "Icon"
+    "id": "MonsterHeadIcon",
+    "config_param": "Icon"
   },
   {
-    "Id": "MonsterFullImage",
-    "ConfigParam": "Tachine"
+    "id": "MonsterFullImage",
+    "config_param": "Tachine"
   }
 ]

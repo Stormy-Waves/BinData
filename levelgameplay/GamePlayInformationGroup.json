@@ -1,20 +1,20 @@
 [
   {
-    "Id": 1,
-    "InfoGroup": [
+    "id": 1,
+    "info_group": [
       1,
       2,
       3,
       4
     ],
-    "IconString": ""
+    "icon_string": ""
   },
   {
-    "Id": 2,
-    "InfoGroup": [
+    "id": 2,
+    "info_group": [
       2,
       1
     ],
-    "IconString": ""
+    "icon_string": ""
   }
 ]

@@ -1,306 +1,306 @@
 [
   {
-    "ViewName": "DefaultView",
-    "Area": "",
-    "Priority": 0,
-    "OnlyShowInMain": false,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "DefaultView",
+    "area": "",
+    "priority": 0,
+    "only_show_in_main": false,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "AreaView",
-    "Area": "Center",
-    "Priority": 4,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "AreaView",
+    "area": "Center",
+    "priority": 4,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "NewItemTipsView",
-    "Area": "NewItemTips",
-    "Priority": 0,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "NewItemTipsView",
+    "area": "NewItemTips",
+    "priority": 0,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "ItemHintView",
-    "Area": "ItemHint",
-    "Priority": 0,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "ItemHintView",
+    "area": "ItemHint",
+    "priority": 0,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "GenericPromptView",
-    "Area": "GenericPrompt",
-    "Priority": 0,
-    "OnlyShowInMain": false,
-    "RootItemIndex": 2,
-    "IsWaitNormal": true
+    "view_name": "GenericPromptView",
+    "area": "GenericPrompt",
+    "priority": 0,
+    "only_show_in_main": false,
+    "root_item_index": 2,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "EventConditionFloatTips",
-    "Area": "Center",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "EventConditionFloatTips",
+    "area": "Center",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "ChallengeAchieveFloatTips",
-    "Area": "Center",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "ChallengeAchieveFloatTips",
+    "area": "Center",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "ChallengeSuccessFloatTips",
-    "Area": "Center",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "ChallengeSuccessFloatTips",
+    "area": "Center",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "ChallengeFailedFloatTips",
-    "Area": "Center",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "ChallengeFailedFloatTips",
+    "area": "Center",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "AdditionalTasksFloatTips",
-    "Area": "Center",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "AdditionalTasksFloatTips",
+    "area": "Center",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "DelegateCompletionFloatTips",
-    "Area": "Center",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "DelegateCompletionFloatTips",
+    "area": "Center",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "LevelUpView",
-    "Area": "Top",
-    "Priority": 2,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "LevelUpView",
+    "area": "Top",
+    "priority": 2,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "WorldLevelUpView",
-    "Area": "Top",
-    "Priority": 3,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "WorldLevelUpView",
+    "area": "Top",
+    "priority": 3,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "ItemRewardView",
-    "Area": "Center",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "ItemRewardView",
+    "area": "Center",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "DungeonClearanceFloatTips",
-    "Area": "Bottom",
-    "Priority": 0,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "DungeonClearanceFloatTips",
+    "area": "Bottom",
+    "priority": 0,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "DungeonAutoExitFloatTips",
-    "Area": "BottomSecond",
-    "Priority": 0,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "DungeonAutoExitFloatTips",
+    "area": "BottomSecond",
+    "priority": 0,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "CountDownFloatTips",
-    "Area": "CountDown",
-    "Priority": 0,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "CountDownFloatTips",
+    "area": "CountDown",
+    "priority": 0,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "GameplayEnterView",
-    "Area": "Center",
-    "Priority": 10,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "GameplayEnterView",
+    "area": "Center",
+    "priority": 10,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "GameplayFirstPassView",
-    "Area": "Center",
-    "Priority": 20,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "GameplayFirstPassView",
+    "area": "Center",
+    "priority": 20,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "GuideTutorialTipsView",
-    "Area": "Bottom",
-    "Priority": 99,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "GuideTutorialTipsView",
+    "area": "Bottom",
+    "priority": 99,
+    "only_show_in_main": true,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "CalabashUnlockItemView",
-    "Area": "Bottom",
-    "Priority": 98,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "CalabashUnlockItemView",
+    "area": "Bottom",
+    "priority": 98,
+    "only_show_in_main": true,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "OnlineApplyView",
-    "Area": "OnlineApplyView",
-    "Priority": 0,
-    "OnlyShowInMain": false,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "OnlineApplyView",
+    "area": "OnlineApplyView",
+    "priority": 0,
+    "only_show_in_main": false,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "AdviceInfoView",
-    "Area": "AdviceInfoView",
-    "Priority": 0,
-    "OnlyShowInMain": false,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "AdviceInfoView",
+    "area": "AdviceInfoView",
+    "priority": 0,
+    "only_show_in_main": false,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "AchievementFinishView",
-    "Area": "Center",
-    "Priority": 0,
-    "OnlyShowInMain": false,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "AchievementFinishView",
+    "area": "Center",
+    "priority": 0,
+    "only_show_in_main": false,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "ComboTeachingView",
-    "Area": "Center",
-    "Priority": 1,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 2,
-    "IsWaitNormal": true
+    "view_name": "ComboTeachingView",
+    "area": "Center",
+    "priority": 1,
+    "only_show_in_main": true,
+    "root_item_index": 2,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "OnlineChallengeApplyView",
-    "Area": "OnlineApplyView",
-    "Priority": 0,
-    "OnlyShowInMain": false,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "OnlineChallengeApplyView",
+    "area": "OnlineApplyView",
+    "priority": 0,
+    "only_show_in_main": false,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "DailyTaskEndTips",
-    "Area": "Center",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "DailyTaskEndTips",
+    "area": "Center",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "PrepareCountdownFloatTips",
-    "Area": "Top",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "PrepareCountdownFloatTips",
+    "area": "Top",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "CommunicateView",
-    "Area": "Bottom",
-    "Priority": 99,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "CommunicateView",
+    "area": "Bottom",
+    "priority": 99,
+    "only_show_in_main": true,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "QuestFailRangeTipsView",
-    "Area": "CountDown",
-    "Priority": 99,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "QuestFailRangeTipsView",
+    "area": "CountDown",
+    "priority": 99,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "CalabashUpgradeSuccessView",
-    "Area": "Top",
-    "Priority": 1,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "CalabashUpgradeSuccessView",
+    "area": "Top",
+    "priority": 1,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "PingView",
-    "Area": "Ping",
-    "Priority": 0,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "PingView",
+    "area": "Ping",
+    "priority": 0,
+    "only_show_in_main": true,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "FrozenQteView",
-    "Area": "Qte",
-    "Priority": 0,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 2,
-    "IsWaitNormal": true
+    "view_name": "FrozenQteView",
+    "area": "Qte",
+    "priority": 0,
+    "only_show_in_main": true,
+    "root_item_index": 2,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "BattleFloatTipsView",
-    "Area": "Center",
-    "Priority": 30,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "BattleFloatTipsView",
+    "area": "Center",
+    "priority": 30,
+    "only_show_in_main": true,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "NewMissionTips",
-    "Area": "Center",
-    "Priority": 5,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 0,
-    "IsWaitNormal": true
+    "view_name": "NewMissionTips",
+    "area": "Center",
+    "priority": 5,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "AchievementCompleteTipsView",
-    "Area": "Bottom",
-    "Priority": 98,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "AchievementCompleteTipsView",
+    "area": "Bottom",
+    "priority": 98,
+    "only_show_in_main": true,
+    "root_item_index": 1,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "InteractQteView",
-    "Area": "Qte",
-    "Priority": 0,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 2,
-    "IsWaitNormal": true
+    "view_name": "InteractQteView",
+    "area": "Qte",
+    "priority": 0,
+    "only_show_in_main": true,
+    "root_item_index": 2,
+    "is_wait_normal": true
   },
   {
-    "ViewName": "VisionNewQualityView",
-    "Area": "Bottom",
-    "Priority": 98,
-    "OnlyShowInMain": true,
-    "RootItemIndex": 1,
-    "IsWaitNormal": true
+    "view_name": "VisionNewQualityView",
+    "area": "Bottom",
+    "priority": 98,
+    "only_show_in_main": true,
+    "root_item_index": 1,
+    "is_wait_normal": true
   }
 ]

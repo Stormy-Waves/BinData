@@ -1,429 +1,429 @@
 [
   {
-    "Id": "anke",
-    "OccupationType": "Npc",
-    "NameStringKey": 1,
-    "Name": 2,
-    "OccupationData": ""
+    "id": "anke",
+    "occupation_type": "Npc",
+    "name_string_key": 1,
+    "name": 2,
+    "occupation_data": ""
   },
   {
-    "Id": "yangyang",
-    "OccupationType": "Npc",
-    "NameStringKey": 3,
-    "Name": 4,
-    "OccupationData": ""
+    "id": "yangyang",
+    "occupation_type": "Npc",
+    "name_string_key": 3,
+    "name": 4,
+    "occupation_data": ""
   },
   {
-    "Id": "chenpi",
-    "OccupationType": "Npc",
-    "NameStringKey": 5,
-    "Name": 6,
-    "OccupationData": ""
+    "id": "chenpi",
+    "occupation_type": "Npc",
+    "name_string_key": 5,
+    "name": 6,
+    "occupation_data": ""
   },
   {
-    "Id": "ganxue",
-    "OccupationType": "Npc",
-    "NameStringKey": 7,
-    "Name": 8,
-    "OccupationData": ""
+    "id": "ganxue",
+    "occupation_type": "Npc",
+    "name_string_key": 7,
+    "name": 8,
+    "occupation_data": ""
   },
   {
-    "Id": "mahe",
-    "OccupationType": "Npc",
-    "NameStringKey": 9,
-    "Name": 10,
-    "OccupationData": ""
+    "id": "mahe",
+    "occupation_type": "Npc",
+    "name_string_key": 9,
+    "name": 10,
+    "occupation_data": ""
   },
   {
-    "Id": "yuzan",
-    "OccupationType": "Npc",
-    "NameStringKey": 11,
-    "Name": 12,
-    "OccupationData": ""
+    "id": "yuzan",
+    "occupation_type": "Npc",
+    "name_string_key": 11,
+    "name": 12,
+    "occupation_data": ""
   },
   {
-    "Id": "zhuyi",
-    "OccupationType": "Npc",
-    "NameStringKey": 13,
-    "Name": 14,
-    "OccupationData": ""
+    "id": "zhuyi",
+    "occupation_type": "Npc",
+    "name_string_key": 13,
+    "name": 14,
+    "occupation_data": ""
   },
   {
-    "Id": "yixin",
-    "OccupationType": "Npc",
-    "NameStringKey": 15,
-    "Name": 16,
-    "OccupationData": ""
+    "id": "yixin",
+    "occupation_type": "Npc",
+    "name_string_key": 15,
+    "name": 16,
+    "occupation_data": ""
   },
   {
-    "Id": "xuxu",
-    "OccupationType": "Npc",
-    "NameStringKey": 17,
-    "Name": 18,
-    "OccupationData": ""
+    "id": "xuxu",
+    "occupation_type": "Npc",
+    "name_string_key": 17,
+    "name": 18,
+    "occupation_data": ""
   },
   {
-    "Id": "qingru",
-    "OccupationType": "Npc",
-    "NameStringKey": 19,
-    "Name": 20,
-    "OccupationData": ""
+    "id": "qingru",
+    "occupation_type": "Npc",
+    "name_string_key": 19,
+    "name": 20,
+    "occupation_data": ""
   },
   {
-    "Id": "pinwen",
-    "OccupationType": "Npc",
-    "NameStringKey": 21,
-    "Name": 22,
-    "OccupationData": ""
+    "id": "pinwen",
+    "occupation_type": "Npc",
+    "name_string_key": 21,
+    "name": 22,
+    "occupation_data": ""
   },
   {
-    "Id": "langsheng",
-    "OccupationType": "Npc",
-    "NameStringKey": 23,
-    "Name": 24,
-    "OccupationData": ""
+    "id": "langsheng",
+    "occupation_type": "Npc",
+    "name_string_key": 23,
+    "name": 24,
+    "occupation_data": ""
   },
   {
-    "Id": "ashui",
-    "OccupationType": "Npc",
-    "NameStringKey": 25,
-    "Name": 26,
-    "OccupationData": ""
+    "id": "ashui",
+    "occupation_type": "Npc",
+    "name_string_key": 25,
+    "name": 26,
+    "occupation_data": ""
   },
   {
-    "Id": "lizhu",
-    "OccupationType": "Npc",
-    "NameStringKey": 27,
-    "Name": 28,
-    "OccupationData": ""
+    "id": "lizhu",
+    "occupation_type": "Npc",
+    "name_string_key": 27,
+    "name": 28,
+    "occupation_data": ""
   },
   {
-    "Id": "feifei",
-    "OccupationType": "Npc",
-    "NameStringKey": 29,
-    "Name": 30,
-    "OccupationData": ""
+    "id": "feifei",
+    "occupation_type": "Npc",
+    "name_string_key": 29,
+    "name": 30,
+    "occupation_data": ""
   },
   {
-    "Id": "jiyan",
-    "OccupationType": "Npc",
-    "NameStringKey": 31,
-    "Name": 32,
-    "OccupationData": ""
+    "id": "jiyan",
+    "occupation_type": "Npc",
+    "name_string_key": 31,
+    "name": 32,
+    "occupation_data": ""
   },
   {
-    "Id": "chixia",
-    "OccupationType": "Npc",
-    "NameStringKey": 33,
-    "Name": 34,
-    "OccupationData": ""
+    "id": "chixia",
+    "occupation_type": "Npc",
+    "name_string_key": 33,
+    "name": 34,
+    "occupation_data": ""
   },
   {
-    "Id": "bailian",
-    "OccupationType": "Npc",
-    "NameStringKey": 35,
-    "Name": 36,
-    "OccupationData": ""
+    "id": "bailian",
+    "occupation_type": "Npc",
+    "name_string_key": 35,
+    "name": 36,
+    "occupation_data": ""
   },
   {
-    "Id": "taoqi",
-    "OccupationType": "Npc",
-    "NameStringKey": 37,
-    "Name": 38,
-    "OccupationData": ""
+    "id": "taoqi",
+    "occupation_type": "Npc",
+    "name_string_key": 37,
+    "name": 38,
+    "occupation_data": ""
   },
   {
-    "Id": "lingyang",
-    "OccupationType": "Npc",
-    "NameStringKey": 39,
-    "Name": 40,
-    "OccupationData": ""
+    "id": "lingyang",
+    "occupation_type": "Npc",
+    "name_string_key": 39,
+    "name": 40,
+    "occupation_data": ""
   },
   {
-    "Id": "danjin",
-    "OccupationType": "Npc",
-    "NameStringKey": 41,
-    "Name": 42,
-    "OccupationData": ""
+    "id": "danjin",
+    "occupation_type": "Npc",
+    "name_string_key": 41,
+    "name": 42,
+    "occupation_data": ""
   },
   {
-    "Id": "yinlin",
-    "OccupationType": "Npc",
-    "NameStringKey": 43,
-    "Name": 44,
-    "OccupationData": ""
+    "id": "yinlin",
+    "occupation_type": "Npc",
+    "name_string_key": 43,
+    "name": 44,
+    "occupation_data": ""
   },
   {
-    "Id": "kakaluo",
-    "OccupationType": "Npc",
-    "NameStringKey": 45,
-    "Name": 46,
-    "OccupationData": ""
+    "id": "kakaluo",
+    "occupation_type": "Npc",
+    "name_string_key": 45,
+    "name": 46,
+    "occupation_data": ""
   },
   {
-    "Id": "sanhua",
-    "OccupationType": "Npc",
-    "NameStringKey": 47,
-    "Name": 48,
-    "OccupationData": ""
+    "id": "sanhua",
+    "occupation_type": "Npc",
+    "name_string_key": 47,
+    "name": 48,
+    "occupation_data": ""
   },
   {
-    "Id": "jinxi",
-    "OccupationType": "Npc",
-    "NameStringKey": 49,
-    "Name": 50,
-    "OccupationData": ""
+    "id": "jinxi",
+    "occupation_type": "Npc",
+    "name_string_key": 49,
+    "name": 50,
+    "occupation_data": ""
   },
   {
-    "Id": "qiushui",
-    "OccupationType": "Npc",
-    "NameStringKey": 51,
-    "Name": 52,
-    "OccupationData": ""
+    "id": "qiushui",
+    "occupation_type": "Npc",
+    "name_string_key": 51,
+    "name": 52,
+    "occupation_data": ""
   },
   {
-    "Id": "motefei",
-    "OccupationType": "Npc",
-    "NameStringKey": 53,
-    "Name": 54,
-    "OccupationData": ""
+    "id": "motefei",
+    "occupation_type": "Npc",
+    "name_string_key": 53,
+    "name": 54,
+    "occupation_data": ""
   },
   {
-    "Id": "yuanwu",
-    "OccupationType": "Npc",
-    "NameStringKey": 55,
-    "Name": 56,
-    "OccupationData": ""
+    "id": "yuanwu",
+    "occupation_type": "Npc",
+    "name_string_key": 55,
+    "name": 56,
+    "occupation_data": ""
   },
   {
-    "Id": "jueyuan",
-    "OccupationType": "Npc",
-    "NameStringKey": 57,
-    "Name": 58,
-    "OccupationData": ""
+    "id": "jueyuan",
+    "occupation_type": "Npc",
+    "name_string_key": 57,
+    "name": 58,
+    "occupation_data": ""
   },
   {
-    "Id": "shuncai",
-    "OccupationType": "Npc",
-    "NameStringKey": 59,
-    "Name": 60,
-    "OccupationData": ""
+    "id": "shuncai",
+    "occupation_type": "Npc",
+    "name_string_key": 59,
+    "name": 60,
+    "occupation_data": ""
   },
   {
-    "Id": "guhong",
-    "OccupationType": "Npc",
-    "NameStringKey": 61,
-    "Name": 62,
-    "OccupationData": ""
+    "id": "guhong",
+    "occupation_type": "Npc",
+    "name_string_key": 61,
+    "name": 62,
+    "occupation_data": ""
   },
   {
-    "Id": "juepopo",
-    "OccupationType": "Npc",
-    "NameStringKey": 63,
-    "Name": 64,
-    "OccupationData": ""
+    "id": "juepopo",
+    "occupation_type": "Npc",
+    "name_string_key": 63,
+    "name": 64,
+    "occupation_data": ""
   },
   {
-    "Id": "sixi",
-    "OccupationType": "Npc",
-    "NameStringKey": 65,
-    "Name": 66,
-    "OccupationData": ""
+    "id": "sixi",
+    "occupation_type": "Npc",
+    "name_string_key": 65,
+    "name": 66,
+    "occupation_data": ""
   },
   {
-    "Id": "xiaojiu",
-    "OccupationType": "Npc",
-    "NameStringKey": 67,
-    "Name": 68,
-    "OccupationData": ""
+    "id": "xiaojiu",
+    "occupation_type": "Npc",
+    "name_string_key": 67,
+    "name": 68,
+    "occupation_data": ""
   },
   {
-    "Id": "guanghui",
-    "OccupationType": "Npc",
-    "NameStringKey": 69,
-    "Name": 70,
-    "OccupationData": ""
+    "id": "guanghui",
+    "occupation_type": "Npc",
+    "name_string_key": 69,
+    "name": 70,
+    "occupation_data": ""
   },
   {
-    "Id": "yunbo",
-    "OccupationType": "Npc",
-    "NameStringKey": 71,
-    "Name": 72,
-    "OccupationData": ""
+    "id": "yunbo",
+    "occupation_type": "Npc",
+    "name_string_key": 71,
+    "name": 72,
+    "occupation_data": ""
   },
   {
-    "Id": "yanyan",
-    "OccupationType": "Npc",
-    "NameStringKey": 73,
-    "Name": 74,
-    "OccupationData": ""
+    "id": "yanyan",
+    "occupation_type": "Npc",
+    "name_string_key": 73,
+    "name": 74,
+    "occupation_data": ""
   },
   {
-    "Id": "wyq_test",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 77,
-    "Name": 78,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[30000015],\"AssociatedEntities\":[30000219,30000217]}"
+    "id": "wyq_test",
+    "occupation_type": "SilentArea",
+    "name_string_key": 77,
+    "name": 78,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[30000015],\"AssociatedEntities\":[30000219,30000217]}"
   },
   {
-    "Id": "wyq_npc_test",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 79,
-    "Name": 80,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[30000015],\"AssociatedEntities\":[30000219,30000217,30000223]}"
+    "id": "wyq_npc_test",
+    "occupation_type": "SilentArea",
+    "name_string_key": 79,
+    "name": 80,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[30000015],\"AssociatedEntities\":[30000219,30000217,30000223]}"
   },
   {
-    "Id": "npc_test",
-    "OccupationType": "Npc",
-    "NameStringKey": 81,
-    "Name": 82,
-    "OccupationData": ""
+    "id": "npc_test",
+    "occupation_type": "Npc",
+    "name_string_key": 81,
+    "name": 82,
+    "occupation_data": ""
   },
   {
-    "Id": "npc_test2",
-    "OccupationType": "Npc",
-    "NameStringKey": 83,
-    "Name": 84,
-    "OccupationData": ""
+    "id": "npc_test2",
+    "occupation_type": "Npc",
+    "name_string_key": 83,
+    "name": 84,
+    "occupation_data": ""
   },
   {
-    "Id": "主线无冠者无音区占用",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 85,
-    "Name": 86,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000000],\"AssociatedEntities\":[110000595,110001071]}"
+    "id": "主线无冠者无音区占用",
+    "occupation_type": "SilentArea",
+    "name_string_key": 85,
+    "name": 86,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000000],\"AssociatedEntities\":[110000595,110001071]}"
   },
   {
-    "Id": "screenOccupation",
-    "OccupationType": "ScreenResource",
-    "NameStringKey": 87,
-    "Name": 88,
-    "OccupationData": ""
+    "id": "screenOccupation",
+    "occupation_type": "ScreenResource",
+    "name_string_key": 87,
+    "name": 88,
+    "occupation_data": ""
   },
   {
-    "Id": "timeOccupation",
-    "OccupationType": "Time",
-    "NameStringKey": 89,
-    "Name": 90,
-    "OccupationData": ""
+    "id": "timeOccupation",
+    "occupation_type": "Time",
+    "name_string_key": 89,
+    "name": 90,
+    "occupation_data": ""
   },
   {
-    "Id": "乌龟无音区占用",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 91,
-    "Name": 92,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000001],\"AssociatedEntities\":[]}"
+    "id": "乌龟无音区占用",
+    "occupation_type": "SilentArea",
+    "name_string_key": 91,
+    "name": 92,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000001],\"AssociatedEntities\":[]}"
   },
   {
-    "Id": "燎照之骑无音区占用",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 93,
-    "Name": 94,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000050],\"AssociatedEntities\":[]}"
+    "id": "燎照之骑无音区占用",
+    "occupation_type": "SilentArea",
+    "name_string_key": 93,
+    "name": 94,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000050],\"AssociatedEntities\":[]}"
   },
   {
-    "Id": "沃艾珥领主占用",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 95,
-    "Name": 96,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[118000128],\"AssociatedEntities\":[]}"
+    "id": "沃艾珥领主占用",
+    "occupation_type": "SilentArea",
+    "name_string_key": 95,
+    "name": 96,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[118000128],\"AssociatedEntities\":[]}"
   },
   {
-    "Id": "辉莹军势占用",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 97,
-    "Name": 98,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000046],\"AssociatedEntities\":[146000109,129000008]}"
+    "id": "辉莹军势占用",
+    "occupation_type": "SilentArea",
+    "name_string_key": 97,
+    "name": 98,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000046],\"AssociatedEntities\":[146000109,129000008]}"
   },
   {
-    "Id": "yihu",
-    "OccupationType": "Npc",
-    "NameStringKey": 99,
-    "Name": 100,
-    "OccupationData": ""
+    "id": "yihu",
+    "occupation_type": "Npc",
+    "name_string_key": 99,
+    "name": 100,
+    "occupation_data": ""
   },
   {
-    "Id": "panhua",
-    "OccupationType": "Npc",
-    "NameStringKey": 101,
-    "Name": 102,
-    "OccupationData": ""
+    "id": "panhua",
+    "occupation_type": "Npc",
+    "name_string_key": 101,
+    "name": 102,
+    "occupation_data": ""
   },
   {
-    "Id": "xieyang",
-    "OccupationType": "Npc",
-    "NameStringKey": 103,
-    "Name": 104,
-    "OccupationData": ""
+    "id": "xieyang",
+    "occupation_type": "Npc",
+    "name_string_key": 103,
+    "name": 104,
+    "occupation_data": ""
   },
   {
-    "Id": "mingming",
-    "OccupationType": "Npc",
-    "NameStringKey": 105,
-    "Name": 106,
-    "OccupationData": ""
+    "id": "mingming",
+    "occupation_type": "Npc",
+    "name_string_key": 105,
+    "name": 106,
+    "occupation_data": ""
   },
   {
-    "Id": "doudou",
-    "OccupationType": "Npc",
-    "NameStringKey": 107,
-    "Name": 108,
-    "OccupationData": ""
+    "id": "doudou",
+    "occupation_type": "Npc",
+    "name_string_key": 107,
+    "name": 108,
+    "occupation_data": ""
   },
   {
-    "Id": "鳞人无音区占用",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 109,
-    "Name": 110,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000002],\"AssociatedEntities\":[110001073,129000002,110000092]}"
+    "id": "鳞人无音区占用",
+    "occupation_type": "SilentArea",
+    "name_string_key": 109,
+    "name": 110,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000002],\"AssociatedEntities\":[110001073,129000002,110000092]}"
   },
   {
-    "Id": "fuyan",
-    "OccupationType": "Npc",
-    "NameStringKey": 111,
-    "Name": 112,
-    "OccupationData": ""
+    "id": "fuyan",
+    "occupation_type": "Npc",
+    "name_string_key": 111,
+    "name": 112,
+    "occupation_data": ""
   },
   {
-    "Id": "wyq_test2",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 113,
-    "Name": 114,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[34000038],\"AssociatedEntities\":[34000885,34000883,34000886]}"
+    "id": "wyq_test2",
+    "occupation_type": "SilentArea",
+    "name_string_key": 113,
+    "name": 114,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[34000038],\"AssociatedEntities\":[34000885,34000883,34000886]}"
   },
   {
-    "Id": "linsu",
-    "OccupationType": "Npc",
-    "NameStringKey": 115,
-    "Name": 116,
-    "OccupationData": ""
+    "id": "linsu",
+    "occupation_type": "Npc",
+    "name_string_key": 115,
+    "name": 116,
+    "occupation_data": ""
   },
   {
-    "Id": "祈池村无音区",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 117,
-    "Name": 118,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[200000023],\"AssociatedEntities\":[200000001,200000187]}"
+    "id": "祈池村无音区",
+    "occupation_type": "SilentArea",
+    "name_string_key": 117,
+    "name": 118,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[200000023],\"AssociatedEntities\":[200000001,200000187]}"
   },
   {
-    "Id": "地下鳞人刷新",
-    "OccupationType": "SilentArea",
-    "NameStringKey": 119,
-    "Name": 120,
-    "OccupationData": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[133000002],\"AssociatedEntities\":[133000087,133000089,133000090]}"
+    "id": "地下鳞人刷新",
+    "occupation_type": "SilentArea",
+    "name_string_key": 119,
+    "name": 120,
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[133000002],\"AssociatedEntities\":[133000087,133000089,133000090]}"
   },
   {
-    "Id": "shilang",
-    "OccupationType": "Npc",
-    "NameStringKey": 75,
-    "Name": 76,
-    "OccupationData": ""
+    "id": "shilang",
+    "occupation_type": "Npc",
+    "name_string_key": 75,
+    "name": 76,
+    "occupation_data": ""
   },
   {
-    "Id": "漂泊者",
-    "OccupationType": "Npc",
-    "NameStringKey": 121,
-    "Name": 122,
-    "OccupationData": ""
+    "id": "漂泊者",
+    "occupation_type": "Npc",
+    "name_string_key": 121,
+    "name": 122,
+    "occupation_data": ""
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
-    "MaleText": "大哥哥",
-    "FemaleText": "大姐姐"
+    "male_text": "大哥哥",
+    "female_text": "大姐姐"
   },
   {
-    "MaleText": "他",
-    "FemaleText": "她"
+    "male_text": "他",
+    "female_text": "她"
   },
   {
-    "MaleText": "哥哥",
-    "FemaleText": "姐姐"
+    "male_text": "哥哥",
+    "female_text": "姐姐"
   },
   {
-    "MaleText": "哥们儿",
-    "FemaleText": "好姐姐"
+    "male_text": "哥们儿",
+    "female_text": "好姐姐"
   },
   {
-    "MaleText": "小弟弟",
-    "FemaleText": "小妹妹"
+    "male_text": "小弟弟",
+    "female_text": "小妹妹"
   }
 ]

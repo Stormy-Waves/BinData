@@ -1,29 +1,29 @@
 [
   {
-    "Id": 1,
-    "BaseIncrease": 150.0,
-    "DecreaseByDist": 0.25,
-    "ForwardAngle": 60.0,
-    "BackwardRate": 0.5,
-    "BaseDecrease": 10.0,
-    "AlertnessType": 1
+    "id": 1,
+    "base_increase": 150.0,
+    "decrease_by_dist": 0.25,
+    "forward_angle": 60.0,
+    "backward_rate": 0.5,
+    "base_decrease": 10.0,
+    "alertness_type": 1
   },
   {
-    "Id": 2,
-    "BaseIncrease": 150.0,
-    "DecreaseByDist": 0.25,
-    "ForwardAngle": 60.0,
-    "BackwardRate": 0.5,
-    "BaseDecrease": 10.0,
-    "AlertnessType": 2
+    "id": 2,
+    "base_increase": 150.0,
+    "decrease_by_dist": 0.25,
+    "forward_angle": 60.0,
+    "backward_rate": 0.5,
+    "base_decrease": 10.0,
+    "alertness_type": 2
   },
   {
-    "Id": 3,
-    "BaseIncrease": 150.0,
-    "DecreaseByDist": 0.1,
-    "ForwardAngle": 60.0,
-    "BackwardRate": 0.5,
-    "BaseDecrease": 10.0,
-    "AlertnessType": 2
+    "id": 3,
+    "base_increase": 150.0,
+    "decrease_by_dist": 0.1,
+    "forward_angle": 60.0,
+    "backward_rate": 0.5,
+    "base_decrease": 10.0,
+    "alertness_type": 2
   }
 ]

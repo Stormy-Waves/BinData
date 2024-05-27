@@ -1,9 +1,9 @@
 [
   {
-    "Id": 1,
-    "FilterType": 1,
-    "Title": "FilterBaseConfig_1_FilterName",
-    "IdList": [
+    "id": 1,
+    "filter_type": 1,
+    "title": "FilterBaseConfig_1_FilterName",
+    "id_list": [
       1,
       2,
       3,
@@ -11,26 +11,26 @@
       5,
       6
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 2,
-    "FilterType": 2,
-    "Title": "FilterBaseConfig_3_FilterName",
-    "IdList": [
+    "id": 2,
+    "filter_type": 2,
+    "title": "FilterBaseConfig_3_FilterName",
+    "id_list": [
       1,
       2,
       3,
       4,
       5
     ],
-    "NeedChangeColor": true
+    "need_change_color": true
   },
   {
-    "Id": 3,
-    "FilterType": 1,
-    "Title": "FilterBaseConfig_4_FilterName",
-    "IdList": [
+    "id": 3,
+    "filter_type": 1,
+    "title": "FilterBaseConfig_4_FilterName",
+    "id_list": [
       0,
       1,
       2,
@@ -38,13 +38,13 @@
       5,
       6
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 4,
-    "FilterType": 3,
-    "Title": "FilterBaseConfig_5_FilterName",
-    "IdList": [
+    "id": 4,
+    "filter_type": 3,
+    "title": "FilterBaseConfig_5_FilterName",
+    "id_list": [
       30000001,
       30000002,
       30000003,
@@ -63,13 +63,13 @@
       30000016,
       30000017
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 5,
-    "FilterType": 1,
-    "Title": "FilterBaseConfig_6_FilterName",
-    "IdList": [
+    "id": 5,
+    "filter_type": 1,
+    "title": "FilterBaseConfig_6_FilterName",
+    "id_list": [
       1,
       2,
       3,
@@ -77,13 +77,13 @@
       5,
       6
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 6,
-    "FilterType": 1,
-    "Title": "FilterBaseConfig_7_FilterName",
-    "IdList": [
+    "id": 6,
+    "filter_type": 1,
+    "title": "FilterBaseConfig_7_FilterName",
+    "id_list": [
       0,
       1,
       2,
@@ -92,13 +92,13 @@
       5,
       6
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 7,
-    "FilterType": 3,
-    "Title": "FilterBaseConfig_8_FilterName",
-    "IdList": [
+    "id": 7,
+    "filter_type": 3,
+    "title": "FilterBaseConfig_8_FilterName",
+    "id_list": [
       390070051,
       390070052,
       390070053,
@@ -147,13 +147,13 @@
       6000046,
       6000047
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 8,
-    "FilterType": 4,
-    "Title": "FilterBaseConfig_9_FilterName",
-    "IdList": [
+    "id": 8,
+    "filter_type": 4,
+    "title": "FilterBaseConfig_9_FilterName",
+    "id_list": [
       390070051,
       390070052,
       390070053,
@@ -202,149 +202,149 @@
       6000046,
       6000047
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 9,
-    "FilterType": 5,
-    "Title": "FilterBaseConfig_10_FilterName",
-    "IdList": [
+    "id": 9,
+    "filter_type": 5,
+    "title": "FilterBaseConfig_10_FilterName",
+    "id_list": [
       0,
       1
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 10,
-    "FilterType": 6,
-    "Title": "FilterBaseConfig_11_FilterName",
-    "IdList": [
+    "id": 10,
+    "filter_type": 6,
+    "title": "FilterBaseConfig_11_FilterName",
+    "id_list": [
       0,
       1
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 11,
-    "FilterType": 7,
-    "Title": "FilterBaseConfig_12_FilterName",
-    "IdList": [
+    "id": 11,
+    "filter_type": 7,
+    "title": "FilterBaseConfig_12_FilterName",
+    "id_list": [
       0,
       1,
       2,
       3
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 12,
-    "FilterType": 8,
-    "Title": "FilterBaseConfig_13_FilterName",
-    "IdList": [
+    "id": 12,
+    "filter_type": 8,
+    "title": "FilterBaseConfig_13_FilterName",
+    "id_list": [
       10,
       11,
       12,
       13,
       17
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 13,
-    "FilterType": 9,
-    "Title": "FilterBaseConfig_14_FilterName",
-    "IdList": [
+    "id": 13,
+    "filter_type": 9,
+    "title": "FilterBaseConfig_14_FilterName",
+    "id_list": [
       4,
       5
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 14,
-    "FilterType": 10,
-    "Title": "FilterBaseConfig_15_FilterName",
-    "IdList": [
+    "id": 14,
+    "filter_type": 10,
+    "title": "FilterBaseConfig_15_FilterName",
+    "id_list": [
       60000
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 15,
-    "FilterType": 11,
-    "Title": "FilterBaseConfig_16_FilterName",
-    "IdList": [
+    "id": 15,
+    "filter_type": 11,
+    "title": "FilterBaseConfig_16_FilterName",
+    "id_list": [
       1,
       2,
       3
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 16,
-    "FilterType": 12,
-    "Title": "FilterBaseConfig_17_FilterName",
-    "IdList": [
+    "id": 16,
+    "filter_type": 12,
+    "title": "FilterBaseConfig_17_FilterName",
+    "id_list": [
       35
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 17,
-    "FilterType": 13,
-    "Title": "FilterBaseConfig_18_FilterName",
-    "IdList": [
+    "id": 17,
+    "filter_type": 13,
+    "title": "FilterBaseConfig_18_FilterName",
+    "id_list": [
       37
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 18,
-    "FilterType": 14,
-    "Title": "FilterBaseConfig_19_FilterName",
-    "IdList": [
+    "id": 18,
+    "filter_type": 14,
+    "title": "FilterBaseConfig_19_FilterName",
+    "id_list": [
       0,
       1,
       2,
       3
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 19,
-    "FilterType": 15,
-    "Title": "FilterBaseConfig_20_FilterName",
-    "IdList": [
+    "id": 19,
+    "filter_type": 15,
+    "title": "FilterBaseConfig_20_FilterName",
+    "id_list": [
       0,
       1
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 20,
-    "FilterType": 16,
-    "Title": "FilterBaseConfig_21_FilterName",
-    "IdList": [
+    "id": 20,
+    "filter_type": 16,
+    "title": "FilterBaseConfig_21_FilterName",
+    "id_list": [
       0,
       1
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 21,
-    "FilterType": 17,
-    "Title": "FilterBaseConfig_22_FilterName",
-    "IdList": [
+    "id": 21,
+    "filter_type": 17,
+    "title": "FilterBaseConfig_22_FilterName",
+    "id_list": [
       14,
       15,
       16
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 22,
-    "FilterType": 18,
-    "Title": "MonsterRarity_1_RarityDesc",
-    "IdList": [
+    "id": 22,
+    "filter_type": 18,
+    "title": "MonsterRarity_1_RarityDesc",
+    "id_list": [
       390070051,
       390070052,
       390070053,
@@ -399,13 +399,13 @@
       6000052,
       6000053
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 23,
-    "FilterType": 19,
-    "Title": "MonsterRarity_2_RarityDesc",
-    "IdList": [
+    "id": 23,
+    "filter_type": 19,
+    "title": "MonsterRarity_2_RarityDesc",
+    "id_list": [
       390070051,
       390070052,
       390070053,
@@ -460,13 +460,13 @@
       6000052,
       6000053
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 24,
-    "FilterType": 20,
-    "Title": "MonsterRarity_3_RarityDesc",
-    "IdList": [
+    "id": 24,
+    "filter_type": 20,
+    "title": "MonsterRarity_3_RarityDesc",
+    "id_list": [
       390070051,
       390070052,
       390070053,
@@ -521,13 +521,13 @@
       6000052,
       6000053
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 25,
-    "FilterType": 21,
-    "Title": "MonsterRarity_4_RarityDesc",
-    "IdList": [
+    "id": 25,
+    "filter_type": 21,
+    "title": "MonsterRarity_4_RarityDesc",
+    "id_list": [
       390070051,
       390070052,
       390070053,
@@ -582,49 +582,49 @@
       6000052,
       6000053
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 26,
-    "FilterType": 22,
-    "Title": "FilterBaseConfig_26_FilterName",
-    "IdList": [
+    "id": 26,
+    "filter_type": 22,
+    "title": "FilterBaseConfig_26_FilterName",
+    "id_list": [
       1,
       2,
       3,
       4,
       5
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 27,
-    "FilterType": 23,
-    "Title": "PrefabTextItem_PhantomCost_Text",
-    "IdList": [
+    "id": 27,
+    "filter_type": 23,
+    "title": "PrefabTextItem_PhantomCost_Text",
+    "id_list": [
       0,
       1,
       2
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 28,
-    "FilterType": 24,
-    "Title": "FilterBaseConfig_26_FilterName",
-    "IdList": [
+    "id": 28,
+    "filter_type": 24,
+    "title": "FilterBaseConfig_26_FilterName",
+    "id_list": [
       2,
       3,
       4,
       5
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 29,
-    "FilterType": 25,
-    "Title": "Text_Fetter_Text",
-    "IdList": [
+    "id": 29,
+    "filter_type": 25,
+    "title": "Text_Fetter_Text",
+    "id_list": [
       1,
       2,
       3,
@@ -635,13 +635,13 @@
       8,
       9
     ],
-    "NeedChangeColor": false
+    "need_change_color": false
   },
   {
-    "Id": 30,
-    "FilterType": 26,
-    "Title": "Text_RoleFilterElement_Text",
-    "IdList": [
+    "id": 30,
+    "filter_type": 26,
+    "title": "Text_RoleFilterElement_Text",
+    "id_list": [
       6,
       7,
       8,
@@ -668,6 +668,6 @@
       30,
       39
     ],
-    "NeedChangeColor": true
+    "need_change_color": true
   }
 ]

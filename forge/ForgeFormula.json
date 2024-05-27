@@ -1,12 +1,12 @@
 [
   {
-    "Id": 201,
-    "FormulaItemId": 0,
-    "ItemId": 21010034,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "改进型重刃·正则贰",
-    "ConsumeItems": [
+    "id": 201,
+    "formula_item_id": 0,
+    "item_id": 21010034,
+    "type_id": 1,
+    "unlock": true,
+    "name": "改进型重刃·正则贰",
+    "consume_items": [
       {
         "item_id": 42500010,
         "count": 150
@@ -20,18 +20,18 @@
         "count": 150000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   },
   {
-    "Id": 202,
-    "FormulaItemId": 0,
-    "ItemId": 21020034,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "改进型鸣刀·锋镝贰",
-    "ConsumeItems": [
+    "id": 202,
+    "formula_item_id": 0,
+    "item_id": 21020034,
+    "type_id": 1,
+    "unlock": true,
+    "name": "改进型鸣刀·锋镝贰",
+    "consume_items": [
       {
         "item_id": 42500010,
         "count": 150
@@ -45,18 +45,18 @@
         "count": 150000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   },
   {
-    "Id": 203,
-    "FormulaItemId": 0,
-    "ItemId": 21030034,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "test/改进型手枪",
-    "ConsumeItems": [
+    "id": 203,
+    "formula_item_id": 0,
+    "item_id": 21030034,
+    "type_id": 1,
+    "unlock": true,
+    "name": "test/改进型手枪",
+    "consume_items": [
       {
         "item_id": 42500010,
         "count": 150
@@ -70,18 +70,18 @@
         "count": 150000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   },
   {
-    "Id": 204,
-    "FormulaItemId": 0,
-    "ItemId": 21040034,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "test/改进型拳套",
-    "ConsumeItems": [
+    "id": 204,
+    "formula_item_id": 0,
+    "item_id": 21040034,
+    "type_id": 1,
+    "unlock": true,
+    "name": "test/改进型拳套",
+    "consume_items": [
       {
         "item_id": 42500030,
         "count": 150
@@ -95,18 +95,18 @@
         "count": 150000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   },
   {
-    "Id": 205,
-    "FormulaItemId": 0,
-    "ItemId": 21050034,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "改进型音感仪·定序贰",
-    "ConsumeItems": [
+    "id": 205,
+    "formula_item_id": 0,
+    "item_id": 21050034,
+    "type_id": 1,
+    "unlock": true,
+    "name": "改进型音感仪·定序贰",
+    "consume_items": [
       {
         "item_id": 42500030,
         "count": 150
@@ -120,18 +120,18 @@
         "count": 150000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   },
   {
-    "Id": 206,
-    "FormulaItemId": 0,
-    "ItemId": 21010053,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "test/T3-5天城系列大剑",
-    "ConsumeItems": [
+    "id": 206,
+    "formula_item_id": 0,
+    "item_id": 21010053,
+    "type_id": 1,
+    "unlock": true,
+    "name": "test/T3-5天城系列大剑",
+    "consume_items": [
       {
         "item_id": 42500010,
         "count": 10
@@ -141,18 +141,18 @@
         "count": 10000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   },
   {
-    "Id": 207,
-    "FormulaItemId": 0,
-    "ItemId": 21020053,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "test/T3-5天城系列短剑",
-    "ConsumeItems": [
+    "id": 207,
+    "formula_item_id": 0,
+    "item_id": 21020053,
+    "type_id": 1,
+    "unlock": true,
+    "name": "test/T3-5天城系列短剑",
+    "consume_items": [
       {
         "item_id": 42500010,
         "count": 10
@@ -162,18 +162,18 @@
         "count": 10000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   },
   {
-    "Id": 208,
-    "FormulaItemId": 0,
-    "ItemId": 21030053,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "test/T3-5天城系列手枪",
-    "ConsumeItems": [
+    "id": 208,
+    "formula_item_id": 0,
+    "item_id": 21030053,
+    "type_id": 1,
+    "unlock": true,
+    "name": "test/T3-5天城系列手枪",
+    "consume_items": [
       {
         "item_id": 42500010,
         "count": 10
@@ -183,18 +183,18 @@
         "count": 10000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   },
   {
-    "Id": 209,
-    "FormulaItemId": 0,
-    "ItemId": 21040053,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "test/T3-5天城系列拳套",
-    "ConsumeItems": [
+    "id": 209,
+    "formula_item_id": 0,
+    "item_id": 21040053,
+    "type_id": 1,
+    "unlock": true,
+    "name": "test/T3-5天城系列拳套",
+    "consume_items": [
       {
         "item_id": 42500030,
         "count": 10
@@ -204,18 +204,18 @@
         "count": 10000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   },
   {
-    "Id": 210,
-    "FormulaItemId": 0,
-    "ItemId": 21050053,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "test/T3-5天城系列法器",
-    "ConsumeItems": [
+    "id": 210,
+    "formula_item_id": 0,
+    "item_id": 21050053,
+    "type_id": 1,
+    "unlock": true,
+    "name": "test/T3-5天城系列法器",
+    "consume_items": [
       {
         "item_id": 42500030,
         "count": 10
@@ -225,8 +225,8 @@
         "count": 10000
       }
     ],
-    "ForgeContent": "",
-    "Background": "",
-    "RoleList": []
+    "forge_content": "",
+    "background": "",
+    "role_list": []
   }
 ]

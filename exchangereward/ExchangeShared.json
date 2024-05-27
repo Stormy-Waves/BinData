@@ -1,24 +1,24 @@
 [
   {
-    "Id": 1,
-    "MaxCount": 3,
-    "Cost": [
+    "id": 1,
+    "max_count": 3,
+    "cost": [
       {
         "key": 5,
         "value": 60
       }
     ],
-    "ResetTimeId": 2
+    "reset_time_id": 2
   },
   {
-    "Id": 2,
-    "MaxCount": 1,
-    "Cost": [
+    "id": 2,
+    "max_count": 1,
+    "cost": [
       {
         "key": 5,
         "value": 10
       }
     ],
-    "ResetTimeId": 3
+    "reset_time_id": 3
   }
 ]

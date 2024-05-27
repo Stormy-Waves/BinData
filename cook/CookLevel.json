@@ -1,42 +1,42 @@
 [
   {
-    "Id": 1,
-    "Name": "CookLevel_1_Name",
-    "Completeness": 0,
-    "Effect": 0,
-    "AttributesDescription": "CookLevel_1_AttributesDescription",
-    "DropIds": 0
+    "id": 1,
+    "name": "CookLevel_1_Name",
+    "completeness": 0,
+    "effect": 0,
+    "attributes_description": "CookLevel_1_AttributesDescription",
+    "drop_ids": 0
   },
   {
-    "Id": 2,
-    "Name": "CookLevel_2_Name",
-    "Completeness": 500,
-    "Effect": 0,
-    "AttributesDescription": "CookLevel_2_AttributesDescription",
-    "DropIds": 90001
+    "id": 2,
+    "name": "CookLevel_2_Name",
+    "completeness": 500,
+    "effect": 0,
+    "attributes_description": "CookLevel_2_AttributesDescription",
+    "drop_ids": 90001
   },
   {
-    "Id": 3,
-    "Name": "CookLevel_3_Name",
-    "Completeness": 1500,
-    "Effect": 0,
-    "AttributesDescription": "CookLevel_3_AttributesDescription",
-    "DropIds": 90002
+    "id": 3,
+    "name": "CookLevel_3_Name",
+    "completeness": 1500,
+    "effect": 0,
+    "attributes_description": "CookLevel_3_AttributesDescription",
+    "drop_ids": 90002
   },
   {
-    "Id": 4,
-    "Name": "CookLevel_4_Name",
-    "Completeness": 3000,
-    "Effect": 0,
-    "AttributesDescription": "CookLevel_4_AttributesDescription",
-    "DropIds": 90003
+    "id": 4,
+    "name": "CookLevel_4_Name",
+    "completeness": 3000,
+    "effect": 0,
+    "attributes_description": "CookLevel_4_AttributesDescription",
+    "drop_ids": 90003
   },
   {
-    "Id": 5,
-    "Name": "CookLevel_5_Name",
-    "Completeness": 6000,
-    "Effect": 0,
-    "AttributesDescription": "CookLevel_5_AttributesDescription",
-    "DropIds": 90004
+    "id": 5,
+    "name": "CookLevel_5_Name",
+    "completeness": 6000,
+    "effect": 0,
+    "attributes_description": "CookLevel_5_AttributesDescription",
+    "drop_ids": 90004
   }
 ]

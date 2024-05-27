@@ -1,130 +1,130 @@
 [
   {
-    "Id": 1001,
-    "RoleId": 1402,
-    "FormulaId": 10016,
-    "CookProbability": 20,
-    "ItemId": 80001016,
-    "AttributesDescription": ""
+    "id": 1001,
+    "role_id": 1402,
+    "formula_id": 10016,
+    "cook_probability": 20,
+    "item_id": 80001016,
+    "attributes_description": ""
   },
   {
-    "Id": 1002,
-    "RoleId": 1202,
-    "FormulaId": 10025,
-    "CookProbability": 20,
-    "ItemId": 80001025,
-    "AttributesDescription": ""
+    "id": 1002,
+    "role_id": 1202,
+    "formula_id": 10025,
+    "cook_probability": 20,
+    "item_id": 80001025,
+    "attributes_description": ""
   },
   {
-    "Id": 1003,
-    "RoleId": 1103,
-    "FormulaId": 10002,
-    "CookProbability": 20,
-    "ItemId": 80001002,
-    "AttributesDescription": ""
+    "id": 1003,
+    "role_id": 1103,
+    "formula_id": 10002,
+    "cook_probability": 20,
+    "item_id": 80001002,
+    "attributes_description": ""
   },
   {
-    "Id": 1004,
-    "RoleId": 1102,
-    "FormulaId": 10012,
-    "CookProbability": 20,
-    "ItemId": 80001012,
-    "AttributesDescription": ""
+    "id": 1004,
+    "role_id": 1102,
+    "formula_id": 10012,
+    "cook_probability": 20,
+    "item_id": 80001012,
+    "attributes_description": ""
   },
   {
-    "Id": 1005,
-    "RoleId": 1204,
-    "FormulaId": 10024,
-    "CookProbability": 20,
-    "ItemId": 80001024,
-    "AttributesDescription": ""
+    "id": 1005,
+    "role_id": 1204,
+    "formula_id": 10024,
+    "cook_probability": 20,
+    "item_id": 80001024,
+    "attributes_description": ""
   },
   {
-    "Id": 1006,
-    "RoleId": 1602,
-    "FormulaId": 10004,
-    "CookProbability": 20,
-    "ItemId": 80001004,
-    "AttributesDescription": ""
+    "id": 1006,
+    "role_id": 1602,
+    "formula_id": 10004,
+    "cook_probability": 20,
+    "item_id": 80001004,
+    "attributes_description": ""
   },
   {
-    "Id": 1007,
-    "RoleId": 1601,
-    "FormulaId": 10020,
-    "CookProbability": 20,
-    "ItemId": 80001020,
-    "AttributesDescription": ""
+    "id": 1007,
+    "role_id": 1601,
+    "formula_id": 10020,
+    "cook_probability": 20,
+    "item_id": 80001020,
+    "attributes_description": ""
   },
   {
-    "Id": 1008,
-    "RoleId": 1404,
-    "FormulaId": 10014,
-    "CookProbability": 20,
-    "ItemId": 80001014,
-    "AttributesDescription": ""
+    "id": 1008,
+    "role_id": 1404,
+    "formula_id": 10014,
+    "cook_probability": 20,
+    "item_id": 80001014,
+    "attributes_description": ""
   },
   {
-    "Id": 1009,
-    "RoleId": 1302,
-    "FormulaId": 10017,
-    "CookProbability": 20,
-    "ItemId": 80001017,
-    "AttributesDescription": ""
+    "id": 1009,
+    "role_id": 1302,
+    "formula_id": 10017,
+    "cook_probability": 20,
+    "item_id": 80001017,
+    "attributes_description": ""
   },
   {
-    "Id": 1010,
-    "RoleId": 1301,
-    "FormulaId": 10005,
-    "CookProbability": 20,
-    "ItemId": 80001005,
-    "AttributesDescription": ""
+    "id": 1010,
+    "role_id": 1301,
+    "formula_id": 10005,
+    "cook_probability": 20,
+    "item_id": 80001005,
+    "attributes_description": ""
   },
   {
-    "Id": 1011,
-    "RoleId": 1303,
-    "FormulaId": 10008,
-    "CookProbability": 20,
-    "ItemId": 80001008,
-    "AttributesDescription": ""
+    "id": 1011,
+    "role_id": 1303,
+    "formula_id": 10008,
+    "cook_probability": 20,
+    "item_id": 80001008,
+    "attributes_description": ""
   },
   {
-    "Id": 1012,
-    "RoleId": 1104,
-    "FormulaId": 10000,
-    "CookProbability": 20,
-    "ItemId": 80001000,
-    "AttributesDescription": ""
+    "id": 1012,
+    "role_id": 1104,
+    "formula_id": 10000,
+    "cook_probability": 20,
+    "item_id": 80001000,
+    "attributes_description": ""
   },
   {
-    "Id": 1013,
-    "RoleId": 1405,
-    "FormulaId": 10023,
-    "CookProbability": 20,
-    "ItemId": 80001023,
-    "AttributesDescription": ""
+    "id": 1013,
+    "role_id": 1405,
+    "formula_id": 10023,
+    "cook_probability": 20,
+    "item_id": 80001023,
+    "attributes_description": ""
   },
   {
-    "Id": 1014,
-    "RoleId": 1503,
-    "FormulaId": 10029,
-    "CookProbability": 20,
-    "ItemId": 80001029,
-    "AttributesDescription": ""
+    "id": 1014,
+    "role_id": 1503,
+    "formula_id": 10029,
+    "cook_probability": 20,
+    "item_id": 80001029,
+    "attributes_description": ""
   },
   {
-    "Id": 1015,
-    "RoleId": 1203,
-    "FormulaId": 10021,
-    "CookProbability": 20,
-    "ItemId": 80001021,
-    "AttributesDescription": ""
+    "id": 1015,
+    "role_id": 1203,
+    "formula_id": 10021,
+    "cook_probability": 20,
+    "item_id": 80001021,
+    "attributes_description": ""
   },
   {
-    "Id": 1016,
-    "RoleId": 1403,
-    "FormulaId": 10032,
-    "CookProbability": 20,
-    "ItemId": 80001032,
-    "AttributesDescription": ""
+    "id": 1016,
+    "role_id": 1403,
+    "formula_id": 10032,
+    "cook_probability": 20,
+    "item_id": 80001032,
+    "attributes_description": ""
   }
 ]

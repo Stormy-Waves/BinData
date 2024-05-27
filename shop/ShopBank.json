@@ -1,42 +1,42 @@
 [
   {
-    "Id": 100,
-    "CondId": 0
+    "id": 100,
+    "cond_id": 0
   },
   {
-    "Id": 200,
-    "CondId": 0
+    "id": 200,
+    "cond_id": 0
   },
   {
-    "Id": 300,
-    "CondId": 0
+    "id": 300,
+    "cond_id": 0
   },
   {
-    "Id": 400,
-    "CondId": 0
+    "id": 400,
+    "cond_id": 0
   },
   {
-    "Id": 500,
-    "CondId": 0
+    "id": 500,
+    "cond_id": 0
   },
   {
-    "Id": 600,
-    "CondId": 0
+    "id": 600,
+    "cond_id": 0
   },
   {
-    "Id": 1001,
-    "CondId": 0
+    "id": 1001,
+    "cond_id": 0
   },
   {
-    "Id": 1002,
-    "CondId": 0
+    "id": 1002,
+    "cond_id": 0
   },
   {
-    "Id": 1003,
-    "CondId": 0
+    "id": 1003,
+    "cond_id": 0
   },
   {
-    "Id": 1004,
-    "CondId": 0
+    "id": 1004,
+    "cond_id": 0
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
-    "Id": 1,
-    "RegionId": 5,
-    "MpcData": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_Item_MPC_Test_3.DA_Fx_Item_MPC_Test_3"
+    "id": 1,
+    "region_id": 5,
+    "mpc_data": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_Item_MPC_Test_3.DA_Fx_Item_MPC_Test_3"
   },
   {
-    "Id": 2,
-    "RegionId": 5,
-    "MpcData": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_Item_MPC_wzgs_01.DA_Fx_Item_MPC_wzgs_01"
+    "id": 2,
+    "region_id": 5,
+    "mpc_data": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_Item_MPC_wzgs_01.DA_Fx_Item_MPC_wzgs_01"
   },
   {
-    "Id": 3,
-    "RegionId": 5,
-    "MpcData": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_Item_MPC_wzgs_02.DA_Fx_Item_MPC_wzgs_02"
+    "id": 3,
+    "region_id": 5,
+    "mpc_data": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_Item_MPC_wzgs_02.DA_Fx_Item_MPC_wzgs_02"
   },
   {
-    "Id": 4,
-    "RegionId": 9,
-    "MpcData": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_Item_MPC_YNZ_01.DA_Fx_Item_MPC_YNZ_01"
+    "id": 4,
+    "region_id": 9,
+    "mpc_data": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_Item_MPC_YNZ_01.DA_Fx_Item_MPC_YNZ_01"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "Id": 10000,
-    "FormulaItemId": 80010000,
-    "FoodItemId": 80000000,
-    "TypeId": 1,
-    "Unlock": true,
-    "Name": "今州烤串",
-    "ConsumeItems": [
+    "id": 10000,
+    "formula_item_id": 80010000,
+    "food_item_id": 80000000,
+    "type_id": 1,
+    "unlock": true,
+    "name": "今州烤串",
+    "consume_items": [
       {
         "item_id": 42400030,
         "count": 2
@@ -16,22 +16,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 10,
-    "MaxProficiencyCount": 30,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 10,
+    "max_proficiency_count": 30,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1104
     ]
   },
   {
-    "Id": 10001,
-    "FormulaItemId": 80010001,
-    "FoodItemId": 80000001,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "锅盔",
-    "ConsumeItems": [
+    "id": 10001,
+    "formula_item_id": 80010001,
+    "food_item_id": 80000001,
+    "type_id": 2,
+    "unlock": false,
+    "name": "锅盔",
+    "consume_items": [
       {
         "item_id": 80050000,
         "count": 2
@@ -41,20 +41,20 @@
         "count": 1
       }
     ],
-    "Proficiency": 10,
-    "MaxProficiencyCount": 30,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 10,
+    "max_proficiency_count": 30,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10002,
-    "FormulaItemId": 80010002,
-    "FoodItemId": 80000002,
-    "TypeId": 1,
-    "Unlock": false,
-    "Name": "凉拌香苏",
-    "ConsumeItems": [
+    "id": 10002,
+    "formula_item_id": 80010002,
+    "food_item_id": 80000002,
+    "type_id": 1,
+    "unlock": false,
+    "name": "凉拌香苏",
+    "consume_items": [
       {
         "item_id": 42310050,
         "count": 2
@@ -64,22 +64,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 10,
-    "MaxProficiencyCount": 30,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 10,
+    "max_proficiency_count": 30,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1103
     ]
   },
   {
-    "Id": 10003,
-    "FormulaItemId": 80010003,
-    "FoodItemId": 80000003,
-    "TypeId": 3,
-    "Unlock": false,
-    "Name": "红油手撕鸡",
-    "ConsumeItems": [
+    "id": 10003,
+    "formula_item_id": 80010003,
+    "food_item_id": 80000003,
+    "type_id": 3,
+    "unlock": false,
+    "name": "红油手撕鸡",
+    "consume_items": [
       {
         "item_id": 80050001,
         "count": 1
@@ -93,20 +93,20 @@
         "count": 1
       }
     ],
-    "Proficiency": 10,
-    "MaxProficiencyCount": 30,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 10,
+    "max_proficiency_count": 30,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10004,
-    "FormulaItemId": 80010004,
-    "FoodItemId": 80000004,
-    "TypeId": 3,
-    "Unlock": false,
-    "Name": "龙须酥",
-    "ConsumeItems": [
+    "id": 10004,
+    "formula_item_id": 80010004,
+    "food_item_id": 80000004,
+    "type_id": 3,
+    "unlock": false,
+    "name": "龙须酥",
+    "consume_items": [
       {
         "item_id": 80050001,
         "count": 2
@@ -120,22 +120,22 @@
         "count": 3
       }
     ],
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1602
     ]
   },
   {
-    "Id": 10005,
-    "FormulaItemId": 80010005,
-    "FoodItemId": 80000005,
-    "TypeId": 3,
-    "Unlock": false,
-    "Name": "戍边粮",
-    "ConsumeItems": [
+    "id": 10005,
+    "formula_item_id": 80010005,
+    "food_item_id": 80000005,
+    "type_id": 3,
+    "unlock": false,
+    "name": "戍边粮",
+    "consume_items": [
       {
         "item_id": 80050001,
         "count": 2
@@ -149,22 +149,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1301
     ]
   },
   {
-    "Id": 10006,
-    "FormulaItemId": 80010006,
-    "FoodItemId": 80000006,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "每日清茶",
-    "ConsumeItems": [
+    "id": 10006,
+    "formula_item_id": 80010006,
+    "food_item_id": 80000006,
+    "type_id": 2,
+    "unlock": false,
+    "name": "每日清茶",
+    "consume_items": [
       {
         "item_id": 80050004,
         "count": 1
@@ -178,20 +178,20 @@
         "count": 1
       }
     ],
-    "Proficiency": 10,
-    "MaxProficiencyCount": 30,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 10,
+    "max_proficiency_count": 30,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10008,
-    "FormulaItemId": 80010008,
-    "FoodItemId": 80000008,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "清芬茶",
-    "ConsumeItems": [
+    "id": 10008,
+    "formula_item_id": 80010008,
+    "food_item_id": 80000008,
+    "type_id": 2,
+    "unlock": false,
+    "name": "清芬茶",
+    "consume_items": [
       {
         "item_id": 80050004,
         "count": 3
@@ -205,22 +205,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1303
     ]
   },
   {
-    "Id": 10009,
-    "FormulaItemId": 80010009,
-    "FoodItemId": 80000009,
-    "TypeId": 1,
-    "Unlock": false,
-    "Name": "舒云秘制凉茶",
-    "ConsumeItems": [
+    "id": 10009,
+    "formula_item_id": 80010009,
+    "food_item_id": 80000009,
+    "type_id": 1,
+    "unlock": false,
+    "name": "舒云秘制凉茶",
+    "consume_items": [
       {
         "item_id": 80050004,
         "count": 3
@@ -238,20 +238,20 @@
         "count": 1
       }
     ],
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10010,
-    "FormulaItemId": 80010010,
-    "FoodItemId": 80000010,
-    "TypeId": 3,
-    "Unlock": false,
-    "Name": "香汁鸡",
-    "ConsumeItems": [
+    "id": 10010,
+    "formula_item_id": 80010010,
+    "food_item_id": 80000010,
+    "type_id": 3,
+    "unlock": false,
+    "name": "香汁鸡",
+    "consume_items": [
       {
         "item_id": 42400010,
         "count": 1
@@ -265,20 +265,20 @@
         "count": 1
       }
     ],
-    "Proficiency": 10,
-    "MaxProficiencyCount": 30,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 10,
+    "max_proficiency_count": 30,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10011,
-    "FormulaItemId": 80010011,
-    "FoodItemId": 80000011,
-    "TypeId": 1,
-    "Unlock": false,
-    "Name": "辛香肉片",
-    "ConsumeItems": [
+    "id": 10011,
+    "formula_item_id": 80010011,
+    "food_item_id": 80000011,
+    "type_id": 1,
+    "unlock": false,
+    "name": "辛香肉片",
+    "consume_items": [
       {
         "item_id": 42400030,
         "count": 2
@@ -296,20 +296,20 @@
         "count": 1
       }
     ],
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10012,
-    "FormulaItemId": 80010012,
-    "FoodItemId": 80000012,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "小龙包",
-    "ConsumeItems": [
+    "id": 10012,
+    "formula_item_id": 80010012,
+    "food_item_id": 80000012,
+    "type_id": 2,
+    "unlock": false,
+    "name": "小龙包",
+    "consume_items": [
       {
         "item_id": 80050000,
         "count": 3
@@ -327,22 +327,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1102
     ]
   },
   {
-    "Id": 10013,
-    "FormulaItemId": 80010013,
-    "FoodItemId": 80000013,
-    "TypeId": 1,
-    "Unlock": false,
-    "Name": "铁铲花蕈",
-    "ConsumeItems": [
+    "id": 10013,
+    "formula_item_id": 80010013,
+    "food_item_id": 80000013,
+    "type_id": 1,
+    "unlock": false,
+    "name": "铁铲花蕈",
+    "consume_items": [
       {
         "item_id": 42310180,
         "count": 2
@@ -360,20 +360,20 @@
         "count": 1
       }
     ],
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10014,
-    "FormulaItemId": 80010014,
-    "FoodItemId": 80000014,
-    "TypeId": 1,
-    "Unlock": false,
-    "Name": "今州烩",
-    "ConsumeItems": [
+    "id": 10014,
+    "formula_item_id": 80010014,
+    "food_item_id": 80000014,
+    "type_id": 1,
+    "unlock": false,
+    "name": "今州烩",
+    "consume_items": [
       {
         "item_id": 42400030,
         "count": 3
@@ -391,22 +391,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1404
     ]
   },
   {
-    "Id": 10015,
-    "FormulaItemId": 80010015,
-    "FoodItemId": 80000015,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "拔丝菱果",
-    "ConsumeItems": [
+    "id": 10015,
+    "formula_item_id": 80010015,
+    "food_item_id": 80000015,
+    "type_id": 2,
+    "unlock": false,
+    "name": "拔丝菱果",
+    "consume_items": [
       {
         "item_id": 42310110,
         "count": 3
@@ -424,20 +424,20 @@
         "count": 1
       }
     ],
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10016,
-    "FormulaItemId": 80010016,
-    "FoodItemId": 80000016,
-    "TypeId": 1,
-    "Unlock": false,
-    "Name": "潮饼",
-    "ConsumeItems": [
+    "id": 10016,
+    "formula_item_id": 80010016,
+    "food_item_id": 80000016,
+    "type_id": 1,
+    "unlock": false,
+    "name": "潮饼",
+    "consume_items": [
       {
         "item_id": 42600010,
         "count": 2
@@ -455,22 +455,22 @@
         "count": 2
       }
     ],
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1402
     ]
   },
   {
-    "Id": 10017,
-    "FormulaItemId": 80010017,
-    "FoodItemId": 80000017,
-    "TypeId": 3,
-    "Unlock": false,
-    "Name": "碎金饭",
-    "ConsumeItems": [
+    "id": 10017,
+    "formula_item_id": 80010017,
+    "food_item_id": 80000017,
+    "type_id": 3,
+    "unlock": false,
+    "name": "碎金饭",
+    "consume_items": [
       {
         "item_id": 80050006,
         "count": 2
@@ -488,22 +488,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1302
     ]
   },
   {
-    "Id": 10019,
-    "FormulaItemId": 80010019,
-    "FoodItemId": 80000019,
-    "TypeId": 3,
-    "Unlock": false,
-    "Name": "清芬鱼汤",
-    "ConsumeItems": [
+    "id": 10019,
+    "formula_item_id": 80010019,
+    "food_item_id": 80000019,
+    "type_id": 3,
+    "unlock": false,
+    "name": "清芬鱼汤",
+    "consume_items": [
       {
         "item_id": 42400120,
         "count": 1
@@ -517,20 +517,20 @@
         "count": 1
       }
     ],
-    "Proficiency": 10,
-    "MaxProficiencyCount": 30,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 10,
+    "max_proficiency_count": 30,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10020,
-    "FormulaItemId": 80010020,
-    "FoodItemId": 80000020,
-    "TypeId": 1,
-    "Unlock": false,
-    "Name": "清葛粥",
-    "ConsumeItems": [
+    "id": 10020,
+    "formula_item_id": 80010020,
+    "food_item_id": 80000020,
+    "type_id": 1,
+    "unlock": false,
+    "name": "清葛粥",
+    "consume_items": [
       {
         "item_id": 80050007,
         "count": 2
@@ -548,22 +548,22 @@
         "count": 3
       }
     ],
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1601
     ]
   },
   {
-    "Id": 10021,
-    "FormulaItemId": 80010021,
-    "FoodItemId": 80000021,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "星星酥",
-    "ConsumeItems": [
+    "id": 10021,
+    "formula_item_id": 80010021,
+    "food_item_id": 80000021,
+    "type_id": 2,
+    "unlock": false,
+    "name": "星星酥",
+    "consume_items": [
       {
         "item_id": 42400030,
         "count": 3
@@ -581,22 +581,22 @@
         "count": 2
       }
     ],
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1203
     ]
   },
   {
-    "Id": 10023,
-    "FormulaItemId": 80010023,
-    "FoodItemId": 80000023,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "冬云菱果粥",
-    "ConsumeItems": [
+    "id": 10023,
+    "formula_item_id": 80010023,
+    "food_item_id": 80000023,
+    "type_id": 2,
+    "unlock": false,
+    "name": "冬云菱果粥",
+    "consume_items": [
       {
         "item_id": 80020001,
         "count": 1
@@ -614,22 +614,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1405
     ]
   },
   {
-    "Id": 10024,
-    "FormulaItemId": 80010024,
-    "FoodItemId": 80000024,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "脆皮烧鸽",
-    "ConsumeItems": [
+    "id": 10024,
+    "formula_item_id": 80010024,
+    "food_item_id": 80000024,
+    "type_id": 2,
+    "unlock": false,
+    "name": "脆皮烧鸽",
+    "consume_items": [
       {
         "item_id": 80020002,
         "count": 1
@@ -647,22 +647,22 @@
         "count": 2
       }
     ],
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1204
     ]
   },
   {
-    "Id": 10025,
-    "FormulaItemId": 80010025,
-    "FoodItemId": 80000025,
-    "TypeId": 1,
-    "Unlock": false,
-    "Name": "今州冒菜",
-    "ConsumeItems": [
+    "id": 10025,
+    "formula_item_id": 80010025,
+    "food_item_id": 80000025,
+    "type_id": 1,
+    "unlock": false,
+    "name": "今州冒菜",
+    "consume_items": [
       {
         "item_id": 80020000,
         "count": 1
@@ -680,22 +680,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1202
     ]
   },
   {
-    "Id": 10026,
-    "FormulaItemId": 80010026,
-    "FoodItemId": 80000026,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "龙抬头",
-    "ConsumeItems": [
+    "id": 10026,
+    "formula_item_id": 80010026,
+    "food_item_id": 80000026,
+    "type_id": 2,
+    "unlock": false,
+    "name": "龙抬头",
+    "consume_items": [
       {
         "item_id": 80020003,
         "count": 1
@@ -713,20 +713,20 @@
         "count": 2
       }
     ],
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": []
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   },
   {
-    "Id": 10029,
-    "FormulaItemId": 80010029,
-    "FoodItemId": 80000029,
-    "TypeId": 1,
-    "Unlock": false,
-    "Name": "森栖锅",
-    "ConsumeItems": [
+    "id": 10029,
+    "formula_item_id": 80010029,
+    "food_item_id": 80000029,
+    "type_id": 1,
+    "unlock": false,
+    "name": "森栖锅",
+    "consume_items": [
       {
         "item_id": 80020000,
         "count": 1
@@ -744,22 +744,22 @@
         "count": 1
       }
     ],
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1503
     ]
   },
   {
-    "Id": 10032,
-    "FormulaItemId": 80010032,
-    "FoodItemId": 80000032,
-    "TypeId": 2,
-    "Unlock": false,
-    "Name": "喜凌茶",
-    "ConsumeItems": [
+    "id": 10032,
+    "formula_item_id": 80010032,
+    "food_item_id": 80000032,
+    "type_id": 2,
+    "unlock": false,
+    "name": "喜凌茶",
+    "consume_items": [
       {
         "item_id": 42310110,
         "count": 2
@@ -773,11 +773,11 @@
         "count": 2
       }
     ],
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "FoodContent": "",
-    "FoodBackground": "",
-    "RoleList": [
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
       1403
     ]
   }

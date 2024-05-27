@@ -1,2727 +1,2727 @@
 [
   {
-    "Id": 1,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_1_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 1,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_1_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 2,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_2_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 2,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_2_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 3,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_3_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 3,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_3_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 4,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_4_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 4,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_4_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 5,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_5_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 5,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_5_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 6,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_6_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 6,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_6_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 7,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_7_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 7,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_7_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 8,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_8_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 8,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_8_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 9,
-    "Title": "ConfirmBox_9_Title",
-    "Content": "ConfirmBox_9_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 9,
+    "title": "ConfirmBox_9_Title",
+    "content": "ConfirmBox_9_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 10,
-    "Title": "ConfirmBox_10_Title",
-    "Content": "ConfirmBox_10_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 10,
+    "title": "ConfirmBox_10_Title",
+    "content": "ConfirmBox_10_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_10_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 11,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_11_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 11,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_11_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 12,
-    "Title": "ConfirmBox_12_Title",
-    "Content": "ConfirmBox_12_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 12,
+    "title": "ConfirmBox_12_Title",
+    "content": "ConfirmBox_12_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 13,
-    "Title": "ConfirmBox_13_Title",
-    "Content": "ConfirmBox_13_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 13,
+    "title": "ConfirmBox_13_Title",
+    "content": "ConfirmBox_13_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 14,
-    "Title": "ConfirmBox_14_Title",
-    "Content": "ConfirmBox_14_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 14,
+    "title": "ConfirmBox_14_Title",
+    "content": "ConfirmBox_14_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 15,
-    "Title": "ConfirmBox_15_Title",
-    "Content": "ConfirmBox_15_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 15,
+    "title": "ConfirmBox_15_Title",
+    "content": "ConfirmBox_15_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 16,
-    "Title": "ConfirmBox_16_Title",
-    "Content": "ConfirmBox_16_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 16,
+    "title": "ConfirmBox_16_Title",
+    "content": "ConfirmBox_16_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 17,
-    "Title": "ConfirmBox_17_Title",
-    "Content": "ConfirmBox_17_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 17,
+    "title": "ConfirmBox_17_Title",
+    "content": "ConfirmBox_17_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 18,
-    "Title": "ConfirmBox_18_Title",
-    "Content": "ConfirmBox_18_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 18,
+    "title": "ConfirmBox_18_Title",
+    "content": "ConfirmBox_18_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 19,
-    "Title": "ConfirmBox_19_Title",
-    "Content": "ConfirmBox_19_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 19,
+    "title": "ConfirmBox_19_Title",
+    "content": "ConfirmBox_19_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 20,
-    "Title": "ConfirmBox_20_Title",
-    "Content": "ConfirmBox_20_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 20,
+    "title": "ConfirmBox_20_Title",
+    "content": "ConfirmBox_20_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 21,
-    "Title": "ConfirmBox_21_Title",
-    "Content": "ConfirmBox_21_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 21,
+    "title": "ConfirmBox_21_Title",
+    "content": "ConfirmBox_21_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 22,
-    "Title": "ConfirmBox_22_Title",
-    "Content": "ConfirmBox_22_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 22,
+    "title": "ConfirmBox_22_Title",
+    "content": "ConfirmBox_22_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 23,
-    "Title": "ConfirmBox_23_Title",
-    "Content": "ConfirmBox_23_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 23,
+    "title": "ConfirmBox_23_Title",
+    "content": "ConfirmBox_23_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 24,
-    "Title": "ConfirmBox_24_Title",
-    "Content": "ConfirmBox_24_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 24,
+    "title": "ConfirmBox_24_Title",
+    "content": "ConfirmBox_24_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 1,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 1,
+    "need_close": true
   },
   {
-    "Id": 25,
-    "Title": "ConfirmBox_25_Title",
-    "Content": "ConfirmBox_25_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 25,
+    "title": "ConfirmBox_25_Title",
+    "content": "ConfirmBox_25_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 26,
-    "Title": "ConfirmBox_26_Title",
-    "Content": "ConfirmBox_26_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 26,
+    "title": "ConfirmBox_26_Title",
+    "content": "ConfirmBox_26_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 27,
-    "Title": "ConfirmBox_27_Title",
-    "Content": "ConfirmBox_27_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 27,
+    "title": "ConfirmBox_27_Title",
+    "content": "ConfirmBox_27_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 28,
-    "Title": "ConfirmBox_28_Title",
-    "Content": "ConfirmBox_28_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 28,
+    "title": "ConfirmBox_28_Title",
+    "content": "ConfirmBox_28_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 29,
-    "Title": "ConfirmBox_29_Title",
-    "Content": "ConfirmBox_29_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 29,
+    "title": "ConfirmBox_29_Title",
+    "content": "ConfirmBox_29_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 30,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_30_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 30,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_30_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_30_ButtonText_0",
       "ConfirmBox_30_ButtonText_1"
     ],
-    "DelayTime": 15,
-    "DelayButtonIndex": 2,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 15,
+    "delay_button_index": 2,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 31,
-    "Title": "ConfirmBox_31_Title",
-    "Content": "ConfirmBox_31_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 31,
+    "title": "ConfirmBox_31_Title",
+    "content": "ConfirmBox_31_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 32,
-    "Title": "ConfirmBox_32_Title",
-    "Content": "ConfirmBox_32_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 32,
+    "title": "ConfirmBox_32_Title",
+    "content": "ConfirmBox_32_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 33,
-    "Title": "ConfirmBox_33_Title",
-    "Content": "ConfirmBox_33_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 33,
+    "title": "ConfirmBox_33_Title",
+    "content": "ConfirmBox_33_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_33_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 34,
-    "Title": "ConfirmBox_34_Title",
-    "Content": "ConfirmBox_34_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 34,
+    "title": "ConfirmBox_34_Title",
+    "content": "ConfirmBox_34_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 35,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_35_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 35,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_35_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 36,
-    "Title": "ConfirmBox_36_Title",
-    "Content": "ConfirmBox_36_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 36,
+    "title": "ConfirmBox_36_Title",
+    "content": "ConfirmBox_36_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_36_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 37,
-    "Title": "ConfirmBox_37_Title",
-    "Content": "ConfirmBox_37_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 37,
+    "title": "ConfirmBox_37_Title",
+    "content": "ConfirmBox_37_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 38,
-    "Title": "ConfirmBox_38_Title",
-    "Content": "ConfirmBox_38_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 38,
+    "title": "ConfirmBox_38_Title",
+    "content": "ConfirmBox_38_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_38_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 39,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_39_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 39,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_39_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_39_ButtonText_0",
       "ConfirmBox_39_ButtonText_1"
     ],
-    "DelayTime": 5,
-    "DelayButtonIndex": 2,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 5,
+    "delay_button_index": 2,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 40,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_40_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 40,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_40_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_40_ButtonText_0",
       "ConfirmBox_40_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 41,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_41_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 41,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_41_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_41_ButtonText_0",
       "ConfirmBox_41_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 42,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_42_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 42,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_42_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_42_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 43,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_43_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 43,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_43_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_43_ButtonText_0",
       "ConfirmBox_43_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 44,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_44_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 44,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_44_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_44_ButtonText_0",
       "ConfirmBox_44_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 45,
-    "Title": "ConfirmBox_45_Title",
-    "Content": "ConfirmBox_45_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 45,
+    "title": "ConfirmBox_45_Title",
+    "content": "ConfirmBox_45_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_45_ButtonText_0",
       "ConfirmBox_45_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 46,
-    "Title": "ConfirmBox_46_Title",
-    "Content": "ConfirmBox_46_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 46,
+    "title": "ConfirmBox_46_Title",
+    "content": "ConfirmBox_46_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_46_ButtonText_0",
       "ConfirmBox_46_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 47,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_47_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 47,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_47_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_47_ButtonText_0",
       "ConfirmBox_47_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 48,
-    "Title": "ConfirmBox_48_Title",
-    "Content": "ConfirmBox_48_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 48,
+    "title": "ConfirmBox_48_Title",
+    "content": "ConfirmBox_48_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_48_ButtonText_0",
       "ConfirmBox_48_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 49,
-    "Title": "ConfirmBox_49_Title",
-    "Content": "ConfirmBox_49_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 49,
+    "title": "ConfirmBox_49_Title",
+    "content": "ConfirmBox_49_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_49_ButtonText_0",
       "ConfirmBox_49_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 50,
-    "Title": "ConfirmBox_50_Title",
-    "Content": "ConfirmBox_50_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 50,
+    "title": "ConfirmBox_50_Title",
+    "content": "ConfirmBox_50_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_50_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 51,
-    "Title": "ConfirmBox_51_Title",
-    "Content": "ConfirmBox_51_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 51,
+    "title": "ConfirmBox_51_Title",
+    "content": "ConfirmBox_51_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_51_ButtonText_0",
       "ConfirmBox_51_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 52,
-    "Title": "ConfirmBox_52_Title",
-    "Content": "ConfirmBox_52_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 52,
+    "title": "ConfirmBox_52_Title",
+    "content": "ConfirmBox_52_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_52_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 53,
-    "Title": "ConfirmBox_53_Title",
-    "Content": "ConfirmBox_53_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 53,
+    "title": "ConfirmBox_53_Title",
+    "content": "ConfirmBox_53_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_53_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 54,
-    "Title": "ConfirmBox_54_Title",
-    "Content": "ConfirmBox_54_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 54,
+    "title": "ConfirmBox_54_Title",
+    "content": "ConfirmBox_54_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_54_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 55,
-    "Title": "ConfirmBox_55_Title",
-    "Content": "ConfirmBox_55_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 55,
+    "title": "ConfirmBox_55_Title",
+    "content": "ConfirmBox_55_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_55_ButtonText_0",
       "ConfirmBox_55_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 56,
-    "Title": "ConfirmBox_56_Title",
-    "Content": "ConfirmBox_56_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 56,
+    "title": "ConfirmBox_56_Title",
+    "content": "ConfirmBox_56_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_56_ButtonText_0",
       "ConfirmBox_56_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 57,
-    "Title": "ConfirmBox_57_Title",
-    "Content": "ConfirmBox_57_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 57,
+    "title": "ConfirmBox_57_Title",
+    "content": "ConfirmBox_57_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_57_ButtonText_0",
       "ConfirmBox_57_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 58,
-    "Title": "ConfirmBox_58_Title",
-    "Content": "ConfirmBox_58_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 58,
+    "title": "ConfirmBox_58_Title",
+    "content": "ConfirmBox_58_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_58_ButtonText_0",
       "ConfirmBox_58_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 59,
-    "Title": "ConfirmBox_59_Title",
-    "Content": "ConfirmBox_59_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 59,
+    "title": "ConfirmBox_59_Title",
+    "content": "ConfirmBox_59_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_59_ButtonText_0",
       "ConfirmBox_59_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 60,
-    "Title": "ConfirmBox_60_Title",
-    "Content": "ConfirmBox_60_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 60,
+    "title": "ConfirmBox_60_Title",
+    "content": "ConfirmBox_60_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_60_ButtonText_0",
       "ConfirmBox_60_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 61,
-    "Title": "ConfirmBox_61_Title",
-    "Content": "ConfirmBox_61_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 61,
+    "title": "ConfirmBox_61_Title",
+    "content": "ConfirmBox_61_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_61_ButtonText_0",
       "ConfirmBox_61_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 62,
-    "Title": "ConfirmBox_62_Title",
-    "Content": "ConfirmBox_62_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 62,
+    "title": "ConfirmBox_62_Title",
+    "content": "ConfirmBox_62_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_62_ButtonText_0",
       "ConfirmBox_62_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 63,
-    "Title": "ConfirmBox_63_Title",
-    "Content": "ConfirmBox_63_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 63,
+    "title": "ConfirmBox_63_Title",
+    "content": "ConfirmBox_63_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_63_ButtonText_0",
       "ConfirmBox_63_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 64,
-    "Title": "ConfirmBox_64_Title",
-    "Content": "ConfirmBox_64_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 64,
+    "title": "ConfirmBox_64_Title",
+    "content": "ConfirmBox_64_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_64_ButtonText_0",
       "ConfirmBox_64_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 65,
-    "Title": "ConfirmBox_65_Title",
-    "Content": "ConfirmBox_65_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 65,
+    "title": "ConfirmBox_65_Title",
+    "content": "ConfirmBox_65_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_65_ButtonText_0",
       "ConfirmBox_65_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 66,
-    "Title": "ConfirmBox_66_Title",
-    "Content": "ConfirmBox_66_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 66,
+    "title": "ConfirmBox_66_Title",
+    "content": "ConfirmBox_66_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_66_ButtonText_0",
       "ConfirmBox_66_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 67,
-    "Title": "ConfirmBox_67_Title",
-    "Content": "ConfirmBox_67_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 67,
+    "title": "ConfirmBox_67_Title",
+    "content": "ConfirmBox_67_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_67_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 68,
-    "Title": "ConfirmBox_68_Title",
-    "Content": "ConfirmBox_68_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 68,
+    "title": "ConfirmBox_68_Title",
+    "content": "ConfirmBox_68_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_68_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 69,
-    "Title": "ConfirmBox_69_Title",
-    "Content": "ConfirmBox_69_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 69,
+    "title": "ConfirmBox_69_Title",
+    "content": "ConfirmBox_69_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_69_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 70,
-    "Title": "ConfirmBox_70_Title",
-    "Content": "ConfirmBox_70_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 70,
+    "title": "ConfirmBox_70_Title",
+    "content": "ConfirmBox_70_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_70_ButtonText_0",
       "ConfirmBox_70_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 71,
-    "Title": "ConfirmBox_71_Title",
-    "Content": "ConfirmBox_71_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 71,
+    "title": "ConfirmBox_71_Title",
+    "content": "ConfirmBox_71_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_71_ButtonText_0",
       "ConfirmBox_71_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 72,
-    "Title": "ConfirmBox_72_Title",
-    "Content": "ConfirmBox_72_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 72,
+    "title": "ConfirmBox_72_Title",
+    "content": "ConfirmBox_72_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_72_ButtonText_0",
       "ConfirmBox_72_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 73,
-    "Title": "ConfirmBox_73_Title",
-    "Content": "ConfirmBox_73_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 73,
+    "title": "ConfirmBox_73_Title",
+    "content": "ConfirmBox_73_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_73_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 74,
-    "Title": "ConfirmBox_74_Title",
-    "Content": "ConfirmBox_74_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 74,
+    "title": "ConfirmBox_74_Title",
+    "content": "ConfirmBox_74_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_74_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 75,
-    "Title": "ConfirmBox_75_Title",
-    "Content": "ConfirmBox_75_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 75,
+    "title": "ConfirmBox_75_Title",
+    "content": "ConfirmBox_75_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_75_ButtonText_0",
       "ConfirmBox_75_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 76,
-    "Title": "ConfirmBox_76_Title",
-    "Content": "ConfirmBox_76_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 76,
+    "title": "ConfirmBox_76_Title",
+    "content": "ConfirmBox_76_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_76_ButtonText_0",
       "ConfirmBox_76_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 77,
-    "Title": "ConfirmBox_77_Title",
-    "Content": "ConfirmBox_77_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 77,
+    "title": "ConfirmBox_77_Title",
+    "content": "ConfirmBox_77_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_77_ButtonText_0",
       "ConfirmBox_77_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": false
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": false
   },
   {
-    "Id": 78,
-    "Title": "ConfirmBox_78_Title",
-    "Content": "ConfirmBox_78_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 78,
+    "title": "ConfirmBox_78_Title",
+    "content": "ConfirmBox_78_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_78_ButtonText_0",
       "ConfirmBox_78_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 79,
-    "Title": "ConfirmBox_79_Title",
-    "Content": "ConfirmBox_79_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 79,
+    "title": "ConfirmBox_79_Title",
+    "content": "ConfirmBox_79_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_79_ButtonText_0",
       "ConfirmBox_79_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 80,
-    "Title": "ConfirmBox_80_Title",
-    "Content": "ConfirmBox_80_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 80,
+    "title": "ConfirmBox_80_Title",
+    "content": "ConfirmBox_80_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_80_ButtonText_0",
       "ConfirmBox_80_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 81,
-    "Title": "ConfirmBox_81_Title",
-    "Content": "ConfirmBox_81_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 81,
+    "title": "ConfirmBox_81_Title",
+    "content": "ConfirmBox_81_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_81_ButtonText_0",
       "ConfirmBox_81_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 82,
-    "Title": "ConfirmBox_82_Title",
-    "Content": "ConfirmBox_82_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 82,
+    "title": "ConfirmBox_82_Title",
+    "content": "ConfirmBox_82_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_82_ButtonText_0",
       "ConfirmBox_82_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": false
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": false
   },
   {
-    "Id": 83,
-    "Title": "ConfirmBox_83_Title",
-    "Content": "ConfirmBox_83_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 83,
+    "title": "ConfirmBox_83_Title",
+    "content": "ConfirmBox_83_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_83_ButtonText_0",
       "ConfirmBox_83_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 84,
-    "Title": "ConfirmBox_84_Title",
-    "Content": "ConfirmBox_84_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 84,
+    "title": "ConfirmBox_84_Title",
+    "content": "ConfirmBox_84_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_84_ButtonText_0",
       "ConfirmBox_84_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 85,
-    "Title": "ConfirmBox_85_Title",
-    "Content": "ConfirmBox_85_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 85,
+    "title": "ConfirmBox_85_Title",
+    "content": "ConfirmBox_85_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_85_ButtonText_0",
       "ConfirmBox_85_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 86,
-    "Title": "ConfirmBox_86_Title",
-    "Content": "ConfirmBox_86_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 86,
+    "title": "ConfirmBox_86_Title",
+    "content": "ConfirmBox_86_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_86_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 87,
-    "Title": "ConfirmBox_87_Title",
-    "Content": "ConfirmBox_87_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 87,
+    "title": "ConfirmBox_87_Title",
+    "content": "ConfirmBox_87_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_87_ButtonText_0",
       "ConfirmBox_87_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 88,
-    "Title": "ConfirmBox_88_Title",
-    "Content": "ConfirmBox_88_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 88,
+    "title": "ConfirmBox_88_Title",
+    "content": "ConfirmBox_88_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_88_ButtonText_0",
       "ConfirmBox_88_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": false
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": false
   },
   {
-    "Id": 89,
-    "Title": "ConfirmBox_89_Title",
-    "Content": "ConfirmBox_89_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 89,
+    "title": "ConfirmBox_89_Title",
+    "content": "ConfirmBox_89_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_89_ButtonText_0",
       "ConfirmBox_89_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 90,
-    "Title": "ConfirmBox_90_Title",
-    "Content": "ConfirmBox_90_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 90,
+    "title": "ConfirmBox_90_Title",
+    "content": "ConfirmBox_90_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_90_ButtonText_0",
       "ConfirmBox_90_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 91,
-    "Title": "ConfirmBox_91_Title",
-    "Content": "ConfirmBox_91_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 91,
+    "title": "ConfirmBox_91_Title",
+    "content": "ConfirmBox_91_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_91_ButtonText_0",
       "ConfirmBox_91_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 92,
-    "Title": "ConfirmBox_92_Title",
-    "Content": "ConfirmBox_92_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 92,
+    "title": "ConfirmBox_92_Title",
+    "content": "ConfirmBox_92_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_92_ButtonText_0",
       "ConfirmBox_92_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 93,
-    "Title": "ConfirmBox_93_Title",
-    "Content": "ConfirmBox_93_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 93,
+    "title": "ConfirmBox_93_Title",
+    "content": "ConfirmBox_93_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_93_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 94,
-    "Title": "ConfirmBox_94_Title",
-    "Content": "ConfirmBox_94_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 94,
+    "title": "ConfirmBox_94_Title",
+    "content": "ConfirmBox_94_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 95,
-    "Title": "ConfirmBox_95_Title",
-    "Content": "ConfirmBox_95_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 95,
+    "title": "ConfirmBox_95_Title",
+    "content": "ConfirmBox_95_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_95_ButtonText_0",
       "ConfirmBox_95_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 96,
-    "Title": "ConfirmBox_96_Title",
-    "Content": "ConfirmBox_96_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 96,
+    "title": "ConfirmBox_96_Title",
+    "content": "ConfirmBox_96_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_96_ButtonText_0",
       "ConfirmBox_96_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 97,
-    "Title": "ConfirmBox_97_Title",
-    "Content": "ConfirmBox_97_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 97,
+    "title": "ConfirmBox_97_Title",
+    "content": "ConfirmBox_97_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_97_ButtonText_0",
       "ConfirmBox_97_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 98,
-    "Title": "ConfirmBox_98_Title",
-    "Content": "ConfirmBox_98_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 98,
+    "title": "ConfirmBox_98_Title",
+    "content": "ConfirmBox_98_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_98_ButtonText_0",
       "ConfirmBox_98_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 99,
-    "Title": "ConfirmBox_99_Title",
-    "Content": "ConfirmBox_99_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 99,
+    "title": "ConfirmBox_99_Title",
+    "content": "ConfirmBox_99_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_99_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": false
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": false
   },
   {
-    "Id": 100,
-    "Title": "ConfirmBox_100_Title",
-    "Content": "ConfirmBox_100_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 100,
+    "title": "ConfirmBox_100_Title",
+    "content": "ConfirmBox_100_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_100_ButtonText_0",
       "ConfirmBox_100_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 101,
-    "Title": "ConfirmBox_101_Title",
-    "Content": "ConfirmBox_101_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 101,
+    "title": "ConfirmBox_101_Title",
+    "content": "ConfirmBox_101_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_101_ButtonText_0",
       "ConfirmBox_101_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 102,
-    "Title": "ConfirmBox_102_Title",
-    "Content": "ConfirmBox_102_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 102,
+    "title": "ConfirmBox_102_Title",
+    "content": "ConfirmBox_102_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_102_ButtonText_0",
       "ConfirmBox_102_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 103,
-    "Title": "ConfirmBox_103_Title",
-    "Content": "ConfirmBox_103_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 103,
+    "title": "ConfirmBox_103_Title",
+    "content": "ConfirmBox_103_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_103_ButtonText_0",
       "ConfirmBox_103_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 104,
-    "Title": "ConfirmBox_104_Title",
-    "Content": "ConfirmBox_104_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 104,
+    "title": "ConfirmBox_104_Title",
+    "content": "ConfirmBox_104_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_104_ButtonText_0",
       "ConfirmBox_104_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 105,
-    "Title": "ConfirmBox_105_Title",
-    "Content": "ConfirmBox_105_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 105,
+    "title": "ConfirmBox_105_Title",
+    "content": "ConfirmBox_105_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_105_ButtonText_0",
       "ConfirmBox_105_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 106,
-    "Title": "ConfirmBox_106_Title",
-    "Content": "ConfirmBox_106_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 106,
+    "title": "ConfirmBox_106_Title",
+    "content": "ConfirmBox_106_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_106_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 107,
-    "Title": "ConfirmBox_107_Title",
-    "Content": "ConfirmBox_107_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 107,
+    "title": "ConfirmBox_107_Title",
+    "content": "ConfirmBox_107_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_107_ButtonText_0",
       "ConfirmBox_107_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 1,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 1,
+    "need_close": true
   },
   {
-    "Id": 108,
-    "Title": "ConfirmBox_108_Title",
-    "Content": "ConfirmBox_108_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 108,
+    "title": "ConfirmBox_108_Title",
+    "content": "ConfirmBox_108_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_108_ButtonText_0",
       "ConfirmBox_108_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 109,
-    "Title": "ConfirmBox_109_Title",
-    "Content": "ConfirmBox_109_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 109,
+    "title": "ConfirmBox_109_Title",
+    "content": "ConfirmBox_109_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_109_ButtonText_0",
       "ConfirmBox_109_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 110,
-    "Title": "ConfirmBox_110_Title",
-    "Content": "ConfirmBox_110_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 110,
+    "title": "ConfirmBox_110_Title",
+    "content": "ConfirmBox_110_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_110_ButtonText_0",
       "ConfirmBox_110_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 111,
-    "Title": "ConfirmBox_111_Title",
-    "Content": "ConfirmBox_111_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 111,
+    "title": "ConfirmBox_111_Title",
+    "content": "ConfirmBox_111_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 112,
-    "Title": "ConfirmBox_112_Title",
-    "Content": "ConfirmBox_112_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 112,
+    "title": "ConfirmBox_112_Title",
+    "content": "ConfirmBox_112_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_112_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 113,
-    "Title": "ConfirmBox_113_Title",
-    "Content": "ConfirmBox_113_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 113,
+    "title": "ConfirmBox_113_Title",
+    "content": "ConfirmBox_113_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_113_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 114,
-    "Title": "ConfirmBox_114_Title",
-    "Content": "ConfirmBox_114_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 114,
+    "title": "ConfirmBox_114_Title",
+    "content": "ConfirmBox_114_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_114_ButtonText_0",
       "ConfirmBox_114_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 115,
-    "Title": "ConfirmBox_115_Title",
-    "Content": "ConfirmBox_115_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 115,
+    "title": "ConfirmBox_115_Title",
+    "content": "ConfirmBox_115_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_115_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 116,
-    "Title": "ConfirmBox_116_Title",
-    "Content": "ConfirmBox_116_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 116,
+    "title": "ConfirmBox_116_Title",
+    "content": "ConfirmBox_116_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 117,
-    "Title": "ConfirmBox_117_Title",
-    "Content": "ConfirmBox_117_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 117,
+    "title": "ConfirmBox_117_Title",
+    "content": "ConfirmBox_117_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 118,
-    "Title": "ConfirmBox_118_Title",
-    "Content": "ConfirmBox_118_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 118,
+    "title": "ConfirmBox_118_Title",
+    "content": "ConfirmBox_118_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 119,
-    "Title": "ConfirmBox_119_Title",
-    "Content": "ConfirmBox_119_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 119,
+    "title": "ConfirmBox_119_Title",
+    "content": "ConfirmBox_119_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_115_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 120,
-    "Title": "ConfirmBox_120_Title",
-    "Content": "ConfirmBox_120_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 120,
+    "title": "ConfirmBox_120_Title",
+    "content": "ConfirmBox_120_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_115_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 121,
-    "Title": "ConfirmBox_121_Title",
-    "Content": "ConfirmBox_121_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 121,
+    "title": "ConfirmBox_121_Title",
+    "content": "ConfirmBox_121_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_115_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 122,
-    "Title": "ConfirmBox_122_Title",
-    "Content": "ConfirmBox_122_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 122,
+    "title": "ConfirmBox_122_Title",
+    "content": "ConfirmBox_122_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_122_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 123,
-    "Title": "ConfirmBox_121_Title",
-    "Content": "ConfirmBox_123_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 123,
+    "title": "ConfirmBox_121_Title",
+    "content": "ConfirmBox_123_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 124,
-    "Title": "ConfirmBox_121_Title",
-    "Content": "ConfirmBox_124_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 124,
+    "title": "ConfirmBox_121_Title",
+    "content": "ConfirmBox_124_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 125,
-    "Title": "ConfirmBox_116_Title",
-    "Content": "VisionLevel_ConfirmBox_1_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 125,
+    "title": "ConfirmBox_116_Title",
+    "content": "VisionLevel_ConfirmBox_1_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 126,
-    "Title": "ConfirmBox_117_Title",
-    "Content": "VisionLevel_ConfirmBox_2_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 126,
+    "title": "ConfirmBox_117_Title",
+    "content": "VisionLevel_ConfirmBox_2_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 127,
-    "Title": "ConfirmBox_118_Title",
-    "Content": "VisionLevel_ConfirmBox_3_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 127,
+    "title": "ConfirmBox_118_Title",
+    "content": "VisionLevel_ConfirmBox_3_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 128,
-    "Title": "ConfirmBox_121_Title",
-    "Content": "ConfirmBox_125_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 128,
+    "title": "ConfirmBox_121_Title",
+    "content": "ConfirmBox_125_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 129,
-    "Title": "ConfirmBox_129_Title",
-    "Content": "ConfirmBox_129_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 129,
+    "title": "ConfirmBox_129_Title",
+    "content": "ConfirmBox_129_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_129_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 130,
-    "Title": "ConfirmBox_130_Title",
-    "Content": "ConfirmBox_130_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 130,
+    "title": "ConfirmBox_130_Title",
+    "content": "ConfirmBox_130_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_130_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 131,
-    "Title": "ConfirmBox_131_Title",
-    "Content": "ConfirmBox_132_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 131,
+    "title": "ConfirmBox_131_Title",
+    "content": "ConfirmBox_132_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_131_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 132,
-    "Title": "ConfirmBox_132_Title",
-    "Content": "ConfirmBox_131_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 132,
+    "title": "ConfirmBox_132_Title",
+    "content": "ConfirmBox_131_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_132_ButtonText_0",
       "ConfirmBox_132_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 133,
-    "Title": "ConfirmBox_133_Title",
-    "Content": "ConfirmBox_133_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 133,
+    "title": "ConfirmBox_133_Title",
+    "content": "ConfirmBox_133_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_133_ButtonText_0",
       "ConfirmBox_133_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 134,
-    "Title": "ConfirmBox_134_Title",
-    "Content": "ConfirmBox_134_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 134,
+    "title": "ConfirmBox_134_Title",
+    "content": "ConfirmBox_134_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_134_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 135,
-    "Title": "ConfirmBox_135_Title",
-    "Content": "ConfirmBox_135_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 135,
+    "title": "ConfirmBox_135_Title",
+    "content": "ConfirmBox_135_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_135_ButtonText_0",
       "ConfirmBox_135_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 136,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_136_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 136,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_136_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_136_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 137,
-    "Title": "ConfirmBox_111_Title",
-    "Content": "ConfirmBox_137_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 137,
+    "title": "ConfirmBox_111_Title",
+    "content": "ConfirmBox_137_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_111_ButtonText_0",
       "ConfirmBox_111_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 138,
-    "Title": "ConfirmBox_138_Title",
-    "Content": "ConfirmBox_138_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 138,
+    "title": "ConfirmBox_138_Title",
+    "content": "ConfirmBox_138_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_138_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 139,
-    "Title": "ConfirmBox_139_Title",
-    "Content": "ConfirmBox_139_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 139,
+    "title": "ConfirmBox_139_Title",
+    "content": "ConfirmBox_139_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_139_ButtonText_1",
       "ConfirmBox_139_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 1,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 1,
+    "need_close": true
   },
   {
-    "Id": 140,
-    "Title": "ConfirmBox_140_Title",
-    "Content": "ConfirmBox_140_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 140,
+    "title": "ConfirmBox_140_Title",
+    "content": "ConfirmBox_140_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_140_ButtonText_1",
       "ConfirmBox_140_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 141,
-    "Title": "ConfirmBox_141_Title",
-    "Content": "ConfirmBox_141_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 141,
+    "title": "ConfirmBox_141_Title",
+    "content": "ConfirmBox_141_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_141_ButtonText_1",
       "ConfirmBox_141_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 1,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 1,
+    "need_close": true
   },
   {
-    "Id": 142,
-    "Title": "ConfirmBox_142_Title",
-    "Content": "ConfirmBox_142_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 142,
+    "title": "ConfirmBox_142_Title",
+    "content": "ConfirmBox_142_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_142_ButtonText_1",
       "ConfirmBox_142_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 1,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 1,
+    "need_close": true
   },
   {
-    "Id": 143,
-    "Title": "ConfirmBox_143_Title",
-    "Content": "ConfirmBox_143_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 143,
+    "title": "ConfirmBox_143_Title",
+    "content": "ConfirmBox_143_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_143_ButtonText_1",
       "ConfirmBox_143_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 144,
-    "Title": "ConfirmBox_1_Title",
-    "Content": "ConfirmBox_144_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 144,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_144_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 145,
-    "Title": "ConfirmBox_145_Title",
-    "Content": "ConfirmBox_145_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 145,
+    "title": "ConfirmBox_145_Title",
+    "content": "ConfirmBox_145_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_145_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 146,
-    "Title": "ConfirmBox_146_Title",
-    "Content": "ConfirmBox_146_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 146,
+    "title": "ConfirmBox_146_Title",
+    "content": "ConfirmBox_146_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_146_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 147,
-    "Title": "ConfirmBox_147_Title",
-    "Content": "ConfirmBox_147_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 147,
+    "title": "ConfirmBox_147_Title",
+    "content": "ConfirmBox_147_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_147_ButtonText_0",
       "ConfirmBox_147_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 148,
-    "Title": "ConfirmBox_148_Title",
-    "Content": "ConfirmBox_148_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 148,
+    "title": "ConfirmBox_148_Title",
+    "content": "ConfirmBox_148_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_148_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 149,
-    "Title": "ConfirmBox_149_Title",
-    "Content": "ConfirmBox_149_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 149,
+    "title": "ConfirmBox_149_Title",
+    "content": "ConfirmBox_149_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_149_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 150,
-    "Title": "ConfirmBox_150_Title",
-    "Content": "ConfirmBox_150_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 150,
+    "title": "ConfirmBox_150_Title",
+    "content": "ConfirmBox_150_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_150_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 151,
-    "Title": "ConfirmBox_151_Title",
-    "Content": "ConfirmBox_151_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 151,
+    "title": "ConfirmBox_151_Title",
+    "content": "ConfirmBox_151_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_151_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 152,
-    "Title": "ConfirmBox_152_Title",
-    "Content": "ConfirmBox_152_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 152,
+    "title": "ConfirmBox_152_Title",
+    "content": "ConfirmBox_152_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_152_ButtonText_0",
       "ConfirmBox_152_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 153,
-    "Title": "ConfirmBox_153_Title",
-    "Content": "ConfirmBox_153_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 153,
+    "title": "ConfirmBox_153_Title",
+    "content": "ConfirmBox_153_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_153_ButtonText_0",
       "ConfirmBox_153_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 154,
-    "Title": "ConfirmBox_154_Title",
-    "Content": "ConfirmBox_154_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 154,
+    "title": "ConfirmBox_154_Title",
+    "content": "ConfirmBox_154_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_154_ButtonText_0",
       "ConfirmBox_154_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 155,
-    "Title": "ConfirmBox_155_Title",
-    "Content": "ConfirmBox_155_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 155,
+    "title": "ConfirmBox_155_Title",
+    "content": "ConfirmBox_155_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_155_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 156,
-    "Title": "ConfirmBox_156_Title",
-    "Content": "ConfirmBox_156_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 156,
+    "title": "ConfirmBox_156_Title",
+    "content": "ConfirmBox_156_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_156_ButtonText_0",
       "ConfirmBox_156_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 157,
-    "Title": "ConfirmBox_157_Title",
-    "Content": "ConfirmBox_157_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 157,
+    "title": "ConfirmBox_157_Title",
+    "content": "ConfirmBox_157_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_157_ButtonText_1",
       "ConfirmBox_157_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 158,
-    "Title": "ConfirmBox_158_Title",
-    "Content": "ConfirmBox_158_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 158,
+    "title": "ConfirmBox_158_Title",
+    "content": "ConfirmBox_158_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_158_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 159,
-    "Title": "ConfirmBox_159_Title",
-    "Content": "ConfirmBox_159_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 159,
+    "title": "ConfirmBox_159_Title",
+    "content": "ConfirmBox_159_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_159_ButtonText_0",
       "ConfirmBox_159_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 160,
-    "Title": "ConfirmBox_160_Title",
-    "Content": "ConfirmBox_160_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 160,
+    "title": "ConfirmBox_160_Title",
+    "content": "ConfirmBox_160_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 161,
-    "Title": "ConfirmBox_161_Title",
-    "Content": "ConfirmBox_161_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 161,
+    "title": "ConfirmBox_161_Title",
+    "content": "ConfirmBox_161_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_161_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 162,
-    "Title": "ConfirmBox_162_Title",
-    "Content": "ConfirmBox_162_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 162,
+    "title": "ConfirmBox_162_Title",
+    "content": "ConfirmBox_162_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_162_ButtonText_0",
       "ConfirmBox_162_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 163,
-    "Title": "ConfirmBox_163_Title",
-    "Content": "ConfirmBox_163_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 163,
+    "title": "ConfirmBox_163_Title",
+    "content": "ConfirmBox_163_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 164,
-    "Title": "ConfirmBox_164_Title",
-    "Content": "ConfirmBox_164_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 164,
+    "title": "ConfirmBox_164_Title",
+    "content": "ConfirmBox_164_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_164_ButtonText_0",
       "ConfirmBox_164_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 165,
-    "Title": "ConfirmBox_165_Title",
-    "Content": "ConfirmBox_165_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 165,
+    "title": "ConfirmBox_165_Title",
+    "content": "ConfirmBox_165_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_165_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 166,
-    "Title": "ConfirmBox_166_Title",
-    "Content": "ConfirmBox_166_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 166,
+    "title": "ConfirmBox_166_Title",
+    "content": "ConfirmBox_166_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_166_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 167,
-    "Title": "ConfirmBox_167_Title",
-    "Content": "ConfirmBox_167_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 167,
+    "title": "ConfirmBox_167_Title",
+    "content": "ConfirmBox_167_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_167_ButtonText_0",
       "ConfirmBox_167_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": false
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": false
   },
   {
-    "Id": 168,
-    "Title": "ConfirmBox_168_Title",
-    "Content": "ConfirmBox_168_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 168,
+    "title": "ConfirmBox_168_Title",
+    "content": "ConfirmBox_168_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_168_ButtonText_0",
       "ConfirmBox_168_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 169,
-    "Title": "ConfirmBox_169_Title",
-    "Content": "ConfirmBox_169_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 169,
+    "title": "ConfirmBox_169_Title",
+    "content": "ConfirmBox_169_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_169_ButtonText_0",
       "ConfirmBox_169_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 170,
-    "Title": "ConfirmBox_170_Title",
-    "Content": "ConfirmBox_170_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 170,
+    "title": "ConfirmBox_170_Title",
+    "content": "ConfirmBox_170_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 171,
-    "Title": "ConfirmBox_170_Title",
-    "Content": "ConfirmBox_171_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 171,
+    "title": "ConfirmBox_170_Title",
+    "content": "ConfirmBox_171_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_157_ButtonText_1",
       "ConfirmBox_157_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 172,
-    "Title": "ConfirmBox_172_Title",
-    "Content": "ConfirmBox_172_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 172,
+    "title": "ConfirmBox_172_Title",
+    "content": "ConfirmBox_172_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_1",
       "ConfirmBox_157_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 173,
-    "Title": "ConfirmBox_173_Title",
-    "Content": "ConfirmBox_173_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 173,
+    "title": "ConfirmBox_173_Title",
+    "content": "ConfirmBox_173_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_173_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 174,
-    "Title": "ConfirmBox_174_Title",
-    "Content": "ConfirmBox_174_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 174,
+    "title": "ConfirmBox_174_Title",
+    "content": "ConfirmBox_174_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_174_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 175,
-    "Title": "ConfirmBox_175_Title",
-    "Content": "ConfirmBox_175_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 175,
+    "title": "ConfirmBox_175_Title",
+    "content": "ConfirmBox_175_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_178_ButtonText_0",
       "ConfirmBox_175_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 2,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 2,
+    "need_close": true
   },
   {
-    "Id": 176,
-    "Title": "ConfirmBox_176_Title",
-    "Content": "ConfirmBox_176_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 176,
+    "title": "ConfirmBox_176_Title",
+    "content": "ConfirmBox_176_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 177,
-    "Title": "ConfirmBox_177_Title",
-    "Content": "ConfirmBox_177_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 177,
+    "title": "ConfirmBox_177_Title",
+    "content": "ConfirmBox_177_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_177_ButtonText_0"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 178,
-    "Title": "ConfirmBox_178_Title",
-    "Content": "ConfirmBox_178_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 178,
+    "title": "ConfirmBox_178_Title",
+    "content": "ConfirmBox_178_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_178_ButtonText_0",
       "ConfirmBox_178_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 179,
-    "Title": "ConfirmBox_178_Title",
-    "Content": "ConfirmBox_179_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 179,
+    "title": "ConfirmBox_178_Title",
+    "content": "ConfirmBox_179_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_179_ButtonText_0",
       "ConfirmBox_179_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 181,
-    "Title": "ConfirmBox_180_Title",
-    "Content": "ConfirmBox_181_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 181,
+    "title": "ConfirmBox_180_Title",
+    "content": "ConfirmBox_181_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 182,
-    "Title": "ConfirmBox_180_Title",
-    "Content": "ConfirmBox_182_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 182,
+    "title": "ConfirmBox_180_Title",
+    "content": "ConfirmBox_182_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 183,
-    "Title": "ConfirmBox_180_Title",
-    "Content": "ConfirmBox_183_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 183,
+    "title": "ConfirmBox_180_Title",
+    "content": "ConfirmBox_183_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_0",
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 184,
-    "Title": "ConfirmBox_184_Title",
-    "Content": "ConfirmBox_184_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 184,
+    "title": "ConfirmBox_184_Title",
+    "content": "ConfirmBox_184_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_184_ButtonText_0",
       "ConfirmBox_184_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": true,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 185,
-    "Title": "ConfirmBox_185_Title",
-    "Content": "ConfirmBox_185_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 185,
+    "title": "ConfirmBox_185_Title",
+    "content": "ConfirmBox_185_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_1_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   },
   {
-    "Id": 180,
-    "Title": "ConfirmBox_180_Title",
-    "Content": "ConfirmBox_180_Content",
-    "SecondaryContent": "",
-    "ButtonText": [
+    "id": 180,
+    "title": "ConfirmBox_180_Title",
+    "content": "ConfirmBox_180_Content",
+    "secondary_content": "",
+    "button_text": [
       "ConfirmBox_180_ButtonText_0",
       "ConfirmBox_180_ButtonText_1"
     ],
-    "DelayTime": 0,
-    "DelayButtonIndex": 0,
-    "NeedMaskClose": false,
-    "UiShowType": 0,
-    "NeedClose": true
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
   }
 ]

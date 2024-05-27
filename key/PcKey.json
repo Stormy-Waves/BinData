@@ -1,716 +1,716 @@
 [
   {
-    "Id": 1,
-    "KeyName": "LeftMouseButton",
-    "KeyDescription": "鼠标左键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseLeft_UI.T_IconPcBtn_MouseLeft_UI"
+    "id": 1,
+    "key_name": "LeftMouseButton",
+    "key_description": "鼠标左键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseLeft_UI.T_IconPcBtn_MouseLeft_UI"
   },
   {
-    "Id": 2,
-    "KeyName": "RightMouseButton",
-    "KeyDescription": "鼠标右键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseRight_UI.T_IconPcBtn_MouseRight_UI"
+    "id": 2,
+    "key_name": "RightMouseButton",
+    "key_description": "鼠标右键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseRight_UI.T_IconPcBtn_MouseRight_UI"
   },
   {
-    "Id": 3,
-    "KeyName": "SpaceBar",
-    "KeyDescription": "空格",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySpaceBar_UI.T_IconPcBtn_KeySpaceBar_UI"
+    "id": 3,
+    "key_name": "SpaceBar",
+    "key_description": "空格",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySpaceBar_UI.T_IconPcBtn_KeySpaceBar_UI"
   },
   {
-    "Id": 4,
-    "KeyName": "LeftShift",
-    "KeyDescription": "左Shift",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftShift_UI.T_IconPcBtn_KeyLeftShift_UI"
+    "id": 4,
+    "key_name": "LeftShift",
+    "key_description": "左Shift",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftShift_UI.T_IconPcBtn_KeyLeftShift_UI"
   },
   {
-    "Id": 5,
-    "KeyName": "W",
-    "KeyDescription": "键盘W",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyW_UI.T_IconPcBtn_KeyW_UI"
+    "id": 5,
+    "key_name": "W",
+    "key_description": "键盘W",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyW_UI.T_IconPcBtn_KeyW_UI"
   },
   {
-    "Id": 6,
-    "KeyName": "S",
-    "KeyDescription": "键盘S",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyS_UI.T_IconPcBtn_KeyS_UI"
+    "id": 6,
+    "key_name": "S",
+    "key_description": "键盘S",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyS_UI.T_IconPcBtn_KeyS_UI"
   },
   {
-    "Id": 7,
-    "KeyName": "A",
-    "KeyDescription": "键盘A",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyA_UI.T_IconPcBtn_KeyA_UI"
+    "id": 7,
+    "key_name": "A",
+    "key_description": "键盘A",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyA_UI.T_IconPcBtn_KeyA_UI"
   },
   {
-    "Id": 8,
-    "KeyName": "D",
-    "KeyDescription": "键盘D",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyD_UI.T_IconPcBtn_KeyD_UI"
+    "id": 8,
+    "key_name": "D",
+    "key_description": "键盘D",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyD_UI.T_IconPcBtn_KeyD_UI"
   },
   {
-    "Id": 9,
-    "KeyName": "Q",
-    "KeyDescription": "键盘Q",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyQ_UI.T_IconPcBtn_KeyQ_UI"
+    "id": 9,
+    "key_name": "Q",
+    "key_description": "键盘Q",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyQ_UI.T_IconPcBtn_KeyQ_UI"
   },
   {
-    "Id": 10,
-    "KeyName": "E",
-    "KeyDescription": "键盘E",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyE_UI.T_IconPcBtn_KeyE_UI"
+    "id": 10,
+    "key_name": "E",
+    "key_description": "键盘E",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyE_UI.T_IconPcBtn_KeyE_UI"
   },
   {
-    "Id": 11,
-    "KeyName": "R",
-    "KeyDescription": "键盘R",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyR_UI.T_IconPcBtn_KeyR_UI"
+    "id": 11,
+    "key_name": "R",
+    "key_description": "键盘R",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyR_UI.T_IconPcBtn_KeyR_UI"
   },
   {
-    "Id": 12,
-    "KeyName": "T",
-    "KeyDescription": "键盘T",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyT_UI.T_IconPcBtn_KeyT_UI"
+    "id": 12,
+    "key_name": "T",
+    "key_description": "键盘T",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyT_UI.T_IconPcBtn_KeyT_UI"
   },
   {
-    "Id": 13,
-    "KeyName": "O",
-    "KeyDescription": "键盘O",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyO_UI.T_IconPcBtn_KeyO_UI"
+    "id": 13,
+    "key_name": "O",
+    "key_description": "键盘O",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyO_UI.T_IconPcBtn_KeyO_UI"
   },
   {
-    "Id": 14,
-    "KeyName": "P",
-    "KeyDescription": "键盘P",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyP_UI.T_IconPcBtn_KeyP_UI"
+    "id": 14,
+    "key_name": "P",
+    "key_description": "键盘P",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyP_UI.T_IconPcBtn_KeyP_UI"
   },
   {
-    "Id": 15,
-    "KeyName": "F",
-    "KeyDescription": "键盘F",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF_UI.T_IconPcBtn_KeyF_UI"
+    "id": 15,
+    "key_name": "F",
+    "key_description": "键盘F",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF_UI.T_IconPcBtn_KeyF_UI"
   },
   {
-    "Id": 16,
-    "KeyName": "J",
-    "KeyDescription": "键盘J",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyJ_UI.T_IconPcBtn_KeyJ_UI"
+    "id": 16,
+    "key_name": "J",
+    "key_description": "键盘J",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyJ_UI.T_IconPcBtn_KeyJ_UI"
   },
   {
-    "Id": 17,
-    "KeyName": "V",
-    "KeyDescription": "键盘V",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyV_UI.T_IconPcBtn_KeyV_UI"
+    "id": 17,
+    "key_name": "V",
+    "key_description": "键盘V",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyV_UI.T_IconPcBtn_KeyV_UI"
   },
   {
-    "Id": 18,
-    "KeyName": "B",
-    "KeyDescription": "键盘B",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyB_UI.T_IconPcBtn_KeyB_UI"
+    "id": 18,
+    "key_name": "B",
+    "key_description": "键盘B",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyB_UI.T_IconPcBtn_KeyB_UI"
   },
   {
-    "Id": 19,
-    "KeyName": "M",
-    "KeyDescription": "键盘M",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyM_UI.T_IconPcBtn_KeyM_UI"
+    "id": 19,
+    "key_name": "M",
+    "key_description": "键盘M",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyM_UI.T_IconPcBtn_KeyM_UI"
   },
   {
-    "Id": 20,
-    "KeyName": "One",
-    "KeyDescription": "键盘1",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key1_UI.T_IconPcBtn_Key1_UI"
+    "id": 20,
+    "key_name": "One",
+    "key_description": "键盘1",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key1_UI.T_IconPcBtn_Key1_UI"
   },
   {
-    "Id": 21,
-    "KeyName": "Two",
-    "KeyDescription": "键盘2",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key2_UI.T_IconPcBtn_Key2_UI"
+    "id": 21,
+    "key_name": "Two",
+    "key_description": "键盘2",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key2_UI.T_IconPcBtn_Key2_UI"
   },
   {
-    "Id": 22,
-    "KeyName": "Three",
-    "KeyDescription": "键盘3",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key3_UI.T_IconPcBtn_Key3_UI"
+    "id": 22,
+    "key_name": "Three",
+    "key_description": "键盘3",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key3_UI.T_IconPcBtn_Key3_UI"
   },
   {
-    "Id": 23,
-    "KeyName": "MiddleMouseButton",
-    "KeyDescription": "鼠标中键",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseMiddle_UI.T_IconPcBtn_MouseMiddle_UI"
+    "id": 23,
+    "key_name": "MiddleMouseButton",
+    "key_description": "鼠标中键",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_MouseMiddle_UI.T_IconPcBtn_MouseMiddle_UI"
   },
   {
-    "Id": 24,
-    "KeyName": "LeftAlt",
-    "KeyDescription": "左Alt",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyAlt_UI.T_IconPcBtn_KeyAlt_UI"
+    "id": 24,
+    "key_name": "LeftAlt",
+    "key_description": "左Alt",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyAlt_UI.T_IconPcBtn_KeyAlt_UI"
   },
   {
-    "Id": 25,
-    "KeyName": "X",
-    "KeyDescription": "键盘X",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyX_UI.T_IconPcBtn_KeyX_UI"
+    "id": 25,
+    "key_name": "X",
+    "key_description": "键盘X",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyX_UI.T_IconPcBtn_KeyX_UI"
   },
   {
-    "Id": 26,
-    "KeyName": "Tilde",
-    "KeyDescription": "键盘~",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTilde_UI.T_IconPcBtn_KeyTilde_UI"
+    "id": 26,
+    "key_name": "Tilde",
+    "key_description": "键盘~",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTilde_UI.T_IconPcBtn_KeyTilde_UI"
   },
   {
-    "Id": 27,
-    "KeyName": "G",
-    "KeyDescription": "键盘G",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyG_UI.T_IconPcBtn_KeyG_UI"
+    "id": 27,
+    "key_name": "G",
+    "key_description": "键盘G",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyG_UI.T_IconPcBtn_KeyG_UI"
   },
   {
-    "Id": 28,
-    "KeyName": "H",
-    "KeyDescription": "键盘H",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyH_UI.T_IconPcBtn_KeyH_UI"
+    "id": 28,
+    "key_name": "H",
+    "key_description": "键盘H",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyH_UI.T_IconPcBtn_KeyH_UI"
   },
   {
-    "Id": 29,
-    "KeyName": "Four",
-    "KeyDescription": "键盘4",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key4_UI.T_IconPcBtn_Key4_UI"
+    "id": 29,
+    "key_name": "Four",
+    "key_description": "键盘4",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key4_UI.T_IconPcBtn_Key4_UI"
   },
   {
-    "Id": 30,
-    "KeyName": "MouseWheelAxis",
-    "KeyDescription": "鼠标滚轮",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyWheelAxis_UI.T_IconPcBtn_KeyWheelAxis_UI"
+    "id": 30,
+    "key_name": "MouseWheelAxis",
+    "key_description": "鼠标滚轮",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyWheelAxis_UI.T_IconPcBtn_KeyWheelAxis_UI"
   },
   {
-    "Id": 31,
-    "KeyName": "Tab",
-    "KeyDescription": "键盘Tab",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTab_UI.T_IconPcBtn_KeyTab_UI"
+    "id": 31,
+    "key_name": "Tab",
+    "key_description": "键盘Tab",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyTab_UI.T_IconPcBtn_KeyTab_UI"
   },
   {
-    "Id": 32,
-    "KeyName": "Zero",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key0_UI.T_IconPcBtn_Key0_UI"
+    "id": 32,
+    "key_name": "Zero",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key0_UI.T_IconPcBtn_Key0_UI"
   },
   {
-    "Id": 33,
-    "KeyName": "Five",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key5_UI.T_IconPcBtn_Key5_UI"
+    "id": 33,
+    "key_name": "Five",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key5_UI.T_IconPcBtn_Key5_UI"
   },
   {
-    "Id": 34,
-    "KeyName": "Six",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key6_UI.T_IconPcBtn_Key6_UI"
+    "id": 34,
+    "key_name": "Six",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key6_UI.T_IconPcBtn_Key6_UI"
   },
   {
-    "Id": 35,
-    "KeyName": "Seven",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key7_UI.T_IconPcBtn_Key7_UI"
+    "id": 35,
+    "key_name": "Seven",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key7_UI.T_IconPcBtn_Key7_UI"
   },
   {
-    "Id": 36,
-    "KeyName": "Eight",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key8_UI.T_IconPcBtn_Key8_UI"
+    "id": 36,
+    "key_name": "Eight",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key8_UI.T_IconPcBtn_Key8_UI"
   },
   {
-    "Id": 37,
-    "KeyName": "Nine",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key9_UI.T_IconPcBtn_Key9_UI"
+    "id": 37,
+    "key_name": "Nine",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key9_UI.T_IconPcBtn_Key9_UI"
   },
   {
-    "Id": 38,
-    "KeyName": "Add",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyAdd_UI.T_IconPcBtn_KeyAdd_UI"
+    "id": 38,
+    "key_name": "Add",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyAdd_UI.T_IconPcBtn_KeyAdd_UI"
   },
   {
-    "Id": 39,
-    "KeyName": "Apostrophe",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyApostrophe_UI.T_IconPcBtn_KeyApostrophe_UI"
+    "id": 39,
+    "key_name": "Apostrophe",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyApostrophe_UI.T_IconPcBtn_KeyApostrophe_UI"
   },
   {
-    "Id": 40,
-    "KeyName": "Backslash",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyBackslash_UI.T_IconPcBtn_KeyBackslash_UI"
+    "id": 40,
+    "key_name": "Backslash",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyBackslash_UI.T_IconPcBtn_KeyBackslash_UI"
   },
   {
-    "Id": 41,
-    "KeyName": "BackSpace",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyBackSpace_UI.T_IconPcBtn_KeyBackSpace_UI"
+    "id": 41,
+    "key_name": "BackSpace",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyBackSpace_UI.T_IconPcBtn_KeyBackSpace_UI"
   },
   {
-    "Id": 42,
-    "KeyName": "C",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyC_UI.T_IconPcBtn_KeyC_UI"
+    "id": 42,
+    "key_name": "C",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyC_UI.T_IconPcBtn_KeyC_UI"
   },
   {
-    "Id": 43,
-    "KeyName": "CapsLock",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyCapsLock_UI.T_IconPcBtn_KeyCapsLock_UI"
+    "id": 43,
+    "key_name": "CapsLock",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyCapsLock_UI.T_IconPcBtn_KeyCapsLock_UI"
   },
   {
-    "Id": 44,
-    "KeyName": "Comma",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyComma_UI.T_IconPcBtn_KeyComma_UI"
+    "id": 44,
+    "key_name": "Comma",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyComma_UI.T_IconPcBtn_KeyComma_UI"
   },
   {
-    "Id": 45,
-    "KeyName": "Decimal",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDecimal_UI.T_IconPcBtn_KeyDecimal_UI"
+    "id": 45,
+    "key_name": "Decimal",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDecimal_UI.T_IconPcBtn_KeyDecimal_UI"
   },
   {
-    "Id": 46,
-    "KeyName": "Delete",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDelete_UI.T_IconPcBtn_KeyDelete_UI"
+    "id": 46,
+    "key_name": "Delete",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDelete_UI.T_IconPcBtn_KeyDelete_UI"
   },
   {
-    "Id": 47,
-    "KeyName": "Divide",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDivide_UI.T_IconPcBtn_KeyDivide_UI"
+    "id": 47,
+    "key_name": "Divide",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDivide_UI.T_IconPcBtn_KeyDivide_UI"
   },
   {
-    "Id": 48,
-    "KeyName": "Down",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDown_UI.T_IconPcBtn_KeyDown_UI"
+    "id": 48,
+    "key_name": "Down",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyDown_UI.T_IconPcBtn_KeyDown_UI"
   },
   {
-    "Id": 49,
-    "KeyName": "End",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEnd_UI.T_IconPcBtn_KeyEnd_UI"
+    "id": 49,
+    "key_name": "End",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEnd_UI.T_IconPcBtn_KeyEnd_UI"
   },
   {
-    "Id": 50,
-    "KeyName": "Enter",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEnterUI.T_IconPcBtn_KeyEnterUI"
+    "id": 50,
+    "key_name": "Enter",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEnterUI.T_IconPcBtn_KeyEnterUI"
   },
   {
-    "Id": 51,
-    "KeyName": "Equals",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEquals_UI.T_IconPcBtn_KeyEquals_UI"
+    "id": 51,
+    "key_name": "Equals",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEquals_UI.T_IconPcBtn_KeyEquals_UI"
   },
   {
-    "Id": 52,
-    "KeyName": "Escape",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEsc_UI.T_IconPcBtn_KeyEsc_UI"
+    "id": 52,
+    "key_name": "Escape",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyEsc_UI.T_IconPcBtn_KeyEsc_UI"
   },
   {
-    "Id": 53,
-    "KeyName": "F10",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF10_UI.T_IconPcBtn_KeyF10_UI"
+    "id": 53,
+    "key_name": "F10",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF10_UI.T_IconPcBtn_KeyF10_UI"
   },
   {
-    "Id": 54,
-    "KeyName": "F11",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF11_UI.T_IconPcBtn_KeyF11_UI"
+    "id": 54,
+    "key_name": "F11",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF11_UI.T_IconPcBtn_KeyF11_UI"
   },
   {
-    "Id": 55,
-    "KeyName": "F12",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF12_UI.T_IconPcBtn_KeyF12_UI"
+    "id": 55,
+    "key_name": "F12",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF12_UI.T_IconPcBtn_KeyF12_UI"
   },
   {
-    "Id": 56,
-    "KeyName": "F1",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF1_UI.T_IconPcBtn_KeyF1_UI"
+    "id": 56,
+    "key_name": "F1",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF1_UI.T_IconPcBtn_KeyF1_UI"
   },
   {
-    "Id": 57,
-    "KeyName": "F2",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF2_UI.T_IconPcBtn_KeyF2_UI"
+    "id": 57,
+    "key_name": "F2",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF2_UI.T_IconPcBtn_KeyF2_UI"
   },
   {
-    "Id": 58,
-    "KeyName": "F3",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF3_UI.T_IconPcBtn_KeyF3_UI"
+    "id": 58,
+    "key_name": "F3",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF3_UI.T_IconPcBtn_KeyF3_UI"
   },
   {
-    "Id": 59,
-    "KeyName": "F4",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF4_UI.T_IconPcBtn_KeyF4_UI"
+    "id": 59,
+    "key_name": "F4",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF4_UI.T_IconPcBtn_KeyF4_UI"
   },
   {
-    "Id": 60,
-    "KeyName": "F5",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF5_UI.T_IconPcBtn_KeyF5_UI"
+    "id": 60,
+    "key_name": "F5",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF5_UI.T_IconPcBtn_KeyF5_UI"
   },
   {
-    "Id": 61,
-    "KeyName": "F6",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF6_UI.T_IconPcBtn_KeyF6_UI"
+    "id": 61,
+    "key_name": "F6",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF6_UI.T_IconPcBtn_KeyF6_UI"
   },
   {
-    "Id": 62,
-    "KeyName": "F7",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF7_UI.T_IconPcBtn_KeyF7_UI"
+    "id": 62,
+    "key_name": "F7",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF7_UI.T_IconPcBtn_KeyF7_UI"
   },
   {
-    "Id": 63,
-    "KeyName": "F8",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF8_UI.T_IconPcBtn_KeyF8_UI"
+    "id": 63,
+    "key_name": "F8",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF8_UI.T_IconPcBtn_KeyF8_UI"
   },
   {
-    "Id": 64,
-    "KeyName": "F9",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF9_UI.T_IconPcBtn_KeyF9_UI"
+    "id": 64,
+    "key_name": "F9",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyF9_UI.T_IconPcBtn_KeyF9_UI"
   },
   {
-    "Id": 65,
-    "KeyName": "Hyphen",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyHyphen_UI.T_IconPcBtn_KeyHyphen_UI"
+    "id": 65,
+    "key_name": "Hyphen",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyHyphen_UI.T_IconPcBtn_KeyHyphen_UI"
   },
   {
-    "Id": 66,
-    "KeyName": "I",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyI_UI.T_IconPcBtn_KeyI_UI"
+    "id": 66,
+    "key_name": "I",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyI_UI.T_IconPcBtn_KeyI_UI"
   },
   {
-    "Id": 67,
-    "KeyName": "Insert",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyInsert_UI.T_IconPcBtn_KeyInsert_UI"
+    "id": 67,
+    "key_name": "Insert",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyInsert_UI.T_IconPcBtn_KeyInsert_UI"
   },
   {
-    "Id": 68,
-    "KeyName": "K",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyK_UI.T_IconPcBtn_KeyK_UI"
+    "id": 68,
+    "key_name": "K",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyK_UI.T_IconPcBtn_KeyK_UI"
   },
   {
-    "Id": 69,
-    "KeyName": "L",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyL_UI.T_IconPcBtn_KeyL_UI"
+    "id": 69,
+    "key_name": "L",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyL_UI.T_IconPcBtn_KeyL_UI"
   },
   {
-    "Id": 70,
-    "KeyName": "Left",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeft_UI.T_IconPcBtn_KeyLeft_UI"
+    "id": 70,
+    "key_name": "Left",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeft_UI.T_IconPcBtn_KeyLeft_UI"
   },
   {
-    "Id": 71,
-    "KeyName": "LeftBracket",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftBracket_UI.T_IconPcBtn_KeyLeftBracket_UI"
+    "id": 71,
+    "key_name": "LeftBracket",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftBracket_UI.T_IconPcBtn_KeyLeftBracket_UI"
   },
   {
-    "Id": 72,
-    "KeyName": "LeftControl",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftCtrl_UI.T_IconPcBtn_KeyLeftCtrl_UI"
+    "id": 72,
+    "key_name": "LeftControl",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyLeftCtrl_UI.T_IconPcBtn_KeyLeftCtrl_UI"
   },
   {
-    "Id": 73,
-    "KeyName": "Multiply",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyMultiply_UI.T_IconPcBtn_KeyMultiply_UI"
+    "id": 73,
+    "key_name": "Multiply",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyMultiply_UI.T_IconPcBtn_KeyMultiply_UI"
   },
   {
-    "Id": 74,
-    "KeyName": "N",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyN_UI.T_IconPcBtn_KeyN_UI"
+    "id": 74,
+    "key_name": "N",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyN_UI.T_IconPcBtn_KeyN_UI"
   },
   {
-    "Id": 75,
-    "KeyName": "NumPadEight",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadEight_UI.T_IconPcBtn_KeyNumPadEight_UI"
+    "id": 75,
+    "key_name": "NumPadEight",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadEight_UI.T_IconPcBtn_KeyNumPadEight_UI"
   },
   {
-    "Id": 76,
-    "KeyName": "NumPadFive",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadFive_UI.T_IconPcBtn_KeyNumPadFive_UI"
+    "id": 76,
+    "key_name": "NumPadFive",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadFive_UI.T_IconPcBtn_KeyNumPadFive_UI"
   },
   {
-    "Id": 77,
-    "KeyName": "NumPadFour",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadFour_UI.T_IconPcBtn_KeyNumPadFour_UI"
+    "id": 77,
+    "key_name": "NumPadFour",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadFour_UI.T_IconPcBtn_KeyNumPadFour_UI"
   },
   {
-    "Id": 78,
-    "KeyName": "NumPadNine",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadNine_UI.T_IconPcBtn_KeyNumPadNine_UI"
+    "id": 78,
+    "key_name": "NumPadNine",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadNine_UI.T_IconPcBtn_KeyNumPadNine_UI"
   },
   {
-    "Id": 79,
-    "KeyName": "NumPadOne",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadOne_UI.T_IconPcBtn_KeyNumPadOne_UI"
+    "id": 79,
+    "key_name": "NumPadOne",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadOne_UI.T_IconPcBtn_KeyNumPadOne_UI"
   },
   {
-    "Id": 80,
-    "KeyName": "NumPadSeven",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadSeven_UI.T_IconPcBtn_KeyNumPadSeven_UI"
+    "id": 80,
+    "key_name": "NumPadSeven",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadSeven_UI.T_IconPcBtn_KeyNumPadSeven_UI"
   },
   {
-    "Id": 81,
-    "KeyName": "NumPadSix",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadSix_UI.T_IconPcBtn_KeyNumPadSix_UI"
+    "id": 81,
+    "key_name": "NumPadSix",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadSix_UI.T_IconPcBtn_KeyNumPadSix_UI"
   },
   {
-    "Id": 82,
-    "KeyName": "NumPadThree",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadThree_UI.T_IconPcBtn_KeyNumPadThree_UI"
+    "id": 82,
+    "key_name": "NumPadThree",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadThree_UI.T_IconPcBtn_KeyNumPadThree_UI"
   },
   {
-    "Id": 83,
-    "KeyName": "NumPadTwo",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadTwo_UI.T_IconPcBtn_KeyNumPadTwo_UI"
+    "id": 83,
+    "key_name": "NumPadTwo",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadTwo_UI.T_IconPcBtn_KeyNumPadTwo_UI"
   },
   {
-    "Id": 84,
-    "KeyName": "NumPadZero",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadZero_UI.T_IconPcBtn_KeyNumPadZero_UI"
+    "id": 84,
+    "key_name": "NumPadZero",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyNumPadZero_UI.T_IconPcBtn_KeyNumPadZero_UI"
   },
   {
-    "Id": 85,
-    "KeyName": "PageDown",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPageDown_UI.T_IconPcBtn_KeyPageDown_UI"
+    "id": 85,
+    "key_name": "PageDown",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPageDown_UI.T_IconPcBtn_KeyPageDown_UI"
   },
   {
-    "Id": 86,
-    "KeyName": "PageUp",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPageUp_UI.T_IconPcBtn_KeyPageUp_UI"
+    "id": 86,
+    "key_name": "PageUp",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPageUp_UI.T_IconPcBtn_KeyPageUp_UI"
   },
   {
-    "Id": 87,
-    "KeyName": "Period",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPeriod_UI.T_IconPcBtn_KeyPeriod_UI"
+    "id": 87,
+    "key_name": "Period",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyPeriod_UI.T_IconPcBtn_KeyPeriod_UI"
   },
   {
-    "Id": 88,
-    "KeyName": "Right",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRight_UI.T_IconPcBtn_KeyRight_UI"
+    "id": 88,
+    "key_name": "Right",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRight_UI.T_IconPcBtn_KeyRight_UI"
   },
   {
-    "Id": 89,
-    "KeyName": "RightAlt",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightAlt_UI.T_IconPcBtn_KeyRightAlt_UI"
+    "id": 89,
+    "key_name": "RightAlt",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightAlt_UI.T_IconPcBtn_KeyRightAlt_UI"
   },
   {
-    "Id": 90,
-    "KeyName": "RightBracket",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightBracket_UI.T_IconPcBtn_KeyRightBracket_UI"
+    "id": 90,
+    "key_name": "RightBracket",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightBracket_UI.T_IconPcBtn_KeyRightBracket_UI"
   },
   {
-    "Id": 91,
-    "KeyName": "RightCtrl",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightCtrl_UI.T_IconPcBtn_KeyRightCtrl_UI"
+    "id": 91,
+    "key_name": "RightCtrl",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightCtrl_UI.T_IconPcBtn_KeyRightCtrl_UI"
   },
   {
-    "Id": 92,
-    "KeyName": "RightShift",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightShift_UI.T_IconPcBtn_KeyRightShift_UI"
+    "id": 92,
+    "key_name": "RightShift",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyRightShift_UI.T_IconPcBtn_KeyRightShift_UI"
   },
   {
-    "Id": 93,
-    "KeyName": "Semicolon",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySemicolon_UI.T_IconPcBtn_KeySemicolon_UI"
+    "id": 93,
+    "key_name": "Semicolon",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySemicolon_UI.T_IconPcBtn_KeySemicolon_UI"
   },
   {
-    "Id": 94,
-    "KeyName": "Slash",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySlash_UI.T_IconPcBtn_KeySlash_UI"
+    "id": 94,
+    "key_name": "Slash",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySlash_UI.T_IconPcBtn_KeySlash_UI"
   },
   {
-    "Id": 95,
-    "KeyName": "Subtract",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySubtract_UI.T_IconPcBtn_KeySubtract_UI"
+    "id": 95,
+    "key_name": "Subtract",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeySubtract_UI.T_IconPcBtn_KeySubtract_UI"
   },
   {
-    "Id": 96,
-    "KeyName": "U",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyU_UI.T_IconPcBtn_KeyU_UI"
+    "id": 96,
+    "key_name": "U",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyU_UI.T_IconPcBtn_KeyU_UI"
   },
   {
-    "Id": 97,
-    "KeyName": "Up",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyUp_UI.T_IconPcBtn_KeyUp_UI"
+    "id": 97,
+    "key_name": "Up",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyUp_UI.T_IconPcBtn_KeyUp_UI"
   },
   {
-    "Id": 98,
-    "KeyName": "Y",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyY_UI.T_IconPcBtn_KeyY_UI"
+    "id": 98,
+    "key_name": "Y",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyY_UI.T_IconPcBtn_KeyY_UI"
   },
   {
-    "Id": 99,
-    "KeyName": "Z",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyZ_UI.T_IconPcBtn_KeyZ_UI"
+    "id": 99,
+    "key_name": "Z",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyZ_UI.T_IconPcBtn_KeyZ_UI"
   },
   {
-    "Id": 100,
-    "KeyName": "Mouse2D",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Mouse_UI.T_IconPcBtn_Mouse_UI"
+    "id": 100,
+    "key_name": "Mouse2D",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Mouse_UI.T_IconPcBtn_Mouse_UI"
   },
   {
-    "Id": 101,
-    "KeyName": "ThumbMouseButton",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_ThumbMouseButton2_UI.T_IconPcBtn_ThumbMouseButton2_UI"
+    "id": 101,
+    "key_name": "ThumbMouseButton",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_ThumbMouseButton2_UI.T_IconPcBtn_ThumbMouseButton2_UI"
   },
   {
-    "Id": 102,
-    "KeyName": "ThumbMouseButton2",
-    "KeyDescription": "",
-    "KeyDisplayName": "",
-    "KeyIconPath": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_ThumbMouseButton_UI.T_IconPcBtn_ThumbMouseButton_UI"
+    "id": 102,
+    "key_name": "ThumbMouseButton2",
+    "key_description": "",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_ThumbMouseButton_UI.T_IconPcBtn_ThumbMouseButton_UI"
   }
 ]

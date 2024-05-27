@@ -1,62 +1,62 @@
 [
   {
-    "Id": 1,
-    "PidAndVid": "vid_045e&pid_0b12",
-    "PlatformType": 6
+    "id": 1,
+    "pid_and_vid": "vid_045e&pid_0b12",
+    "platform_type": 6
   },
   {
-    "Id": 2,
-    "PidAndVid": "vid_054c&pid_0ce6",
-    "PlatformType": 7
+    "id": 2,
+    "pid_and_vid": "vid_054c&pid_0ce6",
+    "platform_type": 7
   },
   {
-    "Id": 3,
-    "PidAndVid": "vid_045e&pid_0b00",
-    "PlatformType": 6
+    "id": 3,
+    "pid_and_vid": "vid_045e&pid_0b00",
+    "platform_type": 6
   },
   {
-    "Id": 4,
-    "PidAndVid": "vid_045e&pid_02dd",
-    "PlatformType": 6
+    "id": 4,
+    "pid_and_vid": "vid_045e&pid_02dd",
+    "platform_type": 6
   },
   {
-    "Id": 5,
-    "PidAndVid": "vid_045e&pid_02e0",
-    "PlatformType": 6
+    "id": 5,
+    "pid_and_vid": "vid_045e&pid_02e0",
+    "platform_type": 6
   },
   {
-    "Id": 6,
-    "PidAndVid": "vid_045e&pid_02e3",
-    "PlatformType": 6
+    "id": 6,
+    "pid_and_vid": "vid_045e&pid_02e3",
+    "platform_type": 6
   },
   {
-    "Id": 7,
-    "PidAndVid": "vid_045e&pid_02ea",
-    "PlatformType": 6
+    "id": 7,
+    "pid_and_vid": "vid_045e&pid_02ea",
+    "platform_type": 6
   },
   {
-    "Id": 8,
-    "PidAndVid": "vid_045e&pid_02fd",
-    "PlatformType": 6
+    "id": 8,
+    "pid_and_vid": "vid_045e&pid_02fd",
+    "platform_type": 6
   },
   {
-    "Id": 9,
-    "PidAndVid": "vid_054c&pid_0df2",
-    "PlatformType": 7
+    "id": 9,
+    "pid_and_vid": "vid_054c&pid_0df2",
+    "platform_type": 7
   },
   {
-    "Id": 10,
-    "PidAndVid": "vid_054c&pid_05c4",
-    "PlatformType": 7
+    "id": 10,
+    "pid_and_vid": "vid_054c&pid_05c4",
+    "platform_type": 7
   },
   {
-    "Id": 11,
-    "PidAndVid": "vid_054c&pid_09cc",
-    "PlatformType": 7
+    "id": 11,
+    "pid_and_vid": "vid_054c&pid_09cc",
+    "platform_type": 7
   },
   {
-    "Id": 12,
-    "PidAndVid": "vid_045e&pid_02fe",
-    "PlatformType": 6
+    "id": 12,
+    "pid_and_vid": "vid_045e&pid_02fe",
+    "platform_type": 6
   }
 ]

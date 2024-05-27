@@ -1,50 +1,50 @@
 [
   {
-    "Type": 1,
-    "TagText": "Text_GachaTagText1_Text",
-    "TagColor": "12ab54",
-    "TypeText": "Text_GachaTypeText1_Text",
-    "OptionalTitle": "",
-    "OptionalDesc": ""
+    "type": 1,
+    "tag_text": "Text_GachaTagText1_Text",
+    "tag_color": "12ab54",
+    "type_text": "Text_GachaTypeText1_Text",
+    "optional_title": "",
+    "optional_desc": ""
   },
   {
-    "Type": 2,
-    "TagText": "Text_GachaTagText2_Text",
-    "TagColor": "d99b16",
-    "TypeText": "Text_GachaTypeText2_Text",
-    "OptionalTitle": "Text_GachaOptionalTitle1_Text",
-    "OptionalDesc": "Text_GachaOptionalDesc1_Text"
+    "type": 2,
+    "tag_text": "Text_GachaTagText2_Text",
+    "tag_color": "d99b16",
+    "type_text": "Text_GachaTypeText2_Text",
+    "optional_title": "Text_GachaOptionalTitle1_Text",
+    "optional_desc": "Text_GachaOptionalDesc1_Text"
   },
   {
-    "Type": 3,
-    "TagText": "Text_GachaTagText2_Text",
-    "TagColor": "d99b16",
-    "TypeText": "Text_GachaTypeText3_Text",
-    "OptionalTitle": "Text_GachaOptionalTitle1_Text",
-    "OptionalDesc": "Text_GachaOptionalDesc2_Text"
+    "type": 3,
+    "tag_text": "Text_GachaTagText2_Text",
+    "tag_color": "d99b16",
+    "type_text": "Text_GachaTypeText3_Text",
+    "optional_title": "Text_GachaOptionalTitle1_Text",
+    "optional_desc": "Text_GachaOptionalDesc2_Text"
   },
   {
-    "Type": 4,
-    "TagText": "",
-    "TagColor": "",
-    "TypeText": "Text_GachaTypeText4_Text",
-    "OptionalTitle": "",
-    "OptionalDesc": ""
+    "type": 4,
+    "tag_text": "",
+    "tag_color": "",
+    "type_text": "Text_GachaTypeText4_Text",
+    "optional_title": "",
+    "optional_desc": ""
   },
   {
-    "Type": 5,
-    "TagText": "",
-    "TagColor": "",
-    "TypeText": "Text_GachaTypeText5_Text",
-    "OptionalTitle": "Text_GachaOptionalTitle1_Text",
-    "OptionalDesc": "Text_GachaOptionalDesc2_Text"
+    "type": 5,
+    "tag_text": "",
+    "tag_color": "",
+    "type_text": "Text_GachaTypeText5_Text",
+    "optional_title": "Text_GachaOptionalTitle1_Text",
+    "optional_desc": "Text_GachaOptionalDesc2_Text"
   },
   {
-    "Type": 6,
-    "TagText": "Text_GachaTagText6_Text",
-    "TagColor": "12ab54",
-    "TypeText": "Text_GachaTypeText6_Text",
-    "OptionalTitle": "Text_GachaOptionalTitle1_Text",
-    "OptionalDesc": "Text_GachaOptionalDesc1_Text"
+    "type": 6,
+    "tag_text": "Text_GachaTagText6_Text",
+    "tag_color": "12ab54",
+    "type_text": "Text_GachaTypeText6_Text",
+    "optional_title": "Text_GachaOptionalTitle1_Text",
+    "optional_desc": "Text_GachaOptionalDesc1_Text"
   }
 ]

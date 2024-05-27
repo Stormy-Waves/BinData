@@ -1,702 +1,702 @@
 [
   {
-    "DifficultyLevel": 1,
-    "RoleLevel": 5,
-    "WeaponLevel": 1,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 1,
+    "role_level": 5,
+    "weapon_level": 1,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 2,
-    "RoleLevel": 5,
-    "WeaponLevel": 1,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 2,
+    "role_level": 5,
+    "weapon_level": 1,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 3,
-    "RoleLevel": 5,
-    "WeaponLevel": 1,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 3,
+    "role_level": 5,
+    "weapon_level": 1,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 4,
-    "RoleLevel": 5,
-    "WeaponLevel": 1,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 4,
+    "role_level": 5,
+    "weapon_level": 1,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 5,
-    "RoleLevel": 10,
-    "WeaponLevel": 10,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 5,
+    "role_level": 10,
+    "weapon_level": 10,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 6,
-    "RoleLevel": 10,
-    "WeaponLevel": 10,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 6,
+    "role_level": 10,
+    "weapon_level": 10,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 7,
-    "RoleLevel": 10,
-    "WeaponLevel": 10,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 7,
+    "role_level": 10,
+    "weapon_level": 10,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 8,
-    "RoleLevel": 20,
-    "WeaponLevel": 20,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 8,
+    "role_level": 20,
+    "weapon_level": 20,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 9,
-    "RoleLevel": 20,
-    "WeaponLevel": 20,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 9,
+    "role_level": 20,
+    "weapon_level": 20,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 10,
-    "RoleLevel": 30,
-    "WeaponLevel": 30,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 10,
+    "role_level": 30,
+    "weapon_level": 30,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 11,
-    "RoleLevel": 30,
-    "WeaponLevel": 30,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 11,
+    "role_level": 30,
+    "weapon_level": 30,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 12,
-    "RoleLevel": 30,
-    "WeaponLevel": 30,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 12,
+    "role_level": 30,
+    "weapon_level": 30,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 13,
-    "RoleLevel": 30,
-    "WeaponLevel": 30,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 13,
+    "role_level": 30,
+    "weapon_level": 30,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 14,
-    "RoleLevel": 30,
-    "WeaponLevel": 30,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 14,
+    "role_level": 30,
+    "weapon_level": 30,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 15,
-    "RoleLevel": 35,
-    "WeaponLevel": 35,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 15,
+    "role_level": 35,
+    "weapon_level": 35,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 16,
-    "RoleLevel": 35,
-    "WeaponLevel": 35,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 16,
+    "role_level": 35,
+    "weapon_level": 35,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 17,
-    "RoleLevel": 35,
-    "WeaponLevel": 35,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 17,
+    "role_level": 35,
+    "weapon_level": 35,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 18,
-    "RoleLevel": 35,
-    "WeaponLevel": 35,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 18,
+    "role_level": 35,
+    "weapon_level": 35,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 19,
-    "RoleLevel": 35,
-    "WeaponLevel": 35,
-    "EquipLevel": 0,
-    "SkillLevel": 0
+    "difficulty_level": 19,
+    "role_level": 35,
+    "weapon_level": 35,
+    "equip_level": 0,
+    "skill_level": 0
   },
   {
-    "DifficultyLevel": 20,
-    "RoleLevel": 45,
-    "WeaponLevel": 45,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 20,
+    "role_level": 45,
+    "weapon_level": 45,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 21,
-    "RoleLevel": 45,
-    "WeaponLevel": 45,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 21,
+    "role_level": 45,
+    "weapon_level": 45,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 22,
-    "RoleLevel": 45,
-    "WeaponLevel": 45,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 22,
+    "role_level": 45,
+    "weapon_level": 45,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 23,
-    "RoleLevel": 45,
-    "WeaponLevel": 45,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 23,
+    "role_level": 45,
+    "weapon_level": 45,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 24,
-    "RoleLevel": 45,
-    "WeaponLevel": 45,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 24,
+    "role_level": 45,
+    "weapon_level": 45,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 25,
-    "RoleLevel": 50,
-    "WeaponLevel": 50,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 25,
+    "role_level": 50,
+    "weapon_level": 50,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 26,
-    "RoleLevel": 50,
-    "WeaponLevel": 50,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 26,
+    "role_level": 50,
+    "weapon_level": 50,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 27,
-    "RoleLevel": 50,
-    "WeaponLevel": 50,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 27,
+    "role_level": 50,
+    "weapon_level": 50,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 28,
-    "RoleLevel": 50,
-    "WeaponLevel": 50,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 28,
+    "role_level": 50,
+    "weapon_level": 50,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 29,
-    "RoleLevel": 50,
-    "WeaponLevel": 50,
-    "EquipLevel": 10,
-    "SkillLevel": 2
+    "difficulty_level": 29,
+    "role_level": 50,
+    "weapon_level": 50,
+    "equip_level": 10,
+    "skill_level": 2
   },
   {
-    "DifficultyLevel": 30,
-    "RoleLevel": 55,
-    "WeaponLevel": 55,
-    "EquipLevel": 15,
-    "SkillLevel": 3
+    "difficulty_level": 30,
+    "role_level": 55,
+    "weapon_level": 55,
+    "equip_level": 15,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 31,
-    "RoleLevel": 55,
-    "WeaponLevel": 55,
-    "EquipLevel": 15,
-    "SkillLevel": 3
+    "difficulty_level": 31,
+    "role_level": 55,
+    "weapon_level": 55,
+    "equip_level": 15,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 32,
-    "RoleLevel": 55,
-    "WeaponLevel": 55,
-    "EquipLevel": 15,
-    "SkillLevel": 3
+    "difficulty_level": 32,
+    "role_level": 55,
+    "weapon_level": 55,
+    "equip_level": 15,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 33,
-    "RoleLevel": 55,
-    "WeaponLevel": 55,
-    "EquipLevel": 15,
-    "SkillLevel": 3
+    "difficulty_level": 33,
+    "role_level": 55,
+    "weapon_level": 55,
+    "equip_level": 15,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 34,
-    "RoleLevel": 55,
-    "WeaponLevel": 55,
-    "EquipLevel": 15,
-    "SkillLevel": 3
+    "difficulty_level": 34,
+    "role_level": 55,
+    "weapon_level": 55,
+    "equip_level": 15,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 35,
-    "RoleLevel": 60,
-    "WeaponLevel": 60,
-    "EquipLevel": 20,
-    "SkillLevel": 3
+    "difficulty_level": 35,
+    "role_level": 60,
+    "weapon_level": 60,
+    "equip_level": 20,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 36,
-    "RoleLevel": 60,
-    "WeaponLevel": 60,
-    "EquipLevel": 20,
-    "SkillLevel": 3
+    "difficulty_level": 36,
+    "role_level": 60,
+    "weapon_level": 60,
+    "equip_level": 20,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 37,
-    "RoleLevel": 60,
-    "WeaponLevel": 60,
-    "EquipLevel": 20,
-    "SkillLevel": 3
+    "difficulty_level": 37,
+    "role_level": 60,
+    "weapon_level": 60,
+    "equip_level": 20,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 38,
-    "RoleLevel": 60,
-    "WeaponLevel": 60,
-    "EquipLevel": 20,
-    "SkillLevel": 3
+    "difficulty_level": 38,
+    "role_level": 60,
+    "weapon_level": 60,
+    "equip_level": 20,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 39,
-    "RoleLevel": 60,
-    "WeaponLevel": 60,
-    "EquipLevel": 20,
-    "SkillLevel": 3
+    "difficulty_level": 39,
+    "role_level": 60,
+    "weapon_level": 60,
+    "equip_level": 20,
+    "skill_level": 3
   },
   {
-    "DifficultyLevel": 40,
-    "RoleLevel": 65,
-    "WeaponLevel": 65,
-    "EquipLevel": 20,
-    "SkillLevel": 4
+    "difficulty_level": 40,
+    "role_level": 65,
+    "weapon_level": 65,
+    "equip_level": 20,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 41,
-    "RoleLevel": 65,
-    "WeaponLevel": 65,
-    "EquipLevel": 20,
-    "SkillLevel": 4
+    "difficulty_level": 41,
+    "role_level": 65,
+    "weapon_level": 65,
+    "equip_level": 20,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 42,
-    "RoleLevel": 65,
-    "WeaponLevel": 65,
-    "EquipLevel": 20,
-    "SkillLevel": 4
+    "difficulty_level": 42,
+    "role_level": 65,
+    "weapon_level": 65,
+    "equip_level": 20,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 43,
-    "RoleLevel": 65,
-    "WeaponLevel": 65,
-    "EquipLevel": 20,
-    "SkillLevel": 4
+    "difficulty_level": 43,
+    "role_level": 65,
+    "weapon_level": 65,
+    "equip_level": 20,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 44,
-    "RoleLevel": 65,
-    "WeaponLevel": 65,
-    "EquipLevel": 20,
-    "SkillLevel": 4
+    "difficulty_level": 44,
+    "role_level": 65,
+    "weapon_level": 65,
+    "equip_level": 20,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 45,
-    "RoleLevel": 70,
-    "WeaponLevel": 70,
-    "EquipLevel": 25,
-    "SkillLevel": 4
+    "difficulty_level": 45,
+    "role_level": 70,
+    "weapon_level": 70,
+    "equip_level": 25,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 46,
-    "RoleLevel": 70,
-    "WeaponLevel": 70,
-    "EquipLevel": 25,
-    "SkillLevel": 4
+    "difficulty_level": 46,
+    "role_level": 70,
+    "weapon_level": 70,
+    "equip_level": 25,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 47,
-    "RoleLevel": 70,
-    "WeaponLevel": 70,
-    "EquipLevel": 25,
-    "SkillLevel": 4
+    "difficulty_level": 47,
+    "role_level": 70,
+    "weapon_level": 70,
+    "equip_level": 25,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 48,
-    "RoleLevel": 70,
-    "WeaponLevel": 70,
-    "EquipLevel": 25,
-    "SkillLevel": 4
+    "difficulty_level": 48,
+    "role_level": 70,
+    "weapon_level": 70,
+    "equip_level": 25,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 49,
-    "RoleLevel": 70,
-    "WeaponLevel": 70,
-    "EquipLevel": 25,
-    "SkillLevel": 4
+    "difficulty_level": 49,
+    "role_level": 70,
+    "weapon_level": 70,
+    "equip_level": 25,
+    "skill_level": 4
   },
   {
-    "DifficultyLevel": 50,
-    "RoleLevel": 75,
-    "WeaponLevel": 75,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 50,
+    "role_level": 75,
+    "weapon_level": 75,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 51,
-    "RoleLevel": 75,
-    "WeaponLevel": 75,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 51,
+    "role_level": 75,
+    "weapon_level": 75,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 52,
-    "RoleLevel": 75,
-    "WeaponLevel": 75,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 52,
+    "role_level": 75,
+    "weapon_level": 75,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 53,
-    "RoleLevel": 75,
-    "WeaponLevel": 75,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 53,
+    "role_level": 75,
+    "weapon_level": 75,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 54,
-    "RoleLevel": 75,
-    "WeaponLevel": 75,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 54,
+    "role_level": 75,
+    "weapon_level": 75,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 55,
-    "RoleLevel": 80,
-    "WeaponLevel": 80,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 55,
+    "role_level": 80,
+    "weapon_level": 80,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 56,
-    "RoleLevel": 80,
-    "WeaponLevel": 80,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 56,
+    "role_level": 80,
+    "weapon_level": 80,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 57,
-    "RoleLevel": 80,
-    "WeaponLevel": 80,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 57,
+    "role_level": 80,
+    "weapon_level": 80,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 58,
-    "RoleLevel": 80,
-    "WeaponLevel": 80,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 58,
+    "role_level": 80,
+    "weapon_level": 80,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 59,
-    "RoleLevel": 80,
-    "WeaponLevel": 80,
-    "EquipLevel": 25,
-    "SkillLevel": 5
+    "difficulty_level": 59,
+    "role_level": 80,
+    "weapon_level": 80,
+    "equip_level": 25,
+    "skill_level": 5
   },
   {
-    "DifficultyLevel": 60,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 60,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 61,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 61,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 62,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 62,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 63,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 63,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 64,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 64,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 65,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 65,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 66,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 66,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 67,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 67,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 68,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 68,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 69,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 6
+    "difficulty_level": 69,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 6
   },
   {
-    "DifficultyLevel": 70,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 70,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 71,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 71,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 72,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 72,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 73,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 73,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 74,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 74,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 75,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 75,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 76,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 76,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 77,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 77,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 78,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 78,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 79,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 7
+    "difficulty_level": 79,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 7
   },
   {
-    "DifficultyLevel": 80,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 80,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 81,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 81,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 82,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 82,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 83,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 83,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 84,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 84,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 85,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 85,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 86,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 86,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 87,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 87,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 88,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 88,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 89,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 89,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 90,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 90,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 91,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 91,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 92,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 92,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 93,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 93,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 94,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 94,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 95,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 95,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 96,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 96,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 97,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 97,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 98,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 98,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 99,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 99,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   },
   {
-    "DifficultyLevel": 100,
-    "RoleLevel": 90,
-    "WeaponLevel": 90,
-    "EquipLevel": 25,
-    "SkillLevel": 8
+    "difficulty_level": 100,
+    "role_level": 90,
+    "weapon_level": 90,
+    "equip_level": 25,
+    "skill_level": 8
   }
 ]

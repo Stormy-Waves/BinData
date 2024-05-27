@@ -1,15 +1,15 @@
 [
   {
-    "Id": 101100001,
-    "Phantoms": [
+    "id": 101100001,
+    "phantoms": [
       6000040,
       6000041,
       6000046,
       6000050,
       390077005
     ],
-    "PhantomReward": 5032001,
-    "PhantomDesc": [
+    "phantom_reward": 5032001,
+    "phantom_desc": [
       {
         "key": 6000040,
         "value": "PhantomItem_6000040_BgDescription"
@@ -31,7 +31,7 @@
         "value": "PhantomItem_390077005_BgDescription"
       }
     ],
-    "PhantomActivityImage": [
+    "phantom_activity_image": [
       {
         "key": 6000040,
         "value": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityVisionCollect/T_ActivityMonster6000040.T_ActivityMonster6000040"
@@ -53,13 +53,13 @@
         "value": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityVisionCollect/T_ActivityMonster390077005.T_ActivityMonster390077005"
       }
     ],
-    "DataDockLevel": 10,
-    "DataDockReward": 5032002,
-    "PhantomSideQuest": [
+    "data_dock_level": 10,
+    "data_dock_reward": 5032002,
+    "phantom_side_quest": [
       139000017,
       139000020,
       139000021
     ],
-    "PhantomSideQuestReward": 5032003
+    "phantom_side_quest_reward": 5032003
   }
 ]

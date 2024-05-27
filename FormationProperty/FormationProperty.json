@@ -1,74 +1,74 @@
 [
   {
-    "Id": 1,
-    "InitValue": 14000,
-    "InitRecoveryRate": 2400,
-    "InitMax": 14000,
-    "MarkTag": [
+    "id": 1,
+    "init_value": 14000,
+    "init_recovery_rate": 2400,
+    "init_max": 14000,
+    "mark_tag": [
       "功能.功能制作.禁止体力恢复"
     ],
-    "ResistTag": [],
-    "TriggerRange1": {
+    "resist_tag": [],
+    "trigger_range1": {
       "min": 0.0,
       "max": 0.0
     },
-    "TriggerType1": 0,
-    "TriggerEffect1": 0,
-    "TriggerEffectParams1": [],
-    "TriggerRange2": {
+    "trigger_type1": 0,
+    "trigger_effect1": 0,
+    "trigger_effect_params1": [],
+    "trigger_range2": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType2": 0,
-    "TriggerEffect2": 0,
-    "TriggerEffectParams2": [],
-    "TriggerRange3": {
+    "trigger_type2": 0,
+    "trigger_effect2": 0,
+    "trigger_effect_params2": [],
+    "trigger_range3": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType3": 0,
-    "TriggerEffect3": 0,
-    "TriggerEffectParams3": []
+    "trigger_type3": 0,
+    "trigger_effect3": 0,
+    "trigger_effect_params3": []
   },
   {
-    "Id": 2,
-    "InitValue": 0,
-    "InitRecoveryRate": -5000,
-    "InitMax": 10000,
-    "MarkTag": [
+    "id": 2,
+    "init_value": 0,
+    "init_recovery_rate": -5000,
+    "init_max": 10000,
+    "mark_tag": [
       "功能.逻辑状态标识.剧情中"
     ],
-    "ResistTag": [],
-    "TriggerRange1": {
+    "resist_tag": [],
+    "trigger_range1": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType1": 0,
-    "TriggerEffect1": 0,
-    "TriggerEffectParams1": [
+    "trigger_type1": 0,
+    "trigger_effect1": 0,
+    "trigger_effect_params1": [
       640006011
     ],
-    "TriggerRange2": {
+    "trigger_range2": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType2": 0,
-    "TriggerEffect2": 0,
-    "TriggerEffectParams2": [],
-    "TriggerRange3": {
+    "trigger_type2": 0,
+    "trigger_effect2": 0,
+    "trigger_effect_params2": [],
+    "trigger_range3": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType3": 0,
-    "TriggerEffect3": 0,
-    "TriggerEffectParams3": []
+    "trigger_type3": 0,
+    "trigger_effect3": 0,
+    "trigger_effect_params3": []
   },
   {
-    "Id": 3,
-    "InitValue": 0,
-    "InitRecoveryRate": -1000,
-    "InitMax": 10000,
-    "MarkTag": [
+    "id": 3,
+    "init_value": 0,
+    "init_recovery_rate": -1000,
+    "init_max": 10000,
+    "mark_tag": [
       "功能.逻辑状态标识.无敌",
       "角色.Common.技能通用标识.极限闪避",
       "角色.Common.技能通用标识.大招",
@@ -76,124 +76,124 @@
       "角色.BaseRole.技能通用标识.幻象变身中",
       "Damage.Frozen"
     ],
-    "ResistTag": [],
-    "TriggerRange1": {
+    "resist_tag": [],
+    "trigger_range1": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType1": 1,
-    "TriggerEffect1": 0,
-    "TriggerEffectParams1": [
+    "trigger_type1": 1,
+    "trigger_effect1": 0,
+    "trigger_effect_params1": [
       80011012,
       80011013
     ],
-    "TriggerRange2": {
+    "trigger_range2": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType2": 0,
-    "TriggerEffect2": 0,
-    "TriggerEffectParams2": [],
-    "TriggerRange3": {
+    "trigger_type2": 0,
+    "trigger_effect2": 0,
+    "trigger_effect_params2": [],
+    "trigger_range3": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType3": 0,
-    "TriggerEffect3": 0,
-    "TriggerEffectParams3": []
+    "trigger_type3": 0,
+    "trigger_effect3": 0,
+    "trigger_effect_params3": []
   },
   {
-    "Id": 4,
-    "InitValue": 0,
-    "InitRecoveryRate": 0,
-    "InitMax": 10000,
-    "MarkTag": [],
-    "ResistTag": [],
-    "TriggerRange1": {
+    "id": 4,
+    "init_value": 0,
+    "init_recovery_rate": 0,
+    "init_max": 10000,
+    "mark_tag": [],
+    "resist_tag": [],
+    "trigger_range1": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType1": 1,
-    "TriggerEffect1": 0,
-    "TriggerEffectParams1": [
+    "trigger_type1": 1,
+    "trigger_effect1": 0,
+    "trigger_effect_params1": [
       800100003090
     ],
-    "TriggerRange2": {
+    "trigger_range2": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType2": 0,
-    "TriggerEffect2": 0,
-    "TriggerEffectParams2": [],
-    "TriggerRange3": {
+    "trigger_type2": 0,
+    "trigger_effect2": 0,
+    "trigger_effect_params2": [],
+    "trigger_range3": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType3": 0,
-    "TriggerEffect3": 0,
-    "TriggerEffectParams3": []
+    "trigger_type3": 0,
+    "trigger_effect3": 0,
+    "trigger_effect_params3": []
   },
   {
-    "Id": 5,
-    "InitValue": 0,
-    "InitRecoveryRate": -100,
-    "InitMax": 2000,
-    "MarkTag": [],
-    "ResistTag": [],
-    "TriggerRange1": {
+    "id": 5,
+    "init_value": 0,
+    "init_recovery_rate": -100,
+    "init_max": 2000,
+    "mark_tag": [],
+    "resist_tag": [],
+    "trigger_range1": {
       "min": 0.0,
       "max": 0.0
     },
-    "TriggerType1": 0,
-    "TriggerEffect1": 0,
-    "TriggerEffectParams1": [],
-    "TriggerRange2": {
+    "trigger_type1": 0,
+    "trigger_effect1": 0,
+    "trigger_effect_params1": [],
+    "trigger_range2": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType2": 0,
-    "TriggerEffect2": 0,
-    "TriggerEffectParams2": [],
-    "TriggerRange3": {
+    "trigger_type2": 0,
+    "trigger_effect2": 0,
+    "trigger_effect_params2": [],
+    "trigger_range3": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType3": 0,
-    "TriggerEffect3": 0,
-    "TriggerEffectParams3": []
+    "trigger_type3": 0,
+    "trigger_effect3": 0,
+    "trigger_effect_params3": []
   },
   {
-    "Id": 6,
-    "InitValue": 0,
-    "InitRecoveryRate": -5000,
-    "InitMax": 10000,
-    "MarkTag": [
+    "id": 6,
+    "init_value": 0,
+    "init_recovery_rate": -5000,
+    "init_max": 10000,
+    "mark_tag": [
       "功能.逻辑状态标识.剧情中",
       "关卡.孢子.孢子计量停止"
     ],
-    "ResistTag": [],
-    "TriggerRange1": {
+    "resist_tag": [],
+    "trigger_range1": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType1": 1,
-    "TriggerEffect1": 0,
-    "TriggerEffectParams1": [
+    "trigger_type1": 1,
+    "trigger_effect1": 0,
+    "trigger_effect_params1": [
       631060002
     ],
-    "TriggerRange2": {
+    "trigger_range2": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType2": 0,
-    "TriggerEffect2": 0,
-    "TriggerEffectParams2": [],
-    "TriggerRange3": {
+    "trigger_type2": 0,
+    "trigger_effect2": 0,
+    "trigger_effect_params2": [],
+    "trigger_range3": {
       "min": 9999.0,
       "max": 10000.0
     },
-    "TriggerType3": 0,
-    "TriggerEffect3": 0,
-    "TriggerEffectParams3": []
+    "trigger_type3": 0,
+    "trigger_effect3": 0,
+    "trigger_effect_params3": []
   }
 ]

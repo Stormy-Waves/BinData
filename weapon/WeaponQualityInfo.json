@@ -1,42 +1,42 @@
 [
   {
-    "Id": 1,
-    "Name": "WeaponQualityInfo_1_Name",
-    "QualityColor": "5A73C7FF",
-    "LevelLimit": 70,
-    "Cost": 40,
-    "BasicExp": 100
+    "id": 1,
+    "name": "WeaponQualityInfo_1_Name",
+    "quality_color": "5A73C7FF",
+    "level_limit": 70,
+    "cost": 40,
+    "basic_exp": 100
   },
   {
-    "Id": 2,
-    "Name": "WeaponQualityInfo_2_Name",
-    "QualityColor": "C759C1FF",
-    "LevelLimit": 70,
-    "Cost": 320,
-    "BasicExp": 800
+    "id": 2,
+    "name": "WeaponQualityInfo_2_Name",
+    "quality_color": "C759C1FF",
+    "level_limit": 70,
+    "cost": 320,
+    "basic_exp": 800
   },
   {
-    "Id": 3,
-    "Name": "WeaponQualityInfo_3_Name",
-    "QualityColor": "DEA544FF",
-    "LevelLimit": 100,
-    "Cost": 720,
-    "BasicExp": 1800
+    "id": 3,
+    "name": "WeaponQualityInfo_3_Name",
+    "quality_color": "DEA544FF",
+    "level_limit": 100,
+    "cost": 720,
+    "basic_exp": 1800
   },
   {
-    "Id": 4,
-    "Name": "WeaponQualityInfo_4_Name",
-    "QualityColor": "C759C1FF",
-    "LevelLimit": 100,
-    "Cost": 8400,
-    "BasicExp": 21000
+    "id": 4,
+    "name": "WeaponQualityInfo_4_Name",
+    "quality_color": "C759C1FF",
+    "level_limit": 100,
+    "cost": 8400,
+    "basic_exp": 21000
   },
   {
-    "Id": 5,
-    "Name": "WeaponQualityInfo_5_Name",
-    "QualityColor": "DEA544FF",
-    "LevelLimit": 100,
-    "Cost": 36000,
-    "BasicExp": 90000
+    "id": 5,
+    "name": "WeaponQualityInfo_5_Name",
+    "quality_color": "DEA544FF",
+    "level_limit": 100,
+    "cost": 36000,
+    "basic_exp": 90000
   }
 ]

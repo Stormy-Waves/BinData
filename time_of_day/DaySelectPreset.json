@@ -1,17 +1,17 @@
 [
   {
-    "Id": 1,
-    "Title": "DaySelectPreset_1_Title",
-    "ChangeDayNum": 0
+    "id": 1,
+    "title": "DaySelectPreset_1_Title",
+    "change_day_num": 0
   },
   {
-    "Id": 2,
-    "Title": "DaySelectPreset_2_Title",
-    "ChangeDayNum": 1
+    "id": 2,
+    "title": "DaySelectPreset_2_Title",
+    "change_day_num": 1
   },
   {
-    "Id": 3,
-    "Title": "DaySelectPreset_3_Title",
-    "ChangeDayNum": 2
+    "id": 3,
+    "title": "DaySelectPreset_3_Title",
+    "change_day_num": 2
   }
 ]

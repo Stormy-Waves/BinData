@@ -1,627 +1,627 @@
 [
   {
-    "Id": 23,
-    "FormulaItemId": 0,
-    "ItemId": 43020054,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 23,
+    "formula_item_id": 0,
+    "item_id": 43020054,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020053,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 24,
-    "FormulaItemId": 0,
-    "ItemId": 43020053,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 24,
+    "formula_item_id": 0,
+    "item_id": 43020053,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020052,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 25,
-    "FormulaItemId": 0,
-    "ItemId": 43020052,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 25,
+    "formula_item_id": 0,
+    "item_id": 43020052,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020051,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 26,
-    "FormulaItemId": 0,
-    "ItemId": 43020044,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 26,
+    "formula_item_id": 0,
+    "item_id": 43020044,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020043,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 27,
-    "FormulaItemId": 0,
-    "ItemId": 43020043,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 27,
+    "formula_item_id": 0,
+    "item_id": 43020043,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020042,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 28,
-    "FormulaItemId": 0,
-    "ItemId": 43020042,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 28,
+    "formula_item_id": 0,
+    "item_id": 43020042,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020041,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 29,
-    "FormulaItemId": 0,
-    "ItemId": 43020034,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 29,
+    "formula_item_id": 0,
+    "item_id": 43020034,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020033,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 30,
-    "FormulaItemId": 0,
-    "ItemId": 43020033,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 30,
+    "formula_item_id": 0,
+    "item_id": 43020033,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020032,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 31,
-    "FormulaItemId": 0,
-    "ItemId": 43020032,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 31,
+    "formula_item_id": 0,
+    "item_id": 43020032,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020031,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 32,
-    "FormulaItemId": 0,
-    "ItemId": 43020024,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 32,
+    "formula_item_id": 0,
+    "item_id": 43020024,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020023,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 33,
-    "FormulaItemId": 0,
-    "ItemId": 43020023,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 33,
+    "formula_item_id": 0,
+    "item_id": 43020023,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020022,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 34,
-    "FormulaItemId": 0,
-    "ItemId": 43020022,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 34,
+    "formula_item_id": 0,
+    "item_id": 43020022,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020021,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 35,
-    "FormulaItemId": 0,
-    "ItemId": 43020014,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 35,
+    "formula_item_id": 0,
+    "item_id": 43020014,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020013,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 36,
-    "FormulaItemId": 0,
-    "ItemId": 43020013,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 36,
+    "formula_item_id": 0,
+    "item_id": 43020013,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020012,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 37,
-    "FormulaItemId": 0,
-    "ItemId": 43020012,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 37,
+    "formula_item_id": 0,
+    "item_id": 43020012,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 43020011,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 3,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 3,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 56,
-    "FormulaItemId": 0,
-    "ItemId": 41200034,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 56,
+    "formula_item_id": 0,
+    "item_id": 41200034,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41200033,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 57,
-    "FormulaItemId": 0,
-    "ItemId": 41200033,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 57,
+    "formula_item_id": 0,
+    "item_id": 41200033,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41200032,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 58,
-    "FormulaItemId": 0,
-    "ItemId": 41200032,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 58,
+    "formula_item_id": 0,
+    "item_id": 41200032,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41200031,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 65,
-    "FormulaItemId": 0,
-    "ItemId": 41100034,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 65,
+    "formula_item_id": 0,
+    "item_id": 41100034,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41100033,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 66,
-    "FormulaItemId": 0,
-    "ItemId": 41100033,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 66,
+    "formula_item_id": 0,
+    "item_id": 41100033,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41100032,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 67,
-    "FormulaItemId": 0,
-    "ItemId": 41100032,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 67,
+    "formula_item_id": 0,
+    "item_id": 41100032,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41100031,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 68,
-    "FormulaItemId": 0,
-    "ItemId": 41100024,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 68,
+    "formula_item_id": 0,
+    "item_id": 41100024,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41100023,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 69,
-    "FormulaItemId": 0,
-    "ItemId": 41100023,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 69,
+    "formula_item_id": 0,
+    "item_id": 41100023,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41100022,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 70,
-    "FormulaItemId": 0,
-    "ItemId": 41100022,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 70,
+    "formula_item_id": 0,
+    "item_id": 41100022,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41100021,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 71,
-    "FormulaItemId": 0,
-    "ItemId": 41100014,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 71,
+    "formula_item_id": 0,
+    "item_id": 41100014,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41100013,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 72,
-    "FormulaItemId": 0,
-    "ItemId": 41100013,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 72,
+    "formula_item_id": 0,
+    "item_id": 41100013,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41100012,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 73,
-    "FormulaItemId": 0,
-    "ItemId": 41100012,
-    "FormulaType": 3,
-    "Name": "",
-    "ConsumeItems": [
+    "id": 73,
+    "formula_item_id": 0,
+    "item_id": 41100012,
+    "formula_type": 3,
+    "name": "",
+    "consume_items": [
       {
         "item_id": 41100011,
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 113,
-    "FormulaItemId": 0,
-    "ItemId": 42100013,
-    "FormulaType": 1,
-    "Name": "初级复苏吸雾",
-    "ConsumeItems": [
+    "id": 113,
+    "formula_item_id": 0,
+    "item_id": 42100013,
+    "formula_type": 1,
+    "name": "初级复苏吸雾",
+    "consume_items": [
       {
         "item_id": 42310030,
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 114,
-    "FormulaItemId": 0,
-    "ItemId": 42100014,
-    "FormulaType": 1,
-    "Name": "中级复苏吸雾",
-    "ConsumeItems": [
+    "id": 114,
+    "formula_item_id": 0,
+    "item_id": 42100014,
+    "formula_type": 1,
+    "name": "中级复苏吸雾",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -631,23 +631,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 115,
-    "FormulaItemId": 0,
-    "ItemId": 42100015,
-    "FormulaType": 1,
-    "Name": "高级复苏吸雾",
-    "ConsumeItems": [
+    "id": 115,
+    "formula_item_id": 0,
+    "item_id": 42100015,
+    "formula_type": 1,
+    "name": "高级复苏吸雾",
+    "consume_items": [
       {
         "item_id": 80021004,
         "count": 1
@@ -657,23 +657,23 @@
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 116,
-    "FormulaItemId": 42200016,
-    "ItemId": 42100016,
-    "FormulaType": 1,
-    "Name": "特级复苏吸雾",
-    "ConsumeItems": [
+    "id": 116,
+    "formula_item_id": 42200016,
+    "item_id": 42100016,
+    "formula_type": 1,
+    "name": "特级复苏吸雾",
+    "consume_items": [
       {
         "item_id": 80021005,
         "count": 1
@@ -687,45 +687,45 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 117,
-    "FormulaItemId": 0,
-    "ItemId": 42100017,
-    "FormulaType": 1,
-    "Name": "初级营养块",
-    "ConsumeItems": [
+    "id": 117,
+    "formula_item_id": 0,
+    "item_id": 42100017,
+    "formula_type": 1,
+    "name": "初级营养块",
+    "consume_items": [
       {
         "item_id": 42310020,
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 118,
-    "FormulaItemId": 0,
-    "ItemId": 42100018,
-    "FormulaType": 1,
-    "Name": "中级营养块",
-    "ConsumeItems": [
+    "id": 118,
+    "formula_item_id": 0,
+    "item_id": 42100018,
+    "formula_type": 1,
+    "name": "中级营养块",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -735,23 +735,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 119,
-    "FormulaItemId": 0,
-    "ItemId": 42100019,
-    "FormulaType": 1,
-    "Name": "高级营养块",
-    "ConsumeItems": [
+    "id": 119,
+    "formula_item_id": 0,
+    "item_id": 42100019,
+    "formula_type": 1,
+    "name": "高级营养块",
+    "consume_items": [
       {
         "item_id": 80021002,
         "count": 1
@@ -761,23 +761,23 @@
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 121,
-    "FormulaItemId": 42200021,
-    "ItemId": 42100021,
-    "FormulaType": 1,
-    "Name": "特级营养块",
-    "ConsumeItems": [
+    "id": 121,
+    "formula_item_id": 42200021,
+    "item_id": 42100021,
+    "formula_type": 1,
+    "name": "特级营养块",
+    "consume_items": [
       {
         "item_id": 80021003,
         "count": 1
@@ -791,23 +791,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 4,
-    "FormulaItemId": 80052010,
-    "ItemId": 10807,
-    "FormulaType": 2,
-    "Name": "声匣定位器-消耗道具",
-    "ConsumeItems": [
+    "id": 4,
+    "formula_item_id": 80052010,
+    "item_id": 10807,
+    "formula_type": 2,
+    "name": "声匣定位器-消耗道具",
+    "consume_items": [
       {
         "item_id": 42500010,
         "count": 10
@@ -821,23 +821,23 @@
         "count": 10000
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 5,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 5,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 5,
-    "FormulaItemId": 80052011,
-    "ItemId": 10808,
-    "FormulaType": 2,
-    "Name": "临时传送点-消耗道具",
-    "ConsumeItems": [
+    "id": 5,
+    "formula_item_id": 80052011,
+    "item_id": 10808,
+    "formula_type": 2,
+    "name": "临时传送点-消耗道具",
+    "consume_items": [
       {
         "item_id": 42500030,
         "count": 5
@@ -851,23 +851,23 @@
         "count": 5000
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 5,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 5,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 101,
-    "FormulaItemId": 0,
-    "ItemId": 42100001,
-    "FormulaType": 1,
-    "Name": "衍射防护喷雾",
-    "ConsumeItems": [
+    "id": 101,
+    "formula_item_id": 0,
+    "item_id": 42100001,
+    "formula_type": 1,
+    "name": "衍射防护喷雾",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -877,23 +877,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 102,
-    "FormulaItemId": 0,
-    "ItemId": 42100002,
-    "FormulaType": 1,
-    "Name": "湮灭防护喷雾",
-    "ConsumeItems": [
+    "id": 102,
+    "formula_item_id": 0,
+    "item_id": 42100002,
+    "formula_type": 1,
+    "name": "湮灭防护喷雾",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -903,23 +903,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 103,
-    "FormulaItemId": 0,
-    "ItemId": 42100003,
-    "FormulaType": 1,
-    "Name": "热熔防护喷雾",
-    "ConsumeItems": [
+    "id": 103,
+    "formula_item_id": 0,
+    "item_id": 42100003,
+    "formula_type": 1,
+    "name": "热熔防护喷雾",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -929,23 +929,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 104,
-    "FormulaItemId": 0,
-    "ItemId": 42100004,
-    "FormulaType": 1,
-    "Name": "冷凝防护喷雾",
-    "ConsumeItems": [
+    "id": 104,
+    "formula_item_id": 0,
+    "item_id": 42100004,
+    "formula_type": 1,
+    "name": "冷凝防护喷雾",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -955,23 +955,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 105,
-    "FormulaItemId": 0,
-    "ItemId": 42100005,
-    "FormulaType": 1,
-    "Name": "气动防护喷雾",
-    "ConsumeItems": [
+    "id": 105,
+    "formula_item_id": 0,
+    "item_id": 42100005,
+    "formula_type": 1,
+    "name": "气动防护喷雾",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -981,23 +981,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 106,
-    "FormulaItemId": 0,
-    "ItemId": 42100006,
-    "FormulaType": 1,
-    "Name": "导电防护喷雾",
-    "ConsumeItems": [
+    "id": 106,
+    "formula_item_id": 0,
+    "item_id": 42100006,
+    "formula_type": 1,
+    "name": "导电防护喷雾",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1007,23 +1007,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 107,
-    "FormulaItemId": 0,
-    "ItemId": 42100007,
-    "FormulaType": 1,
-    "Name": "衍射双联合剂",
-    "ConsumeItems": [
+    "id": 107,
+    "formula_item_id": 0,
+    "item_id": 42100007,
+    "formula_type": 1,
+    "name": "衍射双联合剂",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1033,23 +1033,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 108,
-    "FormulaItemId": 0,
-    "ItemId": 42100008,
-    "FormulaType": 1,
-    "Name": "湮灭双联合剂",
-    "ConsumeItems": [
+    "id": 108,
+    "formula_item_id": 0,
+    "item_id": 42100008,
+    "formula_type": 1,
+    "name": "湮灭双联合剂",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1059,23 +1059,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 109,
-    "FormulaItemId": 0,
-    "ItemId": 42100009,
-    "FormulaType": 1,
-    "Name": "热熔双联合剂",
-    "ConsumeItems": [
+    "id": 109,
+    "formula_item_id": 0,
+    "item_id": 42100009,
+    "formula_type": 1,
+    "name": "热熔双联合剂",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1085,23 +1085,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 110,
-    "FormulaItemId": 0,
-    "ItemId": 42100010,
-    "FormulaType": 1,
-    "Name": "冷凝双联合剂",
-    "ConsumeItems": [
+    "id": 110,
+    "formula_item_id": 0,
+    "item_id": 42100010,
+    "formula_type": 1,
+    "name": "冷凝双联合剂",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1111,23 +1111,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 111,
-    "FormulaItemId": 0,
-    "ItemId": 42100011,
-    "FormulaType": 1,
-    "Name": "气动双联合剂",
-    "ConsumeItems": [
+    "id": 111,
+    "formula_item_id": 0,
+    "item_id": 42100011,
+    "formula_type": 1,
+    "name": "气动双联合剂",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1137,23 +1137,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 112,
-    "FormulaItemId": 0,
-    "ItemId": 42100012,
-    "FormulaType": 1,
-    "Name": "导电双联合剂",
-    "ConsumeItems": [
+    "id": 112,
+    "formula_item_id": 0,
+    "item_id": 42100012,
+    "formula_type": 1,
+    "name": "导电双联合剂",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1163,45 +1163,45 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 122,
-    "FormulaItemId": 0,
-    "ItemId": 42100022,
-    "FormulaType": 1,
-    "Name": "初级能量袋",
-    "ConsumeItems": [
+    "id": 122,
+    "formula_item_id": 0,
+    "item_id": 42100022,
+    "formula_type": 1,
+    "name": "初级能量袋",
+    "consume_items": [
       {
         "item_id": 42310070,
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 20,
-    "MaxProficiencyCount": 20,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 123,
-    "FormulaItemId": 0,
-    "ItemId": 42100023,
-    "FormulaType": 1,
-    "Name": "中级能量袋",
-    "ConsumeItems": [
+    "id": 123,
+    "formula_item_id": 0,
+    "item_id": 42100023,
+    "formula_type": 1,
+    "name": "中级能量袋",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1211,23 +1211,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 30,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 30,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 124,
-    "FormulaItemId": 0,
-    "ItemId": 42100024,
-    "FormulaType": 1,
-    "Name": "高级能量袋",
-    "ConsumeItems": [
+    "id": 124,
+    "formula_item_id": 0,
+    "item_id": 42100024,
+    "formula_type": 1,
+    "name": "高级能量袋",
+    "consume_items": [
       {
         "item_id": 80021004,
         "count": 1
@@ -1237,23 +1237,23 @@
         "count": 3
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 125,
-    "FormulaItemId": 42200025,
-    "ItemId": 42100025,
-    "FormulaType": 1,
-    "Name": "特级能量袋",
-    "ConsumeItems": [
+    "id": 125,
+    "formula_item_id": 42200025,
+    "item_id": 42100025,
+    "formula_type": 1,
+    "name": "特级能量袋",
+    "consume_items": [
       {
         "item_id": 80021005,
         "count": 1
@@ -1267,23 +1267,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 126,
-    "FormulaItemId": 42200026,
-    "ItemId": 42100026,
-    "FormulaType": 1,
-    "Name": "训练师溶剂",
-    "ConsumeItems": [
+    "id": 126,
+    "formula_item_id": 42200026,
+    "item_id": 42100026,
+    "formula_type": 1,
+    "name": "训练师溶剂",
+    "consume_items": [
       {
         "item_id": 80021005,
         "count": 1
@@ -1293,23 +1293,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 127,
-    "FormulaItemId": 42200027,
-    "ItemId": 42100027,
-    "FormulaType": 1,
-    "Name": "超音速溶剂",
-    "ConsumeItems": [
+    "id": 127,
+    "formula_item_id": 42200027,
+    "item_id": 42100027,
+    "formula_type": 1,
+    "name": "超音速溶剂",
+    "consume_items": [
       {
         "item_id": 80021005,
         "count": 1
@@ -1319,23 +1319,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 128,
-    "FormulaItemId": 42200028,
-    "ItemId": 42100028,
-    "FormulaType": 1,
-    "Name": "弦乐溶剂",
-    "ConsumeItems": [
+    "id": 128,
+    "formula_item_id": 42200028,
+    "item_id": 42100028,
+    "formula_type": 1,
+    "name": "弦乐溶剂",
+    "consume_items": [
       {
         "item_id": 80021003,
         "count": 1
@@ -1345,23 +1345,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 129,
-    "FormulaItemId": 42200029,
-    "ItemId": 42100029,
-    "FormulaType": 1,
-    "Name": "鼓手溶剂",
-    "ConsumeItems": [
+    "id": 129,
+    "formula_item_id": 42200029,
+    "item_id": 42100029,
+    "formula_type": 1,
+    "name": "鼓手溶剂",
+    "consume_items": [
       {
         "item_id": 80021003,
         "count": 1
@@ -1371,23 +1371,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 40,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 132,
-    "FormulaItemId": 42200032,
-    "ItemId": 42100032,
-    "FormulaType": 1,
-    "Name": "撞金合剂",
-    "ConsumeItems": [
+    "id": 132,
+    "formula_item_id": 42200032,
+    "item_id": 42100032,
+    "formula_type": 1,
+    "name": "撞金合剂",
+    "consume_items": [
       {
         "item_id": 80021003,
         "count": 1
@@ -1401,23 +1401,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 133,
-    "FormulaItemId": 42200033,
-    "ItemId": 42100033,
-    "FormulaType": 1,
-    "Name": "划音合剂",
-    "ConsumeItems": [
+    "id": 133,
+    "formula_item_id": 42200033,
+    "item_id": 42100033,
+    "formula_type": 1,
+    "name": "划音合剂",
+    "consume_items": [
       {
         "item_id": 80021003,
         "count": 1
@@ -1431,23 +1431,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 134,
-    "FormulaItemId": 42200034,
-    "ItemId": 42100034,
-    "FormulaType": 1,
-    "Name": "激声合剂",
-    "ConsumeItems": [
+    "id": 134,
+    "formula_item_id": 42200034,
+    "item_id": 42100034,
+    "formula_type": 1,
+    "name": "激声合剂",
+    "consume_items": [
       {
         "item_id": 80021005,
         "count": 1
@@ -1461,23 +1461,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 135,
-    "FormulaItemId": 42200035,
-    "ItemId": 42100035,
-    "FormulaType": 1,
-    "Name": "强心合剂",
-    "ConsumeItems": [
+    "id": 135,
+    "formula_item_id": 42200035,
+    "item_id": 42100035,
+    "formula_type": 1,
+    "name": "强心合剂",
+    "consume_items": [
       {
         "item_id": 80021005,
         "count": 1
@@ -1491,45 +1491,45 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 60,
-    "MaxProficiencyCount": 10,
-    "TypeId": 1,
-    "Unlock": false,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "type_id": 1,
+    "unlock": false,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 136,
-    "FormulaItemId": 0,
-    "ItemId": 80021001,
-    "FormulaType": 2,
-    "Name": "基液",
-    "ConsumeItems": [
+    "id": 136,
+    "formula_item_id": 0,
+    "item_id": 80021001,
+    "formula_type": 2,
+    "name": "基液",
+    "consume_items": [
       {
         "item_id": 42310010,
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 137,
-    "FormulaItemId": 0,
-    "ItemId": 80021002,
-    "FormulaType": 2,
-    "Name": "催化液",
-    "ConsumeItems": [
+    "id": 137,
+    "formula_item_id": 0,
+    "item_id": 80021002,
+    "formula_type": 2,
+    "name": "催化液",
+    "consume_items": [
       {
         "item_id": 42310070,
         "count": 2
@@ -1539,23 +1539,23 @@
         "count": 1
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 138,
-    "FormulaItemId": 0,
-    "ItemId": 80021004,
-    "FormulaType": 2,
-    "Name": "稳定液",
-    "ConsumeItems": [
+    "id": 138,
+    "formula_item_id": 0,
+    "item_id": 80021004,
+    "formula_type": 2,
+    "name": "稳定液",
+    "consume_items": [
       {
         "item_id": 42310060,
         "count": 2
@@ -1565,23 +1565,23 @@
         "count": 1
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 140,
-    "FormulaItemId": 0,
-    "ItemId": 80021003,
-    "FormulaType": 2,
-    "Name": "强效催化液",
-    "ConsumeItems": [
+    "id": 140,
+    "formula_item_id": 0,
+    "item_id": 80021003,
+    "formula_type": 2,
+    "name": "强效催化液",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1595,23 +1595,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 141,
-    "FormulaItemId": 0,
-    "ItemId": 80021005,
-    "FormulaType": 2,
-    "Name": "强效稳定液",
-    "ConsumeItems": [
+    "id": 141,
+    "formula_item_id": 0,
+    "item_id": 80021005,
+    "formula_type": 2,
+    "name": "强效稳定液",
+    "consume_items": [
       {
         "item_id": 80021001,
         "count": 1
@@ -1625,23 +1625,23 @@
         "count": 2
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 1,
-    "Unlock": true,
-    "LimitCount": 0,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 1,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 6,
-    "FormulaItemId": 0,
-    "ItemId": 43020001,
-    "FormulaType": 2,
-    "Name": "1级武器经验",
-    "ConsumeItems": [
+    "id": 6,
+    "formula_item_id": 0,
+    "item_id": 43020001,
+    "formula_type": 2,
+    "name": "1级武器经验",
+    "consume_items": [
       {
         "item_id": 42500040,
         "count": 2
@@ -1651,23 +1651,23 @@
         "count": 500
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 10,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 10,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   },
   {
-    "Id": 7,
-    "FormulaItemId": 0,
-    "ItemId": 43020002,
-    "FormulaType": 2,
-    "Name": "2级武器经验",
-    "ConsumeItems": [
+    "id": 7,
+    "formula_item_id": 0,
+    "item_id": 43020002,
+    "formula_type": 2,
+    "name": "2级武器经验",
+    "consume_items": [
       {
         "item_id": 42500040,
         "count": 5
@@ -1677,14 +1677,14 @@
         "count": 1000
       }
     ],
-    "UnlockCondition": 0,
-    "Proficiency": 0,
-    "MaxProficiencyCount": 0,
-    "TypeId": 4,
-    "Unlock": true,
-    "LimitCount": 10,
-    "RoleList": [],
-    "ComposeContent": "",
-    "ComposeBackground": ""
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 10,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   }
 ]

@@ -1,807 +1,807 @@
 [
   {
-    "Id": 1,
-    "Prop": {
+    "id": 1,
+    "prop": {
       "id": 10002,
       "value": 375.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2,
-    "Prop": {
+    "id": 2,
+    "prop": {
       "id": 10007,
       "value": 37.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3,
-    "Prop": {
+    "id": 3,
+    "prop": {
       "id": 10010,
       "value": 45.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 7,
-    "Prop": {
+    "id": 7,
+    "prop": {
       "id": 14,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 10,
-    "Prop": {
+    "id": 10,
+    "prop": {
       "id": 19,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 12,
-    "Prop": {
+    "id": 12,
+    "prop": {
       "id": 9,
       "value": 1400.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4,
-    "Prop": {
+    "id": 4,
+    "prop": {
       "id": 10002,
       "value": 750.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5,
-    "Prop": {
+    "id": 5,
+    "prop": {
       "id": 10007,
       "value": 750.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 6,
-    "Prop": {
+    "id": 6,
+    "prop": {
       "id": 10010,
       "value": 950.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 8,
-    "Prop": {
+    "id": 8,
+    "prop": {
       "id": 17,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 9,
-    "Prop": {
+    "id": 9,
+    "prop": {
       "id": 18,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 11,
-    "Prop": {
+    "id": 11,
+    "prop": {
       "id": 8,
       "value": 700.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 13,
-    "Prop": {
+    "id": 13,
+    "prop": {
       "id": 11,
       "value": 800.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 50001,
-    "Prop": {
+    "id": 50001,
+    "prop": {
       "id": 10007,
       "value": 30.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 50002,
-    "Prop": {
+    "id": 50002,
+    "prop": {
       "id": 10002,
       "value": 456.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 50003,
-    "Prop": {
+    "id": 50003,
+    "prop": {
       "id": 10007,
       "value": 20.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5001,
-    "Prop": {
+    "id": 5001,
+    "prop": {
       "id": 8,
       "value": 440.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5002,
-    "Prop": {
+    "id": 5002,
+    "prop": {
       "id": 9,
       "value": 880.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5003,
-    "Prop": {
+    "id": 5003,
+    "prop": {
       "id": 10007,
       "value": 660.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5004,
-    "Prop": {
+    "id": 5004,
+    "prop": {
       "id": 10002,
       "value": 660.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5005,
-    "Prop": {
+    "id": 5005,
+    "prop": {
       "id": 10010,
       "value": 836.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5006,
-    "Prop": {
+    "id": 5006,
+    "prop": {
       "id": 35,
       "value": 528.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5007,
-    "Prop": {
+    "id": 5007,
+    "prop": {
       "id": 22,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5008,
-    "Prop": {
+    "id": 5008,
+    "prop": {
       "id": 23,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5009,
-    "Prop": {
+    "id": 5009,
+    "prop": {
       "id": 24,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5010,
-    "Prop": {
+    "id": 5010,
+    "prop": {
       "id": 25,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5011,
-    "Prop": {
+    "id": 5011,
+    "prop": {
       "id": 26,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5012,
-    "Prop": {
+    "id": 5012,
+    "prop": {
       "id": 27,
       "value": 600.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5013,
-    "Prop": {
+    "id": 5013,
+    "prop": {
       "id": 10007,
       "value": 600.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5014,
-    "Prop": {
+    "id": 5014,
+    "prop": {
       "id": 10002,
       "value": 600.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5015,
-    "Prop": {
+    "id": 5015,
+    "prop": {
       "id": 10010,
       "value": 760.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5016,
-    "Prop": {
+    "id": 5016,
+    "prop": {
       "id": 11,
       "value": 640.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 5017,
-    "Prop": {
+    "id": 5017,
+    "prop": {
       "id": 10007,
       "value": 360.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5018,
-    "Prop": {
+    "id": 5018,
+    "prop": {
       "id": 10002,
       "value": 456.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 5019,
-    "Prop": {
+    "id": 5019,
+    "prop": {
       "id": 10010,
       "value": 360.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 40001,
-    "Prop": {
+    "id": 40001,
+    "prop": {
       "id": 10007,
       "value": 22.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 40002,
-    "Prop": {
+    "id": 40002,
+    "prop": {
       "id": 10002,
       "value": 228.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 40003,
-    "Prop": {
+    "id": 40003,
+    "prop": {
       "id": 10007,
       "value": 15.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 4001,
-    "Prop": {
+    "id": 4001,
+    "prop": {
       "id": 8,
       "value": 330.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4002,
-    "Prop": {
+    "id": 4002,
+    "prop": {
       "id": 9,
       "value": 660.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4003,
-    "Prop": {
+    "id": 4003,
+    "prop": {
       "id": 10007,
       "value": 495.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 4004,
-    "Prop": {
+    "id": 4004,
+    "prop": {
       "id": 10002,
       "value": 495.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 4005,
-    "Prop": {
+    "id": 4005,
+    "prop": {
       "id": 10010,
       "value": 627.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 4006,
-    "Prop": {
+    "id": 4006,
+    "prop": {
       "id": 35,
       "value": 396.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4007,
-    "Prop": {
+    "id": 4007,
+    "prop": {
       "id": 22,
       "value": 450.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4008,
-    "Prop": {
+    "id": 4008,
+    "prop": {
       "id": 23,
       "value": 450.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4009,
-    "Prop": {
+    "id": 4009,
+    "prop": {
       "id": 24,
       "value": 450.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4010,
-    "Prop": {
+    "id": 4010,
+    "prop": {
       "id": 25,
       "value": 450.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4011,
-    "Prop": {
+    "id": 4011,
+    "prop": {
       "id": 26,
       "value": 450.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4012,
-    "Prop": {
+    "id": 4012,
+    "prop": {
       "id": 27,
       "value": 450.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4013,
-    "Prop": {
+    "id": 4013,
+    "prop": {
       "id": 10007,
       "value": 450.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 4014,
-    "Prop": {
+    "id": 4014,
+    "prop": {
       "id": 10002,
       "value": 450.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 4015,
-    "Prop": {
+    "id": 4015,
+    "prop": {
       "id": 10010,
       "value": 570.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 4016,
-    "Prop": {
+    "id": 4016,
+    "prop": {
       "id": 11,
       "value": 480.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 4017,
-    "Prop": {
+    "id": 4017,
+    "prop": {
       "id": 10007,
       "value": 270.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 4018,
-    "Prop": {
+    "id": 4018,
+    "prop": {
       "id": 10002,
       "value": 342.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 4019,
-    "Prop": {
+    "id": 4019,
+    "prop": {
       "id": 10010,
       "value": 270.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 30001,
-    "Prop": {
+    "id": 30001,
+    "prop": {
       "id": 10007,
       "value": 20.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 30002,
-    "Prop": {
+    "id": 30002,
+    "prop": {
       "id": 10002,
       "value": 152.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 30003,
-    "Prop": {
+    "id": 30003,
+    "prop": {
       "id": 10007,
       "value": 13.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3001,
-    "Prop": {
+    "id": 3001,
+    "prop": {
       "id": 8,
       "value": 293.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3002,
-    "Prop": {
+    "id": 3002,
+    "prop": {
       "id": 9,
       "value": 586.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3003,
-    "Prop": {
+    "id": 3003,
+    "prop": {
       "id": 10007,
       "value": 440.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3004,
-    "Prop": {
+    "id": 3004,
+    "prop": {
       "id": 10002,
       "value": 440.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3005,
-    "Prop": {
+    "id": 3005,
+    "prop": {
       "id": 10010,
       "value": 557.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3006,
-    "Prop": {
+    "id": 3006,
+    "prop": {
       "id": 35,
       "value": 352.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3007,
-    "Prop": {
+    "id": 3007,
+    "prop": {
       "id": 22,
       "value": 400.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3008,
-    "Prop": {
+    "id": 3008,
+    "prop": {
       "id": 23,
       "value": 400.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3009,
-    "Prop": {
+    "id": 3009,
+    "prop": {
       "id": 24,
       "value": 400.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3010,
-    "Prop": {
+    "id": 3010,
+    "prop": {
       "id": 25,
       "value": 400.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3011,
-    "Prop": {
+    "id": 3011,
+    "prop": {
       "id": 26,
       "value": 400.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3012,
-    "Prop": {
+    "id": 3012,
+    "prop": {
       "id": 27,
       "value": 400.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3013,
-    "Prop": {
+    "id": 3013,
+    "prop": {
       "id": 10007,
       "value": 400.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3014,
-    "Prop": {
+    "id": 3014,
+    "prop": {
       "id": 10002,
       "value": 400.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3015,
-    "Prop": {
+    "id": 3015,
+    "prop": {
       "id": 10010,
       "value": 506.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3016,
-    "Prop": {
+    "id": 3016,
+    "prop": {
       "id": 11,
       "value": 427.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 3017,
-    "Prop": {
+    "id": 3017,
+    "prop": {
       "id": 10007,
       "value": 240.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3018,
-    "Prop": {
+    "id": 3018,
+    "prop": {
       "id": 10002,
       "value": 304.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 3019,
-    "Prop": {
+    "id": 3019,
+    "prop": {
       "id": 10010,
       "value": 240.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 20001,
-    "Prop": {
+    "id": 20001,
+    "prop": {
       "id": 10007,
       "value": 18.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 20002,
-    "Prop": {
+    "id": 20002,
+    "prop": {
       "id": 10002,
       "value": 114.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 20003,
-    "Prop": {
+    "id": 20003,
+    "prop": {
       "id": 10007,
       "value": 12.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2001,
-    "Prop": {
+    "id": 2001,
+    "prop": {
       "id": 8,
       "value": 275.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2002,
-    "Prop": {
+    "id": 2002,
+    "prop": {
       "id": 9,
       "value": 550.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2003,
-    "Prop": {
+    "id": 2003,
+    "prop": {
       "id": 10007,
       "value": 412.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2004,
-    "Prop": {
+    "id": 2004,
+    "prop": {
       "id": 10002,
       "value": 412.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2005,
-    "Prop": {
+    "id": 2005,
+    "prop": {
       "id": 10010,
       "value": 522.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2006,
-    "Prop": {
+    "id": 2006,
+    "prop": {
       "id": 35,
       "value": 330.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2007,
-    "Prop": {
+    "id": 2007,
+    "prop": {
       "id": 22,
       "value": 375.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2008,
-    "Prop": {
+    "id": 2008,
+    "prop": {
       "id": 23,
       "value": 375.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2009,
-    "Prop": {
+    "id": 2009,
+    "prop": {
       "id": 24,
       "value": 375.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2010,
-    "Prop": {
+    "id": 2010,
+    "prop": {
       "id": 25,
       "value": 375.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2011,
-    "Prop": {
+    "id": 2011,
+    "prop": {
       "id": 26,
       "value": 375.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2012,
-    "Prop": {
+    "id": 2012,
+    "prop": {
       "id": 27,
       "value": 375.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2013,
-    "Prop": {
+    "id": 2013,
+    "prop": {
       "id": 10007,
       "value": 375.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2014,
-    "Prop": {
+    "id": 2014,
+    "prop": {
       "id": 10002,
       "value": 375.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2015,
-    "Prop": {
+    "id": 2015,
+    "prop": {
       "id": 10010,
       "value": 475.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2016,
-    "Prop": {
+    "id": 2016,
+    "prop": {
       "id": 11,
       "value": 400.0,
       "is_ratio": false
     }
   },
   {
-    "Id": 2017,
-    "Prop": {
+    "id": 2017,
+    "prop": {
       "id": 10007,
       "value": 225.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2018,
-    "Prop": {
+    "id": 2018,
+    "prop": {
       "id": 10002,
       "value": 285.0,
       "is_ratio": true
     }
   },
   {
-    "Id": 2019,
-    "Prop": {
+    "id": 2019,
+    "prop": {
       "id": 10010,
       "value": 225.0,
       "is_ratio": true

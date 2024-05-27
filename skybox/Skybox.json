@@ -1,14 +1,14 @@
 [
   {
-    "Id": 1,
-    "Name": "测试数据(不可用)",
-    "StaticSkybox": "",
-    "DynamicSkybox": ""
+    "id": 1,
+    "name": "测试数据(不可用)",
+    "static_skybox": "",
+    "dynamic_skybox": ""
   },
   {
-    "Id": 2,
-    "Name": "中午",
-    "StaticSkybox": "/Game/Aki/Render/DefaultGI/TOD/Common/DA_TOD_12_zhongwu.DA_TOD_12_zhongwu",
-    "DynamicSkybox": ""
+    "id": 2,
+    "name": "中午",
+    "static_skybox": "/Game/Aki/Render/DefaultGI/TOD/Common/DA_TOD_12_zhongwu.DA_TOD_12_zhongwu",
+    "dynamic_skybox": ""
   }
 ]

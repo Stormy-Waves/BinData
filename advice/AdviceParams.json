@@ -1,14 +1,14 @@
 [
   {
-    "Id": -1,
-    "Title": "AdviceParams_-1_Title",
-    "Content": "AdviceParams_-1_Content",
-    "MotionImg": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI"
+    "id": -1,
+    "title": "AdviceParams_-1_Title",
+    "content": "AdviceParams_-1_Content",
+    "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI"
   },
   {
-    "Id": -2,
-    "Title": "AdviceParams_-2_Title",
-    "Content": "",
-    "MotionImg": ""
+    "id": -2,
+    "title": "AdviceParams_-2_Title",
+    "content": "",
+    "motion_img": ""
   }
 ]

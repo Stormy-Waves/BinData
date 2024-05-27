@@ -1,14 +1,14 @@
 [
   {
-    "Id": 1301,
-    "VisibleList": [
+    "id": 1301,
+    "visible_list": [
       true,
       false
     ]
   },
   {
-    "Id": 1404,
-    "VisibleList": [
+    "id": 1404,
+    "visible_list": [
       true,
       false
     ]

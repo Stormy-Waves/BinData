@@ -1,92 +1,92 @@
 [
   {
-    "Id": 10001,
-    "TagId": -1359058778,
-    "Name": "程序专用",
-    "Effect": "",
-    "IsInteraction": false,
-    "Interval": 0.0,
-    "NextState": 0
+    "id": 10001,
+    "tag_id": -1359058778,
+    "name": "程序专用",
+    "effect": "",
+    "is_interaction": false,
+    "interval": 0.0,
+    "next_state": 0
   },
   {
-    "Id": 10002,
-    "TagId": -534945842,
-    "Name": "程序专用",
-    "Effect": "",
-    "IsInteraction": false,
-    "Interval": 0.0,
-    "NextState": 0
+    "id": 10002,
+    "tag_id": -534945842,
+    "name": "程序专用",
+    "effect": "",
+    "is_interaction": false,
+    "interval": 0.0,
+    "next_state": 0
   },
   {
-    "Id": 10003,
-    "TagId": 402148749,
-    "Name": "程序专用",
-    "Effect": "",
-    "IsInteraction": false,
-    "Interval": 0.0,
-    "NextState": 0
+    "id": 10003,
+    "tag_id": 402148749,
+    "name": "程序专用",
+    "effect": "",
+    "is_interaction": false,
+    "interval": 0.0,
+    "next_state": 0
   },
   {
-    "Id": 10004,
-    "TagId": -327998132,
-    "Name": "程序专用",
-    "Effect": "",
-    "IsInteraction": false,
-    "Interval": 0.0,
-    "NextState": 0
+    "id": 10004,
+    "tag_id": -327998132,
+    "name": "程序专用",
+    "effect": "",
+    "is_interaction": false,
+    "interval": 0.0,
+    "next_state": 0
   },
   {
-    "Id": 1,
-    "TagId": 1965762185,
-    "Name": "普通出生",
-    "Effect": "",
-    "IsInteraction": false,
-    "Interval": 0.1,
-    "NextState": 0
+    "id": 1,
+    "tag_id": 1965762185,
+    "name": "普通出生",
+    "effect": "",
+    "is_interaction": false,
+    "interval": 0.1,
+    "next_state": 0
   },
   {
-    "Id": 2,
-    "TagId": -974724123,
-    "Name": "普通loop",
-    "Effect": "",
-    "IsInteraction": true,
-    "Interval": 0.0,
-    "NextState": 3
+    "id": 2,
+    "tag_id": -974724123,
+    "name": "普通loop",
+    "effect": "",
+    "is_interaction": true,
+    "interval": 0.0,
+    "next_state": 3
   },
   {
-    "Id": 4,
-    "TagId": -1504147876,
-    "Name": "宝箱打开death",
-    "Effect": "",
-    "IsInteraction": false,
-    "Interval": 5.0,
-    "NextState": 0
+    "id": 4,
+    "tag_id": -1504147876,
+    "name": "宝箱打开death",
+    "effect": "",
+    "is_interaction": false,
+    "interval": 5.0,
+    "next_state": 0
   },
   {
-    "Id": 5,
-    "TagId": 1125409736,
-    "Name": "黑石增生in",
-    "Effect": "",
-    "IsInteraction": false,
-    "Interval": 0.0,
-    "NextState": 6
+    "id": 5,
+    "tag_id": 1125409736,
+    "name": "黑石增生in",
+    "effect": "",
+    "is_interaction": false,
+    "interval": 0.0,
+    "next_state": 6
   },
   {
-    "Id": 6,
-    "TagId": 1300644908,
-    "Name": "黑石增生out",
-    "Effect": "",
-    "IsInteraction": true,
-    "Interval": 0.0,
-    "NextState": 0
+    "id": 6,
+    "tag_id": 1300644908,
+    "name": "黑石增生out",
+    "effect": "",
+    "is_interaction": true,
+    "interval": 0.0,
+    "next_state": 0
   },
   {
-    "Id": 7,
-    "TagId": 1889833710,
-    "Name": "玩法生成出生",
-    "Effect": "",
-    "IsInteraction": false,
-    "Interval": 1.0,
-    "NextState": 0
+    "id": 7,
+    "tag_id": 1889833710,
+    "name": "玩法生成出生",
+    "effect": "",
+    "is_interaction": false,
+    "interval": 1.0,
+    "next_state": 0
   }
 ]

@@ -1,44 +1,44 @@
 [
   {
-    "Id": 1,
-    "SeasonId": 1,
-    "Index": 1,
-    "Point": 10,
-    "DropId": 50001
+    "id": 1,
+    "season_id": 1,
+    "index": 1,
+    "point": 10,
+    "drop_id": 50001
   },
   {
-    "Id": 2,
-    "SeasonId": 1,
-    "Index": 2,
-    "Point": 50,
-    "DropId": 50001
+    "id": 2,
+    "season_id": 1,
+    "index": 2,
+    "point": 50,
+    "drop_id": 50001
   },
   {
-    "Id": 3,
-    "SeasonId": 1,
-    "Index": 3,
-    "Point": 100,
-    "DropId": 50001
+    "id": 3,
+    "season_id": 1,
+    "index": 3,
+    "point": 100,
+    "drop_id": 50001
   },
   {
-    "Id": 4,
-    "SeasonId": 1,
-    "Index": 4,
-    "Point": 200,
-    "DropId": 50001
+    "id": 4,
+    "season_id": 1,
+    "index": 4,
+    "point": 200,
+    "drop_id": 50001
   },
   {
-    "Id": 5,
-    "SeasonId": 1,
-    "Index": 5,
-    "Point": 400,
-    "DropId": 50001
+    "id": 5,
+    "season_id": 1,
+    "index": 5,
+    "point": 400,
+    "drop_id": 50001
   },
   {
-    "Id": 6,
-    "SeasonId": 1,
-    "Index": 6,
-    "Point": 800,
-    "DropId": 50001
+    "id": 6,
+    "season_id": 1,
+    "index": 6,
+    "point": 800,
+    "drop_id": 50001
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
-    "TypeId": 1,
-    "UnlockTitle": "Text_BattlePassUnlockTitle1_Text",
-    "UnlockText": "Text_BattlePassUnlockText1_Text",
-    "UnlockReward": [
+    "type_id": 1,
+    "unlock_title": "Text_BattlePassUnlockTitle1_Text",
+    "unlock_text": "Text_BattlePassUnlockText1_Text",
+    "unlock_reward": [
       {
         "key": 3,
         "value": 680
@@ -43,10 +43,10 @@
     ]
   },
   {
-    "TypeId": 2,
-    "UnlockTitle": "Text_BattlePassUnlockTitle2_Text",
-    "UnlockText": "Text_BattlePassUnlockText2_Text",
-    "UnlockReward": [
+    "type_id": 2,
+    "unlock_title": "Text_BattlePassUnlockTitle2_Text",
+    "unlock_text": "Text_BattlePassUnlockText2_Text",
+    "unlock_reward": [
       {
         "key": 3,
         "value": 680
@@ -94,10 +94,10 @@
     ]
   },
   {
-    "TypeId": 3,
-    "UnlockTitle": "Text_BattlePassUnlockTitle3_Text",
-    "UnlockText": "Text_BattlePassUnlockText3_Text",
-    "UnlockReward": [
+    "type_id": 3,
+    "unlock_title": "Text_BattlePassUnlockTitle3_Text",
+    "unlock_text": "Text_BattlePassUnlockText3_Text",
+    "unlock_reward": [
       {
         "key": 80069001,
         "value": 1

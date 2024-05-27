@@ -1,1378 +1,1378 @@
 [
   {
-    "Id": 390070051,
-    "Name": "PhantomHandBook_390070051_Name",
-    "TypeDescrtption": "PhantomHandBook_390070051_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070051_Intensity",
-    "Place": "PhantomHandBook_390070051_Place",
-    "Title1": "PhantomHandBook_390070051_Title1",
-    "Descrtption1": "PhantomHandBook_390070051_Descrtption1",
-    "Title2": "PhantomHandBook_390070051_Title2",
-    "Descrtption2": "PhantomHandBook_390070051_Descrtption2",
-    "Scale": [
+    "id": 390070051,
+    "name": "PhantomHandBook_390070051_Name",
+    "type_descrtption": "PhantomHandBook_390070051_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070051_Intensity",
+    "place": "PhantomHandBook_390070051_Place",
+    "title1": "PhantomHandBook_390070051_Title1",
+    "descrtption1": "PhantomHandBook_390070051_Descrtption1",
+    "title2": "PhantomHandBook_390070051_Title2",
+    "descrtption2": "PhantomHandBook_390070051_Descrtption2",
+    "scale": [
       1.25,
       1.25,
       1.25
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070064,
-    "Name": "PhantomHandBook_390070064_Name",
-    "TypeDescrtption": "PhantomHandBook_390070064_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070064_Intensity",
-    "Place": "PhantomHandBook_390070064_Place",
-    "Title1": "PhantomHandBook_390070064_Title1",
-    "Descrtption1": "PhantomHandBook_390070064_Descrtption1",
-    "Title2": "PhantomHandBook_390070064_Title2",
-    "Descrtption2": "PhantomHandBook_390070064_Descrtption2",
-    "Scale": [
+    "id": 390070064,
+    "name": "PhantomHandBook_390070064_Name",
+    "type_descrtption": "PhantomHandBook_390070064_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070064_Intensity",
+    "place": "PhantomHandBook_390070064_Place",
+    "title1": "PhantomHandBook_390070064_Title1",
+    "descrtption1": "PhantomHandBook_390070064_Descrtption1",
+    "title2": "PhantomHandBook_390070064_Title2",
+    "descrtption2": "PhantomHandBook_390070064_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070065,
-    "Name": "PhantomHandBook_390070065_Name",
-    "TypeDescrtption": "PhantomHandBook_390070065_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070065_Intensity",
-    "Place": "PhantomHandBook_390070065_Place",
-    "Title1": "PhantomHandBook_390070065_Title1",
-    "Descrtption1": "PhantomHandBook_390070065_Descrtption1",
-    "Title2": "PhantomHandBook_390070065_Title2",
-    "Descrtption2": "PhantomHandBook_390070065_Descrtption2",
-    "Scale": [
+    "id": 390070065,
+    "name": "PhantomHandBook_390070065_Name",
+    "type_descrtption": "PhantomHandBook_390070065_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070065_Intensity",
+    "place": "PhantomHandBook_390070065_Place",
+    "title1": "PhantomHandBook_390070065_Title1",
+    "descrtption1": "PhantomHandBook_390070065_Descrtption1",
+    "title2": "PhantomHandBook_390070065_Title2",
+    "descrtption2": "PhantomHandBook_390070065_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070066,
-    "Name": "PhantomHandBook_390070066_Name",
-    "TypeDescrtption": "PhantomHandBook_390070066_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070066_Intensity",
-    "Place": "PhantomHandBook_390070066_Place",
-    "Title1": "PhantomHandBook_390070066_Title1",
-    "Descrtption1": "PhantomHandBook_390070066_Descrtption1",
-    "Title2": "PhantomHandBook_390070066_Title2",
-    "Descrtption2": "PhantomHandBook_390070066_Descrtption2",
-    "Scale": [
+    "id": 390070066,
+    "name": "PhantomHandBook_390070066_Name",
+    "type_descrtption": "PhantomHandBook_390070066_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070066_Intensity",
+    "place": "PhantomHandBook_390070066_Place",
+    "title1": "PhantomHandBook_390070066_Title1",
+    "descrtption1": "PhantomHandBook_390070066_Descrtption1",
+    "title2": "PhantomHandBook_390070066_Title2",
+    "descrtption2": "PhantomHandBook_390070066_Descrtption2",
+    "scale": [
       1.25,
       1.25,
       1.25
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070067,
-    "Name": "PhantomHandBook_390070067_Name",
-    "TypeDescrtption": "PhantomHandBook_390070067_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070067_Intensity",
-    "Place": "PhantomHandBook_390070067_Place",
-    "Title1": "PhantomHandBook_390070067_Title1",
-    "Descrtption1": "PhantomHandBook_390070067_Descrtption1",
-    "Title2": "PhantomHandBook_390070067_Title2",
-    "Descrtption2": "PhantomHandBook_390070067_Descrtption2",
-    "Scale": [
+    "id": 390070067,
+    "name": "PhantomHandBook_390070067_Name",
+    "type_descrtption": "PhantomHandBook_390070067_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070067_Intensity",
+    "place": "PhantomHandBook_390070067_Place",
+    "title1": "PhantomHandBook_390070067_Title1",
+    "descrtption1": "PhantomHandBook_390070067_Descrtption1",
+    "title2": "PhantomHandBook_390070067_Title2",
+    "descrtption2": "PhantomHandBook_390070067_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070068,
-    "Name": "PhantomHandBook_390070068_Name",
-    "TypeDescrtption": "PhantomHandBook_390070068_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070068_Intensity",
-    "Place": "PhantomHandBook_390070068_Place",
-    "Title1": "PhantomHandBook_390070068_Title1",
-    "Descrtption1": "PhantomHandBook_390070068_Descrtption1",
-    "Title2": "PhantomHandBook_390070068_Title2",
-    "Descrtption2": "PhantomHandBook_390070068_Descrtption2",
-    "Scale": [
+    "id": 390070068,
+    "name": "PhantomHandBook_390070068_Name",
+    "type_descrtption": "PhantomHandBook_390070068_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070068_Intensity",
+    "place": "PhantomHandBook_390070068_Place",
+    "title1": "PhantomHandBook_390070068_Title1",
+    "descrtption1": "PhantomHandBook_390070068_Descrtption1",
+    "title2": "PhantomHandBook_390070068_Title2",
+    "descrtption2": "PhantomHandBook_390070068_Descrtption2",
+    "scale": [
       1.25,
       1.25,
       1.25
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070069,
-    "Name": "PhantomHandBook_390070069_Name",
-    "TypeDescrtption": "PhantomHandBook_390070069_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070069_Intensity",
-    "Place": "PhantomHandBook_390070069_Place",
-    "Title1": "PhantomHandBook_390070069_Title1",
-    "Descrtption1": "PhantomHandBook_390070069_Descrtption1",
-    "Title2": "PhantomHandBook_390070069_Title2",
-    "Descrtption2": "PhantomHandBook_390070069_Descrtption2",
-    "Scale": [
+    "id": 390070069,
+    "name": "PhantomHandBook_390070069_Name",
+    "type_descrtption": "PhantomHandBook_390070069_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070069_Intensity",
+    "place": "PhantomHandBook_390070069_Place",
+    "title1": "PhantomHandBook_390070069_Title1",
+    "descrtption1": "PhantomHandBook_390070069_Descrtption1",
+    "title2": "PhantomHandBook_390070069_Title2",
+    "descrtption2": "PhantomHandBook_390070069_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070070,
-    "Name": "PhantomHandBook_390070070_Name",
-    "TypeDescrtption": "PhantomHandBook_390070070_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070070_Intensity",
-    "Place": "PhantomHandBook_390070070_Place",
-    "Title1": "PhantomHandBook_390070070_Title1",
-    "Descrtption1": "PhantomHandBook_390070070_Descrtption1",
-    "Title2": "PhantomHandBook_390070070_Title2",
-    "Descrtption2": "PhantomHandBook_390070070_Descrtption2",
-    "Scale": [
+    "id": 390070070,
+    "name": "PhantomHandBook_390070070_Name",
+    "type_descrtption": "PhantomHandBook_390070070_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070070_Intensity",
+    "place": "PhantomHandBook_390070070_Place",
+    "title1": "PhantomHandBook_390070070_Title1",
+    "descrtption1": "PhantomHandBook_390070070_Descrtption1",
+    "title2": "PhantomHandBook_390070070_Title2",
+    "descrtption2": "PhantomHandBook_390070070_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070076,
-    "Name": "PhantomHandBook_390070076_Name",
-    "TypeDescrtption": "PhantomHandBook_390070076_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070076_Intensity",
-    "Place": "PhantomHandBook_390070076_Place",
-    "Title1": "PhantomHandBook_390070076_Title1",
-    "Descrtption1": "PhantomHandBook_390070076_Descrtption1",
-    "Title2": "PhantomHandBook_390070076_Title2",
-    "Descrtption2": "PhantomHandBook_390070076_Descrtption2",
-    "Scale": [
+    "id": 390070076,
+    "name": "PhantomHandBook_390070076_Name",
+    "type_descrtption": "PhantomHandBook_390070076_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070076_Intensity",
+    "place": "PhantomHandBook_390070076_Place",
+    "title1": "PhantomHandBook_390070076_Title1",
+    "descrtption1": "PhantomHandBook_390070076_Descrtption1",
+    "title2": "PhantomHandBook_390070076_Title2",
+    "descrtption2": "PhantomHandBook_390070076_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077004,
-    "Name": "PhantomHandBook_390077004_Name",
-    "TypeDescrtption": "PhantomHandBook_390077004_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077004_Intensity",
-    "Place": "PhantomHandBook_390077004_Place",
-    "Title1": "PhantomHandBook_390077004_Title1",
-    "Descrtption1": "PhantomHandBook_390077004_Descrtption1",
-    "Title2": "PhantomHandBook_390077004_Title2",
-    "Descrtption2": "PhantomHandBook_390077004_Descrtption2",
-    "Scale": [
+    "id": 390077004,
+    "name": "PhantomHandBook_390077004_Name",
+    "type_descrtption": "PhantomHandBook_390077004_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077004_Intensity",
+    "place": "PhantomHandBook_390077004_Place",
+    "title1": "PhantomHandBook_390077004_Title1",
+    "descrtption1": "PhantomHandBook_390077004_Descrtption1",
+    "title2": "PhantomHandBook_390077004_Title2",
+    "descrtption2": "PhantomHandBook_390077004_Descrtption2",
+    "scale": [
       0.8,
       0.8,
       0.8
     ],
-    "Position": [
+    "position": [
       40.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390077005,
-    "Name": "PhantomHandBook_390077005_Name",
-    "TypeDescrtption": "PhantomHandBook_390077005_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077005_Intensity",
-    "Place": "PhantomHandBook_390077005_Place",
-    "Title1": "PhantomHandBook_390077005_Title1",
-    "Descrtption1": "PhantomHandBook_390077005_Descrtption1",
-    "Title2": "PhantomHandBook_390077005_Title2",
-    "Descrtption2": "PhantomHandBook_390077005_Descrtption2",
-    "Scale": [
+    "id": 390077005,
+    "name": "PhantomHandBook_390077005_Name",
+    "type_descrtption": "PhantomHandBook_390077005_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077005_Intensity",
+    "place": "PhantomHandBook_390077005_Place",
+    "title1": "PhantomHandBook_390077005_Title1",
+    "descrtption1": "PhantomHandBook_390077005_Descrtption1",
+    "title2": "PhantomHandBook_390077005_Title2",
+    "descrtption2": "PhantomHandBook_390077005_Descrtption2",
+    "scale": [
       0.8,
       0.8,
       0.8
     ],
-    "Position": [
+    "position": [
       40.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390077013,
-    "Name": "PhantomHandBook_390077013_Name",
-    "TypeDescrtption": "PhantomHandBook_390077013_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077013_Intensity",
-    "Place": "PhantomHandBook_390077013_Place",
-    "Title1": "PhantomHandBook_390077013_Title1",
-    "Descrtption1": "PhantomHandBook_390077013_Descrtption1",
-    "Title2": "PhantomHandBook_390077013_Title2",
-    "Descrtption2": "PhantomHandBook_390077013_Descrtption2",
-    "Scale": [
+    "id": 390077013,
+    "name": "PhantomHandBook_390077013_Name",
+    "type_descrtption": "PhantomHandBook_390077013_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077013_Intensity",
+    "place": "PhantomHandBook_390077013_Place",
+    "title1": "PhantomHandBook_390077013_Title1",
+    "descrtption1": "PhantomHandBook_390077013_Descrtption1",
+    "title2": "PhantomHandBook_390077013_Title2",
+    "descrtption2": "PhantomHandBook_390077013_Descrtption2",
+    "scale": [
       0.5,
       0.5,
       0.5
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077012,
-    "Name": "PhantomHandBook_390077012_Name",
-    "TypeDescrtption": "PhantomHandBook_390077012_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077012_Intensity",
-    "Place": "PhantomHandBook_390077012_Place",
-    "Title1": "PhantomHandBook_390077012_Title1",
-    "Descrtption1": "PhantomHandBook_390077012_Descrtption1",
-    "Title2": "PhantomHandBook_390077012_Title2",
-    "Descrtption2": "PhantomHandBook_390077012_Descrtption2",
-    "Scale": [
+    "id": 390077012,
+    "name": "PhantomHandBook_390077012_Name",
+    "type_descrtption": "PhantomHandBook_390077012_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077012_Intensity",
+    "place": "PhantomHandBook_390077012_Place",
+    "title1": "PhantomHandBook_390077012_Title1",
+    "descrtption1": "PhantomHandBook_390077012_Descrtption1",
+    "title2": "PhantomHandBook_390077012_Title2",
+    "descrtption2": "PhantomHandBook_390077012_Descrtption2",
+    "scale": [
       0.5,
       0.5,
       0.5
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077016,
-    "Name": "PhantomHandBook_390077016_Name",
-    "TypeDescrtption": "PhantomHandBook_390077016_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077016_Intensity",
-    "Place": "PhantomHandBook_390077016_Place",
-    "Title1": "PhantomHandBook_390077016_Title1",
-    "Descrtption1": "PhantomHandBook_390077016_Descrtption1",
-    "Title2": "PhantomHandBook_390077016_Title2",
-    "Descrtption2": "PhantomHandBook_390077016_Descrtption2",
-    "Scale": [
+    "id": 390077016,
+    "name": "PhantomHandBook_390077016_Name",
+    "type_descrtption": "PhantomHandBook_390077016_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077016_Intensity",
+    "place": "PhantomHandBook_390077016_Place",
+    "title1": "PhantomHandBook_390077016_Title1",
+    "descrtption1": "PhantomHandBook_390077016_Descrtption1",
+    "title2": "PhantomHandBook_390077016_Title2",
+    "descrtption2": "PhantomHandBook_390077016_Descrtption2",
+    "scale": [
       0.5,
       0.5,
       0.5
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077017,
-    "Name": "PhantomHandBook_390077017_Name",
-    "TypeDescrtption": "PhantomHandBook_390077017_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077017_Intensity",
-    "Place": "PhantomHandBook_390077017_Place",
-    "Title1": "PhantomHandBook_390077017_Title1",
-    "Descrtption1": "PhantomHandBook_390077017_Descrtption1",
-    "Title2": "PhantomHandBook_390077017_Title2",
-    "Descrtption2": "PhantomHandBook_390077017_Descrtption2",
-    "Scale": [
+    "id": 390077017,
+    "name": "PhantomHandBook_390077017_Name",
+    "type_descrtption": "PhantomHandBook_390077017_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077017_Intensity",
+    "place": "PhantomHandBook_390077017_Place",
+    "title1": "PhantomHandBook_390077017_Title1",
+    "descrtption1": "PhantomHandBook_390077017_Descrtption1",
+    "title2": "PhantomHandBook_390077017_Title2",
+    "descrtption2": "PhantomHandBook_390077017_Descrtption2",
+    "scale": [
       0.5,
       0.5,
       0.5
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077021,
-    "Name": "PhantomHandBook_390077021_Name",
-    "TypeDescrtption": "PhantomHandBook_390077021_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077021_Intensity",
-    "Place": "PhantomHandBook_390077021_Place",
-    "Title1": "PhantomHandBook_390077021_Title1",
-    "Descrtption1": "PhantomHandBook_390077021_Descrtption1",
-    "Title2": "PhantomHandBook_390077021_Title2",
-    "Descrtption2": "PhantomHandBook_390077021_Descrtption2",
-    "Scale": [
+    "id": 390077021,
+    "name": "PhantomHandBook_390077021_Name",
+    "type_descrtption": "PhantomHandBook_390077021_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077021_Intensity",
+    "place": "PhantomHandBook_390077021_Place",
+    "title1": "PhantomHandBook_390077021_Title1",
+    "descrtption1": "PhantomHandBook_390077021_Descrtption1",
+    "title2": "PhantomHandBook_390077021_Title2",
+    "descrtption2": "PhantomHandBook_390077021_Descrtption2",
+    "scale": [
       0.75,
       0.75,
       0.75
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077022,
-    "Name": "PhantomHandBook_390077022_Name",
-    "TypeDescrtption": "PhantomHandBook_390077022_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077022_Intensity",
-    "Place": "PhantomHandBook_390077022_Place",
-    "Title1": "PhantomHandBook_390077022_Title1",
-    "Descrtption1": "PhantomHandBook_390077022_Descrtption1",
-    "Title2": "PhantomHandBook_390077022_Title2",
-    "Descrtption2": "PhantomHandBook_390077022_Descrtption2",
-    "Scale": [
+    "id": 390077022,
+    "name": "PhantomHandBook_390077022_Name",
+    "type_descrtption": "PhantomHandBook_390077022_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077022_Intensity",
+    "place": "PhantomHandBook_390077022_Place",
+    "title1": "PhantomHandBook_390077022_Title1",
+    "descrtption1": "PhantomHandBook_390077022_Descrtption1",
+    "title2": "PhantomHandBook_390077022_Title2",
+    "descrtption2": "PhantomHandBook_390077022_Descrtption2",
+    "scale": [
       0.81,
       0.81,
       0.81
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077023,
-    "Name": "PhantomHandBook_390077023_Name",
-    "TypeDescrtption": "PhantomHandBook_390077023_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077023_Intensity",
-    "Place": "PhantomHandBook_390077023_Place",
-    "Title1": "PhantomHandBook_390077023_Title1",
-    "Descrtption1": "PhantomHandBook_390077023_Descrtption1",
-    "Title2": "PhantomHandBook_390077023_Title2",
-    "Descrtption2": "PhantomHandBook_390077023_Descrtption2",
-    "Scale": [
+    "id": 390077023,
+    "name": "PhantomHandBook_390077023_Name",
+    "type_descrtption": "PhantomHandBook_390077023_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077023_Intensity",
+    "place": "PhantomHandBook_390077023_Place",
+    "title1": "PhantomHandBook_390077023_Title1",
+    "descrtption1": "PhantomHandBook_390077023_Descrtption1",
+    "title2": "PhantomHandBook_390077023_Title2",
+    "descrtption2": "PhantomHandBook_390077023_Descrtption2",
+    "scale": [
       0.75,
       0.75,
       0.75
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       10.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077025,
-    "Name": "PhantomHandBook_390077025_Name",
-    "TypeDescrtption": "PhantomHandBook_390077025_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077025_Intensity",
-    "Place": "PhantomHandBook_390077025_Place",
-    "Title1": "PhantomHandBook_390077025_Title1",
-    "Descrtption1": "PhantomHandBook_390077025_Descrtption1",
-    "Title2": "PhantomHandBook_390077025_Title2",
-    "Descrtption2": "PhantomHandBook_390077025_Descrtption2",
-    "Scale": [
+    "id": 390077025,
+    "name": "PhantomHandBook_390077025_Name",
+    "type_descrtption": "PhantomHandBook_390077025_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077025_Intensity",
+    "place": "PhantomHandBook_390077025_Place",
+    "title1": "PhantomHandBook_390077025_Title1",
+    "descrtption1": "PhantomHandBook_390077025_Descrtption1",
+    "title2": "PhantomHandBook_390077025_Title2",
+    "descrtption2": "PhantomHandBook_390077025_Descrtption2",
+    "scale": [
       0.5,
       0.5,
       0.5
     ],
-    "Position": [
+    "position": [
       25.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390080003,
-    "Name": "PhantomHandBook_390080003_Name",
-    "TypeDescrtption": "PhantomHandBook_390080003_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390080003_Intensity",
-    "Place": "PhantomHandBook_390080003_Place",
-    "Title1": "PhantomHandBook_390080003_Title1",
-    "Descrtption1": "PhantomHandBook_390080003_Descrtption1",
-    "Title2": "PhantomHandBook_390080003_Title2",
-    "Descrtption2": "PhantomHandBook_390080003_Descrtption2",
-    "Scale": [
+    "id": 390080003,
+    "name": "PhantomHandBook_390080003_Name",
+    "type_descrtption": "PhantomHandBook_390080003_TypeDescrtption",
+    "intensity": "PhantomHandBook_390080003_Intensity",
+    "place": "PhantomHandBook_390080003_Place",
+    "title1": "PhantomHandBook_390080003_Title1",
+    "descrtption1": "PhantomHandBook_390080003_Descrtption1",
+    "title2": "PhantomHandBook_390080003_Title2",
+    "descrtption2": "PhantomHandBook_390080003_Descrtption2",
+    "scale": [
       0.7,
       0.7,
       0.7
     ],
-    "Position": [
+    "position": [
       30.0,
       -50.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070071,
-    "Name": "PhantomHandBook_390070071_Name",
-    "TypeDescrtption": "PhantomHandBook_390070071_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070071_Intensity",
-    "Place": "PhantomHandBook_390070071_Place",
-    "Title1": "PhantomHandBook_390070071_Title1",
-    "Descrtption1": "PhantomHandBook_390070071_Descrtption1",
-    "Title2": "PhantomHandBook_390070071_Title2",
-    "Descrtption2": "PhantomHandBook_390070071_Descrtption2",
-    "Scale": [
+    "id": 390070071,
+    "name": "PhantomHandBook_390070071_Name",
+    "type_descrtption": "PhantomHandBook_390070071_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070071_Intensity",
+    "place": "PhantomHandBook_390070071_Place",
+    "title1": "PhantomHandBook_390070071_Title1",
+    "descrtption1": "PhantomHandBook_390070071_Descrtption1",
+    "title2": "PhantomHandBook_390070071_Title2",
+    "descrtption2": "PhantomHandBook_390070071_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       -20.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077024,
-    "Name": "PhantomHandBook_390077024_Name",
-    "TypeDescrtption": "PhantomHandBook_390077024_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077024_Intensity",
-    "Place": "PhantomHandBook_390077024_Place",
-    "Title1": "PhantomHandBook_390077024_Title1",
-    "Descrtption1": "PhantomHandBook_390077024_Descrtption1",
-    "Title2": "PhantomHandBook_390077024_Title2",
-    "Descrtption2": "PhantomHandBook_390077024_Descrtption2",
-    "Scale": [
+    "id": 390077024,
+    "name": "PhantomHandBook_390077024_Name",
+    "type_descrtption": "PhantomHandBook_390077024_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077024_Intensity",
+    "place": "PhantomHandBook_390077024_Place",
+    "title1": "PhantomHandBook_390077024_Title1",
+    "descrtption1": "PhantomHandBook_390077024_Descrtption1",
+    "title2": "PhantomHandBook_390077024_Title2",
+    "descrtption2": "PhantomHandBook_390077024_Descrtption2",
+    "scale": [
       0.5,
       0.5,
       0.5
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390070074,
-    "Name": "PhantomHandBook_390070074_Name",
-    "TypeDescrtption": "PhantomHandBook_390070074_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070074_Intensity",
-    "Place": "PhantomHandBook_390070074_Place",
-    "Title1": "PhantomHandBook_390070074_Title1",
-    "Descrtption1": "PhantomHandBook_390070074_Descrtption1",
-    "Title2": "PhantomHandBook_390070074_Title2",
-    "Descrtption2": "PhantomHandBook_390070074_Descrtption2",
-    "Scale": [
+    "id": 390070074,
+    "name": "PhantomHandBook_390070074_Name",
+    "type_descrtption": "PhantomHandBook_390070074_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070074_Intensity",
+    "place": "PhantomHandBook_390070074_Place",
+    "title1": "PhantomHandBook_390070074_Title1",
+    "descrtption1": "PhantomHandBook_390070074_Descrtption1",
+    "title2": "PhantomHandBook_390070074_Title2",
+    "descrtption2": "PhantomHandBook_390070074_Descrtption2",
+    "scale": [
       1.3,
       1.3,
       1.3
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       -50.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070075,
-    "Name": "PhantomHandBook_390070075_Name",
-    "TypeDescrtption": "PhantomHandBook_390070075_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070075_Intensity",
-    "Place": "PhantomHandBook_390070075_Place",
-    "Title1": "PhantomHandBook_390070075_Title1",
-    "Descrtption1": "PhantomHandBook_390070075_Descrtption1",
-    "Title2": "PhantomHandBook_390070075_Title2",
-    "Descrtption2": "PhantomHandBook_390070075_Descrtption2",
-    "Scale": [
+    "id": 390070075,
+    "name": "PhantomHandBook_390070075_Name",
+    "type_descrtption": "PhantomHandBook_390070075_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070075_Intensity",
+    "place": "PhantomHandBook_390070075_Place",
+    "title1": "PhantomHandBook_390070075_Title1",
+    "descrtption1": "PhantomHandBook_390070075_Descrtption1",
+    "title2": "PhantomHandBook_390070075_Title2",
+    "descrtption2": "PhantomHandBook_390070075_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       50.0,
       -50.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390070077,
-    "Name": "PhantomHandBook_390070077_Name",
-    "TypeDescrtption": "PhantomHandBook_390070077_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070077_Intensity",
-    "Place": "PhantomHandBook_390070077_Place",
-    "Title1": "PhantomHandBook_390070077_Title1",
-    "Descrtption1": "PhantomHandBook_390070077_Descrtption1",
-    "Title2": "PhantomHandBook_390070077_Title2",
-    "Descrtption2": "PhantomHandBook_390070077_Descrtption2",
-    "Scale": [
+    "id": 390070077,
+    "name": "PhantomHandBook_390070077_Name",
+    "type_descrtption": "PhantomHandBook_390070077_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070077_Intensity",
+    "place": "PhantomHandBook_390070077_Place",
+    "title1": "PhantomHandBook_390070077_Title1",
+    "descrtption1": "PhantomHandBook_390070077_Descrtption1",
+    "title2": "PhantomHandBook_390070077_Title2",
+    "descrtption2": "PhantomHandBook_390070077_Descrtption2",
+    "scale": [
       1.75,
       1.75,
       1.75
     ],
-    "Position": [
+    "position": [
       50.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390070078,
-    "Name": "PhantomHandBook_390070078_Name",
-    "TypeDescrtption": "PhantomHandBook_390070078_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070078_Intensity",
-    "Place": "PhantomHandBook_390070078_Place",
-    "Title1": "PhantomHandBook_390070078_Title1",
-    "Descrtption1": "PhantomHandBook_390070078_Descrtption1",
-    "Title2": "PhantomHandBook_390070078_Title2",
-    "Descrtption2": "PhantomHandBook_390070078_Descrtption2",
-    "Scale": [
+    "id": 390070078,
+    "name": "PhantomHandBook_390070078_Name",
+    "type_descrtption": "PhantomHandBook_390070078_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070078_Intensity",
+    "place": "PhantomHandBook_390070078_Place",
+    "title1": "PhantomHandBook_390070078_Title1",
+    "descrtption1": "PhantomHandBook_390070078_Descrtption1",
+    "title2": "PhantomHandBook_390070078_Title2",
+    "descrtption2": "PhantomHandBook_390070078_Descrtption2",
+    "scale": [
       0.85,
       0.85,
       0.85
     ],
-    "Position": [
+    "position": [
       50.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390077028,
-    "Name": "PhantomHandBook_390077028_Name",
-    "TypeDescrtption": "PhantomHandBook_390077028_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077028_Intensity",
-    "Place": "PhantomHandBook_390077028_Place",
-    "Title1": "PhantomHandBook_390077028_Title1",
-    "Descrtption1": "PhantomHandBook_390077028_Descrtption1",
-    "Title2": "PhantomHandBook_390077028_Title2",
-    "Descrtption2": "PhantomHandBook_390077028_Descrtption2",
-    "Scale": [
+    "id": 390077028,
+    "name": "PhantomHandBook_390077028_Name",
+    "type_descrtption": "PhantomHandBook_390077028_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077028_Intensity",
+    "place": "PhantomHandBook_390077028_Place",
+    "title1": "PhantomHandBook_390077028_Title1",
+    "descrtption1": "PhantomHandBook_390077028_Descrtption1",
+    "title2": "PhantomHandBook_390077028_Title2",
+    "descrtption2": "PhantomHandBook_390077028_Descrtption2",
+    "scale": [
       0.8,
       0.8,
       0.8
     ],
-    "Position": [
+    "position": [
       60.0,
       -160.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390070079,
-    "Name": "PhantomHandBook_390070079_Name",
-    "TypeDescrtption": "PhantomHandBook_390070079_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070079_Intensity",
-    "Place": "PhantomHandBook_390070079_Place",
-    "Title1": "PhantomHandBook_390070079_Title1",
-    "Descrtption1": "PhantomHandBook_390070079_Descrtption1",
-    "Title2": "PhantomHandBook_390070079_Title2",
-    "Descrtption2": "PhantomHandBook_390070079_Descrtption2",
-    "Scale": [
+    "id": 390070079,
+    "name": "PhantomHandBook_390070079_Name",
+    "type_descrtption": "PhantomHandBook_390070079_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070079_Intensity",
+    "place": "PhantomHandBook_390070079_Place",
+    "title1": "PhantomHandBook_390070079_Title1",
+    "descrtption1": "PhantomHandBook_390070079_Descrtption1",
+    "title2": "PhantomHandBook_390070079_Title2",
+    "descrtption2": "PhantomHandBook_390070079_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390077029,
-    "Name": "PhantomHandBook_390077029_Name",
-    "TypeDescrtption": "PhantomHandBook_390077029_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077029_Intensity",
-    "Place": "PhantomHandBook_390077029_Place",
-    "Title1": "PhantomHandBook_390077029_Title1",
-    "Descrtption1": "PhantomHandBook_390077029_Descrtption1",
-    "Title2": "PhantomHandBook_390077029_Title2",
-    "Descrtption2": "PhantomHandBook_390077029_Descrtption2",
-    "Scale": [
+    "id": 390077029,
+    "name": "PhantomHandBook_390077029_Name",
+    "type_descrtption": "PhantomHandBook_390077029_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077029_Intensity",
+    "place": "PhantomHandBook_390077029_Place",
+    "title1": "PhantomHandBook_390077029_Title1",
+    "descrtption1": "PhantomHandBook_390077029_Descrtption1",
+    "title2": "PhantomHandBook_390077029_Title2",
+    "descrtption2": "PhantomHandBook_390077029_Descrtption2",
+    "scale": [
       0.75,
       0.75,
       0.75
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390080007,
-    "Name": "PhantomHandBook_390080007_Name",
-    "TypeDescrtption": "PhantomHandBook_390080007_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390080007_Intensity",
-    "Place": "PhantomHandBook_390080007_Place",
-    "Title1": "PhantomHandBook_390080007_Title1",
-    "Descrtption1": "PhantomHandBook_390080007_Descrtption1",
-    "Title2": "PhantomHandBook_390080007_Title2",
-    "Descrtption2": "PhantomHandBook_390080007_Descrtption2",
-    "Scale": [
+    "id": 390080007,
+    "name": "PhantomHandBook_390080007_Name",
+    "type_descrtption": "PhantomHandBook_390080007_TypeDescrtption",
+    "intensity": "PhantomHandBook_390080007_Intensity",
+    "place": "PhantomHandBook_390080007_Place",
+    "title1": "PhantomHandBook_390080007_Title1",
+    "descrtption1": "PhantomHandBook_390080007_Descrtption1",
+    "title2": "PhantomHandBook_390080007_Title2",
+    "descrtption2": "PhantomHandBook_390080007_Descrtption2",
+    "scale": [
       0.7,
       0.7,
       0.7
     ],
-    "Position": [
+    "position": [
       30.0,
       -100.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       -28.0
     ]
   },
   {
-    "Id": 390077038,
-    "Name": "PhantomHandBook_390077038_Name",
-    "TypeDescrtption": "PhantomHandBook_390077038_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077038_Intensity",
-    "Place": "PhantomHandBook_390077038_Place",
-    "Title1": "PhantomHandBook_390077038_Title1",
-    "Descrtption1": "PhantomHandBook_390077038_Descrtption1",
-    "Title2": "PhantomHandBook_390077038_Title2",
-    "Descrtption2": "PhantomHandBook_390077038_Descrtption2",
-    "Scale": [
+    "id": 390077038,
+    "name": "PhantomHandBook_390077038_Name",
+    "type_descrtption": "PhantomHandBook_390077038_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077038_Intensity",
+    "place": "PhantomHandBook_390077038_Place",
+    "title1": "PhantomHandBook_390077038_Title1",
+    "descrtption1": "PhantomHandBook_390077038_Descrtption1",
+    "title2": "PhantomHandBook_390077038_Title2",
+    "descrtption2": "PhantomHandBook_390077038_Descrtption2",
+    "scale": [
       0.9,
       0.9,
       0.9
     ],
-    "Position": [
+    "position": [
       60.0,
       -100.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390070105,
-    "Name": "PhantomHandBook_390070105_Name",
-    "TypeDescrtption": "PhantomHandBook_390070105_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070105_Intensity",
-    "Place": "PhantomHandBook_390070105_Place",
-    "Title1": "PhantomHandBook_390070105_Title1",
-    "Descrtption1": "PhantomHandBook_390070105_Descrtption1",
-    "Title2": "PhantomHandBook_390070105_Title2",
-    "Descrtption2": "PhantomHandBook_390070105_Descrtption2",
-    "Scale": [
+    "id": 390070105,
+    "name": "PhantomHandBook_390070105_Name",
+    "type_descrtption": "PhantomHandBook_390070105_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070105_Intensity",
+    "place": "PhantomHandBook_390070105_Place",
+    "title1": "PhantomHandBook_390070105_Title1",
+    "descrtption1": "PhantomHandBook_390070105_Descrtption1",
+    "title2": "PhantomHandBook_390070105_Title2",
+    "descrtption2": "PhantomHandBook_390070105_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       40.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       30.0
     ]
   },
   {
-    "Id": 390077033,
-    "Name": "PhantomHandBook_390077033_Name",
-    "TypeDescrtption": "PhantomHandBook_390077033_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390077033_Intensity",
-    "Place": "PhantomHandBook_390077033_Place",
-    "Title1": "PhantomHandBook_390077033_Title1",
-    "Descrtption1": "PhantomHandBook_390077033_Descrtption1",
-    "Title2": "PhantomHandBook_390077033_Title2",
-    "Descrtption2": "PhantomHandBook_390077033_Descrtption2",
-    "Scale": [
+    "id": 390077033,
+    "name": "PhantomHandBook_390077033_Name",
+    "type_descrtption": "PhantomHandBook_390077033_TypeDescrtption",
+    "intensity": "PhantomHandBook_390077033_Intensity",
+    "place": "PhantomHandBook_390077033_Place",
+    "title1": "PhantomHandBook_390077033_Title1",
+    "descrtption1": "PhantomHandBook_390077033_Descrtption1",
+    "title2": "PhantomHandBook_390077033_Title2",
+    "descrtption2": "PhantomHandBook_390077033_Descrtption2",
+    "scale": [
       0.85,
       0.85,
       0.85
     ],
-    "Position": [
+    "position": [
       60.0,
       -70.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070100,
-    "Name": "PhantomHandBook_390070100_Name",
-    "TypeDescrtption": "PhantomHandBook_390070100_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070100_Intensity",
-    "Place": "PhantomHandBook_390070100_Place",
-    "Title1": "PhantomHandBook_390070100_Title1",
-    "Descrtption1": "PhantomHandBook_390070100_Descrtption1",
-    "Title2": "PhantomHandBook_390070100_Title2",
-    "Descrtption2": "PhantomHandBook_390070100_Descrtption2",
-    "Scale": [
+    "id": 390070100,
+    "name": "PhantomHandBook_390070100_Name",
+    "type_descrtption": "PhantomHandBook_390070100_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070100_Intensity",
+    "place": "PhantomHandBook_390070100_Place",
+    "title1": "PhantomHandBook_390070100_Title1",
+    "descrtption1": "PhantomHandBook_390070100_Descrtption1",
+    "title2": "PhantomHandBook_390070100_Title2",
+    "descrtption2": "PhantomHandBook_390070100_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       50.0,
       -70.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 390080005,
-    "Name": "PhantomHandBook_390080005_Name",
-    "TypeDescrtption": "PhantomHandBook_390080005_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390080005_Intensity",
-    "Place": "PhantomHandBook_390080005_Place",
-    "Title1": "PhantomHandBook_390080005_Title1",
-    "Descrtption1": "PhantomHandBook_390080005_Descrtption1",
-    "Title2": "PhantomHandBook_390080005_Title2",
-    "Descrtption2": "PhantomHandBook_390080005_Descrtption2",
-    "Scale": [
+    "id": 390080005,
+    "name": "PhantomHandBook_390080005_Name",
+    "type_descrtption": "PhantomHandBook_390080005_TypeDescrtption",
+    "intensity": "PhantomHandBook_390080005_Intensity",
+    "place": "PhantomHandBook_390080005_Place",
+    "title1": "PhantomHandBook_390080005_Title1",
+    "descrtption1": "PhantomHandBook_390080005_Descrtption1",
+    "title2": "PhantomHandBook_390080005_Title2",
+    "descrtption2": "PhantomHandBook_390080005_Descrtption2",
+    "scale": [
       0.2,
       0.2,
       0.2
     ],
-    "Position": [
+    "position": [
       20.0,
       -90.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       30.0
     ]
   },
   {
-    "Id": 6000038,
-    "Name": "PhantomHandBook_6000038_Name",
-    "TypeDescrtption": "PhantomHandBook_6000038_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000038_Intensity",
-    "Place": "PhantomHandBook_6000038_Place",
-    "Title1": "PhantomHandBook_6000038_Title1",
-    "Descrtption1": "PhantomHandBook_6000038_Descrtption1",
-    "Title2": "PhantomHandBook_6000038_Title2",
-    "Descrtption2": "PhantomHandBook_6000038_Descrtption2",
-    "Scale": [
+    "id": 6000038,
+    "name": "PhantomHandBook_6000038_Name",
+    "type_descrtption": "PhantomHandBook_6000038_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000038_Intensity",
+    "place": "PhantomHandBook_6000038_Place",
+    "title1": "PhantomHandBook_6000038_Title1",
+    "descrtption1": "PhantomHandBook_6000038_Descrtption1",
+    "title2": "PhantomHandBook_6000038_Title2",
+    "descrtption2": "PhantomHandBook_6000038_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       40.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 6000039,
-    "Name": "PhantomHandBook_6000039_Name",
-    "TypeDescrtption": "PhantomHandBook_6000039_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000039_Intensity",
-    "Place": "PhantomHandBook_6000039_Place",
-    "Title1": "PhantomHandBook_6000039_Title1",
-    "Descrtption1": "PhantomHandBook_6000039_Descrtption1",
-    "Title2": "PhantomHandBook_6000039_Title2",
-    "Descrtption2": "PhantomHandBook_6000039_Descrtption2",
-    "Scale": [
+    "id": 6000039,
+    "name": "PhantomHandBook_6000039_Name",
+    "type_descrtption": "PhantomHandBook_6000039_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000039_Intensity",
+    "place": "PhantomHandBook_6000039_Place",
+    "title1": "PhantomHandBook_6000039_Title1",
+    "descrtption1": "PhantomHandBook_6000039_Descrtption1",
+    "title2": "PhantomHandBook_6000039_Title2",
+    "descrtption2": "PhantomHandBook_6000039_Descrtption2",
+    "scale": [
       0.7,
       0.7,
       0.7
     ],
-    "Position": [
+    "position": [
       40.0,
       -50.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070052,
-    "Name": "PhantomHandBook_390070052_Name",
-    "TypeDescrtption": "PhantomHandBook_390070052_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070052_Intensity",
-    "Place": "PhantomHandBook_390070052_Place",
-    "Title1": "PhantomHandBook_390070052_Title1",
-    "Descrtption1": "PhantomHandBook_390070052_Descrtption1",
-    "Title2": "PhantomHandBook_390070052_Title2",
-    "Descrtption2": "PhantomHandBook_390070052_Descrtption2",
-    "Scale": [
+    "id": 390070052,
+    "name": "PhantomHandBook_390070052_Name",
+    "type_descrtption": "PhantomHandBook_390070052_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070052_Intensity",
+    "place": "PhantomHandBook_390070052_Place",
+    "title1": "PhantomHandBook_390070052_Title1",
+    "descrtption1": "PhantomHandBook_390070052_Descrtption1",
+    "title2": "PhantomHandBook_390070052_Title2",
+    "descrtption2": "PhantomHandBook_390070052_Descrtption2",
+    "scale": [
       1.25,
       1.25,
       1.25
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 390070053,
-    "Name": "PhantomHandBook_390070053_Name",
-    "TypeDescrtption": "PhantomHandBook_390070053_TypeDescrtption",
-    "Intensity": "PhantomHandBook_390070053_Intensity",
-    "Place": "PhantomHandBook_390070053_Place",
-    "Title1": "PhantomHandBook_390070053_Title1",
-    "Descrtption1": "PhantomHandBook_390070053_Descrtption1",
-    "Title2": "PhantomHandBook_390070053_Title2",
-    "Descrtption2": "PhantomHandBook_390070053_Descrtption2",
-    "Scale": [
+    "id": 390070053,
+    "name": "PhantomHandBook_390070053_Name",
+    "type_descrtption": "PhantomHandBook_390070053_TypeDescrtption",
+    "intensity": "PhantomHandBook_390070053_Intensity",
+    "place": "PhantomHandBook_390070053_Place",
+    "title1": "PhantomHandBook_390070053_Title1",
+    "descrtption1": "PhantomHandBook_390070053_Descrtption1",
+    "title2": "PhantomHandBook_390070053_Title2",
+    "descrtption2": "PhantomHandBook_390070053_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 6000040,
-    "Name": "PhantomHandBook_6000040_Name",
-    "TypeDescrtption": "PhantomHandBook_6000040_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000040_Intensity",
-    "Place": "PhantomHandBook_6000040_Place",
-    "Title1": "PhantomHandBook_6000040_Title1",
-    "Descrtption1": "PhantomHandBook_6000040_Descrtption1",
-    "Title2": "PhantomHandBook_6000040_Title2",
-    "Descrtption2": "PhantomHandBook_6000040_Descrtption2",
-    "Scale": [
+    "id": 6000040,
+    "name": "PhantomHandBook_6000040_Name",
+    "type_descrtption": "PhantomHandBook_6000040_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000040_Intensity",
+    "place": "PhantomHandBook_6000040_Place",
+    "title1": "PhantomHandBook_6000040_Title1",
+    "descrtption1": "PhantomHandBook_6000040_Descrtption1",
+    "title2": "PhantomHandBook_6000040_Title2",
+    "descrtption2": "PhantomHandBook_6000040_Descrtption2",
+    "scale": [
       0.9,
       0.9,
       0.9
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 6000041,
-    "Name": "PhantomHandBook_6000041_Name",
-    "TypeDescrtption": "PhantomHandBook_6000041_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000041_Intensity",
-    "Place": "PhantomHandBook_6000041_Place",
-    "Title1": "PhantomHandBook_6000041_Title1",
-    "Descrtption1": "PhantomHandBook_6000041_Descrtption1",
-    "Title2": "PhantomHandBook_6000041_Title2",
-    "Descrtption2": "PhantomHandBook_6000041_Descrtption2",
-    "Scale": [
+    "id": 6000041,
+    "name": "PhantomHandBook_6000041_Name",
+    "type_descrtption": "PhantomHandBook_6000041_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000041_Intensity",
+    "place": "PhantomHandBook_6000041_Place",
+    "title1": "PhantomHandBook_6000041_Title1",
+    "descrtption1": "PhantomHandBook_6000041_Descrtption1",
+    "title2": "PhantomHandBook_6000041_Title2",
+    "descrtption2": "PhantomHandBook_6000041_Descrtption2",
+    "scale": [
       0.9,
       0.9,
       0.9
     ],
-    "Position": [
+    "position": [
       50.0,
       -50.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       40.0
     ]
   },
   {
-    "Id": 6000042,
-    "Name": "PhantomHandBook_6000042_Name",
-    "TypeDescrtption": "PhantomHandBook_6000042_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000042_Intensity",
-    "Place": "PhantomHandBook_6000042_Place",
-    "Title1": "PhantomHandBook_6000042_Title1",
-    "Descrtption1": "PhantomHandBook_6000042_Descrtption1",
-    "Title2": "PhantomHandBook_6000042_Title2",
-    "Descrtption2": "PhantomHandBook_6000042_Descrtption2",
-    "Scale": [
+    "id": 6000042,
+    "name": "PhantomHandBook_6000042_Name",
+    "type_descrtption": "PhantomHandBook_6000042_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000042_Intensity",
+    "place": "PhantomHandBook_6000042_Place",
+    "title1": "PhantomHandBook_6000042_Title1",
+    "descrtption1": "PhantomHandBook_6000042_Descrtption1",
+    "title2": "PhantomHandBook_6000042_Title2",
+    "descrtption2": "PhantomHandBook_6000042_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 6000043,
-    "Name": "PhantomHandBook_6000043_Name",
-    "TypeDescrtption": "PhantomHandBook_6000043_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000043_Intensity",
-    "Place": "PhantomHandBook_6000043_Place",
-    "Title1": "PhantomHandBook_6000043_Title1",
-    "Descrtption1": "PhantomHandBook_6000043_Descrtption1",
-    "Title2": "PhantomHandBook_6000043_Title2",
-    "Descrtption2": "PhantomHandBook_6000043_Descrtption2",
-    "Scale": [
+    "id": 6000043,
+    "name": "PhantomHandBook_6000043_Name",
+    "type_descrtption": "PhantomHandBook_6000043_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000043_Intensity",
+    "place": "PhantomHandBook_6000043_Place",
+    "title1": "PhantomHandBook_6000043_Title1",
+    "descrtption1": "PhantomHandBook_6000043_Descrtption1",
+    "title2": "PhantomHandBook_6000043_Title2",
+    "descrtption2": "PhantomHandBook_6000043_Descrtption2",
+    "scale": [
       0.35,
       0.35,
       0.35
     ],
-    "Position": [
+    "position": [
       30.0,
       -80.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 6000044,
-    "Name": "PhantomHandBook_6000044_Name",
-    "TypeDescrtption": "PhantomHandBook_6000044_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000044_Intensity",
-    "Place": "PhantomHandBook_6000044_Place",
-    "Title1": "PhantomHandBook_6000044_Title1",
-    "Descrtption1": "PhantomHandBook_6000044_Descrtption1",
-    "Title2": "PhantomHandBook_6000044_Title2",
-    "Descrtption2": "PhantomHandBook_6000044_Descrtption2",
-    "Scale": [
+    "id": 6000044,
+    "name": "PhantomHandBook_6000044_Name",
+    "type_descrtption": "PhantomHandBook_6000044_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000044_Intensity",
+    "place": "PhantomHandBook_6000044_Place",
+    "title1": "PhantomHandBook_6000044_Title1",
+    "descrtption1": "PhantomHandBook_6000044_Descrtption1",
+    "title2": "PhantomHandBook_6000044_Title2",
+    "descrtption2": "PhantomHandBook_6000044_Descrtption2",
+    "scale": [
       0.35,
       0.35,
       0.35
     ],
-    "Position": [
+    "position": [
       40.0,
       0.0,
       10.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 6000045,
-    "Name": "PhantomHandBook_6000045_Name",
-    "TypeDescrtption": "PhantomHandBook_6000045_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000045_Intensity",
-    "Place": "PhantomHandBook_6000045_Place",
-    "Title1": "PhantomHandBook_6000045_Title1",
-    "Descrtption1": "PhantomHandBook_6000045_Descrtption1",
-    "Title2": "PhantomHandBook_6000045_Title2",
-    "Descrtption2": "PhantomHandBook_6000045_Descrtption2",
-    "Scale": [
+    "id": 6000045,
+    "name": "PhantomHandBook_6000045_Name",
+    "type_descrtption": "PhantomHandBook_6000045_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000045_Intensity",
+    "place": "PhantomHandBook_6000045_Place",
+    "title1": "PhantomHandBook_6000045_Title1",
+    "descrtption1": "PhantomHandBook_6000045_Descrtption1",
+    "title2": "PhantomHandBook_6000045_Title2",
+    "descrtption2": "PhantomHandBook_6000045_Descrtption2",
+    "scale": [
       0.5,
       0.5,
       0.5
     ],
-    "Position": [
+    "position": [
       50.0,
       0.0,
       40.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       30.0
     ]
   },
   {
-    "Id": 6000046,
-    "Name": "PhantomHandBook_6000046_Name",
-    "TypeDescrtption": "PhantomHandBook_6000046_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000046_Intensity",
-    "Place": "PhantomHandBook_6000046_Place",
-    "Title1": "PhantomHandBook_6000046_Title1",
-    "Descrtption1": "PhantomHandBook_6000046_Descrtption1",
-    "Title2": "PhantomHandBook_6000046_Title2",
-    "Descrtption2": "PhantomHandBook_6000046_Descrtption2",
-    "Scale": [
+    "id": 6000046,
+    "name": "PhantomHandBook_6000046_Name",
+    "type_descrtption": "PhantomHandBook_6000046_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000046_Intensity",
+    "place": "PhantomHandBook_6000046_Place",
+    "title1": "PhantomHandBook_6000046_Title1",
+    "descrtption1": "PhantomHandBook_6000046_Descrtption1",
+    "title2": "PhantomHandBook_6000046_Title2",
+    "descrtption2": "PhantomHandBook_6000046_Descrtption2",
+    "scale": [
       0.5,
       0.5,
       0.5
     ],
-    "Position": [
+    "position": [
       50.0,
       -50.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       20.0
     ]
   },
   {
-    "Id": 6000047,
-    "Name": "PhantomHandBook_6000047_Name",
-    "TypeDescrtption": "PhantomHandBook_6000047_TypeDescrtption",
-    "Intensity": "PhantomHandBook_6000047_Intensity",
-    "Place": "PhantomHandBook_6000047_Place",
-    "Title1": "PhantomHandBook_6000047_Title1",
-    "Descrtption1": "PhantomHandBook_6000047_Descrtption1",
-    "Title2": "PhantomHandBook_6000047_Title2",
-    "Descrtption2": "PhantomHandBook_6000047_Descrtption2",
-    "Scale": [
+    "id": 6000047,
+    "name": "PhantomHandBook_6000047_Name",
+    "type_descrtption": "PhantomHandBook_6000047_TypeDescrtption",
+    "intensity": "PhantomHandBook_6000047_Intensity",
+    "place": "PhantomHandBook_6000047_Place",
+    "title1": "PhantomHandBook_6000047_Title1",
+    "descrtption1": "PhantomHandBook_6000047_Descrtption1",
+    "title2": "PhantomHandBook_6000047_Title2",
+    "descrtption2": "PhantomHandBook_6000047_Descrtption2",
+    "scale": [
       1.0,
       1.0,
       1.0
     ],
-    "Position": [
+    "position": [
       30.0,
       0.0,
       0.0
     ],
-    "Rotator": [
+    "rotator": [
       0.0,
       0.0,
       0.0
     ]
   },
   {
-    "Id": 6000048,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 6000048,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 6000049,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 6000049,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 6000050,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 6000050,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 6000052,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 6000052,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 391070105,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 391070105,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 391077024,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 391077024,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 391080003,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 391080003,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 390180010,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 390180010,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 6000145,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 6000145,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 6010052,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 6010052,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   },
   {
-    "Id": 6000053,
-    "Name": "",
-    "TypeDescrtption": "",
-    "Intensity": "",
-    "Place": "",
-    "Title1": "",
-    "Descrtption1": "",
-    "Title2": "",
-    "Descrtption2": "",
-    "Scale": [],
-    "Position": [],
-    "Rotator": []
+    "id": 6000053,
+    "name": "",
+    "type_descrtption": "",
+    "intensity": "",
+    "place": "",
+    "title1": "",
+    "descrtption1": "",
+    "title2": "",
+    "descrtption2": "",
+    "scale": [],
+    "position": [],
+    "rotator": []
   }
 ]

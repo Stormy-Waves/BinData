@@ -1,194 +1,194 @@
 [
   {
-    "Id": 10101,
-    "TaskIds": [
+    "id": 10101,
+    "task_ids": [
       125000083,
       125000084
     ],
-    "TypeId": 101,
-    "CountryId": 1
+    "type_id": 101,
+    "country_id": 1
   },
   {
-    "Id": 10201,
-    "TaskIds": [
+    "id": 10201,
+    "task_ids": [
       125000085,
       125000086
     ],
-    "TypeId": 102,
-    "CountryId": 1
+    "type_id": 102,
+    "country_id": 1
   },
   {
-    "Id": 10202,
-    "TaskIds": [
+    "id": 10202,
+    "task_ids": [
       125000087
     ],
-    "TypeId": 102,
-    "CountryId": 1
+    "type_id": 102,
+    "country_id": 1
   },
   {
-    "Id": 10203,
-    "TaskIds": [
+    "id": 10203,
+    "task_ids": [
       125000088
     ],
-    "TypeId": 102,
-    "CountryId": 1
+    "type_id": 102,
+    "country_id": 1
   },
   {
-    "Id": 10204,
-    "TaskIds": [
+    "id": 10204,
+    "task_ids": [
       125000089,
       125000090
     ],
-    "TypeId": 102,
-    "CountryId": 1
+    "type_id": 102,
+    "country_id": 1
   },
   {
-    "Id": 10301,
-    "TaskIds": [
+    "id": 10301,
+    "task_ids": [
       125000091,
       125000092
     ],
-    "TypeId": 103,
-    "CountryId": 1
+    "type_id": 103,
+    "country_id": 1
   },
   {
-    "Id": 10401,
-    "TaskIds": [
+    "id": 10401,
+    "task_ids": [
       125000093,
       125000094
     ],
-    "TypeId": 104,
-    "CountryId": 1
+    "type_id": 104,
+    "country_id": 1
   },
   {
-    "Id": 10402,
-    "TaskIds": [
+    "id": 10402,
+    "task_ids": [
       125000095,
       125000096
     ],
-    "TypeId": 104,
-    "CountryId": 1
+    "type_id": 104,
+    "country_id": 1
   },
   {
-    "Id": 10403,
-    "TaskIds": [
+    "id": 10403,
+    "task_ids": [
       125000097
     ],
-    "TypeId": 104,
-    "CountryId": 1
+    "type_id": 104,
+    "country_id": 1
   },
   {
-    "Id": 10404,
-    "TaskIds": [
+    "id": 10404,
+    "task_ids": [
       125000095,
       125000096
     ],
-    "TypeId": 104,
-    "CountryId": 1
+    "type_id": 104,
+    "country_id": 1
   },
   {
-    "Id": 10501,
-    "TaskIds": [
+    "id": 10501,
+    "task_ids": [
       125000098,
       125000099,
       125000100
     ],
-    "TypeId": 105,
-    "CountryId": 1
+    "type_id": 105,
+    "country_id": 1
   },
   {
-    "Id": 10601,
-    "TaskIds": [
+    "id": 10601,
+    "task_ids": [
       125000101,
       125000102,
       125000103
     ],
-    "TypeId": 106,
-    "CountryId": 1
+    "type_id": 106,
+    "country_id": 1
   },
   {
-    "Id": 10701,
-    "TaskIds": [
+    "id": 10701,
+    "task_ids": [
       125000104,
       125000105,
       125000106,
       125000107
     ],
-    "TypeId": 107,
-    "CountryId": 1
+    "type_id": 107,
+    "country_id": 1
   },
   {
-    "Id": 10801,
-    "TaskIds": [
+    "id": 10801,
+    "task_ids": [
       125000108,
       125000109
     ],
-    "TypeId": 108,
-    "CountryId": 1
+    "type_id": 108,
+    "country_id": 1
   },
   {
-    "Id": 10901,
-    "TaskIds": [
+    "id": 10901,
+    "task_ids": [
       125000110
     ],
-    "TypeId": 109,
-    "CountryId": 1
+    "type_id": 109,
+    "country_id": 1
   },
   {
-    "Id": 10902,
-    "TaskIds": [
+    "id": 10902,
+    "task_ids": [
       125000111
     ],
-    "TypeId": 109,
-    "CountryId": 1
+    "type_id": 109,
+    "country_id": 1
   },
   {
-    "Id": 10903,
-    "TaskIds": [
+    "id": 10903,
+    "task_ids": [
       125000112,
       125000113
     ],
-    "TypeId": 109,
-    "CountryId": 1
+    "type_id": 109,
+    "country_id": 1
   },
   {
-    "Id": 11001,
-    "TaskIds": [
+    "id": 11001,
+    "task_ids": [
       125000114
     ],
-    "TypeId": 110,
-    "CountryId": 1
+    "type_id": 110,
+    "country_id": 1
   },
   {
-    "Id": 11002,
-    "TaskIds": [
+    "id": 11002,
+    "task_ids": [
       125000115
     ],
-    "TypeId": 110,
-    "CountryId": 1
+    "type_id": 110,
+    "country_id": 1
   },
   {
-    "Id": 11003,
-    "TaskIds": [
+    "id": 11003,
+    "task_ids": [
       125000116
     ],
-    "TypeId": 110,
-    "CountryId": 1
+    "type_id": 110,
+    "country_id": 1
   },
   {
-    "Id": 11004,
-    "TaskIds": [
+    "id": 11004,
+    "task_ids": [
       125000117
     ],
-    "TypeId": 110,
-    "CountryId": 1
+    "type_id": 110,
+    "country_id": 1
   },
   {
-    "Id": 11005,
-    "TaskIds": [
+    "id": 11005,
+    "task_ids": [
       125000118
     ],
-    "TypeId": 110,
-    "CountryId": 1
+    "type_id": 110,
+    "country_id": 1
   }
 ]

@@ -1,58 +1,58 @@
 [
   {
-    "Id": 1,
-    "PlayerLevelMax": 10,
-    "ConditionGroupId": 0,
-    "AiTeamLevelId": 1,
-    "TrainingLevel": 8
+    "id": 1,
+    "player_level_max": 10,
+    "condition_group_id": 0,
+    "ai_team_level_id": 1,
+    "training_level": 8
   },
   {
-    "Id": 2,
-    "PlayerLevelMax": 20,
-    "ConditionGroupId": 131200017,
-    "AiTeamLevelId": 1,
-    "TrainingLevel": 18
+    "id": 2,
+    "player_level_max": 20,
+    "condition_group_id": 131200017,
+    "ai_team_level_id": 1,
+    "training_level": 18
   },
   {
-    "Id": 3,
-    "PlayerLevelMax": 30,
-    "ConditionGroupId": 0,
-    "AiTeamLevelId": 1,
-    "TrainingLevel": 25
+    "id": 3,
+    "player_level_max": 30,
+    "condition_group_id": 0,
+    "ai_team_level_id": 1,
+    "training_level": 25
   },
   {
-    "Id": 4,
-    "PlayerLevelMax": 40,
-    "ConditionGroupId": 131200018,
-    "AiTeamLevelId": 1,
-    "TrainingLevel": 35
+    "id": 4,
+    "player_level_max": 40,
+    "condition_group_id": 131200018,
+    "ai_team_level_id": 1,
+    "training_level": 35
   },
   {
-    "Id": 5,
-    "PlayerLevelMax": 50,
-    "ConditionGroupId": 0,
-    "AiTeamLevelId": 1,
-    "TrainingLevel": 45
+    "id": 5,
+    "player_level_max": 50,
+    "condition_group_id": 0,
+    "ai_team_level_id": 1,
+    "training_level": 45
   },
   {
-    "Id": 6,
-    "PlayerLevelMax": 60,
-    "ConditionGroupId": 131200019,
-    "AiTeamLevelId": 1,
-    "TrainingLevel": 55
+    "id": 6,
+    "player_level_max": 60,
+    "condition_group_id": 131200019,
+    "ai_team_level_id": 1,
+    "training_level": 55
   },
   {
-    "Id": 7,
-    "PlayerLevelMax": 70,
-    "ConditionGroupId": 0,
-    "AiTeamLevelId": 1,
-    "TrainingLevel": 60
+    "id": 7,
+    "player_level_max": 70,
+    "condition_group_id": 0,
+    "ai_team_level_id": 1,
+    "training_level": 60
   },
   {
-    "Id": 8,
-    "PlayerLevelMax": 80,
-    "ConditionGroupId": 0,
-    "AiTeamLevelId": 1,
-    "TrainingLevel": 60
+    "id": 8,
+    "player_level_max": 80,
+    "condition_group_id": 0,
+    "ai_team_level_id": 1,
+    "training_level": 60
   }
 ]

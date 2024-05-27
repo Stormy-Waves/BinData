@@ -1,130 +1,130 @@
 [
   {
-    "Id": 1,
-    "Force": [],
-    "Angle": [],
-    "VerticalAngle": [
+    "id": 1,
+    "force": [],
+    "angle": [],
+    "vertical_angle": [
       -45,
       45
     ],
-    "ShowBg": 0,
-    "ShowTime": 3000,
-    "ShowCout": 7,
-    "Adsorption": 0
+    "show_bg": 0,
+    "show_time": 3000,
+    "show_cout": 7,
+    "adsorption": 0
   },
   {
-    "Id": 2,
-    "Force": [],
-    "Angle": [],
-    "VerticalAngle": [
+    "id": 2,
+    "force": [],
+    "angle": [],
+    "vertical_angle": [
       -45,
       45
     ],
-    "ShowBg": 1,
-    "ShowTime": 3000,
-    "ShowCout": 7,
-    "Adsorption": 0
+    "show_bg": 1,
+    "show_time": 3000,
+    "show_cout": 7,
+    "adsorption": 0
   },
   {
-    "Id": 3,
-    "Force": [],
-    "Angle": [],
-    "VerticalAngle": [
+    "id": 3,
+    "force": [],
+    "angle": [],
+    "vertical_angle": [
       -45,
       45
     ],
-    "ShowBg": 1,
-    "ShowTime": 3000,
-    "ShowCout": 7,
-    "Adsorption": 0
+    "show_bg": 1,
+    "show_time": 3000,
+    "show_cout": 7,
+    "adsorption": 0
   },
   {
-    "Id": 4,
-    "Force": [
+    "id": 4,
+    "force": [
       250,
       300
     ],
-    "Angle": [
+    "angle": [
       10,
       25
     ],
-    "VerticalAngle": [
+    "vertical_angle": [
       -45,
       45
     ],
-    "ShowBg": 0,
-    "ShowTime": 3000,
-    "ShowCout": 7,
-    "Adsorption": 0
+    "show_bg": 0,
+    "show_time": 3000,
+    "show_cout": 7,
+    "adsorption": 0
   },
   {
-    "Id": 5,
-    "Force": [
+    "id": 5,
+    "force": [
       250,
       300
     ],
-    "Angle": [
+    "angle": [
       10,
       25
     ],
-    "VerticalAngle": [
+    "vertical_angle": [
       -45,
       45
     ],
-    "ShowBg": 0,
-    "ShowTime": 3000,
-    "ShowCout": 7,
-    "Adsorption": 0
+    "show_bg": 0,
+    "show_time": 3000,
+    "show_cout": 7,
+    "adsorption": 0
   },
   {
-    "Id": 6,
-    "Force": [
+    "id": 6,
+    "force": [
       250,
       300
     ],
-    "Angle": [
+    "angle": [
       10,
       25
     ],
-    "VerticalAngle": [
+    "vertical_angle": [
       -45,
       45
     ],
-    "ShowBg": 0,
-    "ShowTime": 3000,
-    "ShowCout": 7,
-    "Adsorption": 0
+    "show_bg": 0,
+    "show_time": 3000,
+    "show_cout": 7,
+    "adsorption": 0
   },
   {
-    "Id": 7,
-    "Force": [
+    "id": 7,
+    "force": [
       250,
       300
     ],
-    "Angle": [
+    "angle": [
       10,
       25
     ],
-    "VerticalAngle": [
+    "vertical_angle": [
       -45,
       45
     ],
-    "ShowBg": 1,
-    "ShowTime": 3000,
-    "ShowCout": 7,
-    "Adsorption": 0
+    "show_bg": 1,
+    "show_time": 3000,
+    "show_cout": 7,
+    "adsorption": 0
   },
   {
-    "Id": 8,
-    "Force": [],
-    "Angle": [],
-    "VerticalAngle": [
+    "id": 8,
+    "force": [],
+    "angle": [],
+    "vertical_angle": [
       -45,
       45
     ],
-    "ShowBg": 1,
-    "ShowTime": 3000,
-    "ShowCout": 7,
-    "Adsorption": 0
+    "show_bg": 1,
+    "show_time": 3000,
+    "show_cout": 7,
+    "adsorption": 0
   }
 ]

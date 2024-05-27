@@ -1,11 +1,11 @@
 [
   {
-    "Id": 1,
-    "ItemIds": [
+    "id": 1,
+    "item_ids": [
       42400010,
       42400030
     ],
-    "GameplayTags": [
+    "gameplay_tags": [
       "动物.Common.状态标识.交互.喂食禽肉",
       "动物.Common.状态标识.交互.喂食兽肉"
     ]

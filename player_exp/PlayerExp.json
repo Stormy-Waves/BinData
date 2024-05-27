@@ -1,402 +1,402 @@
 [
   {
-    "PlayerLevel": 1,
-    "PlayerExp": 400,
-    "Condition": ""
+    "player_level": 1,
+    "player_exp": 400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 2,
-    "PlayerExp": 500,
-    "Condition": ""
+    "player_level": 2,
+    "player_exp": 500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 3,
-    "PlayerExp": 600,
-    "Condition": ""
+    "player_level": 3,
+    "player_exp": 600,
+    "condition": ""
   },
   {
-    "PlayerLevel": 4,
-    "PlayerExp": 1100,
-    "Condition": ""
+    "player_level": 4,
+    "player_exp": 1100,
+    "condition": ""
   },
   {
-    "PlayerLevel": 5,
-    "PlayerExp": 1200,
-    "Condition": ""
+    "player_level": 5,
+    "player_exp": 1200,
+    "condition": ""
   },
   {
-    "PlayerLevel": 6,
-    "PlayerExp": 1300,
-    "Condition": ""
+    "player_level": 6,
+    "player_exp": 1300,
+    "condition": ""
   },
   {
-    "PlayerLevel": 7,
-    "PlayerExp": 1400,
-    "Condition": ""
+    "player_level": 7,
+    "player_exp": 1400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 8,
-    "PlayerExp": 1500,
-    "Condition": ""
+    "player_level": 8,
+    "player_exp": 1500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 9,
-    "PlayerExp": 1600,
-    "Condition": ""
+    "player_level": 9,
+    "player_exp": 1600,
+    "condition": ""
   },
   {
-    "PlayerLevel": 10,
-    "PlayerExp": 1600,
-    "Condition": ""
+    "player_level": 10,
+    "player_exp": 1600,
+    "condition": ""
   },
   {
-    "PlayerLevel": 11,
-    "PlayerExp": 1650,
-    "Condition": ""
+    "player_level": 11,
+    "player_exp": 1650,
+    "condition": ""
   },
   {
-    "PlayerLevel": 12,
-    "PlayerExp": 1650,
-    "Condition": ""
+    "player_level": 12,
+    "player_exp": 1650,
+    "condition": ""
   },
   {
-    "PlayerLevel": 13,
-    "PlayerExp": 1700,
-    "Condition": ""
+    "player_level": 13,
+    "player_exp": 1700,
+    "condition": ""
   },
   {
-    "PlayerLevel": 14,
-    "PlayerExp": 1700,
-    "Condition": ""
+    "player_level": 14,
+    "player_exp": 1700,
+    "condition": ""
   },
   {
-    "PlayerLevel": 15,
-    "PlayerExp": 1700,
-    "Condition": ""
+    "player_level": 15,
+    "player_exp": 1700,
+    "condition": ""
   },
   {
-    "PlayerLevel": 16,
-    "PlayerExp": 1750,
-    "Condition": ""
+    "player_level": 16,
+    "player_exp": 1750,
+    "condition": ""
   },
   {
-    "PlayerLevel": 17,
-    "PlayerExp": 1750,
-    "Condition": ""
+    "player_level": 17,
+    "player_exp": 1750,
+    "condition": ""
   },
   {
-    "PlayerLevel": 18,
-    "PlayerExp": 1800,
-    "Condition": ""
+    "player_level": 18,
+    "player_exp": 1800,
+    "condition": ""
   },
   {
-    "PlayerLevel": 19,
-    "PlayerExp": 1800,
-    "Condition": ""
+    "player_level": 19,
+    "player_exp": 1800,
+    "condition": ""
   },
   {
-    "PlayerLevel": 20,
-    "PlayerExp": 2300,
-    "Condition": ""
+    "player_level": 20,
+    "player_exp": 2300,
+    "condition": ""
   },
   {
-    "PlayerLevel": 21,
-    "PlayerExp": 2400,
-    "Condition": ""
+    "player_level": 21,
+    "player_exp": 2400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 22,
-    "PlayerExp": 2500,
-    "Condition": ""
+    "player_level": 22,
+    "player_exp": 2500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 23,
-    "PlayerExp": 2500,
-    "Condition": ""
+    "player_level": 23,
+    "player_exp": 2500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 24,
-    "PlayerExp": 2500,
-    "Condition": ""
+    "player_level": 24,
+    "player_exp": 2500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 25,
-    "PlayerExp": 2700,
-    "Condition": ""
+    "player_level": 25,
+    "player_exp": 2700,
+    "condition": ""
   },
   {
-    "PlayerLevel": 26,
-    "PlayerExp": 2900,
-    "Condition": ""
+    "player_level": 26,
+    "player_exp": 2900,
+    "condition": ""
   },
   {
-    "PlayerLevel": 27,
-    "PlayerExp": 3000,
-    "Condition": ""
+    "player_level": 27,
+    "player_exp": 3000,
+    "condition": ""
   },
   {
-    "PlayerLevel": 28,
-    "PlayerExp": 3200,
-    "Condition": ""
+    "player_level": 28,
+    "player_exp": 3200,
+    "condition": ""
   },
   {
-    "PlayerLevel": 29,
-    "PlayerExp": 3400,
-    "Condition": ""
+    "player_level": 29,
+    "player_exp": 3400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 30,
-    "PlayerExp": 6500,
-    "Condition": ""
+    "player_level": 30,
+    "player_exp": 6500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 31,
-    "PlayerExp": 6700,
-    "Condition": ""
+    "player_level": 31,
+    "player_exp": 6700,
+    "condition": ""
   },
   {
-    "PlayerLevel": 32,
-    "PlayerExp": 6800,
-    "Condition": ""
+    "player_level": 32,
+    "player_exp": 6800,
+    "condition": ""
   },
   {
-    "PlayerLevel": 33,
-    "PlayerExp": 7200,
-    "Condition": ""
+    "player_level": 33,
+    "player_exp": 7200,
+    "condition": ""
   },
   {
-    "PlayerLevel": 34,
-    "PlayerExp": 7600,
-    "Condition": ""
+    "player_level": 34,
+    "player_exp": 7600,
+    "condition": ""
   },
   {
-    "PlayerLevel": 35,
-    "PlayerExp": 8000,
-    "Condition": ""
+    "player_level": 35,
+    "player_exp": 8000,
+    "condition": ""
   },
   {
-    "PlayerLevel": 36,
-    "PlayerExp": 8400,
-    "Condition": ""
+    "player_level": 36,
+    "player_exp": 8400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 37,
-    "PlayerExp": 9000,
-    "Condition": ""
+    "player_level": 37,
+    "player_exp": 9000,
+    "condition": ""
   },
   {
-    "PlayerLevel": 38,
-    "PlayerExp": 9600,
-    "Condition": ""
+    "player_level": 38,
+    "player_exp": 9600,
+    "condition": ""
   },
   {
-    "PlayerLevel": 39,
-    "PlayerExp": 10000,
-    "Condition": ""
+    "player_level": 39,
+    "player_exp": 10000,
+    "condition": ""
   },
   {
-    "PlayerLevel": 40,
-    "PlayerExp": 10200,
-    "Condition": ""
+    "player_level": 40,
+    "player_exp": 10200,
+    "condition": ""
   },
   {
-    "PlayerLevel": 41,
-    "PlayerExp": 10400,
-    "Condition": ""
+    "player_level": 41,
+    "player_exp": 10400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 42,
-    "PlayerExp": 10600,
-    "Condition": ""
+    "player_level": 42,
+    "player_exp": 10600,
+    "condition": ""
   },
   {
-    "PlayerLevel": 43,
-    "PlayerExp": 10800,
-    "Condition": ""
+    "player_level": 43,
+    "player_exp": 10800,
+    "condition": ""
   },
   {
-    "PlayerLevel": 44,
-    "PlayerExp": 11200,
-    "Condition": ""
+    "player_level": 44,
+    "player_exp": 11200,
+    "condition": ""
   },
   {
-    "PlayerLevel": 45,
-    "PlayerExp": 11600,
-    "Condition": ""
+    "player_level": 45,
+    "player_exp": 11600,
+    "condition": ""
   },
   {
-    "PlayerLevel": 46,
-    "PlayerExp": 12000,
-    "Condition": ""
+    "player_level": 46,
+    "player_exp": 12000,
+    "condition": ""
   },
   {
-    "PlayerLevel": 47,
-    "PlayerExp": 12400,
-    "Condition": ""
+    "player_level": 47,
+    "player_exp": 12400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 48,
-    "PlayerExp": 12800,
-    "Condition": ""
+    "player_level": 48,
+    "player_exp": 12800,
+    "condition": ""
   },
   {
-    "PlayerLevel": 49,
-    "PlayerExp": 13000,
-    "Condition": ""
+    "player_level": 49,
+    "player_exp": 13000,
+    "condition": ""
   },
   {
-    "PlayerLevel": 50,
-    "PlayerExp": 13100,
-    "Condition": ""
+    "player_level": 50,
+    "player_exp": 13100,
+    "condition": ""
   },
   {
-    "PlayerLevel": 51,
-    "PlayerExp": 13300,
-    "Condition": ""
+    "player_level": 51,
+    "player_exp": 13300,
+    "condition": ""
   },
   {
-    "PlayerLevel": 52,
-    "PlayerExp": 13500,
-    "Condition": ""
+    "player_level": 52,
+    "player_exp": 13500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 53,
-    "PlayerExp": 13700,
-    "Condition": ""
+    "player_level": 53,
+    "player_exp": 13700,
+    "condition": ""
   },
   {
-    "PlayerLevel": 54,
-    "PlayerExp": 13900,
-    "Condition": ""
+    "player_level": 54,
+    "player_exp": 13900,
+    "condition": ""
   },
   {
-    "PlayerLevel": 55,
-    "PlayerExp": 14100,
-    "Condition": ""
+    "player_level": 55,
+    "player_exp": 14100,
+    "condition": ""
   },
   {
-    "PlayerLevel": 56,
-    "PlayerExp": 14300,
-    "Condition": ""
+    "player_level": 56,
+    "player_exp": 14300,
+    "condition": ""
   },
   {
-    "PlayerLevel": 57,
-    "PlayerExp": 14500,
-    "Condition": ""
+    "player_level": 57,
+    "player_exp": 14500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 58,
-    "PlayerExp": 14700,
-    "Condition": ""
+    "player_level": 58,
+    "player_exp": 14700,
+    "condition": ""
   },
   {
-    "PlayerLevel": 59,
-    "PlayerExp": 15700,
-    "Condition": ""
+    "player_level": 59,
+    "player_exp": 15700,
+    "condition": ""
   },
   {
-    "PlayerLevel": 60,
-    "PlayerExp": 21600,
-    "Condition": ""
+    "player_level": 60,
+    "player_exp": 21600,
+    "condition": ""
   },
   {
-    "PlayerLevel": 61,
-    "PlayerExp": 21900,
-    "Condition": ""
+    "player_level": 61,
+    "player_exp": 21900,
+    "condition": ""
   },
   {
-    "PlayerLevel": 62,
-    "PlayerExp": 22300,
-    "Condition": ""
+    "player_level": 62,
+    "player_exp": 22300,
+    "condition": ""
   },
   {
-    "PlayerLevel": 63,
-    "PlayerExp": 23000,
-    "Condition": ""
+    "player_level": 63,
+    "player_exp": 23000,
+    "condition": ""
   },
   {
-    "PlayerLevel": 64,
-    "PlayerExp": 23800,
-    "Condition": ""
+    "player_level": 64,
+    "player_exp": 23800,
+    "condition": ""
   },
   {
-    "PlayerLevel": 65,
-    "PlayerExp": 24700,
-    "Condition": ""
+    "player_level": 65,
+    "player_exp": 24700,
+    "condition": ""
   },
   {
-    "PlayerLevel": 66,
-    "PlayerExp": 26100,
-    "Condition": ""
+    "player_level": 66,
+    "player_exp": 26100,
+    "condition": ""
   },
   {
-    "PlayerLevel": 67,
-    "PlayerExp": 27500,
-    "Condition": ""
+    "player_level": 67,
+    "player_exp": 27500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 68,
-    "PlayerExp": 29400,
-    "Condition": ""
+    "player_level": 68,
+    "player_exp": 29400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 69,
-    "PlayerExp": 29400,
-    "Condition": ""
+    "player_level": 69,
+    "player_exp": 29400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 70,
-    "PlayerExp": 32400,
-    "Condition": ""
+    "player_level": 70,
+    "player_exp": 32400,
+    "condition": ""
   },
   {
-    "PlayerLevel": 71,
-    "PlayerExp": 32800,
-    "Condition": ""
+    "player_level": 71,
+    "player_exp": 32800,
+    "condition": ""
   },
   {
-    "PlayerLevel": 72,
-    "PlayerExp": 33500,
-    "Condition": ""
+    "player_level": 72,
+    "player_exp": 33500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 73,
-    "PlayerExp": 34500,
-    "Condition": ""
+    "player_level": 73,
+    "player_exp": 34500,
+    "condition": ""
   },
   {
-    "PlayerLevel": 74,
-    "PlayerExp": 35600,
-    "Condition": ""
+    "player_level": 74,
+    "player_exp": 35600,
+    "condition": ""
   },
   {
-    "PlayerLevel": 75,
-    "PlayerExp": 37200,
-    "Condition": ""
+    "player_level": 75,
+    "player_exp": 37200,
+    "condition": ""
   },
   {
-    "PlayerLevel": 76,
-    "PlayerExp": 39100,
-    "Condition": ""
+    "player_level": 76,
+    "player_exp": 39100,
+    "condition": ""
   },
   {
-    "PlayerLevel": 77,
-    "PlayerExp": 41300,
-    "Condition": ""
+    "player_level": 77,
+    "player_exp": 41300,
+    "condition": ""
   },
   {
-    "PlayerLevel": 78,
-    "PlayerExp": 44100,
-    "Condition": ""
+    "player_level": 78,
+    "player_exp": 44100,
+    "condition": ""
   },
   {
-    "PlayerLevel": 79,
-    "PlayerExp": 47300,
-    "Condition": ""
+    "player_level": 79,
+    "player_exp": 47300,
+    "condition": ""
   },
   {
-    "PlayerLevel": 80,
-    "PlayerExp": 9999999,
-    "Condition": ""
+    "player_level": 80,
+    "player_exp": 9999999,
+    "condition": ""
   }
 ]

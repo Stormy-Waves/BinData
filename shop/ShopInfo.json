@@ -1,102 +1,102 @@
 [
   {
-    "Id": 7,
-    "ShopType": 1,
-    "ShopName": "",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 7,
+    "shop_type": 1,
+    "shop_name": "",
+    "open_id": 0,
+    "show_currency": [
       3
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   },
   {
-    "Id": 101,
-    "ShopType": 1,
-    "ShopName": "ShopInfo_101_ShopName",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 101,
+    "shop_type": 1,
+    "shop_name": "ShopInfo_101_ShopName",
+    "open_id": 0,
+    "show_currency": [
       2
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   },
   {
-    "Id": 103,
-    "ShopType": 1,
-    "ShopName": "ShopInfo_103_ShopName",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 103,
+    "shop_type": 1,
+    "shop_name": "ShopInfo_103_ShopName",
+    "open_id": 0,
+    "show_currency": [
       2
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   },
   {
-    "Id": 104,
-    "ShopType": 1,
-    "ShopName": "ShopInfo_104_ShopName",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 104,
+    "shop_type": 1,
+    "shop_name": "ShopInfo_104_ShopName",
+    "open_id": 0,
+    "show_currency": [
       44010025
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   },
   {
-    "Id": 107,
-    "ShopType": 1,
-    "ShopName": "ShopInfo_107_ShopName",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 107,
+    "shop_type": 1,
+    "shop_name": "ShopInfo_107_ShopName",
+    "open_id": 0,
+    "show_currency": [
       2
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   },
   {
-    "Id": 108,
-    "ShopType": 1,
-    "ShopName": "ShopInfo_108_ShopName",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 108,
+    "shop_type": 1,
+    "shop_name": "ShopInfo_108_ShopName",
+    "open_id": 0,
+    "show_currency": [
       2
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   },
   {
-    "Id": 6,
-    "ShopType": 1,
-    "ShopName": "",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 6,
+    "shop_type": 1,
+    "shop_name": "",
+    "open_id": 0,
+    "show_currency": [
       3
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   },
   {
-    "Id": 109,
-    "ShopType": 1,
-    "ShopName": "ShopInfo_109_ShopName",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 109,
+    "shop_type": 1,
+    "shop_name": "ShopInfo_109_ShopName",
+    "open_id": 0,
+    "show_currency": [
       42500020
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   },
   {
-    "Id": 110,
-    "ShopType": 1,
-    "ShopName": "ShopInfo_110_ShopName",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 110,
+    "shop_type": 1,
+    "shop_name": "ShopInfo_110_ShopName",
+    "open_id": 0,
+    "show_currency": [
       2
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   },
   {
-    "Id": 111,
-    "ShopType": 1,
-    "ShopName": "ShopInfo_111_ShopName",
-    "OpenId": 0,
-    "ShowCurrency": [
+    "id": 111,
+    "shop_type": 1,
+    "shop_name": "ShopInfo_111_ShopName",
+    "open_id": 0,
+    "show_currency": [
       2
     ],
-    "DialogueText": ""
+    "dialogue_text": ""
   }
 ]
