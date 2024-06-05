@@ -2930,6 +2930,116 @@
     "background": ""
   },
   {
+    "id": 102801016,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801016_Title",
+    "text": "InfoDisplay_102801016_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801017,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801017_Title",
+    "text": "InfoDisplay_102801017_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801018,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801018_Title",
+    "text": "InfoDisplay_102801018_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801019,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801019_Title",
+    "text": "InfoDisplay_102801019_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801020,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801020_Title",
+    "text": "InfoDisplay_102801020_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801022,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801022_Title",
+    "text": "InfoDisplay_102801022_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801023,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801023_Title",
+    "text": "InfoDisplay_102801023_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801024,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801024_Title",
+    "text": "InfoDisplay_102801024_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801025,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801025_Title",
+    "text": "InfoDisplay_102801025_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801021,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801021_Title",
+    "text": "InfoDisplay_102801021_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801026,
+    "item_id": 70139324,
+    "type": 3,
+    "title": "InfoDisplay_102801026_Title",
+    "text": "InfoDisplay_102801026_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
     "id": 10900007,
     "item_id": 0,
     "type": 3,
@@ -2985,6 +3095,176 @@
     "type": 3,
     "title": "InfoDisplay_10900012_Title",
     "text": "InfoDisplay_10900012_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801201,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801201_Title",
+    "text": "InfoDisplay_102801201_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102001601,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102001601_Title",
+    "text": "InfoDisplay_102001601_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102001602,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102001602_Title",
+    "text": "InfoDisplay_102001602_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102001603,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102001603_Title",
+    "text": "InfoDisplay_102001603_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102000601,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102000601_Title",
+    "text": "InfoDisplay_102000601_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102000602,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102000602_Title",
+    "text": "InfoDisplay_102000602_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102000603,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102000603_Title",
+    "text": "InfoDisplay_102000603_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102000604,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102000604_Title",
+    "text": "InfoDisplay_102000604_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102000606,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102000606_Title",
+    "text": "InfoDisplay_102000606_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 121000001,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_121000001_Title",
+    "text": "InfoDisplay_121000001_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 121000002,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_121000002_Title",
+    "text": "InfoDisplay_121000002_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 121000004,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_121000004_Title",
+    "text": "InfoDisplay_121000004_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801027,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801027_Title",
+    "text": "InfoDisplay_102801027_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801028,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801028_Title",
+    "text": "InfoDisplay_102801028_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801029,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801029_Title",
+    "text": "InfoDisplay_102801029_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801030,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801030_Title",
+    "text": "InfoDisplay_102801030_Text",
+    "picture": "",
+    "audio": "",
+    "background": ""
+  },
+  {
+    "id": 102801031,
+    "item_id": 0,
+    "type": 3,
+    "title": "InfoDisplay_102801031_Title",
+    "text": "InfoDisplay_102801031_Text",
     "picture": "",
     "audio": "",
     "background": ""

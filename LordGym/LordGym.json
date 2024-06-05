@@ -430,5 +430,113 @@
     "lock_description": "ConditionGroup_12005006_HintText",
     "filter_type": 1,
     "is_debug": false
+  },
+  {
+    "id": 1401,
+    "difficulty": 1,
+    "reward_id": 48501,
+    "play_id": 200900001,
+    "gym_title": "Bossch_title_01",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SP_ComRomeText_01.SP_ComRomeText_01",
+    "play_description": "Bossch_detail_51",
+    "help_id": 0,
+    "monster_list": [
+      340000010
+    ],
+    "monster_level": 60,
+    "lock_con": 12005001,
+    "lock_description": "ConditionGroup_12005001_HintText",
+    "filter_type": 1,
+    "is_debug": false
+  },
+  {
+    "id": 1402,
+    "difficulty": 2,
+    "reward_id": 48502,
+    "play_id": 200900001,
+    "gym_title": "Bossch_title_02",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SP_ComRomeText_02.SP_ComRomeText_02",
+    "play_description": "Bossch_detail_52",
+    "help_id": 0,
+    "monster_list": [
+      340000010
+    ],
+    "monster_level": 65,
+    "lock_con": 12005002,
+    "lock_description": "ConditionGroup_12005002_HintText",
+    "filter_type": 1,
+    "is_debug": false
+  },
+  {
+    "id": 1403,
+    "difficulty": 3,
+    "reward_id": 48503,
+    "play_id": 200900001,
+    "gym_title": "Bossch_title_03",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SP_ComRomeText_03.SP_ComRomeText_03",
+    "play_description": "Bossch_detail_53",
+    "help_id": 0,
+    "monster_list": [
+      340000010
+    ],
+    "monster_level": 70,
+    "lock_con": 12005003,
+    "lock_description": "ConditionGroup_12005003_HintText",
+    "filter_type": 1,
+    "is_debug": false
+  },
+  {
+    "id": 1404,
+    "difficulty": 4,
+    "reward_id": 48504,
+    "play_id": 200900001,
+    "gym_title": "Bossch_title_04",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SP_ComRomeText_04.SP_ComRomeText_04",
+    "play_description": "Bossch_detail_54",
+    "help_id": 0,
+    "monster_list": [
+      340000010
+    ],
+    "monster_level": 80,
+    "lock_con": 12005004,
+    "lock_description": "ConditionGroup_12005004_HintText",
+    "filter_type": 1,
+    "is_debug": false
+  },
+  {
+    "id": 1405,
+    "difficulty": 5,
+    "reward_id": 48505,
+    "play_id": 200900001,
+    "gym_title": "Bossch_title_05",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SP_ComRomeText_05.SP_ComRomeText_05",
+    "play_description": "Bossch_detail_55",
+    "help_id": 0,
+    "monster_list": [
+      340000010
+    ],
+    "monster_level": 90,
+    "lock_con": 12005005,
+    "lock_description": "ConditionGroup_12005005_HintText",
+    "filter_type": 1,
+    "is_debug": false
+  },
+  {
+    "id": 1406,
+    "difficulty": 6,
+    "reward_id": 48506,
+    "play_id": 200900001,
+    "gym_title": "Bossch_title_06",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SP_ComRomeText_06.SP_ComRomeText_06",
+    "play_description": "Bossch_detail_56",
+    "help_id": 0,
+    "monster_list": [
+      340000010
+    ],
+    "monster_level": 100,
+    "lock_con": 12005006,
+    "lock_description": "ConditionGroup_12005006_HintText",
+    "filter_type": 1,
+    "is_debug": false
   }
 ]

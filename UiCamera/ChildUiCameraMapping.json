@@ -538,5 +538,18 @@
     "default_camera_blend_name": "1001",
     "ui_camera_blend_name_map": [],
     "ui_camera_delay_time": 350
+  },
+  {
+    "id": 2024,
+    "view_name": "CalabashCollectTabView",
+    "default_ui_camera_settings_name": "800021",
+    "is_check_special_state": false,
+    "special_state_camera_setting_name": "1002",
+    "play_loading_camera_animation": false,
+    "body_target_type": 0,
+    "body_camera_settings_name_map": [],
+    "default_camera_blend_name": "10007",
+    "ui_camera_blend_name_map": [],
+    "ui_camera_delay_time": 0
   }
 ]

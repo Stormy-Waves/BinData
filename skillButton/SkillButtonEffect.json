@@ -46,5 +46,11 @@
     "name": "今汐技能提示",
     "niagara_path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E",
     "element_id": 5
+  },
+  {
+    "id": 12051310,
+    "name": "长离技能提示",
+    "niagara_path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Fight_E.NS_Fx_LGUI_Fight_E",
+    "element_id": 2
   }
 ]

@@ -12,7 +12,8 @@
     "task_func": [
       "2"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 1
   },
   {
     "task_id": 102,
@@ -29,7 +30,8 @@
       "NewSoundAreaView",
       "19"
     ],
-    "unlock_condition": 12005124
+    "unlock_condition": 12005124,
+    "sort_rank": 3
   },
   {
     "task_id": 103,
@@ -46,7 +48,8 @@
       "NewSoundAreaView",
       "4"
     ],
-    "unlock_condition": 12005118
+    "unlock_condition": 12005118,
+    "sort_rank": 3
   },
   {
     "task_id": 104,
@@ -63,7 +66,8 @@
       "NewSoundAreaView",
       "22"
     ],
-    "unlock_condition": 12005113
+    "unlock_condition": 12005113,
+    "sort_rank": 3
   },
   {
     "task_id": 107,
@@ -79,7 +83,8 @@
       "5",
       "RolePhantomTabView"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 4
   },
   {
     "task_id": 108,
@@ -95,7 +100,8 @@
       "5",
       "RolePhantomTabView"
     ],
-    "unlock_condition": 1020
+    "unlock_condition": 1020,
+    "sort_rank": 4
   },
   {
     "task_id": 109,
@@ -111,7 +117,8 @@
       "5",
       "RoleWeaponTabView"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 4
   },
   {
     "task_id": 110,
@@ -128,7 +135,8 @@
       "MonsterDetectView",
       "-3"
     ],
-    "unlock_condition": 12005106
+    "unlock_condition": 12005106,
+    "sort_rank": 4
   },
   {
     "task_id": 105,
@@ -145,7 +153,8 @@
       "NewSoundAreaView",
       "21"
     ],
-    "unlock_condition": 12005111
+    "unlock_condition": 12005111,
+    "sort_rank": 3
   },
   {
     "task_id": 106,
@@ -162,7 +171,8 @@
       "NewSoundAreaView",
       "7"
     ],
-    "unlock_condition": 12005120
+    "unlock_condition": 12005120,
+    "sort_rank": 3
   },
   {
     "task_id": 111,
@@ -177,7 +187,8 @@
     "task_func": [
       "1"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 6
   },
   {
     "task_id": 112,
@@ -193,7 +204,8 @@
       "3",
       "3003"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 6
   },
   {
     "task_id": 113,
@@ -209,7 +221,8 @@
       "3",
       "3010"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 6
   },
   {
     "task_id": 114,
@@ -225,7 +238,8 @@
       "3",
       "3002"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 6
   },
   {
     "task_id": 115,
@@ -240,7 +254,8 @@
     "task_func": [
       "1"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 6
   },
   {
     "task_id": 116,
@@ -255,7 +270,8 @@
     "task_func": [
       "1"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 7
   },
   {
     "task_id": 117,
@@ -270,7 +286,8 @@
     "task_func": [
       "1"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 7
   },
   {
     "task_id": 118,
@@ -285,7 +302,8 @@
     "task_func": [
       "1"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 7
   },
   {
     "task_id": 119,
@@ -300,7 +318,8 @@
     "task_func": [
       "1"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 7
   },
   {
     "task_id": 120,
@@ -316,6 +335,140 @@
       "5",
       "RoleAttributeTabView"
     ],
-    "unlock_condition": 0
+    "unlock_condition": 0,
+    "sort_rank": 4
+  },
+  {
+    "task_id": 121,
+    "task_name": "LivenessTask_121_TaskName",
+    "update_type": 2,
+    "task_reward": [
+      {
+        "key": 9,
+        "value": 20
+      }
+    ],
+    "task_func": [
+      "1"
+    ],
+    "unlock_condition": 0,
+    "sort_rank": 5
+  },
+  {
+    "task_id": 122,
+    "task_name": "LivenessTask_122_TaskName",
+    "update_type": 2,
+    "task_reward": [
+      {
+        "key": 9,
+        "value": 20
+      }
+    ],
+    "task_func": [
+      "1"
+    ],
+    "unlock_condition": 0,
+    "sort_rank": 5
+  },
+  {
+    "task_id": 123,
+    "task_name": "LivenessTask_123_TaskName",
+    "update_type": 2,
+    "task_reward": [
+      {
+        "key": 9,
+        "value": 20
+      }
+    ],
+    "task_func": [
+      "1"
+    ],
+    "unlock_condition": 0,
+    "sort_rank": 5
+  },
+  {
+    "task_id": 124,
+    "task_name": "LivenessTask_124_TaskName",
+    "update_type": 3,
+    "task_reward": [
+      {
+        "key": 9,
+        "value": 100
+      }
+    ],
+    "task_func": [
+      "7",
+      "1"
+    ],
+    "unlock_condition": 0,
+    "sort_rank": 2
+  },
+  {
+    "task_id": 125,
+    "task_name": "LivenessTask_125_TaskName",
+    "update_type": 3,
+    "task_reward": [
+      {
+        "key": 9,
+        "value": 20
+      }
+    ],
+    "task_func": [
+      "7",
+      "2"
+    ],
+    "unlock_condition": 0,
+    "sort_rank": 2
+  },
+  {
+    "task_id": 126,
+    "task_name": "LivenessTask_126_TaskName",
+    "update_type": 3,
+    "task_reward": [
+      {
+        "key": 9,
+        "value": 100
+      }
+    ],
+    "task_func": [
+      "7",
+      "9"
+    ],
+    "unlock_condition": 0,
+    "sort_rank": 2
+  },
+  {
+    "task_id": 127,
+    "task_name": "LivenessTask_127_TaskName",
+    "update_type": 1,
+    "task_reward": [
+      {
+        "key": 9,
+        "value": 20
+      }
+    ],
+    "task_func": [
+      "1"
+    ],
+    "unlock_condition": 0,
+    "sort_rank": 3
+  },
+  {
+    "task_id": 128,
+    "task_name": "LivenessTask_128_TaskName",
+    "update_type": 1,
+    "task_reward": [
+      {
+        "key": 9,
+        "value": 20
+      }
+    ],
+    "task_func": [
+      "4",
+      "NewSoundAreaView",
+      "5"
+    ],
+    "unlock_condition": 12980063,
+    "sort_rank": 3
   }
 ]

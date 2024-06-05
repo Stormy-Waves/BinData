@@ -15,16 +15,6 @@
     "rooms_music_state": "stage1_xiaoguai2"
   },
   {
-    "id": 4,
-    "room_tips_type": 0,
-    "rooms_music_state": "stage1_elite1"
-  },
-  {
-    "id": 5,
-    "room_tips_type": 0,
-    "rooms_music_state": "stage1_elite2"
-  },
-  {
     "id": 6,
     "room_tips_type": 0,
     "rooms_music_state": "stage1_rest"
@@ -33,11 +23,6 @@
     "id": 7,
     "room_tips_type": 1,
     "rooms_music_state": "stage1_special"
-  },
-  {
-    "id": 8,
-    "room_tips_type": 0,
-    "rooms_music_state": "stage1_elite2"
   },
   {
     "id": 9,
@@ -60,16 +45,6 @@
     "rooms_music_state": "buttom"
   },
   {
-    "id": 13,
-    "room_tips_type": 0,
-    "rooms_music_state": "stage1_challenge"
-  },
-  {
-    "id": 14,
-    "room_tips_type": 0,
-    "rooms_music_state": "stage1_elite1"
-  },
-  {
     "id": 15,
     "room_tips_type": 0,
     "rooms_music_state": "stage1_shop"
@@ -83,11 +58,6 @@
     "id": 17,
     "room_tips_type": 0,
     "rooms_music_state": "qidian"
-  },
-  {
-    "id": 18,
-    "room_tips_type": 0,
-    "rooms_music_state": "stage1_challenge"
   },
   {
     "id": 19,
@@ -178,5 +148,85 @@
     "id": 30,
     "room_tips_type": 0,
     "rooms_music_state": "stage1_rest"
+  },
+  {
+    "id": 31,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite1"
+  },
+  {
+    "id": 32,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_challenge"
+  },
+  {
+    "id": 33,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss2"
+  },
+  {
+    "id": 34,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_challenge"
+  },
+  {
+    "id": 35,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_xiaoguai1"
+  },
+  {
+    "id": 36,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_challenge"
+  },
+  {
+    "id": 37,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_challenge"
+  },
+  {
+    "id": 38,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss2"
+  },
+  {
+    "id": 39,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite1"
+  },
+  {
+    "id": 40,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_challenge"
+  },
+  {
+    "id": 41,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_challenge"
+  },
+  {
+    "id": 42,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite1"
+  },
+  {
+    "id": 43,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite2"
+  },
+  {
+    "id": 44,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite1"
+  },
+  {
+    "id": 45,
+    "room_tips_type": 0,
+    "rooms_music_state": "stage1_elite2"
+  },
+  {
+    "id": 46,
+    "room_tips_type": 2,
+    "rooms_music_state": "stage1_boss2"
   }
 ]

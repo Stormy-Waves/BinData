@@ -3,6 +3,7 @@
     "id": 1,
     "base_increase": 150.0,
     "decrease_by_dist": 0.25,
+    "max_dist": -1.0,
     "forward_angle": 60.0,
     "backward_rate": 0.5,
     "base_decrease": 10.0,
@@ -12,6 +13,7 @@
     "id": 2,
     "base_increase": 150.0,
     "decrease_by_dist": 0.25,
+    "max_dist": -1.0,
     "forward_angle": 60.0,
     "backward_rate": 0.5,
     "base_decrease": 10.0,
@@ -21,9 +23,20 @@
     "id": 3,
     "base_increase": 150.0,
     "decrease_by_dist": 0.1,
+    "max_dist": -1.0,
     "forward_angle": 60.0,
     "backward_rate": 0.5,
     "base_decrease": 10.0,
     "alertness_type": 2
+  },
+  {
+    "id": 4,
+    "base_increase": 150.0,
+    "decrease_by_dist": -1.0,
+    "max_dist": 300.0,
+    "forward_angle": 60.0,
+    "backward_rate": 1.0,
+    "base_decrease": 150.0,
+    "alertness_type": 3
   }
 ]

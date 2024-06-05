@@ -38,5 +38,30 @@
     "id": 4,
     "rule_group_id": 6,
     "sort": 10
+  },
+  {
+    "id": 100003,
+    "rule_group_id": 1,
+    "sort": 20
+  },
+  {
+    "id": 100004,
+    "rule_group_id": 1,
+    "sort": 20
+  },
+  {
+    "id": 200003,
+    "rule_group_id": 2,
+    "sort": 30
+  },
+  {
+    "id": 200004,
+    "rule_group_id": 2,
+    "sort": 30
+  },
+  {
+    "id": 5,
+    "rule_group_id": 7,
+    "sort": 100
   }
 ]

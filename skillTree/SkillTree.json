@@ -669,7 +669,7 @@
     "property": [
       {
         "id": 35,
-        "value": 0.018,
+        "value": 180.0,
         "is_ratio": false
       }
     ],
@@ -795,7 +795,7 @@
     "property": [
       {
         "id": 35,
-        "value": 0.018,
+        "value": 180.0,
         "is_ratio": false
       }
     ],
@@ -837,7 +837,7 @@
     "property": [
       {
         "id": 35,
-        "value": 0.042,
+        "value": 420.0,
         "is_ratio": false
       }
     ],
@@ -975,7 +975,7 @@
     "property": [
       {
         "id": 35,
-        "value": 0.042,
+        "value": 420.0,
         "is_ratio": false
       }
     ],
@@ -6001,7 +6001,7 @@
     "property": [
       {
         "id": 35,
-        "value": 0.042,
+        "value": 420.0,
         "is_ratio": false
       }
     ],
@@ -6139,7 +6139,7 @@
     "property": [
       {
         "id": 35,
-        "value": 0.042,
+        "value": 420.0,
         "is_ratio": false
       }
     ],
@@ -9961,7 +9961,7 @@
     "property": [
       {
         "id": 35,
-        "value": 0.018,
+        "value": 180.0,
         "is_ratio": false
       }
     ],
@@ -10087,7 +10087,7 @@
     "property": [
       {
         "id": 35,
-        "value": 0.018,
+        "value": 180.0,
         "is_ratio": false
       }
     ],
@@ -11390,6 +11390,1206 @@
       },
       {
         "key": 41400114,
+        "value": 1
+      },
+      {
+        "key": 2,
+        "value": 100000
+      }
+    ],
+    "unlock_condition": 500008
+  },
+  {
+    "id": 305,
+    "node_index": 1,
+    "node_group": 1304,
+    "parent_nodes": [],
+    "node_type": 2,
+    "coordinate": 1,
+    "condition": [],
+    "skill_id": 1002001,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 306,
+    "node_index": 2,
+    "node_group": 1304,
+    "parent_nodes": [],
+    "node_type": 2,
+    "coordinate": 2,
+    "condition": [],
+    "skill_id": 1002002,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 307,
+    "node_index": 3,
+    "node_group": 1304,
+    "parent_nodes": [],
+    "node_type": 2,
+    "coordinate": 3,
+    "condition": [],
+    "skill_id": 1002003,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 308,
+    "node_index": 4,
+    "node_group": 1304,
+    "parent_nodes": [
+      7
+    ],
+    "node_type": 3,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 1002004,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 309,
+    "node_index": 5,
+    "node_group": 1304,
+    "parent_nodes": [
+      4
+    ],
+    "node_type": 3,
+    "coordinate": 3,
+    "condition": [
+      1
+    ],
+    "skill_id": 1002005,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 310,
+    "node_index": 6,
+    "node_group": 1304,
+    "parent_nodes": [],
+    "node_type": 2,
+    "coordinate": 4,
+    "condition": [],
+    "skill_id": 1002006,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 311,
+    "node_index": 7,
+    "node_group": 1304,
+    "parent_nodes": [],
+    "node_type": 1,
+    "coordinate": 1,
+    "condition": [],
+    "skill_id": 1002007,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 312,
+    "node_index": 8,
+    "node_group": 1304,
+    "parent_nodes": [],
+    "node_type": 3,
+    "coordinate": 1,
+    "condition": [],
+    "skill_id": 1002009,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 313,
+    "node_index": 9,
+    "node_group": 1304,
+    "parent_nodes": [
+      1
+    ],
+    "node_type": 4,
+    "coordinate": 1,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_185_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_185_PropertyNodeDescribe",
+    "property_node_param": [
+      "1.20%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredbaoji_UI.T_Iconpropertyredbaoji_UI",
+    "property": [
+      {
+        "id": 8,
+        "value": 120.0,
+        "is_ratio": false
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020043,
+        "value": 3
+      },
+      {
+        "key": 41100023,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 50000
+      }
+    ],
+    "unlock_condition": 500006
+  },
+  {
+    "id": 314,
+    "node_index": 10,
+    "node_group": 1304,
+    "parent_nodes": [
+      2
+    ],
+    "node_type": 4,
+    "coordinate": 1,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_186_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_186_PropertyNodeDescribe",
+    "property_node_param": [
+      "1.80%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "property": [
+      {
+        "id": 10007,
+        "value": 0.018,
+        "is_ratio": true
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020043,
+        "value": 3
+      },
+      {
+        "key": 41100023,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 50000
+      }
+    ],
+    "unlock_condition": 500005
+  },
+  {
+    "id": 315,
+    "node_index": 11,
+    "node_group": 1304,
+    "parent_nodes": [
+      3
+    ],
+    "node_type": 4,
+    "coordinate": 1,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_187_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_187_PropertyNodeDescribe",
+    "property_node_param": [
+      "1.80%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "property": [
+      {
+        "id": 10007,
+        "value": 0.018,
+        "is_ratio": true
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020043,
+        "value": 3
+      },
+      {
+        "key": 41100023,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 50000
+      }
+    ],
+    "unlock_condition": 500005
+  },
+  {
+    "id": 316,
+    "node_index": 12,
+    "node_group": 1304,
+    "parent_nodes": [
+      6
+    ],
+    "node_type": 4,
+    "coordinate": 1,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_188_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_188_PropertyNodeDescribe",
+    "property_node_param": [
+      "1.20%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredbaoji_UI.T_Iconpropertyredbaoji_UI",
+    "property": [
+      {
+        "id": 8,
+        "value": 120.0,
+        "is_ratio": false
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020043,
+        "value": 3
+      },
+      {
+        "key": 41100023,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 50000
+      }
+    ],
+    "unlock_condition": 500006
+  },
+  {
+    "id": 317,
+    "node_index": 13,
+    "node_group": 1304,
+    "parent_nodes": [
+      9
+    ],
+    "node_type": 4,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_189_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_189_PropertyNodeDescribe",
+    "property_node_param": [
+      "2.80%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredbaoji_UI.T_Iconpropertyredbaoji_UI",
+    "property": [
+      {
+        "id": 8,
+        "value": 280.0,
+        "is_ratio": false
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020044,
+        "value": 3
+      },
+      {
+        "key": 41100024,
+        "value": 3
+      },
+      {
+        "key": 41400144,
+        "value": 1
+      },
+      {
+        "key": 2,
+        "value": 100000
+      }
+    ],
+    "unlock_condition": 500008
+  },
+  {
+    "id": 318,
+    "node_index": 14,
+    "node_group": 1304,
+    "parent_nodes": [
+      10
+    ],
+    "node_type": 4,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_190_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_190_PropertyNodeDescribe",
+    "property_node_param": [
+      "4.20%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "property": [
+      {
+        "id": 10007,
+        "value": 0.042,
+        "is_ratio": true
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020044,
+        "value": 3
+      },
+      {
+        "key": 41100024,
+        "value": 3
+      },
+      {
+        "key": 41400144,
+        "value": 1
+      },
+      {
+        "key": 2,
+        "value": 100000
+      }
+    ],
+    "unlock_condition": 500007
+  },
+  {
+    "id": 319,
+    "node_index": 15,
+    "node_group": 1304,
+    "parent_nodes": [
+      11
+    ],
+    "node_type": 4,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_191_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_191_PropertyNodeDescribe",
+    "property_node_param": [
+      "4.20%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "property": [
+      {
+        "id": 10007,
+        "value": 0.042,
+        "is_ratio": true
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020044,
+        "value": 3
+      },
+      {
+        "key": 41100024,
+        "value": 3
+      },
+      {
+        "key": 41400144,
+        "value": 1
+      },
+      {
+        "key": 2,
+        "value": 100000
+      }
+    ],
+    "unlock_condition": 500007
+  },
+  {
+    "id": 320,
+    "node_index": 16,
+    "node_group": 1304,
+    "parent_nodes": [
+      12
+    ],
+    "node_type": 4,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_192_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_192_PropertyNodeDescribe",
+    "property_node_param": [
+      "2.80%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredbaoji_UI.T_Iconpropertyredbaoji_UI",
+    "property": [
+      {
+        "id": 8,
+        "value": 280.0,
+        "is_ratio": false
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020044,
+        "value": 3
+      },
+      {
+        "key": 41100024,
+        "value": 3
+      },
+      {
+        "key": 41400144,
+        "value": 1
+      },
+      {
+        "key": 2,
+        "value": 100000
+      }
+    ],
+    "unlock_condition": 500008
+  },
+  {
+    "id": 321,
+    "node_index": 1,
+    "node_group": 1205,
+    "parent_nodes": [],
+    "node_type": 2,
+    "coordinate": 1,
+    "condition": [],
+    "skill_id": 1002101,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 322,
+    "node_index": 2,
+    "node_group": 1205,
+    "parent_nodes": [],
+    "node_type": 2,
+    "coordinate": 2,
+    "condition": [],
+    "skill_id": 1002102,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 323,
+    "node_index": 3,
+    "node_group": 1205,
+    "parent_nodes": [],
+    "node_type": 2,
+    "coordinate": 3,
+    "condition": [],
+    "skill_id": 1002103,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 324,
+    "node_index": 4,
+    "node_group": 1205,
+    "parent_nodes": [
+      7
+    ],
+    "node_type": 3,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 1002104,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 325,
+    "node_index": 5,
+    "node_group": 1205,
+    "parent_nodes": [
+      4
+    ],
+    "node_type": 3,
+    "coordinate": 3,
+    "condition": [
+      1
+    ],
+    "skill_id": 1002105,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 326,
+    "node_index": 6,
+    "node_group": 1205,
+    "parent_nodes": [],
+    "node_type": 2,
+    "coordinate": 4,
+    "condition": [],
+    "skill_id": 1002106,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 327,
+    "node_index": 7,
+    "node_group": 1205,
+    "parent_nodes": [],
+    "node_type": 1,
+    "coordinate": 1,
+    "condition": [],
+    "skill_id": 1002107,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 328,
+    "node_index": 8,
+    "node_group": 1205,
+    "parent_nodes": [],
+    "node_type": 3,
+    "coordinate": 1,
+    "condition": [],
+    "skill_id": 1002109,
+    "property_node_title": "",
+    "property_node_describe": "",
+    "property_node_param": [],
+    "property_node_icon": "",
+    "property": [],
+    "consume": [
+      {
+        "key": 43020032,
+        "value": 2
+      },
+      {
+        "key": 41100022,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 3900
+      }
+    ],
+    "unlock_condition": 0
+  },
+  {
+    "id": 329,
+    "node_index": 9,
+    "node_group": 1205,
+    "parent_nodes": [
+      1
+    ],
+    "node_type": 4,
+    "coordinate": 1,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_185_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_185_PropertyNodeDescribe",
+    "property_node_param": [
+      "1.20%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredbaoji_UI.T_Iconpropertyredbaoji_UI",
+    "property": [
+      {
+        "id": 8,
+        "value": 120.0,
+        "is_ratio": false
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020013,
+        "value": 3
+      },
+      {
+        "key": 41100033,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 50000
+      }
+    ],
+    "unlock_condition": 500006
+  },
+  {
+    "id": 330,
+    "node_index": 10,
+    "node_group": 1205,
+    "parent_nodes": [
+      2
+    ],
+    "node_type": 4,
+    "coordinate": 1,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_186_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_186_PropertyNodeDescribe",
+    "property_node_param": [
+      "1.80%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "property": [
+      {
+        "id": 10007,
+        "value": 0.018,
+        "is_ratio": true
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020013,
+        "value": 3
+      },
+      {
+        "key": 41100033,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 50000
+      }
+    ],
+    "unlock_condition": 500005
+  },
+  {
+    "id": 331,
+    "node_index": 11,
+    "node_group": 1205,
+    "parent_nodes": [
+      3
+    ],
+    "node_type": 4,
+    "coordinate": 1,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_187_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_187_PropertyNodeDescribe",
+    "property_node_param": [
+      "1.80%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "property": [
+      {
+        "id": 10007,
+        "value": 0.018,
+        "is_ratio": true
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020013,
+        "value": 3
+      },
+      {
+        "key": 41100033,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 50000
+      }
+    ],
+    "unlock_condition": 500005
+  },
+  {
+    "id": 332,
+    "node_index": 12,
+    "node_group": 1205,
+    "parent_nodes": [
+      6
+    ],
+    "node_type": 4,
+    "coordinate": 1,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_188_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_188_PropertyNodeDescribe",
+    "property_node_param": [
+      "1.20%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredbaoji_UI.T_Iconpropertyredbaoji_UI",
+    "property": [
+      {
+        "id": 8,
+        "value": 120.0,
+        "is_ratio": false
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020013,
+        "value": 3
+      },
+      {
+        "key": 41100033,
+        "value": 3
+      },
+      {
+        "key": 2,
+        "value": 50000
+      }
+    ],
+    "unlock_condition": 500006
+  },
+  {
+    "id": 333,
+    "node_index": 13,
+    "node_group": 1205,
+    "parent_nodes": [
+      9
+    ],
+    "node_type": 4,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_189_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_189_PropertyNodeDescribe",
+    "property_node_param": [
+      "2.80%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredbaoji_UI.T_Iconpropertyredbaoji_UI",
+    "property": [
+      {
+        "id": 8,
+        "value": 280.0,
+        "is_ratio": false
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020014,
+        "value": 3
+      },
+      {
+        "key": 41100034,
+        "value": 3
+      },
+      {
+        "key": 41400144,
+        "value": 1
+      },
+      {
+        "key": 2,
+        "value": 100000
+      }
+    ],
+    "unlock_condition": 500008
+  },
+  {
+    "id": 334,
+    "node_index": 14,
+    "node_group": 1205,
+    "parent_nodes": [
+      10
+    ],
+    "node_type": 4,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_190_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_190_PropertyNodeDescribe",
+    "property_node_param": [
+      "4.20%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "property": [
+      {
+        "id": 10007,
+        "value": 0.042,
+        "is_ratio": true
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020014,
+        "value": 3
+      },
+      {
+        "key": 41100034,
+        "value": 3
+      },
+      {
+        "key": 41400144,
+        "value": 1
+      },
+      {
+        "key": 2,
+        "value": 100000
+      }
+    ],
+    "unlock_condition": 500007
+  },
+  {
+    "id": 335,
+    "node_index": 15,
+    "node_group": 1205,
+    "parent_nodes": [
+      11
+    ],
+    "node_type": 4,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_191_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_191_PropertyNodeDescribe",
+    "property_node_param": [
+      "4.20%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "property": [
+      {
+        "id": 10007,
+        "value": 0.042,
+        "is_ratio": true
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020014,
+        "value": 3
+      },
+      {
+        "key": 41100034,
+        "value": 3
+      },
+      {
+        "key": 41400144,
+        "value": 1
+      },
+      {
+        "key": 2,
+        "value": 100000
+      }
+    ],
+    "unlock_condition": 500007
+  },
+  {
+    "id": 336,
+    "node_index": 16,
+    "node_group": 1205,
+    "parent_nodes": [
+      12
+    ],
+    "node_type": 4,
+    "coordinate": 2,
+    "condition": [
+      1
+    ],
+    "skill_id": 0,
+    "property_node_title": "SkillTree_192_PropertyNodeTitle",
+    "property_node_describe": "SkillTree_192_PropertyNodeDescribe",
+    "property_node_param": [
+      "2.80%"
+    ],
+    "property_node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredbaoji_UI.T_Iconpropertyredbaoji_UI",
+    "property": [
+      {
+        "id": 8,
+        "value": 280.0,
+        "is_ratio": false
+      }
+    ],
+    "consume": [
+      {
+        "key": 43020014,
+        "value": 3
+      },
+      {
+        "key": 41100034,
+        "value": 3
+      },
+      {
+        "key": 41400144,
         "value": 1
       },
       {

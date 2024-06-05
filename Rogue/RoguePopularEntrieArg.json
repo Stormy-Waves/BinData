@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "season_id": 1,
+    "inst_id": 8002,
+    "slot": 4
+  },
+  {
+    "id": 2,
+    "season_id": 1,
+    "inst_id": 8003,
+    "slot": 4
+  },
+  {
+    "id": 3,
+    "season_id": 1,
+    "inst_id": 8004,
+    "slot": 4
+  },
+  {
+    "id": 4,
+    "season_id": 1,
+    "inst_id": 8005,
+    "slot": 4
+  },
+  {
+    "id": 5,
+    "season_id": 1,
+    "inst_id": 8006,
+    "slot": 4
+  },
+  {
+    "id": 9,
+    "season_id": 2,
+    "inst_id": 8008,
+    "slot": 4
+  },
+  {
+    "id": 10,
+    "season_id": 2,
+    "inst_id": 8009,
+    "slot": 4
+  },
+  {
+    "id": 11,
+    "season_id": 2,
+    "inst_id": 8010,
+    "slot": 4
+  },
+  {
+    "id": 12,
+    "season_id": 2,
+    "inst_id": 8011,
+    "slot": 4
+  },
+  {
+    "id": 8,
+    "season_id": 2,
+    "inst_id": 8007,
+    "slot": 4
+  }
+]

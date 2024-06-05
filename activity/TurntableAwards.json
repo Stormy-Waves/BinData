@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "activity_id": 101500001,
+    "group_id": 0,
+    "reward_item": [
+      {
+        "key": 3,
+        "value": 120
+      }
+    ],
+    "is_special": true
+  },
+  {
+    "id": 2,
+    "activity_id": 101500001,
+    "group_id": 0,
+    "reward_item": [
+      {
+        "key": 2,
+        "value": 40000
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 3,
+    "activity_id": 101500001,
+    "group_id": 0,
+    "reward_item": [
+      {
+        "key": 10800,
+        "value": 2
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 4,
+    "activity_id": 101500001,
+    "group_id": 0,
+    "reward_item": [
+      {
+        "key": 36000014,
+        "value": 20
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 5,
+    "activity_id": 101500001,
+    "group_id": 0,
+    "reward_item": [
+      {
+        "key": 80000027,
+        "value": 2
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 6,
+    "activity_id": 101500001,
+    "group_id": 0,
+    "reward_item": [
+      {
+        "key": 43010004,
+        "value": 4
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 7,
+    "activity_id": 101500001,
+    "group_id": 0,
+    "reward_item": [
+      {
+        "key": 42500070,
+        "value": 1
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 8,
+    "activity_id": 101500001,
+    "group_id": 0,
+    "reward_item": [
+      {
+        "key": 43020004,
+        "value": 4
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 9,
+    "activity_id": 101500001,
+    "group_id": 1,
+    "reward_item": [
+      {
+        "key": 3,
+        "value": 160
+      }
+    ],
+    "is_special": true
+  },
+  {
+    "id": 10,
+    "activity_id": 101500001,
+    "group_id": 1,
+    "reward_item": [
+      {
+        "key": 2,
+        "value": 60000
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 11,
+    "activity_id": 101500001,
+    "group_id": 1,
+    "reward_item": [
+      {
+        "key": 36000014,
+        "value": 40
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 12,
+    "activity_id": 101500001,
+    "group_id": 1,
+    "reward_item": [
+      {
+        "key": 80000028,
+        "value": 2
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 13,
+    "activity_id": 101500001,
+    "group_id": 1,
+    "reward_item": [
+      {
+        "key": 42500070,
+        "value": 1
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 14,
+    "activity_id": 101500001,
+    "group_id": 1,
+    "reward_item": [
+      {
+        "key": 36000004,
+        "value": 8
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 15,
+    "activity_id": 101500001,
+    "group_id": 1,
+    "reward_item": [
+      {
+        "key": 2,
+        "value": 40000
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 16,
+    "activity_id": 101500001,
+    "group_id": 1,
+    "reward_item": [
+      {
+        "key": 43020004,
+        "value": 4
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 17,
+    "activity_id": 101500001,
+    "group_id": 2,
+    "reward_item": [
+      {
+        "key": 50001,
+        "value": 5
+      }
+    ],
+    "is_special": true
+  },
+  {
+    "id": 18,
+    "activity_id": 101500001,
+    "group_id": 2,
+    "reward_item": [
+      {
+        "key": 3,
+        "value": 60
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 19,
+    "activity_id": 101500001,
+    "group_id": 2,
+    "reward_item": [
+      {
+        "key": 10800,
+        "value": 3
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 20,
+    "activity_id": 101500001,
+    "group_id": 2,
+    "reward_item": [
+      {
+        "key": 2,
+        "value": 60000
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 21,
+    "activity_id": 101500001,
+    "group_id": 2,
+    "reward_item": [
+      {
+        "key": 3,
+        "value": 60
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 22,
+    "activity_id": 101500001,
+    "group_id": 2,
+    "reward_item": [
+      {
+        "key": 36000014,
+        "value": 40
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 23,
+    "activity_id": 101500001,
+    "group_id": 2,
+    "reward_item": [
+      {
+        "key": 80000030,
+        "value": 2
+      }
+    ],
+    "is_special": false
+  },
+  {
+    "id": 24,
+    "activity_id": 101500001,
+    "group_id": 2,
+    "reward_item": [
+      {
+        "key": 43010004,
+        "value": 4
+      }
+    ],
+    "is_special": false
+  }
+]

@@ -1136,9 +1136,7 @@
     "settle_ids": [
       20002001
     ],
-    "buff_effects": [
-      1101013011
-    ],
+    "buff_effects": [],
     "charge_efficiency": 0,
     "skill_group_id": 200002,
     "skill_cd": 15.0,
@@ -3695,5 +3693,481 @@
     ],
     "battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_995_UI.T_MstSkil_995_UI",
     "special_battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_995_UI.T_MstSkil_995_UI"
+  },
+  {
+    "id": 200054,
+    "phantom_skill_id": 200054,
+    "buff_ids": [],
+    "settle_ids": [
+      20005401
+    ],
+    "buff_effects": [],
+    "charge_efficiency": 0,
+    "skill_group_id": 200002,
+    "skill_cd": 8.0,
+    "description_ex": "PhantomSkill_200054_DescriptionEx",
+    "simply_description": "PhantomSkill_200054_SimplyDescription",
+    "if_counter_skill": false,
+    "cur_level_description_ex": [],
+    "level_desc_str_array": [
+      {
+        "array_string": [
+          "24.00%",
+          "8"
+        ]
+      },
+      {
+        "array_string": [
+          "27.60%",
+          "8"
+        ]
+      },
+      {
+        "array_string": [
+          "31.20%",
+          "8"
+        ]
+      },
+      {
+        "array_string": [
+          "34.80%",
+          "8"
+        ]
+      },
+      {
+        "array_string": [
+          "38.40%",
+          "8"
+        ]
+      }
+    ],
+    "battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_327_UI.T_MstSkil_327_UI",
+    "special_battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_327_UI.T_MstSkil_327_UI"
+  },
+  {
+    "id": 200051,
+    "phantom_skill_id": 200051,
+    "buff_ids": [],
+    "settle_ids": [
+      20005102,
+      20005103,
+      20005104
+    ],
+    "buff_effects": [],
+    "charge_efficiency": 0,
+    "skill_group_id": 200002,
+    "skill_cd": 8.0,
+    "description_ex": "PhantomSkill_200051_DescriptionEx",
+    "simply_description": "PhantomSkill_200051_SimplyDescription",
+    "if_counter_skill": false,
+    "cur_level_description_ex": [],
+    "level_desc_str_array": [
+      {
+        "array_string": [
+          "3",
+          "24.00%",
+          "8",
+          "0.00%"
+        ]
+      },
+      {
+        "array_string": [
+          "3",
+          "27.60%",
+          "8",
+          "0.00%"
+        ]
+      },
+      {
+        "array_string": [
+          "3",
+          "31.20%",
+          "8",
+          "0.00%"
+        ]
+      },
+      {
+        "array_string": [
+          "3",
+          "34.80%",
+          "8",
+          "0.00%"
+        ]
+      },
+      {
+        "array_string": [
+          "3",
+          "38.40%",
+          "8",
+          "0.00%"
+        ]
+      }
+    ],
+    "battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_331_UI.T_MstSkil_331_UI",
+    "special_battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_331_UI.T_MstSkil_331_UI"
+  },
+  {
+    "id": 200055,
+    "phantom_skill_id": 200055,
+    "buff_ids": [],
+    "settle_ids": [
+      20005501,
+      20005502
+    ],
+    "buff_effects": [
+      200055001
+    ],
+    "charge_efficiency": 0,
+    "skill_group_id": 200001,
+    "skill_cd": 20.0,
+    "description_ex": "PhantomSkill_200055_DescriptionEx",
+    "simply_description": "PhantomSkill_200055_SimplyDescription",
+    "if_counter_skill": false,
+    "cur_level_description_ex": [],
+    "level_desc_str_array": [
+      {
+        "array_string": [
+          "134.00%",
+          "20.00%",
+          "20.00%",
+          "20"
+        ]
+      },
+      {
+        "array_string": [
+          "154.10%",
+          "20.00%",
+          "23.00%",
+          "20"
+        ]
+      },
+      {
+        "array_string": [
+          "174.20%",
+          "20.00%",
+          "26.00%",
+          "20"
+        ]
+      },
+      {
+        "array_string": [
+          "194.30%",
+          "20.00%",
+          "29.00%",
+          "20"
+        ]
+      },
+      {
+        "array_string": [
+          "214.40%",
+          "20.00%",
+          "32.00%",
+          "20"
+        ]
+      }
+    ],
+    "battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_326_UI.T_MstSkil_326_UI",
+    "special_battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_326_UI.T_MstSkil_326_UI"
+  },
+  {
+    "id": 200053,
+    "phantom_skill_id": 200053,
+    "buff_ids": [],
+    "settle_ids": [
+      20005301,
+      20005302
+    ],
+    "buff_effects": [],
+    "charge_efficiency": 0,
+    "skill_group_id": 200001,
+    "skill_cd": 15.0,
+    "description_ex": "PhantomSkill_200053_DescriptionEx",
+    "simply_description": "PhantomSkill_200053_SimplyDescription",
+    "if_counter_skill": true,
+    "cur_level_description_ex": [],
+    "level_desc_str_array": [
+      {
+        "array_string": [
+          "346.00%",
+          "519.00%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "397.90%",
+          "596.85%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "449.80%",
+          "674.70%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "501.70%",
+          "752.55%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "553.60%",
+          "830.40%",
+          "15"
+        ]
+      }
+    ],
+    "battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_330_UI.T_MstSkil_330_UI",
+    "special_battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_330_UI.T_MstSkil_330_UI"
+  },
+  {
+    "id": 200052,
+    "phantom_skill_id": 200052,
+    "buff_ids": [],
+    "settle_ids": [
+      20005201,
+      20005202,
+      20005203,
+      20005204
+    ],
+    "buff_effects": [],
+    "charge_efficiency": 0,
+    "skill_group_id": 200001,
+    "skill_cd": 15.0,
+    "description_ex": "PhantomSkill_200052_DescriptionEx",
+    "simply_description": "PhantomSkill_200052_SimplyDescription",
+    "if_counter_skill": false,
+    "cur_level_description_ex": [],
+    "level_desc_str_array": [
+      {
+        "array_string": [
+          "84.60%",
+          "6",
+          "9.40%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "97.29%",
+          "6",
+          "10.81%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "109.98%",
+          "6",
+          "12.22%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "122.67%",
+          "6",
+          "13.63%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "135.36%",
+          "6",
+          "15.04%",
+          "15"
+        ]
+      }
+    ],
+    "battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_329_UI.T_MstSkil_329_UI",
+    "special_battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_329_UI.T_MstSkil_329_UI"
+  },
+  {
+    "id": 280012,
+    "phantom_skill_id": 280012,
+    "buff_ids": [],
+    "settle_ids": [
+      28001201,
+      28001202,
+      280012002,
+      280012003,
+      280012004
+    ],
+    "buff_effects": [
+      280012001
+    ],
+    "charge_efficiency": 0,
+    "skill_group_id": 200002,
+    "skill_cd": 20.0,
+    "description_ex": "PhantomSkill_280012_DescriptionEx",
+    "simply_description": "PhantomSkill_280012_SimplyDescription",
+    "if_counter_skill": false,
+    "cur_level_description_ex": [],
+    "level_desc_str_array": [
+      {
+        "array_string": [
+          "30.40%",
+          "12.16%",
+          "30.40%",
+          "40.00%",
+          "10.00%",
+          "20"
+        ]
+      },
+      {
+        "array_string": [
+          "34.96%",
+          "13.98%",
+          "34.96%",
+          "46.00%",
+          "11.50%",
+          "20"
+        ]
+      },
+      {
+        "array_string": [
+          "39.52%",
+          "15.81%",
+          "39.52%",
+          "52.00%",
+          "13.00%",
+          "20"
+        ]
+      },
+      {
+        "array_string": [
+          "44.08%",
+          "17.63%",
+          "44.08%",
+          "58.00%",
+          "14.50%",
+          "20"
+        ]
+      },
+      {
+        "array_string": [
+          "48.64%",
+          "19.46%",
+          "48.64%",
+          "64.00%",
+          "16.00%",
+          "20"
+        ]
+      }
+    ],
+    "battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_328_UI.T_MstSkil_328_UI",
+    "special_battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_328_UI.T_MstSkil_328_UI"
+  },
+  {
+    "id": 201050,
+    "phantom_skill_id": 201050,
+    "buff_ids": [],
+    "settle_ids": [],
+    "buff_effects": [],
+    "charge_efficiency": 0,
+    "skill_group_id": 200002,
+    "skill_cd": 8.0,
+    "description_ex": "PhantomSkill_200050_DescriptionEx",
+    "simply_description": "PhantomSkill_200050_SimplyDescription",
+    "if_counter_skill": false,
+    "cur_level_description_ex": [],
+    "level_desc_str_array": [
+      {
+        "array_string": [
+          "20.00%+40",
+          "8"
+        ]
+      },
+      {
+        "array_string": [
+          "23.00%+46",
+          "8"
+        ]
+      },
+      {
+        "array_string": [
+          "26.00%+52",
+          "8"
+        ]
+      },
+      {
+        "array_string": [
+          "29.00%+58",
+          "8"
+        ]
+      },
+      {
+        "array_string": [
+          "32.00%+64",
+          "8"
+        ]
+      }
+    ],
+    "battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_998_UI.T_MstSkil_998_UI",
+    "special_battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_998_UI.T_MstSkil_998_UI"
+  },
+  {
+    "id": 201052,
+    "phantom_skill_id": 201052,
+    "buff_ids": [],
+    "settle_ids": [],
+    "buff_effects": [],
+    "charge_efficiency": 0,
+    "skill_group_id": 200001,
+    "skill_cd": 15.0,
+    "description_ex": "PhantomSkill_200052_DescriptionEx",
+    "simply_description": "PhantomSkill_200052_SimplyDescription",
+    "if_counter_skill": false,
+    "cur_level_description_ex": [],
+    "level_desc_str_array": [
+      {
+        "array_string": [
+          "84.60%",
+          "6",
+          "9.40%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "97.29%",
+          "6",
+          "10.81%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "109.98%",
+          "6",
+          "12.22%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "122.67%",
+          "6",
+          "13.63%",
+          "15"
+        ]
+      },
+      {
+        "array_string": [
+          "135.36%",
+          "6",
+          "15.04%",
+          "15"
+        ]
+      }
+    ],
+    "battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_329_UI.T_MstSkil_329_UI",
+    "special_battle_view_icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_329_UI.T_MstSkil_329_UI"
   }
 ]

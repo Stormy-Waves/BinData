@@ -52,7 +52,7 @@
     "name": "MonsterInfo_340000010_Name",
     "rarity_id": 3,
     "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
-    "big_icon": "0",
+    "big_icon": "/Game/Aki/UI/UIResources/Common/Image/ImgBoss/T_Boss_05.T_Boss_05",
     "tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
     "element_id": 6,
     "monster_entity_id": "Monster046",
@@ -1113,8 +1113,8 @@
     "element_id": 1,
     "monster_entity_id": "Monster119",
     "monster_pose": "0",
-    "undiscovered_des": "MonsterInfo_310000330_UndiscoveredDes",
-    "discovered_des": "MonsterInfo_310000330_DiscoveredDes",
+    "undiscovered_des": "MonsterInfo_310000340_UndiscoveredDes",
+    "discovered_des": "MonsterInfo_310000340_DiscoveredDes",
     "perch_id": [
       13
     ]
@@ -1307,6 +1307,134 @@
     "monster_pose": "0",
     "undiscovered_des": "MonsterInfo_320000110_UndiscoveredDes",
     "discovered_des": "MonsterInfo_320000110_DiscoveredDes",
+    "perch_id": [
+      13
+    ]
+  },
+  {
+    "id": 310000350,
+    "name": "MonsterInfo_310000350_Name",
+    "rarity_id": 1,
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_326_UI.T_IconMonsterHead_326_UI",
+    "big_icon": "0",
+    "tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "element_id": 2,
+    "monster_entity_id": "Monster118",
+    "monster_pose": "0",
+    "undiscovered_des": "MonsterInfo_310000350_UndiscoveredDes",
+    "discovered_des": "MonsterInfo_310000350_DiscoveredDes",
+    "perch_id": [
+      13
+    ]
+  },
+  {
+    "id": 310000360,
+    "name": "MonsterInfo_310000360_Name",
+    "rarity_id": 1,
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_330_UI.T_IconMonsterHead_330_UI",
+    "big_icon": "0",
+    "tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "element_id": 0,
+    "monster_entity_id": "Monster127",
+    "monster_pose": "0",
+    "undiscovered_des": "MonsterInfo_310000360_UndiscoveredDes",
+    "discovered_des": "MonsterInfo_310000360_DiscoveredDes",
+    "perch_id": [
+      13
+    ]
+  },
+  {
+    "id": 320000190,
+    "name": "MonsterInfo_320000190_Name",
+    "rarity_id": 2,
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_985_UI.T_IconMonsterHead_985_UI",
+    "big_icon": "0",
+    "tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "element_id": 1,
+    "monster_entity_id": "Monster_branch1.1_001",
+    "monster_pose": "0",
+    "undiscovered_des": "MonsterInfo_320000190_UndiscoveredDes",
+    "discovered_des": "MonsterInfo_320000190_DiscoveredDes",
+    "perch_id": [
+      13
+    ]
+  },
+  {
+    "id": 320000200,
+    "name": "MonsterInfo_320000200_Name",
+    "rarity_id": 2,
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_329_UI.T_IconMonsterHead_329_UI",
+    "big_icon": "0",
+    "tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "element_id": 1,
+    "monster_entity_id": "Monster170",
+    "monster_pose": "0",
+    "undiscovered_des": "MonsterInfo_320000200_UndiscoveredDes",
+    "discovered_des": "MonsterInfo_320000200_DiscoveredDes",
+    "perch_id": [
+      13
+    ]
+  },
+  {
+    "id": 320000210,
+    "name": "MonsterInfo_320000210_Name",
+    "rarity_id": 2,
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_328_UI.T_IconMonsterHead_328_UI",
+    "big_icon": "0",
+    "tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "element_id": 5,
+    "monster_entity_id": "Monster126",
+    "monster_pose": "0",
+    "undiscovered_des": "MonsterInfo_320000210_UndiscoveredDes",
+    "discovered_des": "MonsterInfo_320000210_DiscoveredDes",
+    "perch_id": [
+      13
+    ]
+  },
+  {
+    "id": 340000090,
+    "name": "MonsterInfo_340000090_Name",
+    "rarity_id": 4,
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_327_UI.T_IconMonsterHead_327_UI",
+    "big_icon": "0",
+    "tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "element_id": 5,
+    "monster_entity_id": "Monster123",
+    "monster_pose": "0",
+    "undiscovered_des": "MonsterInfo_340000090_UndiscoveredDes",
+    "discovered_des": "MonsterInfo_340000090_DiscoveredDes",
+    "perch_id": [
+      13
+    ]
+  },
+  {
+    "id": 350000070,
+    "name": "MonsterInfo_350000070_Name",
+    "rarity_id": 1,
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1015_UI.T_IconMonsterHead_1015_UI",
+    "big_icon": "0",
+    "tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "element_id": 1,
+    "monster_entity_id": "Monster119",
+    "monster_pose": "0",
+    "undiscovered_des": "MonsterInfo_310000330_UndiscoveredDes",
+    "discovered_des": "MonsterInfo_310000330_DiscoveredDes",
+    "perch_id": [
+      13
+    ]
+  },
+  {
+    "id": 350000080,
+    "name": "MonsterInfo_350000080_Name",
+    "rarity_id": 2,
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1016_UI.T_IconMonsterHead_1016_UI",
+    "big_icon": "0",
+    "tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "element_id": 5,
+    "monster_entity_id": "Monster126",
+    "monster_pose": "0",
+    "undiscovered_des": "MonsterInfo_320000210_UndiscoveredDes",
+    "discovered_des": "MonsterInfo_320000210_DiscoveredDes",
     "perch_id": [
       13
     ]

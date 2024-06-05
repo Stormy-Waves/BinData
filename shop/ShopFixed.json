@@ -656,7 +656,7 @@
     "price": [
       {
         "key": 2,
-        "value": 3000
+        "value": 6000
       }
     ],
     "show": true,
@@ -713,7 +713,7 @@
     "price": [
       {
         "key": 2,
-        "value": 6000
+        "value": 10000
       }
     ],
     "show": true,
@@ -732,7 +732,7 @@
     "price": [
       {
         "key": 2,
-        "value": 12000
+        "value": 10000
       }
     ],
     "show": true,
@@ -751,7 +751,7 @@
     "price": [
       {
         "key": 2,
-        "value": 12000
+        "value": 10000
       }
     ],
     "show": true,
@@ -1549,7 +1549,7 @@
     "price": [
       {
         "key": 2,
-        "value": 8000
+        "value": 6000
       }
     ],
     "show": true,
@@ -1568,7 +1568,7 @@
     "price": [
       {
         "key": 2,
-        "value": 8000
+        "value": 6000
       }
     ],
     "show": true,
@@ -1587,7 +1587,7 @@
     "price": [
       {
         "key": 2,
-        "value": 8000
+        "value": 6000
       }
     ],
     "show": true,
@@ -1872,7 +1872,7 @@
     "price": [
       {
         "key": 2,
-        "value": 3000
+        "value": 6000
       }
     ],
     "show": true,
@@ -2138,7 +2138,7 @@
     "price": [
       {
         "key": 2,
-        "value": 20000
+        "value": 15000
       }
     ],
     "show": true,
@@ -2348,6 +2348,367 @@
       {
         "key": 44010025,
         "value": 2
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 11301,
+    "shop_id": 113,
+    "item_id": 43010003,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 12,
+    "original_price": [],
+    "price": [
+      {
+        "key": 44010025,
+        "value": 4
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 11302,
+    "shop_id": 113,
+    "item_id": 43020003,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 12,
+    "original_price": [],
+    "price": [
+      {
+        "key": 44010025,
+        "value": 4
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 11303,
+    "shop_id": 113,
+    "item_id": 36000003,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 12,
+    "original_price": [],
+    "price": [
+      {
+        "key": 44010025,
+        "value": 5
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 11304,
+    "shop_id": 113,
+    "item_id": 36000014,
+    "item_num": 10,
+    "cond_id": 0,
+    "limit_num": 10,
+    "original_price": [],
+    "price": [
+      {
+        "key": 44010025,
+        "value": 20
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 11305,
+    "shop_id": 113,
+    "item_id": 80010033,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 1,
+    "original_price": [],
+    "price": [
+      {
+        "key": 44010025,
+        "value": 10
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 11306,
+    "shop_id": 113,
+    "item_id": 80010034,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 1,
+    "original_price": [],
+    "price": [
+      {
+        "key": 44010025,
+        "value": 10
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 11307,
+    "shop_id": 113,
+    "item_id": 80010018,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 1,
+    "original_price": [],
+    "price": [
+      {
+        "key": 44010025,
+        "value": 15
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 11308,
+    "shop_id": 113,
+    "item_id": 80010030,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 1,
+    "original_price": [],
+    "price": [
+      {
+        "key": 44010025,
+        "value": 20
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 11309,
+    "shop_id": 113,
+    "item_id": 2,
+    "item_num": 500,
+    "cond_id": 0,
+    "limit_num": -1,
+    "original_price": [],
+    "price": [
+      {
+        "key": 44010025,
+        "value": 1
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10319,
+    "shop_id": 103,
+    "item_id": 42310200,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 15,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 3000
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10320,
+    "shop_id": 103,
+    "item_id": 42310210,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 15,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 3000
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10321,
+    "shop_id": 103,
+    "item_id": 42310220,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 30,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 1000
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10722,
+    "shop_id": 107,
+    "item_id": 80021006,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 5,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 15000
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10723,
+    "shop_id": 107,
+    "item_id": 80021007,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 2,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 30000
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10322,
+    "shop_id": 103,
+    "item_id": 80021001,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 6,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 3000
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10323,
+    "shop_id": 103,
+    "item_id": 80021002,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 3,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 4500
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10324,
+    "shop_id": 103,
+    "item_id": 80021004,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 3,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 4500
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10325,
+    "shop_id": 103,
+    "item_id": 80021003,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 2,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 9000
+      }
+    ],
+    "show": true,
+    "label": "",
+    "switch_text": "",
+    "purchase_text": ""
+  },
+  {
+    "id": 10326,
+    "shop_id": 103,
+    "item_id": 80021005,
+    "item_num": 1,
+    "cond_id": 0,
+    "limit_num": 2,
+    "original_price": [],
+    "price": [
+      {
+        "key": 2,
+        "value": 9000
       }
     ],
     "show": true,

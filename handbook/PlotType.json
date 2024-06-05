@@ -1,38 +1,77 @@
 [
   {
     "id": 100,
-    "type_description": "PlotType_100_TypeDescription"
+    "type_description": "PlotType_100_TypeDescription",
+    "type": 7
   },
   {
     "id": 102,
-    "type_description": "PlotType_102_TypeDescription"
+    "type_description": "PlotType_102_TypeDescription",
+    "type": 7
   },
   {
     "id": 103,
-    "type_description": "PlotType_103_TypeDescription"
+    "type_description": "PlotType_103_TypeDescription",
+    "type": 7
   },
   {
     "id": 104,
-    "type_description": "PlotType_104_TypeDescription"
+    "type_description": "PlotType_104_TypeDescription",
+    "type": 7
   },
   {
     "id": 105,
-    "type_description": "PlotType_105_TypeDescription"
+    "type_description": "PlotType_105_TypeDescription",
+    "type": 7
   },
   {
     "id": 1001,
-    "type_description": "PlotType_1001_TypeDescription"
+    "type_description": "PlotType_1001_TypeDescription",
+    "type": 7
   },
   {
     "id": 1002,
-    "type_description": "PlotType_1002_TypeDescription"
+    "type_description": "PlotType_1002_TypeDescription",
+    "type": 7
   },
   {
     "id": 1003,
-    "type_description": "PlotType_1003_TypeDescription"
+    "type_description": "PlotType_1003_TypeDescription",
+    "type": 7
   },
   {
     "id": 106,
-    "type_description": "PlotType_106_TypeDescription"
+    "type_description": "PlotType_106_TypeDescription",
+    "type": 7
+  },
+  {
+    "id": 10000,
+    "type_description": "PlotType_10012_TypeDescription",
+    "type": 9
+  },
+  {
+    "id": 10100,
+    "type_description": "PlotType_10001_TypeDescription",
+    "type": 9
+  },
+  {
+    "id": 10200,
+    "type_description": "PlotType_10002_TypeDescription",
+    "type": 8
+  },
+  {
+    "id": 107,
+    "type_description": "PlotType_107_TypeDescription",
+    "type": 7
+  },
+  {
+    "id": 1004,
+    "type_description": "PlotType_1004_TypeDescription",
+    "type": 7
+  },
+  {
+    "id": 108,
+    "type_description": "PlotType_108_TypeDescription",
+    "type": 7
   }
 ]

@@ -1280,8 +1280,8 @@
     "sense_type": 1,
     "default_enabled": true,
     "sense_distance_range": {
-      "min": 300.0,
-      "max": 500.0
+      "min": 2000.0,
+      "max": 3000.0
     },
     "horizontal_angle": {
       "min": -180.0,
@@ -1292,6 +1292,28 @@
       "max": 90.0
     },
     "cant_be_block": false,
+    "block_type": 0,
+    "walk_sense_rate": 1.0,
+    "air_sense_rate": 1.0,
+    "sense_target": 0
+  },
+  {
+    "id": 80017,
+    "sense_type": 1,
+    "default_enabled": true,
+    "sense_distance_range": {
+      "min": 50000.0,
+      "max": 51000.0
+    },
+    "horizontal_angle": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "vertical_angle": {
+      "min": -90.0,
+      "max": 90.0
+    },
+    "cant_be_block": true,
     "block_type": 0,
     "walk_sense_rate": 1.0,
     "air_sense_rate": 1.0,
@@ -1650,6 +1672,28 @@
     "sense_target": 0
   },
   {
+    "id": 77049,
+    "sense_type": 1,
+    "default_enabled": true,
+    "sense_distance_range": {
+      "min": 2500.0,
+      "max": 3500.0
+    },
+    "horizontal_angle": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "vertical_angle": {
+      "min": -90.0,
+      "max": 90.0
+    },
+    "cant_be_block": false,
+    "block_type": 0,
+    "walk_sense_rate": 1.0,
+    "air_sense_rate": 1.0,
+    "sense_target": 0
+  },
+  {
     "id": 800021,
     "sense_type": 1,
     "default_enabled": true,
@@ -1788,6 +1832,28 @@
     "sense_distance_range": {
       "min": 3000.0,
       "max": 12000.0
+    },
+    "horizontal_angle": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "vertical_angle": {
+      "min": -90.0,
+      "max": 90.0
+    },
+    "cant_be_block": false,
+    "block_type": 0,
+    "walk_sense_rate": 1.0,
+    "air_sense_rate": 1.0,
+    "sense_target": 0
+  },
+  {
+    "id": 77032,
+    "sense_type": 1,
+    "default_enabled": true,
+    "sense_distance_range": {
+      "min": 2000.0,
+      "max": 3000.0
     },
     "horizontal_angle": {
       "min": -180.0,

@@ -913,6 +913,127 @@
     "after_network_action": 0
   },
   {
+    "id": 301301,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 13,
+    "type": 1,
+    "teleport_entity_config_id": 123000852,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301302,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 1,
+    "teleport_entity_config_id": 123000887,
+    "plot": "剧情_华表专用演出,1,1",
+    "after_network_action": 9999999
+  },
+  {
+    "id": 301303,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 123000857,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301304,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 123000858,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301305,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 123000859,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301306,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 123000860,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301307,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 123000861,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301308,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 123000862,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301309,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 123000863,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301310,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 123000864,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301311,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 123000936,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
     "id": 380017,
     "map_id": 8,
     "object_id": 0,
@@ -975,6 +1096,28 @@
     "fog_id": 5,
     "type": 2,
     "teleport_entity_config_id": 143000049,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301312,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 141000610,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301313,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 141000611,
     "plot": "",
     "after_network_action": 0
   },
@@ -1052,6 +1195,94 @@
     "fog_id": 9,
     "type": 2,
     "teleport_entity_config_id": 143800082,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301315,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 141900078,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301316,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 141900072,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301317,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 141900079,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301318,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 141900082,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301319,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 141900085,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 301320,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 2,
+    "fog_id": 14,
+    "type": 2,
+    "teleport_entity_config_id": 141900086,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 380021,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 1617,
+    "fog_id": 8,
+    "type": 3,
+    "teleport_entity_config_id": 133900564,
+    "plot": "",
+    "after_network_action": 0
+  },
+  {
+    "id": 380020,
+    "map_id": 8,
+    "object_id": 0,
+    "area_id": 3,
+    "fog_id": 3,
+    "type": 3,
+    "teleport_entity_config_id": 200900018,
     "plot": "",
     "after_network_action": 0
   }

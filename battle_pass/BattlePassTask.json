@@ -77,17 +77,6 @@
     ]
   },
   {
-    "task_id": 303,
-    "task_name": "BattlePassTask_303_TaskName",
-    "update_type": 0,
-    "task_reward": [
-      {
-        "key": 8,
-        "value": 2000
-      }
-    ]
-  },
-  {
     "task_id": 208,
     "task_name": "BattlePassTask_208_TaskName",
     "update_type": 2,
@@ -198,61 +187,6 @@
     ]
   },
   {
-    "task_id": 306,
-    "task_name": "BattlePassTask_306_TaskName",
-    "update_type": 0,
-    "task_reward": [
-      {
-        "key": 8,
-        "value": 2000
-      }
-    ]
-  },
-  {
-    "task_id": 307,
-    "task_name": "BattlePassTask_307_TaskName",
-    "update_type": 0,
-    "task_reward": [
-      {
-        "key": 8,
-        "value": 2000
-      }
-    ]
-  },
-  {
-    "task_id": 308,
-    "task_name": "BattlePassTask_308_TaskName",
-    "update_type": 0,
-    "task_reward": [
-      {
-        "key": 8,
-        "value": 1500
-      }
-    ]
-  },
-  {
-    "task_id": 309,
-    "task_name": "BattlePassTask_309_TaskName",
-    "update_type": 0,
-    "task_reward": [
-      {
-        "key": 8,
-        "value": 2000
-      }
-    ]
-  },
-  {
-    "task_id": 310,
-    "task_name": "BattlePassTask_310_TaskName",
-    "update_type": 0,
-    "task_reward": [
-      {
-        "key": 8,
-        "value": 2000
-      }
-    ]
-  },
-  {
     "task_id": 304,
     "task_name": "BattlePassTask_304_TaskName",
     "update_type": 0,
@@ -260,6 +194,72 @@
       {
         "key": 8,
         "value": 1500
+      }
+    ]
+  },
+  {
+    "task_id": 311,
+    "task_name": "BattlePassTask_311_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
+      }
+    ]
+  },
+  {
+    "task_id": 312,
+    "task_name": "BattlePassTask_312_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
+      }
+    ]
+  },
+  {
+    "task_id": 313,
+    "task_name": "BattlePassTask_313_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2500
+      }
+    ]
+  },
+  {
+    "task_id": 314,
+    "task_name": "BattlePassTask_314_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
+      }
+    ]
+  },
+  {
+    "task_id": 315,
+    "task_name": "BattlePassTask_315_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
+      }
+    ]
+  },
+  {
+    "task_id": 316,
+    "task_name": "BattlePassTask_316_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
       }
     ]
   }

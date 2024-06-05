@@ -6,9 +6,11 @@
     "pc_keys": [
       "SpaceBar"
     ],
+    "france_pc_keys": [
+      "SpaceBar"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Bottom",
-      "GenericUSBController_Button2"
+      "Gamepad_FaceButton_Bottom"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -20,9 +22,11 @@
     "pc_keys": [
       "X"
     ],
+    "france_pc_keys": [
+      "X"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Left",
-      "GenericUSBController_Button1"
+      "Gamepad_FaceButton_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -32,6 +36,9 @@
     "action_name": "走跑切换",
     "action_type": 1,
     "pc_keys": [
+      "LeftControl"
+    ],
+    "france_pc_keys": [
       "LeftControl"
     ],
     "gamepad_keys": [],
@@ -45,9 +52,11 @@
     "pc_keys": [
       "LeftMouseButton"
     ],
+    "france_pc_keys": [
+      "LeftMouseButton"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Left",
-      "GenericUSBController_Button1"
+      "Gamepad_FaceButton_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -57,9 +66,9 @@
     "action_name": "手柄主攻击",
     "action_type": 1,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Left",
-      "GenericUSBController_Button1"
+      "Gamepad_FaceButton_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -69,9 +78,9 @@
     "action_name": "手柄副攻击",
     "action_type": 1,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
-      "Gamepad_RightTrigger",
-      "GenericUSBController_Button8"
+      "Gamepad_RightTrigger"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -84,9 +93,12 @@
       "RightMouseButton",
       "LeftShift"
     ],
+    "france_pc_keys": [
+      "RightMouseButton",
+      "LeftShift"
+    ],
     "gamepad_keys": [
-      "Gamepad_RightShoulder",
-      "GenericUSBController_Button6"
+      "Gamepad_RightShoulder"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -98,9 +110,11 @@
     "pc_keys": [
       "E"
     ],
+    "france_pc_keys": [
+      "E"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Top",
-      "GenericUSBController_Button4"
+      "Gamepad_FaceButton_Top"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -110,6 +124,9 @@
     "action_name": "幻象1",
     "action_type": 1,
     "pc_keys": [
+      "T"
+    ],
+    "france_pc_keys": [
       "T"
     ],
     "gamepad_keys": [],
@@ -123,9 +140,11 @@
     "pc_keys": [
       "R"
     ],
+    "france_pc_keys": [
+      "R"
+    ],
     "gamepad_keys": [
-      "Gamepad_RightTrigger",
-      "GenericUSBController_Button8"
+      "Gamepad_RightTrigger"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -136,6 +155,9 @@
     "action_type": 1,
     "pc_keys": [
       "Q"
+    ],
+    "france_pc_keys": [
+      "A"
     ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
@@ -148,9 +170,12 @@
     "pc_keys": [
       "One"
     ],
+    "france_pc_keys": [
+      "Ampersand"
+    ],
     "gamepad_keys": [
       "Gamepad_DPad_Up",
-      "GenericUSBController_Button16"
+      ""
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -162,9 +187,11 @@
     "pc_keys": [
       "Two"
     ],
+    "france_pc_keys": [
+      "E_AccentAigu"
+    ],
     "gamepad_keys": [
-      "Gamepad_DPad_Right",
-      "GenericUSBController_Button17"
+      "Gamepad_DPad_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -176,9 +203,11 @@
     "pc_keys": [
       "Three"
     ],
+    "france_pc_keys": [
+      "Quote"
+    ],
     "gamepad_keys": [
-      "Gamepad_DPad_Down",
-      "GenericUSBController_Button18"
+      "Gamepad_DPad_Down"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -189,6 +218,9 @@
     "action_type": 1,
     "pc_keys": [
       "Four"
+    ],
+    "france_pc_keys": [
+      "Apostrophe"
     ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
@@ -201,9 +233,11 @@
     "pc_keys": [
       "G"
     ],
+    "france_pc_keys": [
+      "G"
+    ],
     "gamepad_keys": [
-      "Gamepad_LeftTrigger",
-      "GenericUSBController_Button7"
+      "Gamepad_LeftTrigger"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -215,9 +249,11 @@
     "pc_keys": [
       "MiddleMouseButton"
     ],
+    "france_pc_keys": [
+      "MiddleMouseButton"
+    ],
     "gamepad_keys": [
-      "Gamepad_RightThumbstick",
-      "GenericUSBController_Button12"
+      "Gamepad_RightThumbstick"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -227,9 +263,9 @@
     "action_name": "组合主键",
     "action_type": 1,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
-      "Gamepad_LeftShoulder",
-      "GenericUSBController_Button5"
+      "Gamepad_LeftShoulder"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -241,9 +277,11 @@
     "pc_keys": [
       "F"
     ],
+    "france_pc_keys": [
+      "F"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Right",
-      "GenericUSBController_Button3"
+      "Gamepad_FaceButton_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -255,6 +293,9 @@
     "pc_keys": [
       "V"
     ],
+    "france_pc_keys": [
+      "V"
+    ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -264,9 +305,9 @@
     "action_name": "切换交互",
     "action_type": 2,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
-      "Gamepad_LeftThumbstick",
-      "GenericUSBController_Button11"
+      "Gamepad_LeftThumbstick"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -276,6 +317,9 @@
     "action_name": "邮件",
     "action_type": 3,
     "pc_keys": [
+      "N"
+    ],
+    "france_pc_keys": [
       "N"
     ],
     "gamepad_keys": [],
@@ -289,7 +333,12 @@
     "pc_keys": [
       "M"
     ],
-    "gamepad_keys": [],
+    "france_pc_keys": [
+      "Comma"
+    ],
+    "gamepad_keys": [
+      "Gamepad_Special_Left"
+    ],
     "mobile_icon_path": "",
     "display_name": ""
   },
@@ -298,6 +347,9 @@
     "action_name": "商店",
     "action_type": 3,
     "pc_keys": [
+      "I"
+    ],
+    "france_pc_keys": [
       "I"
     ],
     "gamepad_keys": [],
@@ -311,6 +363,9 @@
     "pc_keys": [
       "J"
     ],
+    "france_pc_keys": [
+      "J"
+    ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -322,9 +377,11 @@
     "pc_keys": [
       "Escape"
     ],
+    "france_pc_keys": [
+      "Escape"
+    ],
     "gamepad_keys": [
-      "Gamepad_Special_Right",
-      "GenericUSBController_Button10"
+      "Gamepad_Special_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -334,6 +391,9 @@
     "action_name": "编队",
     "action_type": 3,
     "pc_keys": [
+      "L"
+    ],
+    "france_pc_keys": [
       "L"
     ],
     "gamepad_keys": [],
@@ -347,6 +407,9 @@
     "pc_keys": [
       "B"
     ],
+    "france_pc_keys": [
+      "B"
+    ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -356,6 +419,9 @@
     "action_name": "角色选择界面",
     "action_type": 3,
     "pc_keys": [
+      "C"
+    ],
+    "france_pc_keys": [
       "C"
     ],
     "gamepad_keys": [],
@@ -369,6 +435,9 @@
     "pc_keys": [
       "O"
     ],
+    "france_pc_keys": [
+      "O"
+    ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -378,6 +447,9 @@
     "action_name": "显示鼠标",
     "action_type": 3,
     "pc_keys": [
+      "LeftAlt"
+    ],
+    "france_pc_keys": [
       "LeftAlt"
     ],
     "gamepad_keys": [],
@@ -391,9 +463,11 @@
     "pc_keys": [
       "Tab"
     ],
+    "france_pc_keys": [
+      "Tab"
+    ],
     "gamepad_keys": [
-      "Gamepad_DPad_Left",
-      "GenericUSBController_Button19"
+      "Gamepad_DPad_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -403,6 +477,9 @@
     "action_name": "GM指令",
     "action_type": 3,
     "pc_keys": [
+      "F7"
+    ],
+    "france_pc_keys": [
       "F7"
     ],
     "gamepad_keys": [],
@@ -416,10 +493,10 @@
     "pc_keys": [
       "Enter"
     ],
-    "gamepad_keys": [
-      "Gamepad_Special_Left",
-      "GenericUSBController_Button9"
+    "france_pc_keys": [
+      "Enter"
     ],
+    "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
   },
@@ -428,6 +505,9 @@
     "action_name": "教程",
     "action_type": 3,
     "pc_keys": [
+      "H"
+    ],
+    "france_pc_keys": [
       "H"
     ],
     "gamepad_keys": [],
@@ -441,9 +521,11 @@
     "pc_keys": [
       "H"
     ],
+    "france_pc_keys": [
+      "H"
+    ],
     "gamepad_keys": [
-      "Gamepad_Special_Left",
-      "GenericUSBController_Button9"
+      "Gamepad_Special_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -453,6 +535,9 @@
     "action_name": "联机",
     "action_type": 3,
     "pc_keys": [
+      "U"
+    ],
+    "france_pc_keys": [
       "U"
     ],
     "gamepad_keys": [],
@@ -466,6 +551,9 @@
     "pc_keys": [
       "P"
     ],
+    "france_pc_keys": [
+      "P"
+    ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -475,6 +563,9 @@
     "action_name": "拍照",
     "action_type": 3,
     "pc_keys": [
+      "Enter"
+    ],
+    "france_pc_keys": [
       "Enter"
     ],
     "gamepad_keys": [],
@@ -488,6 +579,9 @@
     "pc_keys": [
       "F1"
     ],
+    "france_pc_keys": [
+      "F1"
+    ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -497,6 +591,9 @@
     "action_name": "调谐",
     "action_type": 3,
     "pc_keys": [
+      "F3"
+    ],
+    "france_pc_keys": [
       "F3"
     ],
     "gamepad_keys": [],
@@ -510,6 +607,9 @@
     "pc_keys": [
       "F4"
     ],
+    "france_pc_keys": [
+      "F4"
+    ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -519,6 +619,9 @@
     "action_name": "拾音辑录",
     "action_type": 3,
     "pc_keys": [
+      "F2"
+    ],
+    "france_pc_keys": [
       "F2"
     ],
     "gamepad_keys": [],
@@ -533,9 +636,12 @@
       "W",
       "Up"
     ],
+    "france_pc_keys": [
+      "Z",
+      "Up"
+    ],
     "gamepad_keys": [
-      "Gamepad_DPad_Up",
-      "GenericUSBController_Button16"
+      "Gamepad_DPad_Up"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -548,9 +654,12 @@
       "S",
       "Down"
     ],
+    "france_pc_keys": [
+      "S",
+      "Down"
+    ],
     "gamepad_keys": [
-      "Gamepad_DPad_Down",
-      "GenericUSBController_Button18"
+      "Gamepad_DPad_Down"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -563,9 +672,12 @@
       "A",
       "Left"
     ],
+    "france_pc_keys": [
+      "Q",
+      "Left"
+    ],
     "gamepad_keys": [
-      "Gamepad_DPad_Left",
-      "GenericUSBController_Button19"
+      "Gamepad_DPad_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -578,9 +690,12 @@
       "D",
       "Right"
     ],
+    "france_pc_keys": [
+      "D",
+      "Right"
+    ],
     "gamepad_keys": [
-      "Gamepad_DPad_Right",
-      "GenericUSBController_Button17"
+      "Gamepad_DPad_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -590,6 +705,9 @@
     "action_name": "UI左键点击",
     "action_type": 4,
     "pc_keys": [
+      "LeftMouseButton"
+    ],
+    "france_pc_keys": [
       "LeftMouseButton"
     ],
     "gamepad_keys": [],
@@ -603,6 +721,9 @@
     "pc_keys": [
       "RightMouseButton"
     ],
+    "france_pc_keys": [
+      "RightMouseButton"
+    ],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -614,9 +735,12 @@
     "pc_keys": [
       "Escape"
     ],
+    "france_pc_keys": [
+      "Escape"
+    ],
     "gamepad_keys": [
       "Gamepad_FaceButton_Right",
-      "GenericUSBController_Button3"
+      ""
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -628,9 +752,11 @@
     "pc_keys": [
       "F"
     ],
+    "france_pc_keys": [
+      "F"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Bottom",
-      "GenericUSBController_Button2"
+      "Gamepad_FaceButton_Bottom"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -642,9 +768,11 @@
     "pc_keys": [
       "R"
     ],
+    "france_pc_keys": [
+      "R"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Left",
-      "GenericUSBController_Button1"
+      "Gamepad_FaceButton_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -656,9 +784,11 @@
     "pc_keys": [
       "T"
     ],
+    "france_pc_keys": [
+      "T"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Top",
-      "GenericUSBController_Button4"
+      "Gamepad_FaceButton_Top"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -670,9 +800,11 @@
     "pc_keys": [
       "Q"
     ],
+    "france_pc_keys": [
+      "A"
+    ],
     "gamepad_keys": [
-      "Gamepad_LeftShoulder",
-      "GenericUSBController_Button5"
+      "Gamepad_LeftShoulder"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -684,9 +816,11 @@
     "pc_keys": [
       "E"
     ],
+    "france_pc_keys": [
+      "E"
+    ],
     "gamepad_keys": [
-      "Gamepad_RightShoulder",
-      "GenericUSBController_Button6"
+      "Gamepad_RightShoulder"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -698,9 +832,11 @@
     "pc_keys": [
       "Z"
     ],
+    "france_pc_keys": [
+      "W"
+    ],
     "gamepad_keys": [
-      "Gamepad_LeftTrigger",
-      "GenericUSBController_Button7"
+      "Gamepad_LeftTrigger"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -712,9 +848,11 @@
     "pc_keys": [
       "C"
     ],
+    "france_pc_keys": [
+      "C"
+    ],
     "gamepad_keys": [
-      "Gamepad_RightTrigger",
-      "GenericUSBController_Button8"
+      "Gamepad_RightTrigger"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -726,9 +864,11 @@
     "pc_keys": [
       "G"
     ],
+    "france_pc_keys": [
+      "G"
+    ],
     "gamepad_keys": [
-      "Gamepad_Special_Right",
-      "GenericUSBController_Button10"
+      "Gamepad_Special_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -740,9 +880,11 @@
     "pc_keys": [
       "X"
     ],
+    "france_pc_keys": [
+      "X"
+    ],
     "gamepad_keys": [
-      "Gamepad_Special_Left",
-      "GenericUSBController_Button9"
+      "Gamepad_Special_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -754,9 +896,11 @@
     "pc_keys": [
       "G"
     ],
+    "france_pc_keys": [
+      "G"
+    ],
     "gamepad_keys": [
-      "Gamepad_RightThumbstick",
-      "GenericUSBController_Button12"
+      "Gamepad_RightThumbstick"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -768,9 +912,11 @@
     "pc_keys": [
       "Y"
     ],
+    "france_pc_keys": [
+      "Y"
+    ],
     "gamepad_keys": [
-      "Gamepad_Special_Right",
-      "GenericUSBController_Button10"
+      "Gamepad_Special_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -782,9 +928,11 @@
     "pc_keys": [
       "H"
     ],
+    "france_pc_keys": [
+      "H"
+    ],
     "gamepad_keys": [
-      "Gamepad_Special_Left",
-      "GenericUSBController_Button9"
+      "Gamepad_Special_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -796,9 +944,11 @@
     "pc_keys": [
       "Escape"
     ],
+    "france_pc_keys": [
+      "Escape"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Right",
-      "GenericUSBController_Button3"
+      "Gamepad_FaceButton_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -811,9 +961,12 @@
       "SpaceBar",
       "F"
     ],
+    "france_pc_keys": [
+      "SpaceBar",
+      "F"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Bottom",
-      "GenericUSBController_Button2"
+      "Gamepad_FaceButton_Bottom"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -823,6 +976,7 @@
     "action_name": "UI手柄右摇杆下",
     "action_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -832,9 +986,9 @@
     "action_name": "滚动条切换",
     "action_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
-      "Gamepad_RightThumbstick",
-      "GenericUSBController_Button12"
+      "Gamepad_RightThumbstick"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -846,9 +1000,11 @@
     "pc_keys": [
       "U"
     ],
+    "france_pc_keys": [
+      "U"
+    ],
     "gamepad_keys": [
-      "Gamepad_LeftThumbstick",
-      "GenericUSBController_Button11"
+      "Gamepad_LeftThumbstick"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -858,6 +1014,7 @@
     "action_name": "UI手柄右摇杆上",
     "action_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [],
     "mobile_icon_path": "",
     "display_name": ""
@@ -867,9 +1024,9 @@
     "action_name": "UI手柄A方向右",
     "action_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
-      "Gamepad_DPad_Right",
-      "GenericUSBController_Button17"
+      "Gamepad_DPad_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -879,9 +1036,9 @@
     "action_name": "UI手柄B方向左",
     "action_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
-      "Gamepad_DPad_Left",
-      "GenericUSBController_Button19"
+      "Gamepad_DPad_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -891,9 +1048,9 @@
     "action_name": "轮盘切换",
     "action_type": 3,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
-      "Gamepad_RightShoulder",
-      "GenericUSBController_Button6"
+      "Gamepad_RightShoulder"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -905,9 +1062,11 @@
     "pc_keys": [
       "W"
     ],
+    "france_pc_keys": [
+      "Z"
+    ],
     "gamepad_keys": [
-      "Gamepad_LeftStick_Up",
-      "GenericUSBController_Button20"
+      "Gamepad_LeftStick_Up"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -919,9 +1078,11 @@
     "pc_keys": [
       "S"
     ],
+    "france_pc_keys": [
+      "S"
+    ],
     "gamepad_keys": [
-      "Gamepad_LeftStick_Down",
-      "GenericUSBController_Button21"
+      "Gamepad_LeftStick_Down"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -933,9 +1094,11 @@
     "pc_keys": [
       "A"
     ],
+    "france_pc_keys": [
+      "Q"
+    ],
     "gamepad_keys": [
-      "Gamepad_LeftStick_Left",
-      "GenericUSBController_Button22"
+      "Gamepad_LeftStick_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -947,9 +1110,11 @@
     "pc_keys": [
       "D"
     ],
+    "france_pc_keys": [
+      "D"
+    ],
     "gamepad_keys": [
-      "Gamepad_LeftStick_Right",
-      "GenericUSBController_Button23"
+      "Gamepad_LeftStick_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -961,9 +1126,11 @@
     "pc_keys": [
       "F"
     ],
+    "france_pc_keys": [
+      "F"
+    ],
     "gamepad_keys": [
-      "Gamepad_FaceButton_Right",
-      "GenericUSBController_Button3"
+      "Gamepad_FaceButton_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -973,11 +1140,10 @@
     "action_name": "手柄引导下一步",
     "action_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       "Gamepad_FaceButton_Right",
-      "Gamepad_FaceButton_Bottom",
-      "GenericUSBController_Button3",
-      "GenericUSBController_Button2"
+      "Gamepad_FaceButton_Bottom"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -987,11 +1153,10 @@
     "action_name": "UI左摇杆左",
     "action_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       "Gamepad_LeftStick_Left",
-      "Gamepad_DPad_Left",
-      "GenericUSBController_Button22",
-      "GenericUSBController_Button19"
+      "Gamepad_DPad_Left"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -1001,11 +1166,10 @@
     "action_name": "UI左摇杆右",
     "action_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       "Gamepad_LeftStick_Right",
-      "Gamepad_DPad_Right",
-      "GenericUSBController_Button23",
-      "GenericUSBController_Button17"
+      "Gamepad_DPad_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -1018,9 +1182,12 @@
       "Escape",
       "LeftMouseButton"
     ],
+    "france_pc_keys": [
+      "Escape",
+      "LeftMouseButton"
+    ],
     "gamepad_keys": [
-      "Gamepad_Special_Right",
-      "GenericUSBController_Button10"
+      "Gamepad_Special_Right"
     ],
     "mobile_icon_path": "",
     "display_name": ""
@@ -1030,6 +1197,9 @@
     "action_name": "UI鼠标侧键前",
     "action_type": 4,
     "pc_keys": [
+      "ThumbMouseButton"
+    ],
+    "france_pc_keys": [
       "ThumbMouseButton"
     ],
     "gamepad_keys": [],
@@ -1043,7 +1213,68 @@
     "pc_keys": [
       "ThumbMouseButton2"
     ],
+    "france_pc_keys": [
+      "ThumbMouseButton2"
+    ],
     "gamepad_keys": [],
+    "mobile_icon_path": "",
+    "display_name": ""
+  },
+  {
+    "id": 78,
+    "action_name": "UI键盘V手柄特左",
+    "action_type": 4,
+    "pc_keys": [
+      "V"
+    ],
+    "france_pc_keys": [
+      "V"
+    ],
+    "gamepad_keys": [
+      "Gamepad_Special_Left"
+    ],
+    "mobile_icon_path": "",
+    "display_name": ""
+  },
+  {
+    "id": 79,
+    "action_name": "激活聊天",
+    "action_type": 4,
+    "pc_keys": [
+      "Enter"
+    ],
+    "france_pc_keys": [
+      "Enter"
+    ],
+    "gamepad_keys": [
+      "Gamepad_FaceButton_Left"
+    ],
+    "mobile_icon_path": "",
+    "display_name": ""
+  },
+  {
+    "id": 80,
+    "action_name": "UI左摇杆上",
+    "action_type": 4,
+    "pc_keys": [],
+    "france_pc_keys": [],
+    "gamepad_keys": [
+      "Gamepad_LeftStick_Up",
+      "Gamepad_DPad_Up"
+    ],
+    "mobile_icon_path": "",
+    "display_name": ""
+  },
+  {
+    "id": 81,
+    "action_name": "UI左摇杆下",
+    "action_type": 4,
+    "pc_keys": [],
+    "france_pc_keys": [],
+    "gamepad_keys": [
+      "Gamepad_LeftStick_Down",
+      "Gamepad_DPad_Down"
+    ],
     "mobile_icon_path": "",
     "display_name": ""
   }

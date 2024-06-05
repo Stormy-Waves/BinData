@@ -10,5 +10,17 @@
       9999
     ],
     "scale": 1.0
+  },
+  {
+    "mark_id": 2,
+    "mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_12_UI.SP_IconMap_Play_12_UI",
+    "mark_title": "MapMark_3_MarkTitle",
+    "mark_desc": "MapMark_3_MarkDesc",
+    "show_priority": 8,
+    "show_range": [
+      15,
+      9999
+    ],
+    "scale": 1.0
   }
 ]

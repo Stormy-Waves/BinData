@@ -1686,5 +1686,57 @@
     "role_list": [],
     "compose_content": "",
     "compose_background": ""
+  },
+  {
+    "id": 8,
+    "formula_item_id": 0,
+    "item_id": 36000001,
+    "formula_type": 2,
+    "name": "1级声骸经验",
+    "consume_items": [
+      {
+        "item_id": 42500090,
+        "count": 3
+      },
+      {
+        "item_id": 2,
+        "count": 1500
+      }
+    ],
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 8,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
+  },
+  {
+    "id": 9,
+    "formula_item_id": 0,
+    "item_id": 36000002,
+    "formula_type": 2,
+    "name": "2级声骸经验",
+    "consume_items": [
+      {
+        "item_id": 42500090,
+        "count": 6
+      },
+      {
+        "item_id": 2,
+        "count": 2500
+      }
+    ],
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 8,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   }
 ]

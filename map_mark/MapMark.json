@@ -29,7 +29,8 @@
     "map_show": 1,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 2,
@@ -58,7 +59,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3,
@@ -90,7 +92,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1000,
@@ -122,7 +125,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1001,
@@ -154,7 +158,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1002,
@@ -186,7 +191,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1003,
@@ -218,7 +224,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1004,
@@ -250,7 +257,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1005,
@@ -282,7 +290,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1007,
@@ -314,7 +323,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1008,
@@ -346,7 +356,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1009,
@@ -378,7 +389,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3000,
@@ -410,7 +422,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3002,
@@ -442,7 +455,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3003,
@@ -474,7 +488,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3005,
@@ -506,7 +521,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3010,
@@ -538,7 +554,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3011,
@@ -570,7 +587,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3012,
@@ -602,7 +620,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 4020,
@@ -634,7 +653,8 @@
     "map_show": 3,
     "scale": 1.0,
     "first_reward": 10010.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 4021,
@@ -666,7 +686,8 @@
     "map_show": 3,
     "scale": 1.0,
     "first_reward": 10010.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 4022,
@@ -698,7 +719,8 @@
     "map_show": 3,
     "scale": 1.0,
     "first_reward": 10010.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 4023,
@@ -730,7 +752,8 @@
     "map_show": 3,
     "scale": 1.0,
     "first_reward": 10010.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5001,
@@ -762,7 +785,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 10010.0,
-    "reward": 101.0
+    "reward": 101.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5002,
@@ -794,7 +818,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 10010.0,
-    "reward": 102.0
+    "reward": 102.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5003,
@@ -826,7 +851,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 10010.0,
-    "reward": 103.0
+    "reward": 103.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5004,
@@ -858,7 +884,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 10010.0,
-    "reward": 104.0
+    "reward": 104.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5005,
@@ -890,7 +917,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 10010.0,
-    "reward": 101.0
+    "reward": 101.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5006,
@@ -922,7 +950,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 10010.0,
-    "reward": 103.0
+    "reward": 103.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5007,
@@ -954,7 +983,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 10010.0,
-    "reward": 101.0
+    "reward": 101.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5021,
@@ -986,7 +1016,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 201.0
+    "reward": 201.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5022,
@@ -1018,7 +1049,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 301.0
+    "reward": 301.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5023,
@@ -1050,7 +1082,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 202.0
+    "reward": 202.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5025,
@@ -1082,7 +1115,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 204.0
+    "reward": 204.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5026,
@@ -1114,7 +1148,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 205.0
+    "reward": 205.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5027,
@@ -1146,7 +1181,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 203.0
+    "reward": 203.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5028,
@@ -1178,7 +1214,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 206.0
+    "reward": 206.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5029,
@@ -1210,7 +1247,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 208.0
+    "reward": 208.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5030,
@@ -1242,7 +1280,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 202.0
+    "reward": 202.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 5031,
@@ -1274,7 +1313,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 207.0
+    "reward": 207.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380000,
@@ -1306,7 +1346,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380002,
@@ -1338,7 +1379,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380003,
@@ -1370,7 +1412,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380004,
@@ -1402,7 +1445,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380006,
@@ -1434,7 +1478,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380007,
@@ -1466,7 +1511,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380015,
@@ -1498,7 +1544,8 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301203,
@@ -1530,7 +1577,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 3327.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380013,
@@ -1562,7 +1610,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380014,
@@ -1594,7 +1643,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301204,
@@ -1626,7 +1676,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300201,
@@ -1658,7 +1709,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300202,
@@ -1690,7 +1742,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300203,
@@ -1722,7 +1775,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300301,
@@ -1754,7 +1808,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300302,
@@ -1786,7 +1841,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300303,
@@ -1818,7 +1874,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300304,
@@ -1850,7 +1907,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300306,
@@ -1882,7 +1940,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300309,
@@ -1914,7 +1973,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300310,
@@ -1946,7 +2006,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300311,
@@ -1978,7 +2039,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300312,
@@ -2010,7 +2072,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300313,
@@ -2042,7 +2105,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300401,
@@ -2074,7 +2138,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300402,
@@ -2106,7 +2171,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300403,
@@ -2138,7 +2204,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300404,
@@ -2170,7 +2237,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300405,
@@ -2202,7 +2270,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300406,
@@ -2234,7 +2303,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300407,
@@ -2266,7 +2336,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300408,
@@ -2298,7 +2369,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300410,
@@ -2330,7 +2402,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300413,
@@ -2362,7 +2435,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300501,
@@ -2394,7 +2468,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300502,
@@ -2426,7 +2501,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300506,
@@ -2458,7 +2534,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300507,
@@ -2490,7 +2567,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300508,
@@ -2522,7 +2600,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300509,
@@ -2554,7 +2633,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300510,
@@ -2586,7 +2666,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300511,
@@ -2618,7 +2699,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300601,
@@ -2650,7 +2732,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300603,
@@ -2682,7 +2765,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300604,
@@ -2714,7 +2798,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300605,
@@ -2746,7 +2831,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300606,
@@ -2778,7 +2864,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300607,
@@ -2810,7 +2897,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300608,
@@ -2842,7 +2930,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300701,
@@ -2874,7 +2963,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300703,
@@ -2906,7 +2996,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300704,
@@ -2938,7 +3029,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300707,
@@ -2970,7 +3062,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300708,
@@ -3002,7 +3095,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300711,
@@ -3034,7 +3128,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300712,
@@ -3066,7 +3161,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300713,
@@ -3098,7 +3194,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300901,
@@ -3130,7 +3227,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300902,
@@ -3162,7 +3260,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300911,
@@ -3194,7 +3293,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300912,
@@ -3226,7 +3326,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300914,
@@ -3258,7 +3359,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300915,
@@ -3290,7 +3392,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300918,
@@ -3322,7 +3425,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301001,
@@ -3354,7 +3458,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301003,
@@ -3386,7 +3491,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301004,
@@ -3418,7 +3524,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301005,
@@ -3450,7 +3557,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301006,
@@ -3482,7 +3590,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301007,
@@ -3514,7 +3623,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301008,
@@ -3546,7 +3656,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301009,
@@ -3578,7 +3689,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301010,
@@ -3610,7 +3722,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301012,
@@ -3642,7 +3755,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301013,
@@ -3674,7 +3788,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301014,
@@ -3706,7 +3821,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301015,
@@ -3738,7 +3854,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301101,
@@ -3770,7 +3887,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301102,
@@ -3802,7 +3920,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301104,
@@ -3834,7 +3953,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301105,
@@ -3866,7 +3986,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301106,
@@ -3898,7 +4019,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 10000,
@@ -3930,7 +4052,8 @@
     "map_show": 3,
     "scale": 0.6,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 10001,
@@ -3962,7 +4085,8 @@
     "map_show": 3,
     "scale": 0.6,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 10002,
@@ -3994,7 +4118,8 @@
     "map_show": 3,
     "scale": 0.6,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 10003,
@@ -4026,7 +4151,8 @@
     "map_show": 3,
     "scale": 0.6,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 10005,
@@ -4058,7 +4184,8 @@
     "map_show": 3,
     "scale": 0.6,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 10006,
@@ -4090,7 +4217,8 @@
     "map_show": 3,
     "scale": 0.6,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300801,
@@ -4122,7 +4250,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 301201,
@@ -4154,7 +4283,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300412,
@@ -4186,7 +4316,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3015,
@@ -4218,7 +4349,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3016,
@@ -4250,7 +4382,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 3017,
@@ -4282,7 +4415,8 @@
     "map_show": 3,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380016,
@@ -4314,7 +4448,371 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301301,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000852,
+    "fog_hide": 13,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 5,
+    "mark_title": "MapMark_300202_MarkTitle",
+    "mark_desc": "MapMark_300202_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 9,
+    "show_range": [
+      -9999,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_01_0_UI.SP_IconMap_CS_01_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_01_UI.SP_IconMap_CS_01_UI",
+    "show_condition": 0,
+    "fog_show": 1,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301302,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000887,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 5,
+    "mark_title": "MapMark_300202_MarkTitle",
+    "mark_desc": "MapMark_300202_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 9,
+    "show_range": [
+      -9999,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_01_0_UI.SP_IconMap_CS_01_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_01_UI.SP_IconMap_CS_01_UI",
+    "show_condition": 0,
+    "fog_show": 1,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301303,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000857,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301304,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000858,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301305,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000859,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301306,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000860,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301307,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000861,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301308,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000862,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301309,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000863,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301310,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000864,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 9
+  },
+  {
+    "mark_id": 301311,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 123000936,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 1010,
@@ -4346,7 +4844,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300411,
@@ -4378,7 +4877,74 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301312,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 141000610,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301313,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 141000611,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200001,
@@ -4410,7 +4976,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200002,
@@ -4442,7 +5009,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200003,
@@ -4474,7 +5042,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200101,
@@ -4506,7 +5075,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200102,
@@ -4538,7 +5108,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200103,
@@ -4570,7 +5141,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200201,
@@ -4602,7 +5174,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200202,
@@ -4634,7 +5207,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200203,
@@ -4666,7 +5240,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200204,
@@ -4698,7 +5273,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200205,
@@ -4730,7 +5306,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200206,
@@ -4762,7 +5339,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200207,
@@ -4794,7 +5372,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200208,
@@ -4826,7 +5405,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200209,
@@ -4858,7 +5438,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200301,
@@ -4890,7 +5471,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200302,
@@ -4922,7 +5504,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200303,
@@ -4954,7 +5537,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200304,
@@ -4986,7 +5570,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200401,
@@ -5018,7 +5603,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200402,
@@ -5050,7 +5636,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200404,
@@ -5082,7 +5669,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200501,
@@ -5114,7 +5702,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200502,
@@ -5146,7 +5735,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200503,
@@ -5178,7 +5768,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200504,
@@ -5210,7 +5801,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200505,
@@ -5242,7 +5834,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200506,
@@ -5274,7 +5867,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200507,
@@ -5306,7 +5900,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200701,
@@ -5338,7 +5933,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200702,
@@ -5370,7 +5966,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200703,
@@ -5402,7 +5999,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200704,
@@ -5434,7 +6032,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200705,
@@ -5466,7 +6065,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200801,
@@ -5498,7 +6098,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200802,
@@ -5530,7 +6131,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200803,
@@ -5562,7 +6164,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200804,
@@ -5594,7 +6197,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200901,
@@ -5626,7 +6230,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200902,
@@ -5658,7 +6263,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200903,
@@ -5690,7 +6296,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 200904,
@@ -5722,7 +6329,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 201001,
@@ -5754,7 +6362,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 201002,
@@ -5786,7 +6395,8 @@
     "map_show": 2,
     "scale": 0.7,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300916,
@@ -5818,7 +6428,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380018,
@@ -5850,7 +6461,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300414,
@@ -5882,7 +6494,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300714,
@@ -5914,7 +6527,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300715,
@@ -5946,7 +6560,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 300921,
@@ -5978,7 +6593,8 @@
     "map_show": 3,
     "scale": 0.8,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   },
   {
     "mark_id": 380019,
@@ -6010,6 +6626,700 @@
     "map_show": 3,
     "scale": 1.1,
     "first_reward": 0.0,
-    "reward": 0.0
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301315,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 141900078,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301316,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 141900072,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 2
+  },
+  {
+    "mark_id": 301317,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 141900079,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 1014,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 0,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 249127,
+      "y": 312994,
+      "z": -4082
+    },
+    "object_type": 1,
+    "mark_title": "Area_14_Title",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 0,
+    "show_range": [
+      -9999,
+      15
+    ],
+    "lock_mark_pic": "",
+    "unlock_mark_pic": "",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 2,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 201101,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 0,
+    "fog_hide": 13,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 185811,
+      "y": 282753,
+      "z": 6045
+    },
+    "object_type": 1,
+    "mark_title": "Area_1611_Title",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 0,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "",
+    "unlock_mark_pic": "",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 2,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 201102,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 0,
+    "fog_hide": 13,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 205779,
+      "y": 327586,
+      "z": 949
+    },
+    "object_type": 1,
+    "mark_title": "Area_1612_Title",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 0,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "",
+    "unlock_mark_pic": "",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 2,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 201103,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 0,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 234922,
+      "y": 312612,
+      "z": -6041
+    },
+    "object_type": 1,
+    "mark_title": "Area_1613_Title",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 0,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "",
+    "unlock_mark_pic": "",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 2,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 201104,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 0,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 256695,
+      "y": 333392,
+      "z": -1501
+    },
+    "object_type": 1,
+    "mark_title": "Area_1614_Title",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 0,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "",
+    "unlock_mark_pic": "",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 2,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 201105,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 0,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 261025,
+      "y": 357408,
+      "z": 8674
+    },
+    "object_type": 1,
+    "mark_title": "Area_1615_Title",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 0,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "",
+    "unlock_mark_pic": "",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 2,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 201106,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 0,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 251252,
+      "y": 296520,
+      "z": 320
+    },
+    "object_type": 1,
+    "mark_title": "Area_1616_Title",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 0,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "",
+    "unlock_mark_pic": "",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 2,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 201107,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 0,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 281432,
+      "y": 310846,
+      "z": 27483
+    },
+    "object_type": 1,
+    "mark_title": "Area_1617_Title",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 0,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "",
+    "unlock_mark_pic": "",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 2,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301318,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 141900082,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301319,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 141900085,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 301320,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 141900086,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "MapMark_300201_MarkTitle",
+    "mark_desc": "MapMark_300201_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 6,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_0_UI.SP_IconMap_CS_02_0_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_CS_02_UI.SP_IconMap_CS_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 380020,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 4,
+    "entity_config_id": 200900015,
+    "fog_hide": 8,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "Activity_100805001_Title",
+    "mark_desc": "Activity_100805001_Desc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 1,
+    "show_range": [
+      -9999,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_06_UI.SP_IconMap_Activity_06_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_06_UI.SP_IconMap_Activity_06_UI",
+    "show_condition": -1,
+    "fog_show": 1,
+    "map_show": 3,
+    "scale": 0.8,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 380021,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 4,
+    "entity_config_id": 133900564,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 6,
+    "mark_title": "InstanceDungeonEntrance_2022_Name",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 1,
+    "show_range": [
+      -9999,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_328_1_UI.SP_IconMonsterHead_328_1_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_327_1_UI.SP_IconMonsterHead_327_1_UI",
+    "show_condition": 0,
+    "fog_show": 1,
+    "map_show": 3,
+    "scale": 1.1,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 4,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 0,
+    "fog_hide": 0,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 7,
+    "mark_title": "",
+    "mark_desc": "",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 3,
+    "show_range": [
+      15,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_12_UI.SP_IconMap_Play_12_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_12_UI.SP_IconMap_Play_12_UI",
+    "show_condition": 0,
+    "fog_show": 1,
+    "map_show": 1,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 4024,
+    "map_id": 8,
+    "relative_type": 1,
+    "relative_sub_type": 3,
+    "entity_config_id": 200900001,
+    "fog_hide": 0,
+    "relative_id": 200900001,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 19,
+    "mark_title": "MapMark_4024_MarkTitle",
+    "mark_desc": "MapMark_4024_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 8,
+    "show_range": [
+      -9999,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_11_UI.SP_IconMap_Play_11_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_10_UI.SP_IconMap_Play_10_UI",
+    "show_condition": 12980019,
+    "fog_show": 1,
+    "map_show": 3,
+    "scale": 1.0,
+    "first_reward": 10010.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 3018,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 898900207,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 8,
+    "mark_title": "MapMark_3018_MarkTitle",
+    "mark_desc": "MapMark_3018_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 5,
+    "show_range": [
+      110,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_13_UI.SP_IconMap_Play_13_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_13_UI.SP_IconMap_Play_13_UI",
+    "show_condition": -1,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 3020,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 898900467,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 8,
+    "mark_title": "MapMark_3005_MarkTitle",
+    "mark_desc": "MapMark_3005_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 5,
+    "show_range": [
+      110,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Shop_10_UI.SP_IconMap_Shop_10_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Shop_10_UI.SP_IconMap_Shop_10_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
+  },
+  {
+    "mark_id": 3021,
+    "map_id": 8,
+    "relative_type": 0,
+    "relative_sub_type": 0,
+    "entity_config_id": 311900141,
+    "fog_hide": 14,
+    "relative_id": 0,
+    "mark_vector": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "object_type": 8,
+    "mark_title": "MapMark_3003_MarkTitle",
+    "mark_desc": "MapMark_3003_MarkDesc",
+    "to_be_discovered": 0,
+    "is_monster": 0,
+    "show_priority": 5,
+    "show_range": [
+      110,
+      9999
+    ],
+    "lock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Shop_02_UI.SP_IconMap_Shop_02_UI",
+    "unlock_mark_pic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Shop_02_UI.SP_IconMap_Shop_02_UI",
+    "show_condition": 0,
+    "fog_show": 0,
+    "map_show": 3,
+    "scale": 0.7,
+    "first_reward": 0.0,
+    "reward": 0.0,
+    "multi_map_floor_id": 0
   }
 ]

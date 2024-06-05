@@ -5,66 +5,74 @@
   },
   {
     "id": 1503,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/Jueyuan/SC_Jueyuan_DrawCard.SC_Jueyuan_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/Jueyuan/SC_Jueyuan_DrawCard.SC_Jueyuan_DrawCard"
   },
   {
     "id": 1302,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/YinLin/SC_YinLin_DrawCard.SC_YinLin_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/YinLin/SC_YinLin_DrawCard.SC_YinLin_DrawCard"
   },
   {
     "id": 1203,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/AnKe/SC_Anke_DrawCard.SC_AnKe_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/AnKe/SC_AnKe_DrawCard.SC_AnKe_DrawCard"
   },
   {
     "id": 1103,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/BaiLian/SC_BaiLian_DrawCard.SC_BaiLian_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/BaiLian/SC_BaiLian_DrawCard.SC_BaiLian_DrawCard"
   },
   {
     "id": 1404,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/JiYan/SC_JiYan_DrawCard.SC_JiYan_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/JiYan/SC_JiYan_DrawCard.SC_JiYan_DrawCard"
   },
   {
     "id": 1202,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/MaXiaoFang/SC_MaXiaoFang_DrawCard.SC_MaXiaoFang_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/MaXiaoFang/SC_MaXiaoFang_DrawCard.SC_MaXiaoFang_DrawCard"
   },
   {
     "id": 1601,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/Taoqi/SC_Taoqi_DrawCard.SC_Taoqi_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/Taoqi/SC_Taoqi_DrawCard.SC_Taoqi_DrawCard"
   },
   {
     "id": 1102,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/SanHua/SC_SanHua_DrawCard.SC_SanHua_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/SanHua/SC_SanHua_DrawCard.SC_SanHua_DrawCard"
   },
   {
     "id": 1303,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/Yuanwu/SC_Yuanwu_DrawCard.SC_Yuanwu_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/Yuanwu/SC_Yuanwu_DrawCard.SC_Yuanwu_DrawCard"
   },
   {
     "id": 1402,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/YangYang/SC_YangYang_DrawCard.SC_YangYang_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/YangYang/SC_YangYang_DrawCard.SC_YangYang_DrawCard"
   },
   {
     "id": 1602,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/MiCai/SC_MiCai_DrawCard.SC_MiCai_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/MiCai/SC_MiCai_DrawCard.SC_MiCai_DrawCard"
   },
   {
     "id": 1403,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/QiuShui/SC_QiuShui_DrawCard.SC_QiuShui_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/QiuShui/SC_QiuShui_DrawCard.SC_QiuShui_DrawCard"
   },
   {
     "id": 1204,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/Baer/SC_Baer_DrawCard.SC_Baer_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/Baer/SC_Baer_DrawCard.SC_Baer_DrawCard"
   },
   {
     "id": 1301,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/KaKaLuo/SC_KaKaLuo_DrawCard.SC_KaKaLuo_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/KaKaLuo/SC_KaKaLuo_DrawCard.SC_KaKaLuo_DrawCard"
   },
   {
     "id": 1405,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/JianXin/SC_JianXin_DrawCard.SC_JianXin_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/JianXin/SC_JianXin_DrawCard.SC_JianXin_DrawCard"
   },
   {
     "id": 1104,
-    "sequence_path": "/Game/Aki/Character/SequenceCamera/DrawCard/Lingyang/SC_Lingyang_DrawCard.SC_Lingyang_DrawCard"
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_0/Lingyang/SC_Lingyang_DrawCard.SC_Lingyang_DrawCard"
+  },
+  {
+    "id": 1304,
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_1/JinXi/D0002_All.D0002_All"
+  },
+  {
+    "id": 1205,
+    "sequence_path": "/Game/Aki/Sequence/LevelA_Seq/DrawCard/01_1/Changli/D0001_All.D0001_All"
   }
 ]

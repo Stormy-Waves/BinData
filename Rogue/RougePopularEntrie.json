@@ -1,0 +1,170 @@
+[
+  {
+    "id": 10011001,
+    "category": 1,
+    "rate": -2000,
+    "insts": [
+      8007,
+      8008,
+      8009,
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_9.T_RogueEntry_9",
+    "title": "RogueBuffPool_10011001_BuffName",
+    "describe": "RogueBuffPool_10011001_BuffDesc",
+    "description_param": [
+      "-20%"
+    ]
+  },
+  {
+    "id": 10011002,
+    "category": 1,
+    "rate": -2000,
+    "insts": [
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_7.T_RogueEntry_7",
+    "title": "RogueBuffPool_10011002_BuffName",
+    "describe": "RogueBuffPool_10011002_BuffDesc",
+    "description_param": [
+      "-20%"
+    ]
+  },
+  {
+    "id": 10011003,
+    "category": 1,
+    "rate": -2000,
+    "insts": [
+      8009,
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_10.T_RogueEntry_10",
+    "title": "RogueBuffPool_10011003_BuffName",
+    "describe": "RogueBuffPool_10011003_BuffDesc",
+    "description_param": [
+      "-20%"
+    ]
+  },
+  {
+    "id": 10011004,
+    "category": 1,
+    "rate": -2000,
+    "insts": [
+      8008,
+      8009,
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_4.T_RogueEntry_4",
+    "title": "RogueBuffPool_10011004_BuffName",
+    "describe": "RogueBuffPool_10011004_BuffDesc",
+    "description_param": [
+      "-20%"
+    ]
+  },
+  {
+    "id": 10011005,
+    "category": 1,
+    "rate": -2000,
+    "insts": [
+      8007,
+      8008,
+      8009,
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_8.T_RogueEntry_8",
+    "title": "RogueBuffPool_10011005_BuffName",
+    "describe": "RogueBuffPool_10011005_BuffDesc",
+    "description_param": [
+      "-20%"
+    ]
+  },
+  {
+    "id": 10011006,
+    "category": 0,
+    "rate": 3500,
+    "insts": [
+      8008,
+      8009,
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_1.T_RogueEntry_1",
+    "title": "RogueBuffPool_10011006_BuffName",
+    "describe": "RogueBuffPool_10011006_BuffDesc",
+    "description_param": [
+      "35%"
+    ]
+  },
+  {
+    "id": 10011007,
+    "category": 0,
+    "rate": 3000,
+    "insts": [
+      8007,
+      8008,
+      8009,
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_2.T_RogueEntry_2",
+    "title": "RogueBuffPool_10011007_BuffName",
+    "describe": "RogueBuffPool_10011007_BuffDesc",
+    "description_param": [
+      "30%"
+    ]
+  },
+  {
+    "id": 10011008,
+    "category": 0,
+    "rate": 3500,
+    "insts": [
+      8007,
+      8008,
+      8009,
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_6.T_RogueEntry_6",
+    "title": "RogueBuffPool_10011008_BuffName",
+    "describe": "RogueBuffPool_10011008_BuffDesc",
+    "description_param": [
+      "35%"
+    ]
+  },
+  {
+    "id": 10011009,
+    "category": 0,
+    "rate": 5000,
+    "insts": [
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_3.T_RogueEntry_3",
+    "title": "RogueBuffPool_10011009_BuffName",
+    "describe": "RogueBuffPool_10011009_BuffDesc",
+    "description_param": [
+      "50%"
+    ]
+  },
+  {
+    "id": 10011010,
+    "category": 0,
+    "rate": 5000,
+    "insts": [
+      8009,
+      8010,
+      8011
+    ],
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRogueEntry/T_RogueEntry_5.T_RogueEntry_5",
+    "title": "RogueBuffPool_10011010_BuffName",
+    "describe": "RogueBuffPool_10011010_BuffDesc",
+    "description_param": [
+      "50%"
+    ]
+  }
+]

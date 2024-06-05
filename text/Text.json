@@ -4976,6 +4976,10 @@
     "text": "Text_SignalReceiveSuccess"
   },
   {
+    "id": "PlotSkipConfirmToggle",
+    "text": "Text_PlotSkipConfirmToggle_Text"
+  },
+  {
     "id": "Text_Shop_Role_Text",
     "text": "Text_Shop_Role_Text"
   },
@@ -5028,6 +5032,10 @@
     "text": "Rogue_Multi_Tip"
   },
   {
+    "id": "Rogue_Function_End_Tip",
+    "text": "Rogue_Function_End_Tip"
+  },
+  {
     "id": "DropShowPlanQuestTitle",
     "text": "DropShowPlan_Quest__Title"
   },
@@ -5036,8 +5044,8 @@
     "text": "Rogue_Dont_Have_Role"
   },
   {
-    "id": "PlotSkipConfirmToggle",
-    "text": "Text_PlotSkipConfirmToggle_Text"
+    "id": "RemainStarWarning_1",
+    "text": "Influence_998_Title"
   },
   {
     "id": "ConditionGroup_12980013_HintText",
@@ -5048,7 +5056,51 @@
     "text": "CannotShare"
   },
   {
+    "id": "BossRushMaxBuffText",
+    "text": "BossRushMaxBuffText"
+  },
+  {
+    "id": "QuestListRecommend",
+    "text": "Text_QuestListRecommend_Text"
+  },
+  {
+    "id": "QuestRecommendTip",
+    "text": "Text_QuestRecommendTip_Text"
+  },
+  {
+    "id": "SignalMusicTips",
+    "text": "Text_SignalMusicTips_text"
+  },
+  {
+    "id": "SignalMusicSucceedTips",
+    "text": "Text_SignalMusicSucceedTips_text"
+  },
+  {
+    "id": "SignalMusicFailTips",
+    "text": "Text_SignalMusicFailTips_text"
+  },
+  {
+    "id": "SignalMusicFailTips2",
+    "text": "Text_SignalMusicFailTips2_text"
+  },
+  {
     "id": "NoMonster",
     "text": "NoMonster"
+  },
+  {
+    "id": "HaveAllReward",
+    "text": "HaveAllReward"
+  },
+  {
+    "id": "BetaVersionTip",
+    "text": "PrefabTextItem_352624238_Text"
+  },
+  {
+    "id": "BossRushSameFormation",
+    "text": "BossRushSameFormation"
+  },
+  {
+    "id": "BossRushLevelLock",
+    "text": "BossRushLevelLock"
   }
 ]

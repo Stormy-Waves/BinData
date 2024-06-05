@@ -138,5 +138,61 @@
     "cn_name": "北落野DL4(雕像胸口特效)",
     "level_id": 8,
     "init_load": false
+  },
+  {
+    "id": 900001,
+    "data_layer": "DataLayerRuntime_DLTask_CXSEP01",
+    "cn_name": "眠龙庭-岁主脱困前",
+    "level_id": 8,
+    "init_load": true
+  },
+  {
+    "id": 900002,
+    "data_layer": "DataLayerRuntime_DLTask_CXSEP02",
+    "cn_name": "眠龙庭-岁主脱困后",
+    "level_id": 8,
+    "init_load": false
+  },
+  {
+    "id": 900003,
+    "data_layer": "DataLayerRuntime_DLTask_CXS03",
+    "cn_name": "乘宵山植被-主线前",
+    "level_id": 8,
+    "init_load": true
+  },
+  {
+    "id": 900004,
+    "data_layer": "DataLayerRuntime_DLTask_CXS04",
+    "cn_name": "乘宵山植被-主线后",
+    "level_id": 8,
+    "init_load": false
+  },
+  {
+    "id": 900005,
+    "data_layer": "DataLayerRuntime_DLTask_CXS05",
+    "cn_name": "虹镇-主线中",
+    "level_id": 8,
+    "init_load": false
+  },
+  {
+    "id": 900006,
+    "data_layer": "DataLayerRuntime_DLTask_CXS06",
+    "cn_name": "虹镇-正常态",
+    "level_id": 8,
+    "init_load": true
+  },
+  {
+    "id": 900007,
+    "data_layer": "Area_Chengxiaoshan_DLTask_CXS01",
+    "cn_name": "乘宵山龙心树-枯萎",
+    "level_id": 8,
+    "init_load": true
+  },
+  {
+    "id": 900008,
+    "data_layer": "Area_Chengxiaoshan_DLTask_CXS02",
+    "cn_name": "乘宵山龙心树-正常",
+    "level_id": 8,
+    "init_load": true
   }
 ]

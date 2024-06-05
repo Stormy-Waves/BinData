@@ -1,8 +1,7 @@
 [
   {
     "id": 14,
-    "mark_id": 22,
-    "creature_id": 100080016100001,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_14_Name",
     "description": "InstanceDungeonEntrance_14_Description",
     "instance_dungeon_list": [
@@ -24,8 +23,7 @@
   },
   {
     "id": 201,
-    "mark_id": 201,
-    "creature_id": 10082012000022,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_995_Name",
     "description": "InstanceDungeonEntrance_995_Description",
     "instance_dungeon_list": [
@@ -41,9 +39,66 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
+    "id": 202,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_201000_Name",
+    "description": "InstanceDungeonEntrance_201000_Description",
+    "instance_dungeon_list": [
+      800,
+      801,
+      802,
+      803,
+      804,
+      805
+    ],
+    "flow_id": 1,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 0,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 40,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
+    "id": 203,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_2021_Name",
+    "description": "InstanceDungeonEntrance_2021_Description",
+    "instance_dungeon_list": [
+      806,
+      807
+    ],
+    "flow_id": 1,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 0,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 90,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
+    "id": 993,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_993_Name",
+    "description": "InstanceDungeonEntrance_993_Description",
+    "instance_dungeon_list": [
+      3004,
+      3005
+    ],
+    "flow_id": 1,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 0,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 0,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
     "id": 995,
     "mark_id": 380017,
-    "creature_id": 10082012000021,
     "name": "InstanceDungeonEntrance_995_Name",
     "description": "InstanceDungeonEntrance_995_Description",
     "instance_dungeon_list": [
@@ -115,9 +170,46 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
+    "id": 996,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_995_Name",
+    "description": "InstanceDungeonEntrance_995_Description",
+    "instance_dungeon_list": [
+      3801,
+      3802,
+      3803,
+      3804,
+      3805,
+      3806,
+      3807,
+      3808,
+      3809,
+      3810,
+      3811,
+      3812,
+      3813,
+      3814,
+      3815,
+      3816,
+      3817,
+      3818,
+      3819,
+      3820,
+      3821,
+      3822
+    ],
+    "flow_id": 1,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 0,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 0,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
     "id": 998,
-    "mark_id": 11,
-    "creature_id": 100080016100011,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_998_Name",
     "description": "InstanceDungeonEntrance_998_Description",
     "instance_dungeon_list": [
@@ -137,8 +229,7 @@
   },
   {
     "id": 97,
-    "mark_id": 18,
-    "creature_id": 100080016100020,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_97_Name",
     "description": "InstanceDungeonEntrance_97_Description",
     "instance_dungeon_list": [
@@ -155,8 +246,7 @@
   },
   {
     "id": 98,
-    "mark_id": 30,
-    "creature_id": 100080016100021,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_98_Name",
     "description": "InstanceDungeonEntrance_98_Description",
     "instance_dungeon_list": [
@@ -173,8 +263,7 @@
   },
   {
     "id": 99,
-    "mark_id": 31,
-    "creature_id": 100080016100022,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_99_Name",
     "description": "InstanceDungeonEntrance_99_Description",
     "instance_dungeon_list": [
@@ -190,9 +279,25 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
+    "id": 1001,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_1001_Name",
+    "description": "InstanceDungeonEntrance_1001_Description",
+    "instance_dungeon_list": [
+      1001
+    ],
+    "flow_id": 1,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 0,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 60,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
     "id": 4,
-    "mark_id": 45,
-    "creature_id": 10082000000001,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_4_Name",
     "description": "InstanceDungeonEntrance_4_Description",
     "instance_dungeon_list": [
@@ -209,8 +314,7 @@
   },
   {
     "id": 1501,
-    "mark_id": 19,
-    "creature_id": 100080016100025,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_1501_Name",
     "description": "InstanceDungeonEntrance_1501_Description",
     "instance_dungeon_list": [
@@ -226,9 +330,42 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
+    "id": 1504,
+    "mark_id": 380019,
+    "name": "InstanceDungeonEntrance_1504_Name",
+    "description": "InstanceDungeonEntrance_1504_Description",
+    "instance_dungeon_list": [
+      1504
+    ],
+    "flow_id": 2,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 102002233,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 0,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
+    "id": 1505,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_1505_Name",
+    "description": "InstanceDungeonEntrance_1505_Description",
+    "instance_dungeon_list": [
+      1505
+    ],
+    "flow_id": 2,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 0,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 0,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
     "id": 2021,
     "mark_id": 380015,
-    "creature_id": 10060023059,
     "name": "InstanceDungeonEntrance_2021_Name",
     "description": "InstanceDungeonEntrance_2021_Description",
     "instance_dungeon_list": [
@@ -249,9 +386,52 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
+    "id": 2031,
+    "mark_id": 380016,
+    "name": "InstanceDungeonEntrance_2031_Name",
+    "description": "InstanceDungeonEntrance_2031_Description",
+    "instance_dungeon_list": [
+      2032,
+      2033,
+      2034,
+      2035,
+      2036,
+      2037
+    ],
+    "flow_id": 1,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 102001788,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 50,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
+    "id": 2041,
+    "mark_id": 380021,
+    "name": "InstanceDungeonEntrance_2022_Name",
+    "description": "InstanceDungeonEntrance_2022_Description",
+    "instance_dungeon_list": [
+      2042,
+      2043,
+      2044,
+      2045,
+      2046,
+      2047
+    ],
+    "flow_id": 1,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 133900564,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 0,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
     "id": 89,
     "mark_id": 301203,
-    "creature_id": 10082012000010,
     "name": "InstanceDungeonEntrance_89_Name",
     "description": "InstanceDungeonEntrance_89_Description",
     "instance_dungeon_list": [
@@ -302,9 +482,26 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
+    "id": 4006,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_4006_Name",
+    "description": "InstanceDungeonEntrance_4006_Description",
+    "instance_dungeon_list": [
+      4006,
+      4008
+    ],
+    "flow_id": 2,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 0,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 0,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
     "id": 4021,
-    "mark_id": 14,
-    "creature_id": 100820000000025,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_4021_Name",
     "description": "InstanceDungeonEntrance_4021_Description",
     "instance_dungeon_list": [
@@ -321,8 +518,7 @@
   },
   {
     "id": 4022,
-    "mark_id": 15,
-    "creature_id": 100820000000026,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_4021_Name",
     "description": "InstanceDungeonEntrance_4021_Description",
     "instance_dungeon_list": [
@@ -339,8 +535,7 @@
   },
   {
     "id": 4023,
-    "mark_id": 16,
-    "creature_id": 100820000000027,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_4021_Name",
     "description": "InstanceDungeonEntrance_4021_Description",
     "instance_dungeon_list": [
@@ -356,9 +551,25 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
+    "id": 4040,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_4041_Name",
+    "description": "InstanceDungeonEntrance_4041_Description",
+    "instance_dungeon_list": [
+      4040
+    ],
+    "flow_id": 1,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 0,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 60,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
     "id": 4041,
     "mark_id": 380000,
-    "creature_id": 100080016100035,
     "name": "InstanceDungeonEntrance_4041_Name",
     "description": "InstanceDungeonEntrance_4041_Description",
     "instance_dungeon_list": [
@@ -376,9 +587,25 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
+    "id": 4045,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_4041_Name",
+    "description": "InstanceDungeonEntrance_4041_Description",
+    "instance_dungeon_list": [
+      4043
+    ],
+    "flow_id": 1,
+    "help_button_id": 0,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
+    "teleport_entity_config_id": 0,
+    "unlock_condition": 0,
+    "regular_reward": [],
+    "power_cost_show": 60,
+    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
+  },
+  {
     "id": 4901,
-    "mark_id": 21,
-    "creature_id": 100820000000029,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_4901_Name",
     "description": "InstanceDungeonEntrance_4901_Description",
     "instance_dungeon_list": [
@@ -397,7 +624,6 @@
   {
     "id": 5001,
     "mark_id": 300919,
-    "creature_id": 100820000000028,
     "name": "InstanceDungeonEntrance_5001_Name",
     "description": "InstanceDungeonEntrance_5001_Description",
     "instance_dungeon_list": [
@@ -430,7 +656,6 @@
   {
     "id": 201000,
     "mark_id": 380004,
-    "creature_id": 10082000000004,
     "name": "InstanceDungeonEntrance_201000_Name",
     "description": "InstanceDungeonEntrance_201000_Description",
     "instance_dungeon_list": [
@@ -453,7 +678,6 @@
   {
     "id": 202000,
     "mark_id": 380007,
-    "creature_id": 10082012000005,
     "name": "InstanceDungeonEntrance_202000_Name",
     "description": "InstanceDungeonEntrance_202000_Description",
     "instance_dungeon_list": [
@@ -476,7 +700,6 @@
   {
     "id": 203000,
     "mark_id": 380002,
-    "creature_id": 10082012000030,
     "name": "InstanceDungeonEntrance_203000_Name",
     "description": "InstanceDungeonEntrance_203000_Description",
     "instance_dungeon_list": [
@@ -499,7 +722,6 @@
   {
     "id": 301000,
     "mark_id": 380003,
-    "creature_id": 10082000000003,
     "name": "InstanceDungeonEntrance_301000_Name",
     "description": "InstanceDungeonEntrance_301000_Description",
     "instance_dungeon_list": [
@@ -522,7 +744,6 @@
   {
     "id": 302000,
     "mark_id": 380006,
-    "creature_id": 10082012000006,
     "name": "InstanceDungeonEntrance_302000_Name",
     "description": "InstanceDungeonEntrance_302000_Description",
     "instance_dungeon_list": [
@@ -545,7 +766,6 @@
   {
     "id": 6001,
     "mark_id": 380013,
-    "creature_id": 100080016100033,
     "name": "InstanceDungeonEntrance_6001_Name",
     "description": "InstanceDungeonEntrance_6001_Description",
     "instance_dungeon_list": [
@@ -563,7 +783,6 @@
   {
     "id": 6002,
     "mark_id": 380014,
-    "creature_id": 100080016100034,
     "name": "InstanceDungeonEntrance_6002_Name",
     "description": "InstanceDungeonEntrance_6002_Description",
     "instance_dungeon_list": [
@@ -580,8 +799,7 @@
   },
   {
     "id": 8000,
-    "mark_id": 300549,
-    "creature_id": 100080016100055,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_8000_Name",
     "description": "InstanceDungeonEntrance_8000_Description",
     "instance_dungeon_list": [
@@ -598,8 +816,7 @@
   },
   {
     "id": 8001,
-    "mark_id": 300548,
-    "creature_id": 100080016100029,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_8001_Name",
     "description": "InstanceDungeonEntrance_8001_Description",
     "instance_dungeon_list": [
@@ -617,15 +834,14 @@
   {
     "id": 8002,
     "mark_id": 301204,
-    "creature_id": 100080016100056,
     "name": "InstanceDungeonEntrance_8001_Name",
     "description": "InstanceDungeonEntrance_8001_Description",
     "instance_dungeon_list": [
-      8002,
-      8003,
-      8004,
-      8005,
-      8006
+      8007,
+      8008,
+      8009,
+      8010,
+      8011
     ],
     "flow_id": 6,
     "help_button_id": 0,
@@ -637,172 +853,17 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
-    "id": 996,
-    "mark_id": 2,
-    "creature_id": 10082012000023,
-    "name": "InstanceDungeonEntrance_995_Name",
-    "description": "InstanceDungeonEntrance_995_Description",
+    "id": 8100,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_8100_Name",
+    "description": "InstanceDungeonEntrance_8001_Description",
     "instance_dungeon_list": [
-      3801,
-      3802,
-      3803,
-      3804,
-      3805,
-      3806,
-      3807,
-      3808,
-      3809,
-      3810,
-      3811,
-      3812,
-      3813,
-      3814,
-      3815,
-      3816,
-      3817,
-      3818,
-      3819,
-      3820,
-      3821,
-      3822
+      8100
     ],
-    "flow_id": 1,
+    "flow_id": 6,
     "help_button_id": 0,
     "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 0,
-    "unlock_condition": 0,
-    "regular_reward": [],
-    "power_cost_show": 0,
-    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
-  },
-  {
-    "id": 202,
-    "mark_id": 800,
-    "creature_id": 100820000000080,
-    "name": "InstanceDungeonEntrance_201000_Name",
-    "description": "InstanceDungeonEntrance_201000_Description",
-    "instance_dungeon_list": [
-      800,
-      801,
-      802,
-      803,
-      804,
-      805
-    ],
-    "flow_id": 1,
-    "help_button_id": 0,
-    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 0,
-    "unlock_condition": 0,
-    "regular_reward": [],
-    "power_cost_show": 40,
-    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
-  },
-  {
-    "id": 203,
-    "mark_id": 801,
-    "creature_id": 100820000000081,
-    "name": "InstanceDungeonEntrance_2021_Name",
-    "description": "InstanceDungeonEntrance_2021_Description",
-    "instance_dungeon_list": [
-      806,
-      807
-    ],
-    "flow_id": 1,
-    "help_button_id": 0,
-    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 0,
-    "unlock_condition": 0,
-    "regular_reward": [],
-    "power_cost_show": 90,
-    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
-  },
-  {
-    "id": 4040,
-    "mark_id": 33,
-    "creature_id": 100080016100032,
-    "name": "InstanceDungeonEntrance_4041_Name",
-    "description": "InstanceDungeonEntrance_4041_Description",
-    "instance_dungeon_list": [
-      4040
-    ],
-    "flow_id": 1,
-    "help_button_id": 0,
-    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 0,
-    "unlock_condition": 0,
-    "regular_reward": [],
-    "power_cost_show": 60,
-    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
-  },
-  {
-    "id": 4045,
-    "mark_id": 34,
-    "creature_id": 100080016100036,
-    "name": "InstanceDungeonEntrance_4041_Name",
-    "description": "InstanceDungeonEntrance_4041_Description",
-    "instance_dungeon_list": [
-      4043
-    ],
-    "flow_id": 1,
-    "help_button_id": 0,
-    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 0,
-    "unlock_condition": 0,
-    "regular_reward": [],
-    "power_cost_show": 60,
-    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
-  },
-  {
-    "id": 1504,
-    "mark_id": 380019,
-    "creature_id": 4623,
-    "name": "InstanceDungeonEntrance_1504_Name",
-    "description": "InstanceDungeonEntrance_1504_Description",
-    "instance_dungeon_list": [
-      1504
-    ],
-    "flow_id": 2,
-    "help_button_id": 0,
-    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 102002233,
-    "unlock_condition": 0,
-    "regular_reward": [],
-    "power_cost_show": 0,
-    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
-  },
-  {
-    "id": 993,
-    "mark_id": 40,
-    "creature_id": 10082012000025,
-    "name": "InstanceDungeonEntrance_993_Name",
-    "description": "InstanceDungeonEntrance_993_Description",
-    "instance_dungeon_list": [
-      3004,
-      3005
-    ],
-    "flow_id": 1,
-    "help_button_id": 0,
-    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 0,
-    "unlock_condition": 0,
-    "regular_reward": [],
-    "power_cost_show": 0,
-    "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
-  },
-  {
-    "id": 1505,
-    "mark_id": 1505,
-    "creature_id": 4624,
-    "name": "InstanceDungeonEntrance_1505_Name",
-    "description": "InstanceDungeonEntrance_1505_Description",
-    "instance_dungeon_list": [
-      1505
-    ],
-    "flow_id": 2,
-    "help_button_id": 0,
-    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 0,
+    "teleport_entity_config_id": 129000000,
     "unlock_condition": 0,
     "regular_reward": [],
     "power_cost_show": 0,
@@ -810,8 +871,7 @@
   },
   {
     "id": 8101,
-    "mark_id": 50,
-    "creature_id": 100080016100057,
+    "mark_id": 0,
     "name": "InstanceDungeonEntrance_8000_Name",
     "description": "InstanceDungeonEntrance_8000_Description",
     "instance_dungeon_list": [
@@ -822,7 +882,10 @@
       8105,
       8106,
       8107,
-      8108
+      8108,
+      8109,
+      8110,
+      8111
     ],
     "flow_id": 2,
     "help_button_id": 0,
@@ -836,7 +899,6 @@
   {
     "id": 8150,
     "mark_id": 380018,
-    "creature_id": 100080016100059,
     "name": "InstanceDungeonEntrance_8150_Name",
     "description": "InstanceDungeonEntrance_8150_Description",
     "instance_dungeon_list": [
@@ -861,32 +923,34 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
-    "id": 8100,
-    "mark_id": 51,
-    "creature_id": 100080016100058,
-    "name": "InstanceDungeonEntrance_8100_Name",
-    "description": "InstanceDungeonEntrance_8001_Description",
+    "id": 8160,
+    "mark_id": 380020,
+    "name": "Activity_100805001_Title",
+    "description": "Activity_100805001_Desc",
     "instance_dungeon_list": [
-      8100
+      8301,
+      8302,
+      8303,
+      8304,
+      8305,
+      8306
     ],
-    "flow_id": 6,
+    "flow_id": 7,
     "help_button_id": 0,
-    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 129000000,
+    "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconActivityBossrush.SP_IconActivityBossrush",
+    "teleport_entity_config_id": 0,
     "unlock_condition": 0,
     "regular_reward": [],
     "power_cost_show": 0,
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
-    "id": 4006,
-    "mark_id": 38008,
-    "creature_id": 10082012000011,
-    "name": "InstanceDungeonEntrance_4006_Name",
-    "description": "InstanceDungeonEntrance_4006_Description",
+    "id": 1507,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_1507_Name",
+    "description": "InstanceDungeonEntrance_1507_Description",
     "instance_dungeon_list": [
-      4006,
-      4008
+      1507
     ],
     "flow_id": 2,
     "help_button_id": 0,
@@ -898,26 +962,20 @@
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   },
   {
-    "id": 2031,
-    "mark_id": 380016,
-    "creature_id": 4625,
-    "name": "InstanceDungeonEntrance_2031_Name",
-    "description": "InstanceDungeonEntrance_2031_Description",
+    "id": 1508,
+    "mark_id": 0,
+    "name": "InstanceDungeonEntrance_1508_Name",
+    "description": "InstanceDungeonEntrance_1508_Description",
     "instance_dungeon_list": [
-      2032,
-      2033,
-      2034,
-      2035,
-      2036,
-      2037
+      1508
     ],
     "flow_id": 1,
     "help_button_id": 0,
     "title_sprite": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_Checkpoints1.SP_Checkpoints1",
-    "teleport_entity_config_id": 102001788,
+    "teleport_entity_config_id": 141000156,
     "unlock_condition": 0,
     "regular_reward": [],
-    "power_cost_show": 50,
+    "power_cost_show": 0,
     "map_bg_path": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_001_UI.T_ImgCopy_001_UI"
   }
 ]

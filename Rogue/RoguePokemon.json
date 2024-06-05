@@ -81,24 +81,6 @@
     "pokemon_skill_desc": "RoguePokemonDesc_motor"
   },
   {
-    "id": 1011,
-    "phantom_item": 60000422,
-    "quality": 1,
-    "pokemon_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
-    "pokemon_name": "RoleInfo_5007_Name",
-    "pokemon_settle_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_8_UI.T_IconMonsterPile_8_UI",
-    "pokemon_skill_desc": "RoguePokemonDesc_wuguanzhe"
-  },
-  {
-    "id": 1012,
-    "phantom_item": 60000322,
-    "quality": 1,
-    "pokemon_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI",
-    "pokemon_name": "RogueBuffPool_935008000001_BuffName",
-    "pokemon_settle_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_3_UI.T_IconMonsterPile_3_UI",
-    "pokemon_skill_desc": "RoguePokemonDesc_motor"
-  },
-  {
     "id": 1013,
     "phantom_item": 60000422,
     "quality": 1,
@@ -106,5 +88,50 @@
     "pokemon_name": "RoleInfo_5007_Name",
     "pokemon_settle_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_8_UI.T_IconMonsterPile_8_UI",
     "pokemon_skill_desc": "RoguePokemonDesc_wuguanzhe"
+  },
+  {
+    "id": 1014,
+    "phantom_item": 60000222,
+    "quality": 1,
+    "pokemon_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
+    "pokemon_name": "RogueBuffPool_9126000043_BuffName",
+    "pokemon_settle_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_12_UI.T_IconMonsterPile_12_UI",
+    "pokemon_skill_desc": "RoguePokemonDesc_linren"
+  },
+  {
+    "id": 1015,
+    "phantom_item": 60000222,
+    "quality": 1,
+    "pokemon_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
+    "pokemon_name": "RogueBuffPool_9126000043_BuffName",
+    "pokemon_settle_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_12_UI.T_IconMonsterPile_12_UI",
+    "pokemon_skill_desc": "RoguePokemonDesc_linren"
+  },
+  {
+    "id": 1016,
+    "phantom_item": 60000222,
+    "quality": 1,
+    "pokemon_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
+    "pokemon_name": "RogueBuffPool_9126000043_BuffName",
+    "pokemon_settle_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_12_UI.T_IconMonsterPile_12_UI",
+    "pokemon_skill_desc": "RoguePokemonDesc_linren"
+  },
+  {
+    "id": 1017,
+    "phantom_item": 60000222,
+    "quality": 1,
+    "pokemon_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
+    "pokemon_name": "RogueBuffPool_9126000043_BuffName",
+    "pokemon_settle_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_12_UI.T_IconMonsterPile_12_UI",
+    "pokemon_skill_desc": "RoguePokemonDesc_linren"
+  },
+  {
+    "id": 1018,
+    "phantom_item": 60000222,
+    "quality": 1,
+    "pokemon_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
+    "pokemon_name": "RogueBuffPool_9126000043_BuffName",
+    "pokemon_settle_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_12_UI.T_IconMonsterPile_12_UI",
+    "pokemon_skill_desc": "RoguePokemonDesc_linren"
   }
 ]

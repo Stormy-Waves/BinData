@@ -43,5 +43,14 @@
     "press_time_window": 125,
     "release_time_window": 125,
     "target_completion": 60
+  },
+  {
+    "id": 900001,
+    "name": "七天拔剑",
+    "speed_rate": 5.0,
+    "tap_time_window": 150,
+    "press_time_window": 150,
+    "release_time_window": 150,
+    "target_completion": 70
   }
 ]

@@ -388,7 +388,7 @@
     "attributes_description": "BackgroundCard_80069001_AttributesDescription",
     "obtained_show_description": "",
     "type_description": "BackgroundCard_80060000_TypeDescription",
-    "bg_description": "",
+    "bg_description": "BackgroundCard_80070001_BgDescription",
     "tips": "BackgroundCard_80069001_Tips",
     "show_in_bag": false,
     "red_dot_disable_rule": 0
@@ -522,6 +522,28 @@
     "type_description": "BackgroundCard_80060000_TypeDescription",
     "bg_description": "BackgroundCard_80070001_BgDescription",
     "tips": "BackgroundCard_80065002_Tips",
+    "show_in_bag": false,
+    "red_dot_disable_rule": 0
+  },
+  {
+    "id": 80069002,
+    "quality_id": 5,
+    "item_access": [
+      504000
+    ],
+    "sort_index": 0,
+    "long_card_path": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong26.T_CardLong26",
+    "card_path": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card26.T_Card26",
+    "function_view_card_path": "/Game/Aki/UI/UIResources/Common/Image/CardPolygon/T_CardPolygon_26.T_CardPolygon_26",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCard/T_IconCard256_26.T_IconCard256_26",
+    "icon_middle": "/Game/Aki/UI/UIResources/Common/Image/IconCard160/T_IconCard160_26.T_IconCard160_26",
+    "icon_small": "/Game/Aki/UI/UIResources/Common/Image/IconCard80/T_IconCard80_26.T_IconCard80_26",
+    "title": "BackgroundCard_80069002_Title",
+    "attributes_description": "BackgroundCard_80069002_AttributesDescription",
+    "obtained_show_description": "",
+    "type_description": "BackgroundCard_80060000_TypeDescription",
+    "bg_description": "BackgroundCard_80070001_BgDescription",
+    "tips": "BackgroundCard_80069001_Tips",
     "show_in_bag": false,
     "red_dot_disable_rule": 0
   }

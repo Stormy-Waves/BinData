@@ -4729,5 +4729,249 @@
     "hidden_time": 0.0,
     "destructible": true,
     "red_dot_disable_rule": 0
+  },
+  {
+    "item_id": 21010026,
+    "weapon_name": "WeaponConf_21010026_WeaponName",
+    "quality_id": 5,
+    "weapon_type": 1,
+    "model_id": 21010026,
+    "transform_id": 1,
+    "models": [
+      21010026
+    ],
+    "reson_level_limit": 5,
+    "first_prop_id": {
+      "id": 7,
+      "value": 47.0,
+      "is_ratio": false
+    },
+    "first_curve": 1,
+    "second_prop_id": {
+      "id": 8,
+      "value": 540.0,
+      "is_ratio": false
+    },
+    "second_curve": 2,
+    "reson_id": 21010026,
+    "level_id": 5,
+    "breach_id": 21010026,
+    "desc": "WeaponConf_21010026_Desc",
+    "desc_params": [
+      {
+        "array_string": [
+          "12%",
+          "15%",
+          "18%",
+          "21%",
+          "24%"
+        ]
+      },
+      {
+        "array_string": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "array_string": [
+          "4",
+          "4",
+          "4",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "array_string": [
+          "4",
+          "4",
+          "4",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "array_string": [
+          "48%",
+          "60%",
+          "72%",
+          "84%",
+          "96%"
+        ]
+      },
+      {
+        "array_string": [
+          "2.5",
+          "2.5",
+          "2.5",
+          "2.5",
+          "2.5"
+        ]
+      },
+      {
+        "array_string": [
+          "6",
+          "6",
+          "6",
+          "6",
+          "6"
+        ]
+      }
+    ],
+    "type_description": "WeaponConf_21010026_TypeDescription",
+    "attributes_description": "WeaponConf_21010026_AttributesDescription",
+    "bg_description": "WeaponConf_21010026_BgDescription",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010026_UI.T_IconWeapon21010026_UI",
+    "icon_middle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010026_UI.T_IconWeapon160_21010026_UI",
+    "icon_small": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010026_UI.T_IconWeapon80_21010026_UI",
+    "mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES",
+    "max_capcity": 999999999,
+    "item_access": [],
+    "obtained_show": 1,
+    "obtained_show_description": "WeaponConf_21010026_ObtainedShowDescription",
+    "num_limit": 1,
+    "show_in_bag": true,
+    "sort_index": 0,
+    "resonance_icon": "",
+    "hidden_time": 10.0,
+    "destructible": false,
+    "red_dot_disable_rule": 0
+  },
+  {
+    "item_id": 21020016,
+    "weapon_name": "WeaponConf_21020016_WeaponName",
+    "quality_id": 5,
+    "weapon_type": 2,
+    "model_id": 21020016,
+    "transform_id": 2,
+    "models": [
+      21020016,
+      21120016
+    ],
+    "reson_level_limit": 5,
+    "first_prop_id": {
+      "id": 7,
+      "value": 47.0,
+      "is_ratio": false
+    },
+    "first_curve": 1,
+    "second_prop_id": {
+      "id": 10007,
+      "value": 0.081,
+      "is_ratio": true
+    },
+    "second_curve": 2,
+    "reson_id": 21020016,
+    "level_id": 5,
+    "breach_id": 21020016,
+    "desc": "WeaponConf_21020016_Desc",
+    "desc_params": [
+      {
+        "array_string": [
+          "8%",
+          "10%",
+          "12%",
+          "14%",
+          "16%"
+        ]
+      },
+      {
+        "array_string": [
+          "4%",
+          "5%",
+          "6%",
+          "7%",
+          "8%"
+        ]
+      }
+    ],
+    "type_description": "WeaponConf_21020016_TypeDescription",
+    "attributes_description": "WeaponConf_21020016_AttributesDescription",
+    "bg_description": "WeaponConf_21020016_BgDescription",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020016_UI.T_IconWeapon21020016_UI",
+    "icon_middle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020016_UI.T_IconWeapon160_21020016_UI",
+    "icon_small": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020016_UI.T_IconWeapon80_21020016_UI",
+    "mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES",
+    "max_capcity": 999999999,
+    "item_access": [],
+    "obtained_show": 1,
+    "obtained_show_description": "WeaponConf_21020016_ObtainedShowDescription",
+    "num_limit": 1,
+    "show_in_bag": true,
+    "sort_index": 0,
+    "resonance_icon": "",
+    "hidden_time": 10.0,
+    "destructible": false,
+    "red_dot_disable_rule": 0
+  },
+  {
+    "item_id": 21010063,
+    "weapon_name": "WeaponConf_21010063_WeaponName",
+    "quality_id": 3,
+    "weapon_type": 1,
+    "model_id": 21010063,
+    "transform_id": 1,
+    "models": [
+      21010063
+    ],
+    "reson_level_limit": 5,
+    "first_prop_id": {
+      "id": 7,
+      "value": 24.0,
+      "is_ratio": false
+    },
+    "first_curve": 1,
+    "second_prop_id": {
+      "id": 10007,
+      "value": 0.0675,
+      "is_ratio": true
+    },
+    "second_curve": 2,
+    "reson_id": 21010063,
+    "level_id": 3,
+    "breach_id": 21010063,
+    "desc": "WeaponConf_21010063_Desc",
+    "desc_params": [
+      {
+        "array_string": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "array_string": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      }
+    ],
+    "type_description": "WeaponConf_21010063_TypeDescription",
+    "attributes_description": "WeaponConf_21010063_AttributesDescription",
+    "bg_description": "WeaponConf_21010063_BgDescription",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010063_UI.T_IconWeapon21010063_UI",
+    "icon_middle": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010063_UI.T_IconWeapon160_21010063_UI",
+    "icon_small": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010063_UI.T_IconWeapon80_21010063_UI",
+    "mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES",
+    "max_capcity": 999999999,
+    "item_access": [],
+    "obtained_show": 1,
+    "obtained_show_description": "WeaponConf_21010063_ObtainedShowDescription",
+    "num_limit": 1,
+    "show_in_bag": true,
+    "sort_index": 0,
+    "resonance_icon": "",
+    "hidden_time": 10.0,
+    "destructible": false,
+    "red_dot_disable_rule": 0
   }
 ]

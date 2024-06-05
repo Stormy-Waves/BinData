@@ -136,6 +136,22 @@
     "max_count": 3
   },
   {
+    "id": 101,
+    "buff_title": "YanbiyijiTips_1_Title",
+    "buff_description": "YanbiyijiTips_1_Description",
+    "show_title": true,
+    "time": 20,
+    "max_count": 0
+  },
+  {
+    "id": 102,
+    "buff_title": "PymTips_1_Title",
+    "buff_description": "PymTips_1_Description",
+    "show_title": true,
+    "time": 20,
+    "max_count": 0
+  },
+  {
     "id": 1001,
     "buff_title": "Activity_1001_Title",
     "buff_description": "Activity_1001_Description",
@@ -216,6 +232,14 @@
     "max_count": 0
   },
   {
+    "id": 2001,
+    "buff_title": "Activity_2001_Title",
+    "buff_description": "Activity_2001_Description",
+    "show_title": true,
+    "time": 3,
+    "max_count": 0
+  },
+  {
     "id": 2002,
     "buff_title": "Activity_2002_Title",
     "buff_description": "Activity_2002_Description",
@@ -240,11 +264,27 @@
     "max_count": 0
   },
   {
+    "id": 2005,
+    "buff_title": "Activity_2005_Title",
+    "buff_description": "Activity_2005_Description",
+    "show_title": true,
+    "time": 3,
+    "max_count": 0
+  },
+  {
     "id": 72,
     "buff_title": "SilentArea_72_Title",
     "buff_description": "SilentArea_72_Description",
     "show_title": true,
     "time": 3,
+    "max_count": 0
+  },
+  {
+    "id": 103,
+    "buff_title": "TunlongzhuTips_1_Title",
+    "buff_description": "TunlongzhuTips_1_Description",
+    "show_title": true,
+    "time": 20,
     "max_count": 0
   }
 ]

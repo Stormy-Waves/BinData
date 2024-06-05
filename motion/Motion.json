@@ -296,7 +296,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/FemaleS/Anke/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
+    "ani_montage": "/Game/Aki/Character/Role/FemaleS/Anke/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
     "cond_group_id": 0
   },
   {
@@ -320,7 +320,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Qiushui/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
+    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Qiushui/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
     "cond_group_id": 0
   },
   {
@@ -332,7 +332,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Jiyan/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
+    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Jiyan/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
     "cond_group_id": 0
   },
   {
@@ -344,7 +344,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Baer/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
+    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Baer/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
     "cond_group_id": 0
   },
   {
@@ -356,7 +356,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Kakaluo/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
+    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Kakaluo/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
     "cond_group_id": 0
   },
   {
@@ -608,7 +608,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/FemaleS/Anke/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
+    "ani_montage": "/Game/Aki/Character/Role/FemaleS/Anke/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
     "cond_group_id": 0
   },
   {
@@ -632,7 +632,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Qiushui/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
+    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Qiushui/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
     "cond_group_id": 0
   },
   {
@@ -644,7 +644,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Jiyan/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
+    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Jiyan/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
     "cond_group_id": 0
   },
   {
@@ -656,7 +656,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Baer/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
+    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Baer/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
     "cond_group_id": 0
   },
   {
@@ -668,7 +668,7 @@
     "content": "",
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
-    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Kakaluo/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
+    "ani_montage": "/Game/Aki/Character/Role/MaleXL/Kakaluo/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
     "cond_group_id": 0
   },
   {
@@ -717,6 +717,78 @@
     "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
     "ani_blueprint": "",
     "ani_montage": "/Game/Aki/Character/Role/FemaleM/Jianxin/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
+    "cond_group_id": 0
+  },
+  {
+    "id": 130401,
+    "role_id": 1304,
+    "type": 1,
+    "sort": 1,
+    "title": "Motion_Title_1",
+    "content": "",
+    "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
+    "ani_blueprint": "",
+    "ani_montage": "/Game/Aki/Character/Role/FemaleM/Jinxi/CommonAnim/AM_Stand1_Action01.AM_Stand1_Action01",
+    "cond_group_id": 0
+  },
+  {
+    "id": 130402,
+    "role_id": 1304,
+    "type": 1,
+    "sort": 2,
+    "title": "Motion_Title_2",
+    "content": "",
+    "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
+    "ani_blueprint": "",
+    "ani_montage": "/Game/Aki/Character/Role/FemaleM/Jinxi/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
+    "cond_group_id": 0
+  },
+  {
+    "id": 130403,
+    "role_id": 1304,
+    "type": 1,
+    "sort": 3,
+    "title": "Motion_Title_3",
+    "content": "",
+    "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
+    "ani_blueprint": "",
+    "ani_montage": "/Game/Aki/Character/Role/FemaleM/Jinxi/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
+    "cond_group_id": 0
+  },
+  {
+    "id": 120501,
+    "role_id": 1205,
+    "type": 1,
+    "sort": 1,
+    "title": "Motion_Title_1",
+    "content": "",
+    "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
+    "ani_blueprint": "",
+    "ani_montage": "/Game/Aki/Character/Role/FemaleXL/ChangLi/CommonAnim/AM_Stand1_Action01.AM_Stand1_Action01",
+    "cond_group_id": 0
+  },
+  {
+    "id": 120502,
+    "role_id": 1205,
+    "type": 1,
+    "sort": 2,
+    "title": "Motion_Title_2",
+    "content": "",
+    "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
+    "ani_blueprint": "",
+    "ani_montage": "/Game/Aki/Character/Role/FemaleXL/ChangLi/CommonAnim/AM_Stand1_Action02.AM_Stand1_Action02",
+    "cond_group_id": 0
+  },
+  {
+    "id": 120503,
+    "role_id": 1205,
+    "type": 1,
+    "sort": 3,
+    "title": "Motion_Title_3",
+    "content": "",
+    "motion_img": "/Game/Aki/UI/UIResources/Common/Image/IconAdvice/T_AdviceIcon02_UI.T_AdviceIcon02_UI",
+    "ani_blueprint": "",
+    "ani_montage": "/Game/Aki/Character/Role/FemaleXL/ChangLi/CommonAnim/AM_Stand1_Action03.AM_Stand1_Action03",
     "cond_group_id": 0
   }
 ]

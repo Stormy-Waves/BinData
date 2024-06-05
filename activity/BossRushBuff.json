@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "buff_id": [
+      622920000
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill1.T_BossrushSkill1",
+    "name": "bossrush_1_title",
+    "description": "bossrush_1_desc",
+    "description_param": [
+      "[8,10,10,5,1]"
+    ]
+  },
+  {
+    "id": 2,
+    "buff_id": [
+      622920007
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill2.T_BossrushSkill2",
+    "name": "bossrush_2_title",
+    "description": "bossrush_2_desc",
+    "description_param": [
+      "[10,10,8,20,10]"
+    ]
+  },
+  {
+    "id": 3,
+    "buff_id": [
+      622920016
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill3.T_BossrushSkill3",
+    "name": "bossrush_3_title",
+    "description": "bossrush_3_desc",
+    "description_param": [
+      "[10,10,25,10]"
+    ]
+  },
+  {
+    "id": 4,
+    "buff_id": [
+      622920019
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill4.T_BossrushSkill4",
+    "name": "bossrush_4_title",
+    "description": "bossrush_4_desc",
+    "description_param": [
+      "[20,15,1]"
+    ]
+  },
+  {
+    "id": 5,
+    "buff_id": [
+      622920021
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill5.T_BossrushSkill5",
+    "name": "bossrush_5_title",
+    "description": "bossrush_5_desc",
+    "description_param": [
+      "[15,40,8,1]"
+    ]
+  },
+  {
+    "id": 6,
+    "buff_id": [
+      622920023
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill6.T_BossrushSkill6",
+    "name": "bossrush_6_title",
+    "description": "bossrush_6_desc",
+    "description_param": [
+      "[300,3]"
+    ]
+  },
+  {
+    "id": 7,
+    "buff_id": [
+      622920025
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill7.T_BossrushSkill7",
+    "name": "bossrush_7_title",
+    "description": "bossrush_7_desc",
+    "description_param": [
+      "[10,30,6]"
+    ]
+  },
+  {
+    "id": 8,
+    "buff_id": [
+      622920028
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill2.T_BossrushSkill2",
+    "name": "bossrush_8_title",
+    "description": "bossrush_8_desc",
+    "description_param": [
+      "[10,30,20]"
+    ]
+  },
+  {
+    "id": 21,
+    "buff_id": [
+      622920038
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredfoco_UI.T_Iconpropertyredfoco_UI",
+    "name": "bossrush_21_title",
+    "description": "bossrush_21_desc",
+    "description_param": [
+      "[4,15,20,1,1]"
+    ]
+  },
+  {
+    "id": 22,
+    "buff_id": [
+      622920040
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredmine_UI.T_Iconpropertyredmine_UI",
+    "name": "bossrush_22_title",
+    "description": "bossrush_22_desc",
+    "description_param": [
+      "[20,2,8,1,20]"
+    ]
+  },
+  {
+    "id": 23,
+    "buff_id": [
+      622920042,
+      622920043
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredlight_UI.T_Iconpropertyredlight_UI",
+    "name": "bossrush_23_title",
+    "description": "bossrush_23_desc",
+    "description_param": [
+      "[30,30,10,20,10,70]"
+    ]
+  },
+  {
+    "id": 24,
+    "buff_id": [
+      622920044
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredskill_UI.T_Iconpropertyredskill_UI",
+    "name": "bossrush_24_title",
+    "description": "bossrush_24_desc",
+    "description_param": [
+      "[5,50,30]"
+    ]
+  },
+  {
+    "id": 25,
+    "buff_id": [
+      622920047
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill2.T_BossrushSkill2",
+    "name": "bossrush_25_title",
+    "description": "bossrush_25_desc",
+    "description_param": [
+      "[20,5,1]"
+    ]
+  },
+  {
+    "id": 26,
+    "buff_id": [
+      622920049
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredskill_UI.T_Iconpropertyredskill_UI",
+    "name": "bossrush_26_title",
+    "description": "bossrush_26_desc",
+    "description_param": [
+      "[4,12,20]"
+    ]
+  },
+  {
+    "id": 27,
+    "buff_id": [
+      622920051
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredhot_UI.T_Iconpropertyredhot_UI",
+    "name": "bossrush_27_title",
+    "description": "bossrush_27_desc",
+    "description_param": [
+      "[20,20,3,2]"
+    ]
+  },
+  {
+    "id": 28,
+    "buff_id": [
+      622920021
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill5.T_BossrushSkill5",
+    "name": "bossrush_28_title",
+    "description": "bossrush_28_desc",
+    "description_param": [
+      "[5,40,1,10]"
+    ]
+  },
+  {
+    "id": 29,
+    "buff_id": [
+      622920023
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill6.T_BossrushSkill6",
+    "name": "bossrush_29_title",
+    "description": "bossrush_29_desc",
+    "description_param": [
+      "[200,5]"
+    ]
+  },
+  {
+    "id": 30,
+    "buff_id": [
+      622920028
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill2.T_BossrushSkill2",
+    "name": "bossrush_30_title",
+    "description": "bossrush_30_desc",
+    "description_param": [
+      "[5,60,20]"
+    ]
+  },
+  {
+    "id": 31,
+    "buff_id": [
+      622920053
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredskill_UI.T_Iconpropertyredskill_UI",
+    "name": "bossrush_31_title",
+    "description": "bossrush_31_desc",
+    "description_param": [
+      "[2.5,15,20]"
+    ]
+  },
+  {
+    "id": 32,
+    "buff_id": [
+      622920055,
+      622920056
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredwind_UI.T_Iconpropertyredwind_UI",
+    "name": "bossrush_32_title",
+    "description": "bossrush_32_desc",
+    "description_param": [
+      "[30,30,10,20,10,70]"
+    ]
+  },
+  {
+    "id": 33,
+    "buff_id": [
+      622920057
+    ],
+    "passive_skill": [],
+    "texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityBossRush/T_BossrushSkill7.T_BossrushSkill7",
+    "name": "bossrush_33_title",
+    "description": "bossrush_33_desc",
+    "description_param": [
+      "[4,10,2,1,10]"
+    ]
+  }
+]

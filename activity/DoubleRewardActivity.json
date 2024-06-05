@@ -12,5 +12,19 @@
     "count": 3,
     "up_rate": 2,
     "prefab": "UiItem_ActivityDoubleReward_3"
+  },
+  {
+    "id": 100700003,
+    "type": 2,
+    "count": 3,
+    "up_rate": 2,
+    "prefab": "UiItem_ActivityDoubleReward_2"
+  },
+  {
+    "id": 100700004,
+    "type": 3,
+    "count": 3,
+    "up_rate": 2,
+    "prefab": "UiItem_ActivityDoubleReward_3"
   }
 ]

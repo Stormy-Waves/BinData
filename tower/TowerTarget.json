@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "target_type": 1,
+    "params": [
+      0
+    ],
+    "des_text": "Text_TowerFinish_Text"
+  },
+  {
+    "id": 2,
+    "target_type": 1,
+    "params": [
+      90
+    ],
+    "des_text": "Text_TowerRemainTime_Text"
+  },
+  {
+    "id": 3,
+    "target_type": 1,
+    "params": [
+      150
+    ],
+    "des_text": "Text_TowerRemainTime_Text"
+  },
+  {
+    "id": 4,
+    "target_type": 2,
+    "params": [
+      0
+    ],
+    "des_text": "Text_TowerTeamNoDie_Text"
+  },
+  {
+    "id": 5,
+    "target_type": 2,
+    "params": [
+      1
+    ],
+    "des_text": "Text_TowerTeamDie_Text"
+  },
+  {
+    "id": 6,
+    "target_type": 1,
+    "params": [
+      120
+    ],
+    "des_text": "Text_TowerRemainTime_Text"
+  },
+  {
+    "id": 7,
+    "target_type": 1,
+    "params": [
+      180
+    ],
+    "des_text": "Text_TowerRemainTime_Text"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "tag_name": "RoleTag1",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelA1.SP_RoleLabelA1",
+    "tag_name_color": "77ffb7",
+    "tag_desc": "RoleTag1_TagDesc"
+  },
+  {
+    "id": 2,
+    "tag_name": "RoleTag2",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelA2.SP_RoleLabelA2",
+    "tag_name_color": "ff8441",
+    "tag_desc": "RoleTag2_TagDesc"
+  },
+  {
+    "id": 3,
+    "tag_name": "RoleTag3",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelA3.SP_RoleLabelA3",
+    "tag_name_color": "ff4040",
+    "tag_desc": "RoleTag3_TagDesc"
+  },
+  {
+    "id": 4,
+    "tag_name": "RoleTag4",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelB1.SP_RoleLabelB1",
+    "tag_name_color": "ffde73",
+    "tag_desc": "RoleTag4_TagDesc"
+  },
+  {
+    "id": 5,
+    "tag_name": "RoleTag5",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelB2.SP_RoleLabelB2",
+    "tag_name_color": "ffde73",
+    "tag_desc": "RoleTag5_TagDesc"
+  },
+  {
+    "id": 6,
+    "tag_name": "RoleTag6",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelB3.SP_RoleLabelB3",
+    "tag_name_color": "ffde73",
+    "tag_desc": "RoleTag6_TagDesc"
+  },
+  {
+    "id": 7,
+    "tag_name": "RoleTag7",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelB4.SP_RoleLabelB4",
+    "tag_name_color": "ffde73",
+    "tag_desc": "RoleTag7_TagDesc"
+  },
+  {
+    "id": 8,
+    "tag_name": "RoleTag8",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC1.SP_RoleLabelC1",
+    "tag_name_color": "77adff",
+    "tag_desc": "RoleTag8_TagDesc"
+  },
+  {
+    "id": 9,
+    "tag_name": "RoleTag9",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC2.SP_RoleLabelC2",
+    "tag_name_color": "77adff",
+    "tag_desc": "RoleTag9_TagDesc"
+  },
+  {
+    "id": 10,
+    "tag_name": "RoleTag10",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC3.SP_RoleLabelC3",
+    "tag_name_color": "77adff",
+    "tag_desc": "RoleTag10_TagDesc"
+  },
+  {
+    "id": 11,
+    "tag_name": "RoleTag11",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC4.SP_RoleLabelC4",
+    "tag_name_color": "77adff",
+    "tag_desc": "RoleTag11_TagDesc"
+  },
+  {
+    "id": 12,
+    "tag_name": "RoleTag12",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC5.SP_RoleLabelC5",
+    "tag_name_color": "77adff",
+    "tag_desc": "RoleTag12_TagDesc"
+  },
+  {
+    "id": 13,
+    "tag_name": "RoleTag13",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC7.SP_RoleLabelC7",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag13_TagDesc"
+  },
+  {
+    "id": 14,
+    "tag_name": "RoleTag14",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD4.SP_RoleLabelD4",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag14_TagDesc"
+  },
+  {
+    "id": 15,
+    "tag_name": "RoleTag15",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD1.SP_RoleLabelD1",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag15_TagDesc"
+  },
+  {
+    "id": 16,
+    "tag_name": "RoleTag16",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD2.SP_RoleLabelD2",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag16_TagDesc"
+  },
+  {
+    "id": 17,
+    "tag_name": "RoleTag17",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD6.SP_RoleLabelD6",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag17_TagDesc"
+  },
+  {
+    "id": 18,
+    "tag_name": "RoleTag18",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD3.SP_RoleLabelD3",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag18_TagDesc"
+  },
+  {
+    "id": 19,
+    "tag_name": "RoleTag19",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD5.SP_RoleLabelD5",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag19_TagDesc"
+  },
+  {
+    "id": 20,
+    "tag_name": "RoleTag20",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD7.SP_RoleLabelD7",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag20_TagDesc"
+  },
+  {
+    "id": 21,
+    "tag_name": "RoleTag21",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD8.SP_RoleLabelD8",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag21_TagDesc"
+  },
+  {
+    "id": 22,
+    "tag_name": "RoleTag22",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD9.SP_RoleLabelD9",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag22_TagDesc"
+  },
+  {
+    "id": 23,
+    "tag_name": "RoleTag23",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD10.SP_RoleLabelD10",
+    "tag_name_color": "ff7777",
+    "tag_desc": "RoleTag23_TagDesc"
+  },
+  {
+    "id": 30,
+    "tag_name": "RoleTag30",
+    "tag_icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC6.SP_RoleLabelC6",
+    "tag_name_color": "77adff",
+    "tag_desc": "RoleTag30_TagDesc"
+  }
+]

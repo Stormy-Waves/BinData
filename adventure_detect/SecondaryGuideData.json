@@ -6,7 +6,8 @@
     "text": "DetectionText_0_Text",
     "sub_text": "",
     "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon45d.SP_CommonBtnIcon45d",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 1,
@@ -15,7 +16,8 @@
     "text": "DetectionText_1_Text",
     "sub_text": "",
     "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon45a.SP_CommonBtnIcon45a",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 2,
@@ -24,7 +26,8 @@
     "text": "DetectionText_2_Text",
     "sub_text": "",
     "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon45b.SP_CommonBtnIcon45b",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 3,
@@ -33,7 +36,8 @@
     "text": "DetectionText_3_Text",
     "sub_text": "",
     "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SP_CommonBtnIcon45c.SP_CommonBtnIcon45c",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 14,
@@ -42,7 +46,8 @@
     "text": "DetectionText_14_Text",
     "sub_text": "",
     "icon": "",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 15,
@@ -51,7 +56,8 @@
     "text": "DetectionText_15_Text",
     "sub_text": "",
     "icon": "",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 16,
@@ -60,7 +66,8 @@
     "text": "DetectionText_16_Text",
     "sub_text": "",
     "icon": "",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 4,
@@ -69,7 +76,8 @@
     "text": "DetectionText_4_Text",
     "sub_text": "DetectionText_4_SubText",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment03.SP_IconDevelopment03",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": true
   },
   {
     "id": 21,
@@ -78,7 +86,8 @@
     "text": "DetectionText_21_Text",
     "sub_text": "DetectionText_21_SubText",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment08.SP_IconDevelopment08",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": true
   },
   {
     "id": 22,
@@ -87,7 +96,8 @@
     "text": "DetectionText_22_Text",
     "sub_text": "DetectionText_22_SubText",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment06.SP_IconDevelopment06",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": true
   },
   {
     "id": 7,
@@ -96,7 +106,8 @@
     "text": "DetectionText_7_Text",
     "sub_text": "DetectionText_7_SubText",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment05.SP_IconDevelopment05",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": true
   },
   {
     "id": 5,
@@ -105,7 +116,8 @@
     "text": "DetectionText_5_Text",
     "sub_text": "DetectionText_5_SubText",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment02.SP_IconDevelopment02",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 18,
@@ -114,7 +126,8 @@
     "text": "DetectionText_18_Text",
     "sub_text": "",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment07.SP_IconDevelopment07",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 6,
@@ -123,16 +136,18 @@
     "text": "DetectionText_6_Text",
     "sub_text": "DetectionText_6_SubText",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment10.SP_IconDevelopment10",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 61,
     "sort_number": 14,
     "condition_group_id": 12005114,
     "text": "DetectionText_61_Text",
-    "sub_text": "",
+    "sub_text": "DetectionText_61_SubText",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment04.SP_IconDevelopment04",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 8,
@@ -141,7 +156,8 @@
     "text": "DetectionText_8_Text",
     "sub_text": "",
     "icon": "/Game/Aki/UI/UIResources/UiGuide/Atlas/SP_GuideIconXiezou.SP_GuideIconXiezou",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 9,
@@ -150,7 +166,8 @@
     "text": "DetectionText_9_Text",
     "sub_text": "",
     "icon": "/Game/Aki/UI/UIResources/UiGuide/Atlas/SP_GuideIconDiren.SP_GuideIconDiren",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 10,
@@ -159,7 +176,8 @@
     "text": "DetectionText_10_Text",
     "sub_text": "",
     "icon": "",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 11,
@@ -168,7 +186,8 @@
     "text": "DetectionText_11_Text",
     "sub_text": "",
     "icon": "",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 12,
@@ -177,7 +196,8 @@
     "text": "DetectionText_12_Text",
     "sub_text": "",
     "icon": "",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 13,
@@ -186,7 +206,8 @@
     "text": "DetectionText_13_Text",
     "sub_text": "",
     "icon": "",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 17,
@@ -195,7 +216,8 @@
     "text": "DetectionText_17_Text",
     "sub_text": "",
     "icon": "",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   },
   {
     "id": 19,
@@ -204,7 +226,8 @@
     "text": "DetectionText_19_Text",
     "sub_text": "DetectionText_19_SubText",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment09.SP_IconDevelopment09",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": true
   },
   {
     "id": 62,
@@ -213,6 +236,7 @@
     "text": "DetectionText_62_Text",
     "sub_text": "DetectionText_62_SubText",
     "icon": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Atlas/SP_IconDevelopment01.SP_IconDevelopment01",
-    "help_group_id": 0
+    "help_group_id": 0,
+    "show_drop_down": false
   }
 ]

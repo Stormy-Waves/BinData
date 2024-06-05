@@ -375,7 +375,7 @@
     "occupation_type": "SilentArea",
     "name_string_key": 109,
     "name": 110,
-    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000002],\"AssociatedEntities\":[110001073,129000002,110000092]}"
+    "occupation_data": "{\"Type\":\"SilentArea\",\"LevelPlayIds\":[110000002],\"AssociatedEntities\":[110001073,110000092]}"
   },
   {
     "id": "fuyan",
@@ -424,6 +424,20 @@
     "occupation_type": "Npc",
     "name_string_key": 121,
     "name": 122,
+    "occupation_data": ""
+  },
+  {
+    "id": "changli",
+    "occupation_type": "Npc",
+    "name_string_key": 123,
+    "name": 124,
+    "occupation_data": ""
+  },
+  {
+    "id": "xinyi",
+    "occupation_type": "Npc",
+    "name_string_key": 125,
+    "name": 126,
     "occupation_data": ""
   }
 ]

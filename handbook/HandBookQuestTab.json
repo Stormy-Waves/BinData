@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "HandBookQuestTab_1_Title",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconArchiveQuest.SP_IconArchiveQuest",
+    "type": 9
+  },
+  {
+    "id": 2,
+    "name": "HandBookQuestTab_2_Title",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconArchiveRole.SP_IconArchiveRole",
+    "type": 8
+  },
+  {
+    "id": 3,
+    "name": "HandBookQuestTab_3_Title",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconArchivePhoto.SP_IconArchivePhoto",
+    "type": 7
+  }
+]

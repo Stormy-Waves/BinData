@@ -12,14 +12,6 @@
       {
         "key": "Gamepad_RightTriggerAxis",
         "value": "Gamepad_LeftShoulder"
-      },
-      {
-        "key": "GenericUSBController_Axis2",
-        "value": "GenericUSBController_Button5"
-      },
-      {
-        "key": "GenericUSBController_Axis1",
-        "value": "GenericUSBController_Button5"
       }
     ],
     "secondary_key_scale_map": [
@@ -37,14 +29,6 @@
       },
       {
         "key": "Gamepad_RightTriggerAxis",
-        "value": 80.0
-      },
-      {
-        "key": "GenericUSBController_Axis2",
-        "value": -80.0
-      },
-      {
-        "key": "GenericUSBController_Axis1",
         "value": 80.0
       }
     ],

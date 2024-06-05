@@ -10,5 +10,11 @@
     "name": "HandBookEntrance_7_Name",
     "title_icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_FuncIconIllustrated04.SP_FuncIconIllustrated04",
     "texture": "/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance06_UI.T_IconAcquireEntrance06_UI"
+  },
+  {
+    "id": 10,
+    "name": "HandBookRoleTitle",
+    "title_icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRole.SP_IconRole",
+    "texture": "/Game/Aki/UI/UIResources/Common/Image/IconArchive/T_IconAcquireEntrance09_UI.T_IconAcquireEntrance09_UI"
   }
 ]

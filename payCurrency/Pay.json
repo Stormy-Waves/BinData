@@ -3211,5 +3211,194 @@
     "global_amount": 1.0,
     "product_id": "com.kurogame.wutheringwaves.my10000",
     "currency_type": "¥"
+  },
+  {
+    "id": 358,
+    "pay_id": 31,
+    "region": "China",
+    "amount": 1296.0,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay1296",
+    "currency_type": "¥"
+  },
+  {
+    "id": 359,
+    "pay_id": 32,
+    "region": "China",
+    "amount": 3240.0,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay3240",
+    "currency_type": "¥"
+  },
+  {
+    "id": 360,
+    "pay_id": 33,
+    "region": "China",
+    "amount": 6480.0,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay6480",
+    "currency_type": "¥"
+  },
+  {
+    "id": 361,
+    "pay_id": 31,
+    "region": "SEA",
+    "amount": 199.98,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay1296",
+    "currency_type": "¥"
+  },
+  {
+    "id": 362,
+    "pay_id": 32,
+    "region": "SEA",
+    "amount": 499.95,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay3240",
+    "currency_type": "¥"
+  },
+  {
+    "id": 363,
+    "pay_id": 33,
+    "region": "SEA",
+    "amount": 999.9,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay6480",
+    "currency_type": "¥"
+  },
+  {
+    "id": 364,
+    "pay_id": 31,
+    "region": "America",
+    "amount": 199.98,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay1296",
+    "currency_type": "¥"
+  },
+  {
+    "id": 365,
+    "pay_id": 32,
+    "region": "America",
+    "amount": 499.95,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay3240",
+    "currency_type": "¥"
+  },
+  {
+    "id": 366,
+    "pay_id": 33,
+    "region": "America",
+    "amount": 999.9,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay6480",
+    "currency_type": "¥"
+  },
+  {
+    "id": 367,
+    "pay_id": 31,
+    "region": "Asia",
+    "amount": 199.98,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay1296",
+    "currency_type": "¥"
+  },
+  {
+    "id": 368,
+    "pay_id": 32,
+    "region": "Asia",
+    "amount": 499.95,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay3240",
+    "currency_type": "¥"
+  },
+  {
+    "id": 369,
+    "pay_id": 33,
+    "region": "Asia",
+    "amount": 999.9,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay6480",
+    "currency_type": "¥"
+  },
+  {
+    "id": 370,
+    "pay_id": 31,
+    "region": "Europe",
+    "amount": 199.98,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay1296",
+    "currency_type": "¥"
+  },
+  {
+    "id": 371,
+    "pay_id": 32,
+    "region": "Europe",
+    "amount": 499.95,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay3240",
+    "currency_type": "¥"
+  },
+  {
+    "id": 372,
+    "pay_id": 33,
+    "region": "Europe",
+    "amount": 999.9,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay6480",
+    "currency_type": "¥"
+  },
+  {
+    "id": 373,
+    "pay_id": 31,
+    "region": "HMT",
+    "amount": 199.98,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay1296",
+    "currency_type": "¥"
+  },
+  {
+    "id": 374,
+    "pay_id": 32,
+    "region": "HMT",
+    "amount": 499.95,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay3240",
+    "currency_type": "¥"
+  },
+  {
+    "id": 375,
+    "pay_id": 33,
+    "region": "HMT",
+    "amount": 999.9,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay6480",
+    "currency_type": "¥"
+  },
+  {
+    "id": 376,
+    "pay_id": 31,
+    "region": "Default",
+    "amount": 199.98,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay1296",
+    "currency_type": "¥"
+  },
+  {
+    "id": 377,
+    "pay_id": 32,
+    "region": "Default",
+    "amount": 499.95,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay3240",
+    "currency_type": "¥"
+  },
+  {
+    "id": 378,
+    "pay_id": 33,
+    "region": "Default",
+    "amount": 999.9,
+    "global_amount": 1.0,
+    "product_id": "com.kurogame.aki.pay6480",
+    "currency_type": "¥"
   }
 ]

@@ -4,7 +4,8 @@
     "data_type": 1,
     "rule_list": [
       1,
-      2
+      2,
+      31
     ],
     "is_support_select_all": false,
     "is_show_icon": true,
@@ -125,7 +126,7 @@
   },
   {
     "id": 12,
-    "data_type": 13,
+    "data_type": 12,
     "rule_list": [
       28,
       27,
@@ -143,6 +144,18 @@
       2
     ],
     "is_support_select_all": false,
+    "is_show_icon": true,
+    "grid_type": "UiItem_FliterGridS"
+  },
+  {
+    "id": 14,
+    "data_type": 13,
+    "rule_list": [
+      28,
+      27,
+      30
+    ],
+    "is_support_select_all": true,
     "is_show_icon": true,
     "grid_type": "UiItem_FliterGridS"
   }

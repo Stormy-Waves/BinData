@@ -32,7 +32,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattleView",
@@ -67,7 +68,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "MailBoxView",
@@ -102,7 +104,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "WorldMapView",
@@ -137,7 +140,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoleRootView",
@@ -166,13 +170,14 @@
     "scene_path": "/Game/Aki/Map/UISceneLevel/UI_Scene/UL_UIMap_Character",
     "is_permanent": false,
     "start_black_screen": {
-      "show_anim_name": "",
-      "hide_anim_name": ""
+      "show_anim_name": "Start",
+      "hide_anim_name": "Close"
     },
     "close_black_screen": {
-      "show_anim_name": "",
-      "hide_anim_name": ""
-    }
+      "show_anim_name": "Start",
+      "hide_anim_name": "Close"
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoleBreachView",
@@ -207,7 +212,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoleSkillView",
@@ -242,7 +248,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoleLevelUpView",
@@ -277,7 +284,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RolePhantomSkillView",
@@ -312,7 +320,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "ShopView",
@@ -347,7 +356,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AreaView",
@@ -382,7 +392,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LoadingView",
@@ -417,7 +428,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LoginView",
@@ -452,7 +464,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ItemTipsView",
@@ -487,7 +500,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "QuestView",
@@ -522,7 +536,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "NewItemTipsView",
@@ -557,7 +572,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FunctionView",
@@ -592,7 +608,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "ItemHintView",
@@ -627,7 +644,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "EditFormationView",
@@ -662,7 +680,8 @@
     "close_black_screen": {
       "show_anim_name": "Start",
       "hide_anim_name": "Close"
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoleFadeInOrOutView",
@@ -697,7 +716,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "HelpView",
@@ -732,7 +752,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "QuestMapView",
@@ -767,7 +788,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InventoryView",
@@ -802,7 +824,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "GuideBigWorldTextView",
@@ -837,7 +860,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GuidePictureAndTextView",
@@ -872,7 +896,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GmView",
@@ -907,7 +932,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ItemRewardView",
@@ -942,7 +968,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ScrollingTipsView",
@@ -977,7 +1004,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ConfirmBoxView",
@@ -1012,7 +1040,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CipherView",
@@ -1047,7 +1076,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleSelectionView",
@@ -1082,7 +1112,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "EditBattleTeamView",
@@ -1117,7 +1148,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SelectedRoleView",
@@ -1152,7 +1184,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PlotSubtitleView",
@@ -1187,7 +1220,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "NetWorkMaskView",
@@ -1222,7 +1256,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GamePlayTimerView",
@@ -1257,7 +1292,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CreateCharacterView",
@@ -1292,7 +1328,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "WeaponRootView",
@@ -1327,7 +1364,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "WeaponReplaceView",
@@ -1362,7 +1400,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "WeaponBreachSuccessView",
@@ -1397,7 +1436,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "WeaponResonanceSuccessView",
@@ -1432,7 +1472,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "MingSuView",
@@ -1467,7 +1508,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InstanceBeInviteView",
@@ -1502,7 +1544,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InstanceInvitePlayerView",
@@ -1537,7 +1580,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LoginStatusView",
@@ -1572,7 +1616,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "QuestHintView",
@@ -1607,7 +1652,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TapeRootView",
@@ -1642,7 +1688,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TapeReplaceView",
@@ -1677,7 +1724,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InventoryPcView",
@@ -1712,7 +1760,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "AccessPathPcView",
@@ -1747,7 +1796,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "PhantomExploreView",
@@ -1782,7 +1832,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ConfirmBoxRootView",
@@ -1817,7 +1868,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InteractionHintView",
@@ -1852,7 +1904,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VolumeView",
@@ -1887,7 +1940,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ItemRewardWithMouseView",
@@ -1922,7 +1976,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "PowerView",
@@ -1957,13 +2012,14 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LevelUpView",
     "type": "Float",
     "load_async": true,
-    "show_cursor_type": 0,
+    "show_cursor_type": 2,
     "obstruct_ui": [],
     "effect_start": "",
     "effect_bone": "",
@@ -1992,7 +2048,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ResonanceDetailView",
@@ -2027,7 +2084,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "TimeOfDayView",
@@ -2062,7 +2120,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "DeadView",
@@ -2097,7 +2156,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ReviveView",
@@ -2132,7 +2192,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "WorldLevelUpView",
@@ -2167,7 +2228,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "WorldLevelInfoView",
@@ -2202,7 +2264,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "WorldLevelChangeConfirmView",
@@ -2237,7 +2300,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GenericPromptView",
@@ -2272,7 +2336,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PlotView",
@@ -2307,7 +2372,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PlotViewHUD",
@@ -2342,7 +2408,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "JoinTeamView",
@@ -2377,7 +2444,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InstanceDungeonEntranceView",
@@ -2412,7 +2480,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "InstanceDungeonVictoryView",
@@ -2447,7 +2516,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "InstanceDungeonFailView",
@@ -2482,7 +2552,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "InstanceDungeonEntranceTipView",
@@ -2517,7 +2588,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "MarqueeView",
@@ -2552,7 +2624,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PlotTransitionView",
@@ -2587,7 +2660,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattleSequenceQteView",
@@ -2622,7 +2696,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SceneGameplayTipView",
@@ -2657,7 +2732,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DebugCmdView",
@@ -2692,7 +2768,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RegionalQuestView",
@@ -2727,7 +2804,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RegionalQuestRewardView",
@@ -2762,7 +2840,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SceneGameplayItemRewardView",
@@ -2797,7 +2876,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "MenuView",
@@ -2832,7 +2912,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "UseBuffItemView",
@@ -2867,7 +2948,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RegionContributionLevelView",
@@ -2902,7 +2984,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "MailContentView",
@@ -2937,7 +3020,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VideoView",
@@ -2972,7 +3056,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SneakView",
@@ -3007,7 +3092,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SneakFailView",
@@ -3042,7 +3128,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "MailAttachmentPickedView",
@@ -3077,7 +3164,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LoginAgeTipView",
@@ -3112,7 +3200,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "UidView",
@@ -3147,7 +3236,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "NetWorkConfirmBoxView",
@@ -3182,7 +3272,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommonSuccessView",
@@ -3217,7 +3308,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TextLanguageSettingView",
@@ -3252,7 +3344,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FriendView",
@@ -3287,7 +3380,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "FriendProcessView",
@@ -3322,7 +3416,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FriendAlterRemarkView",
@@ -3357,7 +3452,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FriendSearchView",
@@ -3392,7 +3488,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FriendBlackListView",
@@ -3427,7 +3524,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SelectedFriendChatView",
@@ -3462,7 +3560,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PhantomExploreSetView",
@@ -3497,7 +3596,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ChatView",
@@ -3532,7 +3632,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "ChatOption",
@@ -3567,7 +3668,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ChatExpressionView",
@@ -3602,7 +3704,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PayShopRootView",
@@ -3637,7 +3740,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "GiftPackageDetailsView",
@@ -3672,7 +3776,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "OnlineWorldHallView",
@@ -3707,7 +3812,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "OnlineWorldSearchView",
@@ -3742,7 +3848,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "OnlineApplyView",
@@ -3777,7 +3884,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "OnlineMultipleApplyView",
@@ -3812,7 +3920,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommonExchangeView",
@@ -3847,7 +3956,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GachaMainView",
@@ -3882,7 +3992,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "GachaRecordView",
@@ -3917,7 +4028,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GachaResultView",
@@ -3952,7 +4064,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GachaScanView",
@@ -3987,7 +4100,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PhantomBattleFettersView",
@@ -4022,7 +4136,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PhantomBattleEquipView",
@@ -4057,7 +4172,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VoiceLanguageDownloadView",
@@ -4092,7 +4208,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TimeOfDaySecondView",
@@ -4127,7 +4244,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "VoiceLanguageSelectView",
@@ -4162,7 +4280,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DeliverView",
@@ -4197,7 +4316,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DeliverChoiceView",
@@ -4232,7 +4352,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AcquireView",
@@ -4267,7 +4388,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExchangePopView",
@@ -4302,7 +4424,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TutorialView",
@@ -4337,7 +4460,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "TutorialTipView",
@@ -4372,7 +4496,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdventureGuideView",
@@ -4407,7 +4532,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "AdventureTargetView",
@@ -4442,7 +4568,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "MonsterDetectView",
@@ -4477,7 +4604,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SilentAreaView",
@@ -4512,7 +4640,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SoundAreaView",
@@ -4547,7 +4676,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InventoryGiftView",
@@ -4582,7 +4712,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InfoDisplayImgView",
@@ -4617,7 +4748,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InfoDisplayTypeOneView",
@@ -4652,7 +4784,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InfoDisplayTypeTwoView",
@@ -4687,7 +4820,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InfoDisplayTypeThreeView",
@@ -4722,7 +4856,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InfoDisplayTypeFourView",
@@ -4757,7 +4892,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RolePreviewView",
@@ -4792,7 +4928,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "WeaponPreviewView",
@@ -4827,7 +4964,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoleSkillTreeInfoView",
@@ -4862,7 +5000,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DailyTaskView",
@@ -4897,7 +5036,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "DailyTaskSelectTipsView",
@@ -4932,7 +5072,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CookRootView",
@@ -4967,7 +5108,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "MonthCardView",
@@ -5002,7 +5144,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "MonthCardRewardView",
@@ -5037,7 +5180,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SkillLevelUpView",
@@ -5072,7 +5216,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AttributeView",
@@ -5107,7 +5252,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleQuestView",
@@ -5142,7 +5288,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ReportView",
@@ -5177,7 +5324,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CookPopView",
@@ -5212,7 +5360,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleFavorInfoView",
@@ -5247,7 +5396,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleFavorHintView",
@@ -5282,7 +5432,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FunctionOpenView",
@@ -5317,7 +5468,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CookPopFixView",
@@ -5352,7 +5504,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SingleTimeTowerView",
@@ -5387,7 +5540,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SingleTimeTowerChallengeView",
@@ -5422,7 +5576,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SingleTimeTowerTeamView",
@@ -5457,7 +5612,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SingleTimeTowerDetailView",
@@ -5492,7 +5648,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SingleTimeTowerVictoryView",
@@ -5527,7 +5684,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SingleTimeTowerFailView",
@@ -5562,7 +5720,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "EventConditionFloatTips",
@@ -5597,7 +5756,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ChallengeAchieveFloatTips",
@@ -5632,7 +5792,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ChallengeSuccessFloatTips",
@@ -5667,7 +5828,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ChallengeFailedFloatTips",
@@ -5702,7 +5864,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdditionalTasksFloatTips",
@@ -5737,7 +5900,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DelegateCompletionFloatTips",
@@ -5772,7 +5936,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DungeonClearanceFloatTips",
@@ -5807,7 +5972,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DungeonAutoExitFloatTips",
@@ -5842,7 +6008,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CountDownFloatTips",
@@ -5877,7 +6044,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ChapterStartFloatTips",
@@ -5912,7 +6080,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ChapterEndFloatTips",
@@ -5947,7 +6116,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GuideTipsView",
@@ -5982,7 +6152,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GuideFocusView",
@@ -6017,7 +6188,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GuideTutorialTipsView",
@@ -6052,7 +6224,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GuideTutorialView",
@@ -6087,7 +6260,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ReputationRewardsView",
@@ -6122,7 +6296,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ReputationTips",
@@ -6157,7 +6332,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InfluenceAreaSelectView",
@@ -6192,7 +6368,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InfluenceReputationView",
@@ -6227,7 +6404,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "ReputationDetailsView",
@@ -6262,7 +6440,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "CycleTowerView",
@@ -6297,7 +6476,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CycleTowerChallengeView",
@@ -6332,7 +6512,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CycleTowerTeamView",
@@ -6367,7 +6548,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InfluenceSearchView",
@@ -6402,7 +6584,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ResonanceDetailNewView",
@@ -6437,7 +6620,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "InstanceDungeonReward",
@@ -6472,7 +6656,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InstanceDungeonMonsterPreView",
@@ -6507,7 +6692,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PlotTransitionViewPop",
@@ -6542,7 +6728,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CycleTowerSeasonInfoView",
@@ -6577,7 +6764,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExploreFailView",
@@ -6612,7 +6800,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExploreSuccessView",
@@ -6647,7 +6836,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CycleTowerRewardView",
@@ -6682,7 +6872,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CycleTowerClearInfoView",
@@ -6717,7 +6908,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattlePassMainView",
@@ -6752,7 +6944,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "CycleTowerVictoryView",
@@ -6787,7 +6980,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerDetailView",
@@ -6822,7 +7016,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattlePassBuyLevelView",
@@ -6857,7 +7052,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattlePassPayView",
@@ -6892,7 +7088,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ComposeRootView",
@@ -6927,7 +7124,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "ForgingRootView",
@@ -6962,7 +7160,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RewardPopView",
@@ -6997,7 +7196,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GameplayEnterView",
@@ -7032,7 +7232,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GameplayFirstPassView",
@@ -7067,7 +7268,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PrepareCountdownFloatTips",
@@ -7102,7 +7304,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DrawMainView",
@@ -7137,7 +7340,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleHandBookRootView",
@@ -7172,7 +7376,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoleHandBookSelectionView",
@@ -7207,7 +7412,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoleHandBookPerformanceView",
@@ -7242,7 +7448,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CycleTowerSeasonRewardView",
@@ -7277,7 +7484,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdviceCreateView",
@@ -7312,7 +7520,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdviceRoleView",
@@ -7347,7 +7556,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdviceView",
@@ -7382,7 +7592,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdviceSortWordView",
@@ -7417,7 +7628,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdviceWordView",
@@ -7452,7 +7664,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdviceExpressionView",
@@ -7487,7 +7700,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ResolutionListView",
@@ -7522,7 +7736,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BrightnessView",
@@ -7557,7 +7772,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ConcertoResponseView",
@@ -7592,7 +7808,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ConcertoResponseDescriptionView",
@@ -7627,7 +7844,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattlePassUnlockView",
@@ -7662,7 +7880,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdviceInfoView",
@@ -7697,7 +7916,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattlePassUpLevelView",
@@ -7732,11 +7952,12 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattlePassFirstOpenView",
-    "type": "Pop",
+    "type": "Normal",
     "load_async": true,
     "show_cursor_type": 1,
     "obstruct_ui": [],
@@ -7758,7 +7979,7 @@
     "is_full_screen": false,
     "common_pop_bg": -1,
     "common_pop_bg_key": "",
-    "scene_path": "",
+    "scene_path": "/Game/Aki/Map/UISceneLevel/UI_Scene/UL_UIMap_Character",
     "is_permanent": false,
     "start_black_screen": {
       "show_anim_name": "",
@@ -7767,7 +7988,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SubLevelLoadingView",
@@ -7802,7 +8024,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PlotPhotoView",
@@ -7837,7 +8060,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PhotographView",
@@ -7872,7 +8096,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "PhotographSetupView",
@@ -7907,7 +8132,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PhotoSaveView",
@@ -7942,7 +8168,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TimeOfDayLoadingView",
@@ -7977,7 +8204,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PhantomHandBookView",
@@ -8012,7 +8240,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "WeaponHandBookView",
@@ -8047,7 +8276,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "MonsterHandBookView",
@@ -8082,7 +8312,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ItemHandBookView",
@@ -8117,7 +8348,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AnimalHandBookView",
@@ -8152,7 +8384,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ChipHandBookView",
@@ -8187,7 +8420,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "HandBookPhotoView",
@@ -8222,7 +8456,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GeographyHandBookView",
@@ -8257,7 +8492,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "HandBookEntranceView",
@@ -8292,7 +8528,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "UseReviveItemView",
@@ -8327,7 +8564,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PhantomBattleRecommendView",
@@ -8362,7 +8600,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CalabashUnlockItemView",
@@ -8397,7 +8636,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InstanceDungeonAreaView",
@@ -8432,7 +8672,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PhantomBattleSelectedView",
@@ -8467,7 +8708,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "QuestHandBookView",
@@ -8502,7 +8744,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TimeTrackControlView",
@@ -8537,7 +8780,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AchievementMainView",
@@ -8572,7 +8816,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "AchievementDetailView",
@@ -8607,7 +8852,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "AchievementFinishView",
@@ -8642,7 +8888,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExploreProgressView",
@@ -8677,7 +8924,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DailyTaskEndTips",
@@ -8712,7 +8960,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattleUiSetView",
@@ -8747,7 +8996,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleBreachSuccessView",
@@ -8782,7 +9032,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "LoginServerView",
@@ -8817,7 +9068,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CookSuccessView",
@@ -8852,7 +9104,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DailyTaskHubView",
@@ -8887,7 +9140,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "NewSoundAreaView",
@@ -8922,7 +9176,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleElementView",
@@ -8957,7 +9212,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoleGenderChangeView",
@@ -8992,7 +9248,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AdviceMutiSentenceSelectView",
@@ -9027,7 +9284,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ComboTeachingView",
@@ -9062,7 +9320,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleAttributeDetailView",
@@ -9097,7 +9356,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "CommonActivityView",
@@ -9132,7 +9392,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "OnlineChallengeApplyView",
@@ -9167,7 +9428,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "OnlineChallengeStateView",
@@ -9202,7 +9464,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CalabashUpgradeSuccessView",
@@ -9237,7 +9500,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PersonalRootView",
@@ -9272,7 +9536,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "PersonalOptionView",
@@ -9307,7 +9572,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "PersonalBirthView",
@@ -9342,7 +9608,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "PersonalEditView",
@@ -9377,7 +9644,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "PersonalRoleShowView",
@@ -9412,7 +9680,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "ActivityRunView",
@@ -9447,7 +9716,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ActivityRunSuccessView",
@@ -9482,7 +9752,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ActivityRunFailView",
@@ -9517,7 +9788,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LoginDebugView",
@@ -9552,7 +9824,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LoginDebugPlayerNameView",
@@ -9587,7 +9860,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "OnlineMatchSuccessView",
@@ -9622,7 +9896,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "OnlineSettingView",
@@ -9657,7 +9932,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommonRewardView",
@@ -9692,7 +9968,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CompositeRewardView",
@@ -9727,7 +10004,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExploreRewardView",
@@ -9762,7 +10040,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PhantomBattleFettersObtainView",
@@ -9797,7 +10076,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TeamRoleSelectView",
@@ -9832,7 +10112,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TeamRoleSelectWithModelView",
@@ -9867,7 +10148,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ComboTeachingFloatTips",
@@ -9902,7 +10184,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TurntableControlView",
@@ -9937,7 +10220,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "OnlineProcessView",
@@ -9972,7 +10256,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommunicateView",
@@ -10007,7 +10292,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommonItemSelectViewLeft",
@@ -10042,7 +10328,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommonItemSelectViewRight",
@@ -10077,7 +10364,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionEquipmentView",
@@ -10112,7 +10400,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionLevelUpView",
@@ -10147,7 +10436,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FilterView",
@@ -10182,7 +10472,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionSlotView",
@@ -10217,7 +10508,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionIntensifyView",
@@ -10252,7 +10544,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionRecommendView",
@@ -10287,7 +10580,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SortView",
@@ -10322,7 +10616,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SignalDecodeView",
@@ -10357,7 +10652,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InstanceDungeonGuideView",
@@ -10392,7 +10688,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TabGuideView",
@@ -10427,7 +10724,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "QuestFailRangeTipsView",
@@ -10462,7 +10760,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CalabashRootView",
@@ -10479,7 +10778,7 @@
     "delay_time": 0,
     "effect_delay_time": 0,
     "set_mask_active": true,
-    "time_dilation": 1.0,
+    "time_dilation": 0.0,
     "is_allow_fight_input": false,
     "can_open_view_by_shortcut_key": false,
     "is_short_keys_exit_view": true,
@@ -10497,7 +10796,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "CookLevelView",
@@ -10532,7 +10832,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "CookRoleView",
@@ -10567,7 +10868,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "ManufactureHelpRoleView",
@@ -10602,7 +10904,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "ComposeLevelView",
@@ -10637,7 +10940,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "PhotographEntityView",
@@ -10672,7 +10976,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleLevelUpSuccessAttributeView",
@@ -10707,7 +11012,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleLevelUpSuccessEffectView",
@@ -10742,7 +11048,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommonSingleInputView",
@@ -10777,7 +11084,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommonMultiInputView",
@@ -10812,7 +11120,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleSkillInputView",
@@ -10847,7 +11156,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguePhantomSelectView",
@@ -10882,7 +11192,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguePhantomReplaceView",
@@ -10917,7 +11228,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguePhantomSelectResultView",
@@ -10952,7 +11264,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleBuffSelectView",
@@ -10987,7 +11300,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleReplaceView",
@@ -11022,7 +11336,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RogueRoleSelectResultView",
@@ -11057,7 +11372,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommonSelectView",
@@ -11092,7 +11408,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CommonSelectResultView",
@@ -11127,7 +11444,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RogueBuffSelectView",
@@ -11162,7 +11480,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PingView",
@@ -11197,7 +11516,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SundialControlView",
@@ -11232,7 +11552,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RogueInfoView",
@@ -11267,7 +11588,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RogueShopView",
@@ -11302,7 +11624,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LogUploadView",
@@ -11337,7 +11660,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExitSkillView",
@@ -11372,7 +11696,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "TowerRewardView",
@@ -11407,7 +11732,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerApplyFloorDataView",
@@ -11442,7 +11768,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerNormalView",
@@ -11477,7 +11804,8 @@
     "close_black_screen": {
       "show_anim_name": "Start",
       "hide_anim_name": "Close"
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerFloorView",
@@ -11512,7 +11840,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerVariationView",
@@ -11547,7 +11876,8 @@
     "close_black_screen": {
       "show_anim_name": "Start",
       "hide_anim_name": "Close"
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerResetView",
@@ -11582,7 +11912,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerRecommendView",
@@ -11617,7 +11948,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerFloorDetailView",
@@ -11652,7 +11984,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerReviewView",
@@ -11687,7 +12020,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeSelectRoleView",
@@ -11722,7 +12056,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeSettleView",
@@ -11757,7 +12092,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeExitTips",
@@ -11792,7 +12128,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeRoomFloatTips",
@@ -11827,7 +12164,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FrozenQteView",
@@ -11862,7 +12200,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FadeLoadingView",
@@ -11897,7 +12236,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SignalDeviceView",
@@ -11932,7 +12272,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "BattleFloatTipsView",
@@ -11967,7 +12308,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LordGymEntranceView",
@@ -12002,7 +12344,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "RoguelikeSkillView",
@@ -12037,7 +12380,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionIdentifyView",
@@ -12072,7 +12416,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeSkillOverView",
@@ -12107,7 +12452,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "QuestRewardView",
@@ -12142,7 +12488,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleNewJoinView",
@@ -12175,9 +12522,10 @@
       "hide_anim_name": "Close"
     },
     "close_black_screen": {
-      "show_anim_name": "",
-      "hide_anim_name": ""
-    }
+      "show_anim_name": "None",
+      "hide_anim_name": "Close"
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleNewJoinTipView",
@@ -12212,7 +12560,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SoundAreaPlayTips",
@@ -12228,10 +12577,10 @@
     "close_audio_event": "",
     "delay_time": 0,
     "effect_delay_time": 0,
-    "set_mask_active": true,
+    "set_mask_active": false,
     "time_dilation": 1.0,
     "is_allow_fight_input": true,
-    "can_open_view_by_shortcut_key": false,
+    "can_open_view_by_shortcut_key": true,
     "is_short_keys_exit_view": false,
     "scene_point_tag": "",
     "need_gc": false,
@@ -12247,7 +12596,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExploreDetailView",
@@ -12282,7 +12632,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "QuickRoleSelectView",
@@ -12317,7 +12668,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeActivityView",
@@ -12352,7 +12704,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeMemoryPlaceView",
@@ -12387,7 +12740,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeTokenOverView",
@@ -12422,7 +12776,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeAchievementView",
@@ -12457,7 +12812,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExploreLevelView",
@@ -12492,7 +12848,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExploreLevelPreviewView",
@@ -12527,7 +12884,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ExploreLevelRewardView",
@@ -12562,7 +12920,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeRandomEventView",
@@ -12597,7 +12956,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RolePreviewRootView",
@@ -12632,7 +12992,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "ConfirmBoxMiddleView",
@@ -12667,7 +13028,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionLookOverView",
@@ -12702,7 +13064,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionFilterView",
@@ -12737,7 +13100,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "CdKeyInputView",
@@ -12772,7 +13136,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LoginQueueTipsView",
@@ -12807,7 +13172,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ActivityRewardPopUpView",
@@ -12842,7 +13208,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "InteractQteView",
@@ -12877,7 +13244,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LordGymChallengeRecordView",
@@ -12912,7 +13280,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "LordGymUnlockTipView",
@@ -12947,7 +13316,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ItemDeliverView",
@@ -12982,7 +13352,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "PlotLogoView",
@@ -13017,7 +13388,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleNewJoinRootView",
@@ -13052,7 +13424,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": true
   },
   {
     "view_name": "NewMissionTips",
@@ -13087,7 +13460,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "QuestLockPreview",
@@ -13122,7 +13496,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ToolWindowView",
@@ -13157,7 +13532,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FlowChapterEndTips",
@@ -13192,7 +13568,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "FlowChapterStartTips",
@@ -13227,7 +13604,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "GachaSelectionView",
@@ -13262,7 +13640,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SignalDeviceGuideView",
@@ -13297,7 +13676,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "HelpGuideView",
@@ -13332,7 +13712,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerGuideView",
@@ -13367,7 +13748,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "TowerUnlockView",
@@ -13402,7 +13784,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "SilentAreaRewardPreviewPopView",
@@ -13437,7 +13820,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "OnlineInstanceMatchTips",
@@ -13472,7 +13856,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ConfirmBoxMiddleWithoutItemView",
@@ -13507,7 +13892,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "DestroyPreviewView",
@@ -13542,7 +13928,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RogueAttributeDetailView",
@@ -13577,7 +13964,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "MowingRewardView",
@@ -13612,7 +14000,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionSkinView",
@@ -13647,7 +14036,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoleIntroductionView",
@@ -13682,7 +14072,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "AchievementCompleteTipsView",
@@ -13717,7 +14108,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionNewQualityView",
@@ -13752,7 +14144,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RepeatKeyTipsView",
@@ -13787,7 +14180,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RogueEventResultView",
@@ -13822,7 +14216,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "RoguelikeUnlockTips",
@@ -13857,7 +14252,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "ChangeActionTipsView",
@@ -13892,7 +14288,8 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
   },
   {
     "view_name": "VisionRecoveryResultView",
@@ -13927,6 +14324,871 @@
     "close_black_screen": {
       "show_anim_name": "",
       "hide_anim_name": ""
-    }
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "AchievementRewardItemView",
+    "type": "Float",
+    "load_async": true,
+    "show_cursor_type": 2,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": true,
+    "can_open_view_by_shortcut_key": true,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "RoleTagDetailView",
+    "type": "Pop",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "QuickChatView",
+    "type": "Pop",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "BossRushMainView",
+    "type": "Normal",
+    "load_async": false,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "LongShanView",
+    "type": "Normal",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "RoguelikeSpecialDetailView",
+    "type": "Normal",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "RoguelikeSelectSpecialView",
+    "type": "Normal",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "LongShanUnlockView",
+    "type": "Float",
+    "load_async": true,
+    "show_cursor_type": 2,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": true,
+    "can_open_view_by_shortcut_key": true,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "RoguelikeInstanceEntrySelectView",
+    "type": "Pop",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 0.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": 1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "DifficultUnlockTipView",
+    "type": "Float",
+    "load_async": true,
+    "show_cursor_type": 2,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": true,
+    "can_open_view_by_shortcut_key": true,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "CollectItemView",
+    "type": "Normal",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "FragmentedCluesView",
+    "type": "Pop",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": 7,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "ObtainFragmentView",
+    "type": "Pop",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": 7,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "MemoryFragmentMainView",
+    "type": "Normal",
+    "load_async": false,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "MemoryDetailView",
+    "type": "Normal",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "ExploreMissionView",
+    "type": "Pop",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": 3,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "RemainStarWarningTips",
+    "type": "Float",
+    "load_async": true,
+    "show_cursor_type": 2,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": true,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "RoleBreakPreviewView",
+    "type": "Pop",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "ActivityTurntableRewardView",
+    "type": "Pop",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 0.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "PlotTipsView",
+    "type": "HUD",
+    "load_async": true,
+    "show_cursor_type": 2,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": true,
+    "can_open_view_by_shortcut_key": true,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "ActivityUnlockTipView",
+    "type": "Float",
+    "load_async": true,
+    "show_cursor_type": 2,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": true,
+    "can_open_view_by_shortcut_key": true,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "HandBookRoleView",
+    "type": "Normal",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "/Game/Aki/Map/UISceneLevel/UI_Scene/UL_UIMap_Character",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "Start",
+      "hide_anim_name": "Close"
+    },
+    "close_black_screen": {
+      "show_anim_name": "Start",
+      "hide_anim_name": "Close"
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "HandBookQuestPlotView",
+    "type": "Normal",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "/Game/Aki/Map/UISceneLevel/UI_Scene/UL_UIMap_Character",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "RogueScoreUnit",
+    "type": "HUD",
+    "load_async": true,
+    "show_cursor_type": 2,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": true,
+    "can_open_view_by_shortcut_key": true,
+    "is_short_keys_exit_view": false,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
   }
 ]

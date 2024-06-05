@@ -474,5 +474,26 @@
     "desc": "交互通用图标：副本 路径",
     "type": "String",
     "value": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Play_01_UI.T_IconMap_Play_01_UI"
+  },
+  {
+    "id": 900001,
+    "name": "EInteractIcon.ChengXiaoShanShop",
+    "desc": "交互通用图标：乘霄山收集物商店 路径",
+    "type": "String",
+    "value": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Play_13_UI.T_IconMap_Play_13_UI"
+  },
+  {
+    "id": 900002,
+    "name": "Plot.AudioEndWaitTimePrompt",
+    "desc": "吉祥物对话：语音结束到下一句话的间隔（秒）",
+    "type": "String",
+    "value": "1"
+  },
+  {
+    "id": 900003,
+    "name": "Plot.DefaultDurationPrompt",
+    "desc": "吉祥物对话：没有音频时一句话的显示时长（秒）",
+    "type": "String",
+    "value": "3"
   }
 ]

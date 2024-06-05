@@ -3348,5 +3348,210 @@
     "consume": 1,
     "gold_consume": 0,
     "alternative_consume": []
+  },
+  {
+    "id": 385,
+    "reson_id": 21010063,
+    "level": 1,
+    "name": "WeaponReson_21010063_Name",
+    "effect": [
+      110006703,
+      110006708,
+      110006701
+    ],
+    "consume": 1,
+    "gold_consume": 4000,
+    "alternative_consume": []
+  },
+  {
+    "id": 386,
+    "reson_id": 21010063,
+    "level": 2,
+    "name": "WeaponReson_21010063_Name",
+    "effect": [
+      110006704,
+      110006709,
+      110006701
+    ],
+    "consume": 1,
+    "gold_consume": 8000,
+    "alternative_consume": []
+  },
+  {
+    "id": 387,
+    "reson_id": 21010063,
+    "level": 3,
+    "name": "WeaponReson_21010063_Name",
+    "effect": [
+      110006705,
+      110006710,
+      110006701
+    ],
+    "consume": 1,
+    "gold_consume": 12000,
+    "alternative_consume": []
+  },
+  {
+    "id": 388,
+    "reson_id": 21010063,
+    "level": 4,
+    "name": "WeaponReson_21010063_Name",
+    "effect": [
+      110006706,
+      110006711,
+      110006701
+    ],
+    "consume": 1,
+    "gold_consume": 16000,
+    "alternative_consume": []
+  },
+  {
+    "id": 389,
+    "reson_id": 21010063,
+    "level": 5,
+    "name": "WeaponReson_21010063_Name",
+    "effect": [
+      110006707,
+      110006712,
+      110006701
+    ],
+    "consume": 1,
+    "gold_consume": 0,
+    "alternative_consume": []
+  },
+  {
+    "id": 390,
+    "reson_id": 21010026,
+    "level": 1,
+    "name": "WeaponReson_21010026_Name",
+    "effect": [
+      110006901,
+      110006916
+    ],
+    "consume": 1,
+    "gold_consume": 10000,
+    "alternative_consume": []
+  },
+  {
+    "id": 391,
+    "reson_id": 21010026,
+    "level": 2,
+    "name": "WeaponReson_21010026_Name",
+    "effect": [
+      110006902,
+      110006917
+    ],
+    "consume": 1,
+    "gold_consume": 20000,
+    "alternative_consume": []
+  },
+  {
+    "id": 392,
+    "reson_id": 21010026,
+    "level": 3,
+    "name": "WeaponReson_21010026_Name",
+    "effect": [
+      110006903,
+      110006918
+    ],
+    "consume": 1,
+    "gold_consume": 30000,
+    "alternative_consume": []
+  },
+  {
+    "id": 393,
+    "reson_id": 21010026,
+    "level": 4,
+    "name": "WeaponReson_21010026_Name",
+    "effect": [
+      110006904,
+      110006919
+    ],
+    "consume": 1,
+    "gold_consume": 40000,
+    "alternative_consume": []
+  },
+  {
+    "id": 394,
+    "reson_id": 21010026,
+    "level": 5,
+    "name": "WeaponReson_21010026_Name",
+    "effect": [
+      110006905,
+      110006920
+    ],
+    "consume": 1,
+    "gold_consume": 0,
+    "alternative_consume": []
+  },
+  {
+    "id": 395,
+    "reson_id": 21020016,
+    "level": 1,
+    "name": "WeaponReson_21020016_Name",
+    "effect": [
+      110006811,
+      110006821,
+      110006851
+    ],
+    "consume": 1,
+    "gold_consume": 10000,
+    "alternative_consume": []
+  },
+  {
+    "id": 396,
+    "reson_id": 21020016,
+    "level": 2,
+    "name": "WeaponReson_21020016_Name",
+    "effect": [
+      110006812,
+      110006822,
+      110006852
+    ],
+    "consume": 1,
+    "gold_consume": 20000,
+    "alternative_consume": []
+  },
+  {
+    "id": 397,
+    "reson_id": 21020016,
+    "level": 3,
+    "name": "WeaponReson_21020016_Name",
+    "effect": [
+      110006813,
+      110006823,
+      110006853
+    ],
+    "consume": 1,
+    "gold_consume": 30000,
+    "alternative_consume": []
+  },
+  {
+    "id": 398,
+    "reson_id": 21020016,
+    "level": 4,
+    "name": "WeaponReson_21020016_Name",
+    "effect": [
+      110006814,
+      110006824,
+      110006854
+    ],
+    "consume": 1,
+    "gold_consume": 40000,
+    "alternative_consume": []
+  },
+  {
+    "id": 399,
+    "reson_id": 21020016,
+    "level": 5,
+    "name": "WeaponReson_21020016_Name",
+    "effect": [
+      110006815,
+      110006825,
+      110006855
+    ],
+    "consume": 1,
+    "gold_consume": 0,
+    "alternative_consume": []
   }
 ]

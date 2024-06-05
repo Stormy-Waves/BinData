@@ -1,0 +1,12 @@
+[
+  {
+    "id": 101,
+    "rank": 100,
+    "bg_resource_light": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityProcessMemory/SP_ActivityProcessMemoryIconLight.SP_ActivityProcessMemoryIconLight",
+    "bg_resource": "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityProcessMemory/SP_ActivityProcessMemoryIconNor.SP_ActivityProcessMemoryIconNor",
+    "topic_texture": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityProcessMemory/T_ActivityProcessMemoryPix01.T_ActivityProcessMemoryPix01",
+    "title": "PhotoMemory_101_Title",
+    "clue_id": 1,
+    "condition_group_id": 13000069
+  }
+]

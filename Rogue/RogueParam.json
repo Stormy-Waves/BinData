@@ -29,6 +29,53 @@
       8004,
       8005,
       8006
+    ],
+    "dungeon_role_open_time_map": []
+  },
+  {
+    "id": 2,
+    "roguelike_settle_bg_s": "/Game/Aki/UI/UIResources/Common/Image/BgCg/T_RogueAccountsBg.T_RogueAccountsBg",
+    "roguelike_settle_bg_normal": "/Game/Aki/UI/UIResources/Common/Image/BgCg/T_RogueBg.T_RogueBg",
+    "roguelike_room_float_tips_no_head_icon": "/Game/Aki/UI/UIResources/UiTips/Atlas/SP_RogueBossIcon.SP_RogueBossIcon",
+    "roguelike_room_float_tips_special_icon": "Game/Aki/UI/UIResources/UiTips/Atlas/SP_RogueSpecialIcon.SP_RogueSpecialIcon",
+    "roguelike_settle_s": 100,
+    "roguelike_settle_a": 80,
+    "roguelike_settle_b": 50,
+    "roguelike_settle_c": 0,
+    "point_item": 80100002,
+    "point_item_max_count": 100000,
+    "token_item": 80100001,
+    "week_token_max_count": 5200,
+    "skill_point": 80100003,
+    "skill_point_max_count": 600,
+    "inside_currency": 80100000,
+    "guide_inst_array": [
+      8100
+    ],
+    "guide_inst_role_id_array": [
+      5200012,
+      5200011
+    ],
+    "dungeon_list": [
+      8007,
+      8008,
+      8009,
+      8010,
+      8011
+    ],
+    "dungeon_role_open_time_map": [
+      {
+        "key": 5200051,
+        "value": 1064
+      },
+      {
+        "key": 5200049,
+        "value": 1064
+      },
+      {
+        "key": 5200050,
+        "value": 1064
+      }
     ]
   }
 ]

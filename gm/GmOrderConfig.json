@@ -468,6 +468,15 @@
     "visible": true
   },
   {
+    "id": 2011,
+    "name": "设置禁止传送副本",
+    "name_override": "设置禁止传送副本",
+    "code": "gmsetlimitteleportdungeon 是否禁止",
+    "code_override": "gmsetlimitteleportdungeon 是否禁止",
+    "sort": 2011,
+    "visible": true
+  },
+  {
     "id": 1009,
     "name": "一键毕业-关卡测试",
     "name_override": "一键毕业-关卡测试",

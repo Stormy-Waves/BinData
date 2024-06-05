@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "activity_id": 100600001,
     "season_name": "8002",
     "point_item": 80100002,
     "instance_dungeon_entrance": 8002,
@@ -26,6 +27,44 @@
         "key": 8006,
         "value": 3505
       }
-    ]
+    ],
+    "shop_id": 201,
+    "achievement": 7,
+    "param_id": 2,
+    "rogue_theme_type": "0"
+  },
+  {
+    "id": 2,
+    "activity_id": 100600002,
+    "season_name": "8002",
+    "point_item": 80100002,
+    "instance_dungeon_entrance": 8002,
+    "tab_icon": "",
+    "first_pass_reward_map": [
+      {
+        "key": 8007,
+        "value": 3511
+      },
+      {
+        "key": 8008,
+        "value": 3512
+      },
+      {
+        "key": 8009,
+        "value": 3513
+      },
+      {
+        "key": 8010,
+        "value": 3514
+      },
+      {
+        "key": 8011,
+        "value": 3515
+      }
+    ],
+    "shop_id": 204,
+    "achievement": 8,
+    "param_id": 2,
+    "rogue_theme_type": "ZhongQu"
   }
 ]

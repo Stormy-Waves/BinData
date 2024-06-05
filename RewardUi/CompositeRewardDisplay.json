@@ -70,5 +70,17 @@
     "is_item_visible": true,
     "is_success": true,
     "audio_id": ""
+  },
+  {
+    "id": 2007,
+    "title": "CompositeRewardDisplay_2006_Title",
+    "continue_text": "CompositeRewardDisplay_2001_ContinueText",
+    "title_icon_path": "/Game/Aki/UI/UIResources/Common/Image/IconSkill/T_FightDingfengduo_UI.T_FightDingfengduo_UI",
+    "is_progress_visible": false,
+    "progress_bar_title": "",
+    "progress_bar_animation_time": 500,
+    "is_item_visible": true,
+    "is_success": true,
+    "audio_id": ""
   }
 ]

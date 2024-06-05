@@ -126,5 +126,21 @@
     "cook_probability": 20,
     "item_id": 80001032,
     "attributes_description": ""
+  },
+  {
+    "id": 1017,
+    "role_id": 1304,
+    "formula_id": 10033,
+    "cook_probability": 20,
+    "item_id": 80001033,
+    "attributes_description": ""
+  },
+  {
+    "id": 1018,
+    "role_id": 1205,
+    "formula_id": 10034,
+    "cook_probability": 20,
+    "item_id": 80001034,
+    "attributes_description": ""
   }
 ]

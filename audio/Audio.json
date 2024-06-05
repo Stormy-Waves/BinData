@@ -82,5 +82,29 @@
   {
     "id": "play_ui_fb_warn",
     "path": "/Game/Aki/WwiseAudio/Events/play_ui_fb_warn.play_ui_fb_warn"
+  },
+  {
+    "id": "SignalDecodeGame_music_play_BGM",
+    "path": "/Game/Aki/WwiseAudio/Events/play_function_music_worldgame_sevenday.play_function_music_worldgame_sevenday"
+  },
+  {
+    "id": "SignalDecodeGame_music_stop_BGM",
+    "path": "/Game/Aki/WwiseAudio/Events/stop_function_music_worldgame_sevenday.stop_function_music_worldgame_sevenday"
+  },
+  {
+    "id": "SignalDecodeGame_music_play_presserror",
+    "path": "/Game/Aki/WwiseAudio/Events/play_amb_interact_capture_signal_release_error.play_amb_interact_capture_signal_release_error"
+  },
+  {
+    "id": "SignalDecodeGame_music_stop_presserror",
+    "path": "/Game/Aki/WwiseAudio/Events/stop_amb_interact_capture_signal_press_loop.stop_amb_interact_capture_signal_press_loop"
+  },
+  {
+    "id": "SignalDecodeGame_music_pause_BGM",
+    "path": "/Game/Aki/WwiseAudio/Events/pause_function_music_worldgame_sevenday.pause_function_music_worldgame_sevenday"
+  },
+  {
+    "id": "SignalDecodeGame_music_resume_BGM",
+    "path": "/Game/Aki/WwiseAudio/Events/resume_function_music_worldgame_sevenday.resume_function_music_worldgame_sevenday"
   }
 ]

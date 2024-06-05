@@ -574,5 +574,33 @@
     "execution_radius": 3.0,
     "force_lock_on_coefficient": 0.0,
     "monster_size_id": 2
+  },
+  {
+    "id": 80017001,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
+  },
+  {
+    "id": 77049,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
+  },
+  {
+    "id": 770421,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
+  },
+  {
+    "id": 770082,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 4
   }
 ]

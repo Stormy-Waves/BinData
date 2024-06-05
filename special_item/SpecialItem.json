@@ -45,5 +45,17 @@
     "use_instance": false,
     "ban_tags": [],
     "allow_tags": []
+  },
+  {
+    "id": 70140004,
+    "special_item_type": 0,
+    "use_instance": false,
+    "ban_tags": [
+      "行为状态.逻辑状态.进入战斗",
+      "行为状态.逻辑状态.技能中"
+    ],
+    "allow_tags": [
+      "行为状态.位置状态.地面"
+    ]
   }
 ]

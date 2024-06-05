@@ -366,5 +366,386 @@
     "buff_array2": [],
     "extra_effect_type_array2": [],
     "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009001,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000111
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009002,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000005,
+      900170000007
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009003,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 99,
+    "room_count": 99,
+    "buff_array1": [],
+    "extra_effect_type_array1": [
+      "EntranceBuff"
+    ],
+    "extra_effect_type_args_array1": [
+      "900170000008;900170000009"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009004,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000001
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009005,
+    "main_effect_type": 2,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [],
+    "extra_effect_type_array1": [
+      "ResonanceChainUp"
+    ],
+    "extra_effect_type_args_array1": [
+      "2"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009006,
+    "main_effect_type": 2,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [],
+    "extra_effect_type_array1": [
+      "LevelUpByBall"
+    ],
+    "extra_effect_type_args_array1": [
+      "10;5"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009007,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [],
+    "extra_effect_type_array1": [
+      "GainRollGain"
+    ],
+    "extra_effect_type_args_array1": [
+      "20;1;;;3|4"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009008,
+    "main_effect_type": 2,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [],
+    "extra_effect_type_array1": [
+      "GoldGetGold"
+    ],
+    "extra_effect_type_args_array1": [
+      "10000"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009009,
+    "main_effect_type": 2,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [],
+    "extra_effect_type_array1": [
+      "BallGetGold"
+    ],
+    "extra_effect_type_args_array1": [
+      "500000"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010001,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000201
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010002,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000202
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010003,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000203
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010004,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000204
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010005,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000205
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010006,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000206
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010007,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000207
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010008,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000208
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010009,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000209
+    ],
+    "extra_effect_type_array1": [
+      "MonsterAddBuff"
+    ],
+    "extra_effect_type_args_array1": [
+      "900170000214"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10010010,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000210
+    ],
+    "extra_effect_type_array1": [
+      "MonsterAddBuff"
+    ],
+    "extra_effect_type_args_array1": [
+      "900170000215"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009010,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000123
+    ],
+    "extra_effect_type_array1": [],
+    "extra_effect_type_args_array1": [],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009011,
+    "main_effect_type": 2,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [],
+    "extra_effect_type_array1": [
+      "RemoveGold",
+      "RollGain"
+    ],
+    "extra_effect_type_args_array1": [
+      "9999",
+      "5;;;3|4"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
+  },
+  {
+    "id": 10009012,
+    "main_effect_type": 1,
+    "condition": 0,
+    "condition_args": [],
+    "count": 1,
+    "room_count": 99,
+    "buff_array1": [
+      900170000125
+    ],
+    "extra_effect_type_array1": [
+      "GoldGetRatioUpRatio"
+    ],
+    "extra_effect_type_args_array1": [
+      "20000"
+    ],
+    "buff_array2": [],
+    "extra_effect_type_array2": [],
+    "extra_effect_type_args_array2": []
   }
 ]

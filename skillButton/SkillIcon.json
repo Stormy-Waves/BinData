@@ -58,5 +58,17 @@
     "tag": "角色.Common.探索技能.新版控物.抛物线模式",
     "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconAimPre.SP_IconAimPre",
     "name": ""
+  },
+  {
+    "id": 11,
+    "tag": "幻象.声骸角色.叮咚咚.跳跃",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconVision/SP_IconVision02.SP_IconVision02",
+    "name": ""
+  },
+  {
+    "id": 12,
+    "tag": "幻象.声骸角色.叮咚咚.疾跑",
+    "icon_path": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconVision/SP_IconVision04.SP_IconVision04",
+    "name": ""
   }
 ]

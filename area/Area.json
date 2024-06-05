@@ -264,6 +264,27 @@
     "sort_index": 11
   },
   {
+    "area_id": 14,
+    "level": 2,
+    "country_id": 1,
+    "delivery_mark_id": 1014,
+    "area_name": "MapAreaVolume_CXS",
+    "title": "Area_14_Title",
+    "father": 1,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 0,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "/Game/Aki/Data/PathLine/Pathline_EdgeWall/BP_BasePathLine_Edgewall.BP_BasePathLine_Edgewall",
+    "delivery_mark_type": 1,
+    "sort_index": 12
+  },
+  {
     "area_id": 100,
     "level": 4,
     "country_id": 1,
@@ -3736,7 +3757,7 @@
     "world_monster_level_max": [],
     "wu_yin_qu_id": 0,
     "atmosphere_id": 0,
-    "edge_wall_name": "/Game/Aki/Data/PathLine/Pathline_EdgeWall/BP_BasePathLine_Edgewall_1-0_BLY.BP_BasePathLine_Edgewall_1-0_BLY",
+    "edge_wall_name": "/Game/Aki/Data/PathLine/Pathline_EdgeWall/BP_BasePathLine_Edgewall_1-1.BP_BasePathLine_Edgewall_1-1",
     "delivery_mark_type": 0,
     "sort_index": 0
   },
@@ -3788,6 +3809,321 @@
         "value": 91
       }
     ],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1601,
+    "level": 4,
+    "country_id": 1,
+    "delivery_mark_id": 0,
+    "area_name": "MapAreaVolume_CXS_XJL_YBYJ_Top",
+    "title": "Area_1601_Title",
+    "father": 1612,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1602,
+    "level": 4,
+    "country_id": 1,
+    "delivery_mark_id": 0,
+    "area_name": "MapAreaVolume_CXS_XJL_YBYJ_Middle",
+    "title": "Area_1602_Title",
+    "father": 1612,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1603,
+    "level": 4,
+    "country_id": 1,
+    "delivery_mark_id": 0,
+    "area_name": "MapAreaVolume_CXS_XJL_YBYJ_Bottom",
+    "title": "Area_1603_Title",
+    "father": 1612,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1611,
+    "level": 3,
+    "country_id": 1,
+    "delivery_mark_id": 201101,
+    "area_name": "MapAreaVolume_CXS_XGT",
+    "title": "Area_1611_Title",
+    "father": 14,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1612,
+    "level": 3,
+    "country_id": 1,
+    "delivery_mark_id": 201102,
+    "area_name": "MapAreaVolume_CXS_XJL",
+    "title": "Area_1612_Title",
+    "father": 14,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1613,
+    "level": 3,
+    "country_id": 1,
+    "delivery_mark_id": 201103,
+    "area_name": "MapAreaVolume_CXS_HZ",
+    "title": "Area_1613_Title",
+    "father": 14,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1614,
+    "level": 3,
+    "country_id": 1,
+    "delivery_mark_id": 201104,
+    "area_name": "MapAreaVolume_CXS_TQM",
+    "title": "Area_1614_Title",
+    "father": 14,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1615,
+    "level": 3,
+    "country_id": 1,
+    "delivery_mark_id": 201105,
+    "area_name": "MapAreaVolume_CXS_YLJ",
+    "title": "Area_1615_Title",
+    "father": 14,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1616,
+    "level": 3,
+    "country_id": 1,
+    "delivery_mark_id": 201106,
+    "area_name": "MapAreaVolume_CXS_WLG",
+    "title": "Area_1616_Title",
+    "father": 14,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1617,
+    "level": 3,
+    "country_id": 1,
+    "delivery_mark_id": 201107,
+    "area_name": "MapAreaVolume_CXS_PLY",
+    "title": "Area_1617_Title",
+    "father": 14,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1631,
+    "level": 4,
+    "country_id": 1,
+    "delivery_mark_id": 0,
+    "area_name": "MapAreaVolume_CXS_TQM_HMQ_Top",
+    "title": "Area_1631_Title",
+    "father": 1614,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1632,
+    "level": 4,
+    "country_id": 1,
+    "delivery_mark_id": 0,
+    "area_name": "MapAreaVolume_CXS_TQM_HMQ_Middle",
+    "title": "Area_1632_Title",
+    "father": 1614,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1633,
+    "level": 4,
+    "country_id": 1,
+    "delivery_mark_id": 0,
+    "area_name": "MapAreaVolume_CXS_TQM_HMQ_Bottom",
+    "title": "Area_1633_Title",
+    "father": 1614,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1641,
+    "level": 4,
+    "country_id": 1,
+    "delivery_mark_id": 0,
+    "area_name": "MapAreaVolume_CXS_WLG_MLT_Top",
+    "title": "Area_1641_Title",
+    "father": 1616,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
+    "wu_yin_qu_id": 0,
+    "atmosphere_id": 0,
+    "edge_wall_name": "",
+    "delivery_mark_type": 0,
+    "sort_index": 0
+  },
+  {
+    "area_id": 1642,
+    "level": 4,
+    "country_id": 1,
+    "delivery_mark_id": 0,
+    "area_name": "MapAreaVolume_CXS_WLG_MLT_Bottom",
+    "title": "Area_1642_Title",
+    "father": 1616,
+    "tag": [
+      0
+    ],
+    "record": 1,
+    "tips": 1,
+    "is_init_actived": true,
+    "world_monster_level_max": [],
     "wu_yin_qu_id": 0,
     "atmosphere_id": 0,
     "edge_wall_name": "",

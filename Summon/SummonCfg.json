@@ -1523,5 +1523,133 @@
     "inherit_attribute_base_type": 0,
     "inherit_summoner_attribute": [],
     "born_buff_id": []
+  },
+  {
+    "id": 3980021,
+    "blueprint_type": "Gameplay_CSX_9",
+    "survival_time": 0,
+    "inherit_level_type": 0,
+    "inherit_level_param": 0,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": []
+  },
+  {
+    "id": 3980022,
+    "blueprint_type": "Gameplay_CSX_8",
+    "survival_time": 0,
+    "inherit_level_type": 0,
+    "inherit_level_param": 0,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": []
+  },
+  {
+    "id": 200051,
+    "blueprint_type": "Vision051",
+    "survival_time": 15,
+    "inherit_level_type": 2,
+    "inherit_level_param": 1,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": [
+      1001002004,
+      1101009004
+    ]
+  },
+  {
+    "id": 200052,
+    "blueprint_type": "Vision052",
+    "survival_time": 15,
+    "inherit_level_type": 2,
+    "inherit_level_param": 1,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": [
+      1001002004,
+      1101009004
+    ]
+  },
+  {
+    "id": 200053,
+    "blueprint_type": "Vision053",
+    "survival_time": 15,
+    "inherit_level_type": 2,
+    "inherit_level_param": 1,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": [
+      1001002004,
+      1101009004
+    ]
+  },
+  {
+    "id": 200054,
+    "blueprint_type": "Vision054",
+    "survival_time": 15,
+    "inherit_level_type": 2,
+    "inherit_level_param": 1,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": [
+      1001002004,
+      1101009004
+    ]
+  },
+  {
+    "id": 200055,
+    "blueprint_type": "Vision055",
+    "survival_time": 15,
+    "inherit_level_type": 2,
+    "inherit_level_param": 1,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": [
+      1001002004,
+      1101009004
+    ]
+  },
+  {
+    "id": 280012,
+    "blueprint_type": "VisionBoss012",
+    "survival_time": 15,
+    "inherit_level_type": 2,
+    "inherit_level_param": 1,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": [
+      1001002004,
+      1101009004
+    ]
+  },
+  {
+    "id": 201052,
+    "blueprint_type": "Vision056",
+    "survival_time": 15,
+    "inherit_level_type": 2,
+    "inherit_level_param": 1,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": []
+  },
+  {
+    "id": 201050,
+    "blueprint_type": "Vision057",
+    "survival_time": 15,
+    "inherit_level_type": 2,
+    "inherit_level_param": 1,
+    "attribute_type": 0,
+    "inherit_attribute_base_type": 0,
+    "inherit_summoner_attribute": [],
+    "born_buff_id": []
   }
 ]

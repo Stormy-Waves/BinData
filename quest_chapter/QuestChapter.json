@@ -57,10 +57,10 @@
   },
   {
     "id": 8,
-    "chapter_num": "QuestChapter_8_ChapterNum",
-    "section_num": "QuestChapter_8_SectionNum",
-    "act_name": "QuestChapter_8_ActName",
-    "chapter_name": "QuestChapter_8_ChapterName",
+    "chapter_num": "QuestChapter_8_ChapterNum_new",
+    "section_num": "QuestChapter_8_SectionNum_new",
+    "act_name": "QuestChapter_8_ActName_new",
+    "chapter_name": "QuestChapter_8_ChapterName_new",
     "chapter_icon": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI"
   },
   {
@@ -189,6 +189,22 @@
     "section_num": "QuestChapter_2012_SectionNum",
     "act_name": "QuestChapter_2012_ChapterName",
     "chapter_name": "QuestChapter_2012_ChapterName",
+    "chapter_icon": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI"
+  },
+  {
+    "id": 1009,
+    "chapter_num": "QuestChapter_1009_ChapterNum",
+    "section_num": "QuestChapter_1009_SectionNum",
+    "act_name": "QuestChapter_1009_ChapterName",
+    "chapter_name": "QuestChapter_1009_ChapterName",
+    "chapter_icon": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI"
+  },
+  {
+    "id": 2013,
+    "chapter_num": "QuestChapter_2013_ChapterNum",
+    "section_num": "QuestChapter_2013_SectionNum",
+    "act_name": "QuestChapter_2013_ChapterName",
+    "chapter_name": "QuestChapter_2013_ChapterName",
     "chapter_icon": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI"
   }
 ]

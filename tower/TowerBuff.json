@@ -118,5 +118,41 @@
     "name": "",
     "desc": "TowerChallengeBuff_92007106_Desc",
     "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+  },
+  {
+    "id": 92008024,
+    "name": "",
+    "desc": "TowerChallengeBuff_92008024_Desc",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredcrit_UI.T_Iconpropertyredcrit_UI"
+  },
+  {
+    "id": 92008025,
+    "name": "",
+    "desc": "TowerChallengeBuff_92008025_Desc",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredspeed_UI.T_Iconpropertyredspeed_UI"
+  },
+  {
+    "id": 92008026,
+    "name": "",
+    "desc": "TowerChallengeBuff_92008026_Desc",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+  },
+  {
+    "id": 92007103,
+    "name": "",
+    "desc": "TowerChallengeBuff_92007103_Desc",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredice_UI.T_Iconpropertyredice_UI"
+  },
+  {
+    "id": 92007104,
+    "name": "",
+    "desc": "TowerChallengeBuff_92007104_Desc",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredlight_UI.T_Iconpropertyredlight_UI"
+  },
+  {
+    "id": 92007105,
+    "name": "",
+    "desc": "TowerChallengeBuff_92007105_Desc",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyreddark_UI.T_Iconpropertyreddark_UI"
   }
 ]

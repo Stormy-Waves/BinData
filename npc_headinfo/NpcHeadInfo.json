@@ -46,7 +46,7 @@
   },
   {
     "id": 10,
-    "second_name": "NpcHeadInfo_10_SecondName",
+    "second_name": "",
     "function_path": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_06_UI.T_IconMap_Shop_06_UI"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "id": 12,
-    "second_name": "NpcHeadInfo_12_SecondName",
+    "second_name": "",
     "function_path": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_07_UI.T_IconMap_Shop_07_UI"
   },
   {
@@ -78,5 +78,15 @@
     "id": 16,
     "second_name": "NpcHeadInfo_16_SecondName",
     "function_path": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Play_01_UI.T_IconMap_Play_01_UI"
+  },
+  {
+    "id": 17,
+    "second_name": "NpcHeadInfo_17_SecondName",
+    "function_path": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Play_13_UI.T_IconMap_Play_13_UI"
+  },
+  {
+    "id": 19,
+    "second_name": "NpcHeadInfo_19_SecondName",
+    "function_path": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_10_UI.T_IconMap_Shop_10_UI"
   }
 ]

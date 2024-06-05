@@ -4624,8 +4624,13 @@
       }
     ],
     "default_param3": "-1",
-    "param4": [],
-    "default_param4": "",
+    "param4": [
+      {
+        "key": "Online",
+        "value": "Int"
+      }
+    ],
+    "default_param4": "0",
     "param5": [],
     "default_param5": "",
     "param6": [],
@@ -4686,8 +4691,13 @@
       }
     ],
     "default_param4": "-1",
-    "param5": [],
-    "default_param5": "",
+    "param5": [
+      {
+        "key": "Online",
+        "value": "Int"
+      }
+    ],
+    "default_param5": "0",
     "param6": [],
     "default_param6": "",
     "param7": [],
@@ -5048,8 +5058,13 @@
       }
     ],
     "default_param5": "-1",
-    "param6": [],
-    "default_param6": "",
+    "param6": [
+      {
+        "key": "Online",
+        "value": "Int"
+      }
+    ],
+    "default_param6": "0",
     "param7": [],
     "default_param7": "",
     "param8": [],
@@ -5336,8 +5351,13 @@
       }
     ],
     "default_param4": "-1",
-    "param5": [],
-    "default_param5": "",
+    "param5": [
+      {
+        "key": "Online",
+        "value": "Int"
+      }
+    ],
+    "default_param5": "0",
     "param6": [],
     "default_param6": "",
     "param7": [],
@@ -6818,8 +6838,13 @@
       }
     ],
     "default_param7": "-1",
-    "param8": [],
-    "default_param8": "",
+    "param8": [
+      {
+        "key": "MaxScoreCount",
+        "value": "Int"
+      }
+    ],
+    "default_param8": "-1",
     "param9": [],
     "default_param9": "",
     "param10": [],
@@ -6972,8 +6997,13 @@
       }
     ],
     "default_param4": "-1",
-    "param5": [],
-    "default_param5": "",
+    "param5": [
+      {
+        "key": "Online",
+        "value": "Int"
+      }
+    ],
+    "default_param5": "0",
     "param6": [],
     "default_param6": "",
     "param7": [],
@@ -7920,8 +7950,13 @@
       }
     ],
     "default_param3": "",
-    "param4": [],
-    "default_param4": "",
+    "param4": [
+      {
+        "key": "EntityConfigId",
+        "value": "IntArray"
+      }
+    ],
+    "default_param4": "0",
     "param5": [],
     "default_param5": "",
     "param6": [],
@@ -8553,6 +8588,71 @@
     "default_param16": ""
   },
   {
+    "type": "EntityInteractByType",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "BpType",
+        "value": "String"
+      }
+    ],
+    "default_param1": "0",
+    "param2": [
+      {
+        "key": "EntityMainType",
+        "value": "String"
+      }
+    ],
+    "default_param2": "0",
+    "param3": [
+      {
+        "key": "AnimalType",
+        "value": "String"
+      }
+    ],
+    "default_param3": "0",
+    "param4": [
+      {
+        "key": "InstSubType",
+        "value": "Int"
+      }
+    ],
+    "default_param4": "-1",
+    "param5": [
+      {
+        "key": "Online",
+        "value": "Int"
+      }
+    ],
+    "default_param5": "0",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
     "type": "ClientCalabashLevel",
     "is_client_trigger": true,
     "sub_type": 1,
@@ -8999,6 +9099,1191 @@
       }
     ],
     "default_param5": "-1",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "WeaponBreakthrough",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "BreachLevel",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "BuffRevive",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Id",
+        "value": "IntArray"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "RoleFavorMax",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "FirstRoleFavorLevel",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Level",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "ReduceWorldLevel",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "FriendCountMax",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "AddFriends",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "OnlineWithFriend",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "OnlineKillBoss",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "ModelId",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "InstACE",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "InstSubType",
+        "value": "IntArray"
+      }
+    ],
+    "default_param1": "-1",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "TowerPerfectPass",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "TowerNoHarmPass",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Difficulty",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "-1",
+    "param2": [
+      {
+        "key": "AreaId",
+        "value": "Int"
+      }
+    ],
+    "default_param2": "-1",
+    "param3": [
+      {
+        "key": "Floor",
+        "value": "Int"
+      }
+    ],
+    "default_param3": "-1",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "TowerLimitedPass",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Difficulty",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "-1",
+    "param2": [
+      {
+        "key": "AreaId",
+        "value": "Int"
+      }
+    ],
+    "default_param2": "-1",
+    "param3": [
+      {
+        "key": "Floor",
+        "value": "Int"
+      }
+    ],
+    "default_param3": "-1",
+    "param4": [
+      {
+        "key": "Second",
+        "value": "Int"
+      }
+    ],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "DragonPoolLevel",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Id",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "RoleAddBuff",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "BuffId",
+        "value": "Long"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "MonsterCreatorComplete",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "EntityConfigId",
+        "value": "IntArray"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "CheckIsMulti",
+    "is_client_trigger": true,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "CheckHasUnlockAffixInBossRush",
+    "is_client_trigger": true,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "ActivityId",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "CheckHasFirstPhantomAtPosition",
+    "is_client_trigger": true,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Position",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [
+      {
+        "key": "Available",
+        "value": "Int"
+      }
+    ],
+    "default_param2": "",
+    "param3": [
+      {
+        "key": "IsFull",
+        "value": "Int"
+      }
+    ],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "CheckLevelPlayNodeState",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "LevelPlayId",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [
+      {
+        "key": "State",
+        "value": "Int"
+      }
+    ],
+    "default_param2": "",
+    "param3": [
+      {
+        "key": "NodeId",
+        "value": "Int"
+      }
+    ],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "FinishRogueInstPopularEntrie",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Rate",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "-1",
+    "param2": [
+      {
+        "key": "EntryCount",
+        "value": "Int"
+      }
+    ],
+    "default_param2": "-1",
+    "param3": [
+      {
+        "key": "DeBuffCount",
+        "value": "Int"
+      }
+    ],
+    "default_param3": "-1",
+    "param4": [
+      {
+        "key": "DeBuffs",
+        "value": "IntArray"
+      }
+    ],
+    "default_param4": "0",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "FinishRogueInstDiffRole",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "LongShanRwdCount",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Count",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "BossRushScore",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Count",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "TurnTableBigRewardCount",
+    "is_client_trigger": false,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [
+      {
+        "key": "Count",
+        "value": "Int"
+      }
+    ],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
+    "param6": [],
+    "default_param6": "",
+    "param7": [],
+    "default_param7": "",
+    "param8": [],
+    "default_param8": "",
+    "param9": [],
+    "default_param9": "",
+    "param10": [],
+    "default_param10": "",
+    "param11": [],
+    "default_param11": "",
+    "param12": [],
+    "default_param12": "",
+    "param13": [],
+    "default_param13": "",
+    "param14": [],
+    "default_param14": "",
+    "param15": [],
+    "default_param15": "",
+    "param16": [],
+    "default_param16": ""
+  },
+  {
+    "type": "OnTakingPhoto",
+    "is_client_trigger": true,
+    "sub_type": 0,
+    "register_places": [
+      0
+    ],
+    "param1": [],
+    "default_param1": "",
+    "param2": [],
+    "default_param2": "",
+    "param3": [],
+    "default_param3": "",
+    "param4": [],
+    "default_param4": "",
+    "param5": [],
+    "default_param5": "",
     "param6": [],
     "default_param6": "",
     "param7": [],

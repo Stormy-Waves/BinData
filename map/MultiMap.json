@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "group_id": 1,
+    "map_id": 8,
+    "floor": -1,
+    "map_tile_path": [
+      "T_MapSubTiles_3_-3_YBYJ_LAYER1_UI",
+      "T_MapSubTiles_3_-4_YBYJ_LAYER1_UI"
+    ],
+    "mini_map_tile_path": [
+      "T_MapSubTiles_3_-3_YBYJ_LAYER1_UI",
+      "T_MapSubTiles_3_-4_YBYJ_LAYER1_UI"
+    ],
+    "area": [
+      1601
+    ],
+    "mark": [],
+    "condition_id": 0,
+    "floor_name": "MapFloor_KTG_1",
+    "floor_icon": "SP_MapIcon1"
+  },
+  {
+    "id": 2,
+    "group_id": 1,
+    "map_id": 8,
+    "floor": -2,
+    "map_tile_path": [
+      "T_MapSubTiles_3_-3_YBYJ_LAYER2_UI",
+      "T_MapSubTiles_3_-4_YBYJ_LAYER2_UI"
+    ],
+    "mini_map_tile_path": [
+      "T_MapSubTiles_3_-3_YBYJ_LAYER2_UI",
+      "T_MapSubTiles_3_-4_YBYJ_LAYER2_UI"
+    ],
+    "area": [
+      1602
+    ],
+    "mark": [
+      301316
+    ],
+    "condition_id": 0,
+    "floor_name": "MapFloor_KTG_2",
+    "floor_icon": "SP_MapIcon1"
+  },
+  {
+    "id": 3,
+    "group_id": 1,
+    "map_id": 8,
+    "floor": -3,
+    "map_tile_path": [
+      "T_MapSubTiles_3_-4_YBYJ_LAYER3_UI",
+      "T_MapSubTiles_3_-3_YBYJ_LAYER3_UI"
+    ],
+    "mini_map_tile_path": [
+      "T_MapSubTiles_3_-4_YBYJ_LAYER3_UI",
+      "T_MapSubTiles_3_-3_YBYJ_LAYER3_UI"
+    ],
+    "area": [
+      1603
+    ],
+    "mark": [],
+    "condition_id": 0,
+    "floor_name": "MapFloor_KTG_3",
+    "floor_icon": "SP_MapIcon1"
+  },
+  {
+    "id": 4,
+    "group_id": 1,
+    "map_id": 8,
+    "floor": 0,
+    "map_tile_path": [],
+    "mini_map_tile_path": [],
+    "area": [],
+    "mark": [],
+    "condition_id": 0,
+    "floor_name": "MapFloor_Raw",
+    "floor_icon": "SP_MapIcon3"
+  },
+  {
+    "id": 9,
+    "group_id": 3,
+    "map_id": 8,
+    "floor": -1,
+    "map_tile_path": [
+      "T_MapSubTiles_3_-3_PYM_LAYER1_UI",
+      "T_MapSubTiles_4_-3_PYM_LAYER1_UI"
+    ],
+    "mini_map_tile_path": [
+      "T_MapSubTiles_3_-3_PYM_LAYER1_UI",
+      "T_MapSubTiles_4_-3_PYM_LAYER1_UI"
+    ],
+    "area": [
+      1641
+    ],
+    "mark": [
+      301310
+    ],
+    "condition_id": 0,
+    "floor_name": "MapFloor_MLT_1",
+    "floor_icon": "SP_MapIcon1"
+  },
+  {
+    "id": 10,
+    "group_id": 3,
+    "map_id": 8,
+    "floor": -2,
+    "map_tile_path": [
+      "T_MapSubTiles_4_-3_PYM_LAYER2_UI"
+    ],
+    "mini_map_tile_path": [
+      "T_MapSubTiles_4_-3_PYM_LAYER2_UI"
+    ],
+    "area": [
+      1642
+    ],
+    "mark": [],
+    "condition_id": 0,
+    "floor_name": "MapFloor_MLT_2",
+    "floor_icon": "SP_MapIcon1"
+  },
+  {
+    "id": 11,
+    "group_id": 3,
+    "map_id": 8,
+    "floor": 0,
+    "map_tile_path": [],
+    "mini_map_tile_path": [],
+    "area": [],
+    "mark": [],
+    "condition_id": 0,
+    "floor_name": "MapFloor_Raw",
+    "floor_icon": "SP_MapIcon3"
+  }
+]

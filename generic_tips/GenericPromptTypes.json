@@ -250,5 +250,19 @@
     "tickable": false,
     "ui_path": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_HintEnd.UiView_HintEnd",
     "offset_y": 0.0
+  },
+  {
+    "type_id": 18,
+    "general_text": "",
+    "general_extra_text": "2058558763",
+    "text_color": "",
+    "duration": 3,
+    "priority": 0,
+    "show_area": "CenterArea",
+    "max_count": 1,
+    "only_battle": true,
+    "tickable": false,
+    "ui_path": "",
+    "offset_y": 0.0
   }
 ]

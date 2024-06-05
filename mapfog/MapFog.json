@@ -58,5 +58,15 @@
     "fog": 12,
     "map_id": 1,
     "unlock_condition": 2011
+  },
+  {
+    "fog": 13,
+    "map_id": 1,
+    "unlock_condition": 2012
+  },
+  {
+    "fog": 14,
+    "map_id": 1,
+    "unlock_condition": 2013
   }
 ]

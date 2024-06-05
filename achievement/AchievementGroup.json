@@ -121,6 +121,72 @@
     "enable": true
   },
   {
+    "id": 2001,
+    "category": 2,
+    "sort": 1,
+    "name": "AchievementGroup_2001_Name",
+    "small_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv/T_IconAchv_007.T_IconAchv_007",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_007.T_IconAchv256_007",
+    "background_icon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
+    "drop_id": 0,
+    "enable": true
+  },
+  {
+    "id": 2003,
+    "category": 2,
+    "sort": 3,
+    "name": "AchievementGroup_2003_Name",
+    "small_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv/T_IconAchv_012.T_IconAchv_012",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_012.T_IconAchv256_012",
+    "background_icon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
+    "drop_id": 0,
+    "enable": true
+  },
+  {
+    "id": 1003,
+    "category": 1,
+    "sort": 1,
+    "name": "AchievementGroup_1003_Name",
+    "small_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv/T_IconAchv_005.T_IconAchv_005",
+    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_005.T_IconAchv256_005",
+    "background_icon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg1.T_AchievementBg1",
+    "drop_id": 0,
+    "enable": true
+  },
+  {
+    "id": 7005,
+    "category": 8,
+    "sort": 1,
+    "name": "AchievementGroup_6_Name",
+    "small_icon": "",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueChallenge.SP_IconRogueChallenge",
+    "background_icon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
+    "drop_id": 0,
+    "enable": true
+  },
+  {
+    "id": 7006,
+    "category": 8,
+    "sort": 3,
+    "name": "AchievementGroup_6_Name",
+    "small_icon": "",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueUnlock.SP_IconRogueUnlock",
+    "background_icon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
+    "drop_id": 0,
+    "enable": true
+  },
+  {
+    "id": 7007,
+    "category": 8,
+    "sort": 4,
+    "name": "AchievementGroup_6_Name",
+    "small_icon": "",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueRoleComplete.SP_IconRogueRoleComplete",
+    "background_icon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
+    "drop_id": 0,
+    "enable": true
+  },
+  {
     "id": 7001,
     "category": 7,
     "sort": 1,
@@ -149,28 +215,6 @@
     "name": "AchievementGroup_6_Name",
     "small_icon": "",
     "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueRoleComplete.SP_IconRogueRoleComplete",
-    "background_icon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
-    "drop_id": 0,
-    "enable": true
-  },
-  {
-    "id": 2001,
-    "category": 2,
-    "sort": 1,
-    "name": "AchievementGroup_2001_Name",
-    "small_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv/T_IconAchv_007.T_IconAchv_007",
-    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_007.T_IconAchv256_007",
-    "background_icon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
-    "drop_id": 0,
-    "enable": true
-  },
-  {
-    "id": 2003,
-    "category": 2,
-    "sort": 3,
-    "name": "AchievementGroup_2003_Name",
-    "small_icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv/T_IconAchv_012.T_IconAchv_012",
-    "icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_012.T_IconAchv256_012",
     "background_icon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
     "drop_id": 0,
     "enable": true

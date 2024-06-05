@@ -3454,5 +3454,125 @@
     "weapon_id": 21050013,
     "weapon_level": 45,
     "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501101,
+    "weapon_id": 21010026,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501110,
+    "weapon_id": 21010026,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501120,
+    "weapon_id": 21010026,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501130,
+    "weapon_id": 21010026,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501140,
+    "weapon_id": 21010026,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501150,
+    "weapon_id": 21010026,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501160,
+    "weapon_id": 21010026,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501170,
+    "weapon_id": 21010026,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501180,
+    "weapon_id": 21010026,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501190,
+    "weapon_id": 21010026,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501201,
+    "weapon_id": 21020016,
+    "weapon_level": 1,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501210,
+    "weapon_id": 21020016,
+    "weapon_level": 10,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501220,
+    "weapon_id": 21020016,
+    "weapon_level": 20,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501230,
+    "weapon_id": 21020016,
+    "weapon_level": 30,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501240,
+    "weapon_id": 21020016,
+    "weapon_level": 40,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501250,
+    "weapon_id": 21020016,
+    "weapon_level": 50,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501260,
+    "weapon_id": 21020016,
+    "weapon_level": 60,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501270,
+    "weapon_id": 21020016,
+    "weapon_level": 70,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501280,
+    "weapon_id": 21020016,
+    "weapon_level": 80,
+    "weapon_resonance_level": 1
+  },
+  {
+    "id": 21501290,
+    "weapon_id": 21020016,
+    "weapon_level": 90,
+    "weapon_resonance_level": 1
   }
 ]

@@ -18,5 +18,15 @@
     "show_quest_tips": "",
     "show_quest_get_way": "",
     "role_ui": "ActivityRoleGuide_1302"
+  },
+  {
+    "id": 101000003,
+    "role_id": 1205,
+    "role_quest_id": 121000035,
+    "role_trial_id": 100719,
+    "show_quest_id": 0,
+    "show_quest_tips": "",
+    "show_quest_get_way": "",
+    "role_ui": "ActivityRoleGuide_1205"
   }
 ]

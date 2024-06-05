@@ -1741,13 +1741,11 @@
   {
     "id": 10056,
     "step": [
-      251,
-      252,
+      582,
+      583,
       253,
       254,
       255,
-      257,
-      258,
       259,
       260,
       261,
@@ -2146,6 +2144,7 @@
       -1
     ],
     "dungeon_id": [
+      95,
       1,
       2,
       8
@@ -2438,7 +2437,10 @@
       309,
       508,
       509,
-      510
+      510,
+      579,
+      580,
+      581
     ],
     "open_limit_condition": 0,
     "auto_open_condition": 0,
@@ -3728,7 +3730,7 @@
       391,
       557
     ],
-    "open_limit_condition": 0,
+    "open_limit_condition": 131200143,
     "auto_open_condition": 131200035,
     "limit_repeat": [
       -1
@@ -4000,7 +4002,8 @@
       -1
     ],
     "dungeon_id": [
-      8002
+      8002,
+      8007
     ],
     "reset_in_dungeon": false
   },
@@ -5508,8 +5511,8 @@
       20023,
       20024
     ],
-    "open_limit_condition": 0,
-    "auto_open_condition": 0,
+    "open_limit_condition": 242916911,
+    "auto_open_condition": 242916910,
     "limit_repeat": [
       -1
     ],
@@ -5996,6 +5999,600 @@
       1,
       2,
       8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 32024,
+    "step": [
+      32024
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200129,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 32025,
+    "step": [
+      32025
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200130,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34037,
+    "step": [
+      34037
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200118,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34038,
+    "step": [
+      34038
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200119,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34039,
+    "step": [
+      34039
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200120,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34040,
+    "step": [
+      34040
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 0,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34041,
+    "step": [
+      34041
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200121,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34042,
+    "step": [
+      34042
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200122,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34043,
+    "step": [
+      34043
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200123,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34044,
+    "step": [
+      34044
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200124,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34046,
+    "step": [
+      34046
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200126,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34047,
+    "step": [
+      34047
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200127,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34048,
+    "step": [
+      34048
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 0,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34049,
+    "step": [
+      34049
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200128,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34050,
+    "step": [
+      34050
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 0,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34051,
+    "step": [
+      34051
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 0,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 34052,
+    "step": [
+      34052
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200133,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 20015,
+    "step": [
+      20049,
+      20050,
+      20051,
+      20052,
+      20053,
+      20054,
+      20055,
+      20056,
+      20057
+    ],
+    "open_limit_condition": 131200134,
+    "auto_open_condition": 131200135,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 20016,
+    "step": [
+      20058,
+      20059,
+      20060
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200144,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      8007,
+      8008
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 20017,
+    "step": [
+      20061,
+      20062,
+      20063
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200136,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      8007
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 20018,
+    "step": [
+      20064,
+      20065,
+      20066,
+      20070,
+      20071,
+      20072
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200137,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 20019,
+    "step": [
+      20073,
+      20074,
+      20075
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 0,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 10121,
+    "step": [
+      556,
+      384,
+      386,
+      584,
+      385,
+      387,
+      390,
+      391,
+      557
+    ],
+    "open_limit_condition": 131200140,
+    "auto_open_condition": 131200035,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 10122,
+    "step": [
+      556,
+      384,
+      386,
+      585,
+      385,
+      387,
+      390,
+      391,
+      557
+    ],
+    "open_limit_condition": 131200141,
+    "auto_open_condition": 131200035,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 10123,
+    "step": [
+      556,
+      384,
+      386,
+      586,
+      385,
+      387,
+      390,
+      391,
+      557
+    ],
+    "open_limit_condition": 131200142,
+    "auto_open_condition": 131200035,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1,
+      2,
+      8
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 20020,
+    "step": [
+      20076
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200145,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      8007,
+      8008,
+      8009,
+      8010,
+      8011
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 2429169,
+    "step": [
+      1157,
+      1158,
+      1159,
+      1160,
+      1161,
+      1162
+    ],
+    "open_limit_condition": 242916903,
+    "auto_open_condition": 242916904,
+    "limit_repeat": [
+      1160,
+      1161,
+      1162
+    ],
+    "dungeon_id": [
+      5023
+    ],
+    "reset_in_dungeon": true
+  },
+  {
+    "id": 2429170,
+    "step": [
+      1163,
+      1164,
+      1165
+    ],
+    "open_limit_condition": 242916903,
+    "auto_open_condition": 242916905,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      5023
+    ],
+    "reset_in_dungeon": true
+  },
+  {
+    "id": 2429171,
+    "step": [
+      1166,
+      1167,
+      1168,
+      1172,
+      1173,
+      1174
+    ],
+    "open_limit_condition": 242916903,
+    "auto_open_condition": 242916906,
+    "limit_repeat": [
+      1166,
+      1167,
+      1168
+    ],
+    "dungeon_id": [
+      5024
+    ],
+    "reset_in_dungeon": true
+  },
+  {
+    "id": 2429172,
+    "step": [
+      1169,
+      1170,
+      1171
+    ],
+    "open_limit_condition": 242916909,
+    "auto_open_condition": 242916906,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      5024
+    ],
+    "reset_in_dungeon": true
+  },
+  {
+    "id": 20021,
+    "step": [
+      20077
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 131200144,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      8007
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 10124,
+    "step": [
+      587,
+      588,
+      589
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 0,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1507
     ],
     "reset_in_dungeon": false
   }

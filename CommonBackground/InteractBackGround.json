@@ -168,5 +168,17 @@
     ],
     "is_help_button_visible": false,
     "help_group_id": 0
+  },
+  {
+    "id": 10113,
+    "view_name": "ShopView10113",
+    "title": "NpcSystemBackground_10104_Title",
+    "title_sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+    "content_sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconGift.SP_BlackIconGift",
+    "cost_item_list": [
+      44010025
+    ],
+    "is_help_button_visible": false,
+    "help_group_id": 0
   }
 ]

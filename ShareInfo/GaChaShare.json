@@ -82,5 +82,29 @@
     "type": 2,
     "desc": "WeaponConf_21050016_BgDescription",
     "share_pic": "/Game/Aki/UI/UIResources/Common/Image/BgCg/T_WeaponShare_07.T_WeaponShare_07"
+  },
+  {
+    "id": 1304,
+    "type": 1,
+    "desc": "Role_1304_ShareDesc",
+    "share_pic": "/Game/Aki/UI/UIResources/Common/Image/BgCg/T_RoleShare_08.T_RoleShare_08"
+  },
+  {
+    "id": 1205,
+    "type": 1,
+    "desc": "Role_1205_ShareDesc",
+    "share_pic": "/Game/Aki/UI/UIResources/Common/Image/BgCg/T_RoleShare_09.T_RoleShare_09"
+  },
+  {
+    "id": 21010026,
+    "type": 2,
+    "desc": "WeaponConf_21010026_BgDescription",
+    "share_pic": "/Game/Aki/UI/UIResources/Common/Image/BgCg/T_WeaponShare_08.T_WeaponShare_08"
+  },
+  {
+    "id": 21020016,
+    "type": 2,
+    "desc": "WeaponConf_21020016_BgDescription",
+    "share_pic": "/Game/Aki/UI/UIResources/Common/Image/BgCg/T_WeaponShare_09.T_WeaponShare_09"
   }
 ]

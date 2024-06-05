@@ -4,6 +4,15 @@
     "function_type": 2,
     "function_params": [
       "RoguelikeActivityView"
-    ]
+    ],
+    "activity_resource": ""
+  },
+  {
+    "id": 100600002,
+    "function_type": 2,
+    "function_params": [
+      "RoguelikeActivityView"
+    ],
+    "activity_resource": "UiItem_ActivityRogueB"
   }
 ]

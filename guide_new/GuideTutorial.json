@@ -1464,5 +1464,250 @@
     "tutorial_tip": true,
     "drop_id": 100001,
     "require_read_all": false
+  },
+  {
+    "id": 32024,
+    "tutorial_type": 2,
+    "tutorial_order": 0,
+    "page_id": [
+      32024
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_32024_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 32025,
+    "tutorial_type": 2,
+    "tutorial_order": 0,
+    "page_id": [
+      32025
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_32025_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34037,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34037,
+      3403702
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34037_GroupName",
+    "tutorial_tip": false,
+    "drop_id": 100001,
+    "require_read_all": true
+  },
+  {
+    "id": 34038,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34038
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34038_GroupName",
+    "tutorial_tip": false,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34039,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34039
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34039_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34040,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34040
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34040_GroupName",
+    "tutorial_tip": false,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34041,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34041,
+      3404101,
+      3404102
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34041_GroupName",
+    "tutorial_tip": false,
+    "drop_id": 100001,
+    "require_read_all": true
+  },
+  {
+    "id": 34042,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34042
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34042_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34043,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34043
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34043_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34044,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34044
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34044_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34046,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34046,
+      3404602
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34046_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": true
+  },
+  {
+    "id": 34047,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34047
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34047_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34048,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34048,
+      3404802,
+      3404803,
+      3404804
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34048_GroupName",
+    "tutorial_tip": false,
+    "drop_id": 100001,
+    "require_read_all": true
+  },
+  {
+    "id": 34049,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34049
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34049_GroupName",
+    "tutorial_tip": false,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34050,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34050
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34050_GroupName",
+    "tutorial_tip": false,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34051,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34051
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34051_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": false
+  },
+  {
+    "id": 34052,
+    "tutorial_type": 4,
+    "tutorial_order": 0,
+    "page_id": [
+      34052
+    ],
+    "page_replace_condition_group_id": 0,
+    "replace_page_id": [],
+    "group_name": "GuideTutorial_34052_GroupName",
+    "tutorial_tip": true,
+    "drop_id": 100001,
+    "require_read_all": false
   }
 ]

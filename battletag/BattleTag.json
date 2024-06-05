@@ -58,5 +58,41 @@
     "desc": "BOSS进入战斗状态",
     "add_tag": "怪物.ML1QunnieMd00401.关卡.信号1",
     "finish_tag": "怪物.ML1QunnieMd00401.关卡.信号1"
+  },
+  {
+    "id": 11,
+    "desc": "屏障封锁解除",
+    "add_tag": "怪物.common.关卡.通信专用.屏障解除",
+    "finish_tag": ""
+  },
+  {
+    "id": 900001,
+    "desc": "岁光切换氛围",
+    "add_tag": "怪物.MB1SuiguangMd00501.转阶段氛围切换",
+    "finish_tag": "怪物.MB1SuiguangMd00501.转阶段氛围切换"
+  },
+  {
+    "id": 900002,
+    "desc": "岁光转阶段seq结束",
+    "add_tag": "怪物.MB1SuiguangMd00501.转阶段seq结束",
+    "finish_tag": "怪物.MB1SuiguangMd00501.转阶段seq结束"
+  },
+  {
+    "id": 12,
+    "desc": "偷听玩法.常态",
+    "add_tag": "怪物.common.关卡.偷听玩法.常态",
+    "finish_tag": ""
+  },
+  {
+    "id": 13,
+    "desc": "偷听玩法.剧情中",
+    "add_tag": "怪物.common.关卡.偷听玩法.剧情中",
+    "finish_tag": ""
+  },
+  {
+    "id": 14,
+    "desc": "偷听玩法.剧情结束",
+    "add_tag": "怪物.common.关卡.偷听玩法.剧情结束",
+    "finish_tag": ""
   }
 ]

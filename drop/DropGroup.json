@@ -5922,8 +5922,8 @@
   {
     "unit_id": 1487,
     "group_id": 7438,
-    "min_num": 8640,
-    "max_num": 8640,
+    "min_num": 9600,
+    "max_num": 9600,
     "interval": 0,
     "drop_show_plan": 3
   },
@@ -6373,14 +6373,6 @@
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
-    "drop_show_plan": 2
-  },
-  {
-    "unit_id": 624,
-    "group_id": 5405,
-    "min_num": 10,
-    "max_num": 10,
-    "interval": 1,
     "drop_show_plan": 2
   },
   {
@@ -8570,16 +8562,16 @@
   {
     "unit_id": 1612,
     "group_id": 8147,
-    "min_num": 48000,
-    "max_num": 48000,
+    "min_num": 54000,
+    "max_num": 54000,
     "interval": 0,
     "drop_show_plan": 3
   },
   {
     "unit_id": 1613,
     "group_id": 8148,
-    "min_num": 48000,
-    "max_num": 48000,
+    "min_num": 54000,
+    "max_num": 54000,
     "interval": 0,
     "drop_show_plan": 3
   },
@@ -8786,8 +8778,8 @@
   {
     "unit_id": 1486,
     "group_id": 7437,
-    "min_num": 8640,
-    "max_num": 8640,
+    "min_num": 9600,
+    "max_num": 9600,
     "interval": 0,
     "drop_show_plan": 3
   },
@@ -10520,6 +10512,30 @@
     "drop_show_plan": 2
   },
   {
+    "unit_id": 2395,
+    "group_id": 70010011,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2396,
+    "group_id": 44010026,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 2
+  },
+  {
+    "unit_id": 2397,
+    "group_id": 31000034,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
     "unit_id": 2398,
     "group_id": 70060012,
     "min_num": 1,
@@ -10552,6 +10568,38 @@
     "drop_show_plan": 7
   },
   {
+    "unit_id": 2410,
+    "group_id": 70139308,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2411,
+    "group_id": 70139309,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2412,
+    "group_id": 70139310,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2416,
+    "group_id": 70139314,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
     "unit_id": 2418,
     "group_id": 70139316,
     "min_num": 1,
@@ -10576,8 +10624,80 @@
     "drop_show_plan": 7
   },
   {
+    "unit_id": 2423,
+    "group_id": 72010003,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
     "unit_id": 2050,
     "group_id": 60000314,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2430,
+    "group_id": 72010010,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2442,
+    "group_id": 100,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 2
+  },
+  {
+    "unit_id": 2443,
+    "group_id": 101,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 2
+  },
+  {
+    "unit_id": 2444,
+    "group_id": 102,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 2
+  },
+  {
+    "unit_id": 2445,
+    "group_id": 103,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 2
+  },
+  {
+    "unit_id": 2446,
+    "group_id": 70010050,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2447,
+    "group_id": 80050002,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2448,
+    "group_id": 80050001,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -11416,6 +11536,30 @@
     "drop_show_plan": 4
   },
   {
+    "unit_id": 2564,
+    "group_id": 21020024,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 4
+  },
+  {
+    "unit_id": 2565,
+    "group_id": 21030024,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 4
+  },
+  {
+    "unit_id": 2566,
+    "group_id": 21040024,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 4
+  },
+  {
     "unit_id": 748,
     "group_id": 6001,
     "min_num": 29,
@@ -11472,6 +11616,14 @@
     "drop_show_plan": 2
   },
   {
+    "unit_id": 2414,
+    "group_id": 70139312,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
     "unit_id": 2332,
     "group_id": 69002504,
     "min_num": 1,
@@ -11486,6 +11638,14 @@
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 2
+  },
+  {
+    "unit_id": 2413,
+    "group_id": 70139311,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
   },
   {
     "unit_id": 2121,
@@ -11534,6 +11694,14 @@
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 2
+  },
+  {
+    "unit_id": 2415,
+    "group_id": 70139313,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
   },
   {
     "unit_id": 403,
@@ -11840,8 +12008,56 @@
     "drop_show_plan": 7
   },
   {
+    "unit_id": 1821,
+    "group_id": 40040002,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 2
+  },
+  {
+    "unit_id": 2394,
+    "group_id": 70010010,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
     "unit_id": 2422,
     "group_id": 72010002,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2426,
+    "group_id": 72010006,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2427,
+    "group_id": 72010007,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2428,
+    "group_id": 72010008,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2429,
+    "group_id": 72010009,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -11982,6 +12198,14 @@
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 2
+  },
+  {
+    "unit_id": 2425,
+    "group_id": 72010005,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
   },
   {
     "unit_id": 1453,
@@ -12688,6 +12912,14 @@
     "drop_show_plan": 1
   },
   {
+    "unit_id": 2014,
+    "group_id": 60000224,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
     "unit_id": 2016,
     "group_id": 60000232,
     "min_num": 1,
@@ -12960,6 +13192,30 @@
     "drop_show_plan": 2
   },
   {
+    "unit_id": 2439,
+    "group_id": 72010016,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2440,
+    "group_id": 70139319,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2441,
+    "group_id": 80030000,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
     "unit_id": 43,
     "group_id": 2011,
     "min_num": 1,
@@ -13168,30 +13424,6 @@
     "drop_show_plan": 3
   },
   {
-    "unit_id": 2423,
-    "group_id": 72010003,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2425,
-    "group_id": 72010005,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2426,
-    "group_id": 72010006,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
     "unit_id": 2431,
     "group_id": 72010011,
     "min_num": 1,
@@ -13224,38 +13456,6 @@
     "drop_show_plan": 1
   },
   {
-    "unit_id": 2427,
-    "group_id": 72010007,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2428,
-    "group_id": 72010008,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2429,
-    "group_id": 72010009,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2430,
-    "group_id": 72010010,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
     "unit_id": 2435,
     "group_id": 70139320,
     "min_num": 1,
@@ -13266,6 +13466,22 @@
   {
     "unit_id": 2436,
     "group_id": 70050026,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2437,
+    "group_id": 70140011,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 2438,
+    "group_id": 72010015,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -13400,28 +13616,28 @@
     "drop_show_plan": 2
   },
   {
-    "unit_id": 2441,
-    "group_id": 80030000,
+    "unit_id": 2449,
+    "group_id": 70010018,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 1
   },
   {
-    "unit_id": 2442,
-    "group_id": 100,
+    "unit_id": 2450,
+    "group_id": 70010016,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
-    "drop_show_plan": 2
+    "drop_show_plan": 1
   },
   {
-    "unit_id": 2443,
-    "group_id": 101,
+    "unit_id": 2451,
+    "group_id": 70010017,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
-    "drop_show_plan": 2
+    "drop_show_plan": 1
   },
   {
     "unit_id": 2012,
@@ -13432,12 +13648,12 @@
     "drop_show_plan": 1
   },
   {
-    "unit_id": 2444,
-    "group_id": 102,
+    "unit_id": 2452,
+    "group_id": 70010053,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
-    "drop_show_plan": 2
+    "drop_show_plan": 1
   },
   {
     "unit_id": 2013,
@@ -13456,24 +13672,16 @@
     "drop_show_plan": 2
   },
   {
-    "unit_id": 2445,
-    "group_id": 103,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 2
-  },
-  {
-    "unit_id": 2014,
-    "group_id": 60000224,
+    "unit_id": 2453,
+    "group_id": 70010054,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 1
   },
   {
-    "unit_id": 2446,
-    "group_id": 70010050,
+    "unit_id": 2454,
+    "group_id": 70010055,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -13496,16 +13704,8 @@
     "drop_show_plan": 2
   },
   {
-    "unit_id": 2447,
-    "group_id": 80050002,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2448,
-    "group_id": 80050001,
+    "unit_id": 2455,
+    "group_id": 70010031,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -13542,22 +13742,6 @@
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 2
-  },
-  {
-    "unit_id": 2449,
-    "group_id": 70010018,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2450,
-    "group_id": 70010016,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
   },
   {
     "unit_id": 2457,
@@ -13784,14 +13968,6 @@
     "drop_show_plan": 2
   },
   {
-    "unit_id": 2451,
-    "group_id": 70010017,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
     "unit_id": 2459,
     "group_id": 70010058,
     "min_num": 1,
@@ -13958,38 +14134,6 @@
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 2
-  },
-  {
-    "unit_id": 2452,
-    "group_id": 70010053,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2453,
-    "group_id": 70010054,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2454,
-    "group_id": 70010055,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2455,
-    "group_id": 70010031,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
   },
   {
     "unit_id": 566,
@@ -14520,30 +14664,6 @@
     "drop_show_plan": 2
   },
   {
-    "unit_id": 2564,
-    "group_id": 21020024,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 4
-  },
-  {
-    "unit_id": 2565,
-    "group_id": 21030024,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 4
-  },
-  {
-    "unit_id": 2566,
-    "group_id": 21040024,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 4
-  },
-  {
     "unit_id": 374,
     "group_id": 5215,
     "min_num": 1,
@@ -14702,30 +14822,6 @@
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 2
-  },
-  {
-    "unit_id": 2410,
-    "group_id": 70139308,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2411,
-    "group_id": 70139309,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2412,
-    "group_id": 70139310,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
   },
   {
     "unit_id": 1517,
@@ -15240,6 +15336,38 @@
     "drop_show_plan": 7
   },
   {
+    "unit_id": 1891,
+    "group_id": 42310190,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 1892,
+    "group_id": 42310200,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 1893,
+    "group_id": 42310210,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 1894,
+    "group_id": 42310220,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
     "unit_id": 1895,
     "group_id": 42400010,
     "min_num": 1,
@@ -15464,38 +15592,6 @@
     "drop_show_plan": 7
   },
   {
-    "unit_id": 2394,
-    "group_id": 70010010,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2395,
-    "group_id": 70010011,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2396,
-    "group_id": 44010026,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 2
-  },
-  {
-    "unit_id": 2397,
-    "group_id": 31000034,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
     "unit_id": 1900,
     "group_id": 42400090,
     "min_num": 1,
@@ -15586,6 +15682,22 @@
   {
     "unit_id": 1911,
     "group_id": 42500030,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 1912,
+    "group_id": 42500040,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 1913,
+    "group_id": 42500090,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -15824,38 +15936,6 @@
     "drop_show_plan": 2
   },
   {
-    "unit_id": 2413,
-    "group_id": 70139311,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2414,
-    "group_id": 70139312,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2415,
-    "group_id": 70139313,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2416,
-    "group_id": 70139314,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
     "unit_id": 2627,
     "group_id": 31000010,
     "min_num": 1,
@@ -15906,6 +15986,30 @@
   {
     "unit_id": 2633,
     "group_id": 71010005,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 4
+  },
+  {
+    "unit_id": 2635,
+    "group_id": 71020001,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 4
+  },
+  {
+    "unit_id": 2636,
+    "group_id": 71020002,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 4
+  },
+  {
+    "unit_id": 2637,
+    "group_id": 71020003,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -16342,38 +16446,6 @@
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 2
-  },
-  {
-    "unit_id": 2437,
-    "group_id": 70140011,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2438,
-    "group_id": 72010015,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2439,
-    "group_id": 72010016,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 2440,
-    "group_id": 70139319,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
   },
   {
     "unit_id": 2588,
@@ -18704,30 +18776,6 @@
     "drop_show_plan": 7
   },
   {
-    "unit_id": 2635,
-    "group_id": 71020001,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 4
-  },
-  {
-    "unit_id": 2636,
-    "group_id": 71020002,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 4
-  },
-  {
-    "unit_id": 2637,
-    "group_id": 71020003,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 4
-  },
-  {
     "unit_id": 2848,
     "group_id": 60046,
     "min_num": 1,
@@ -18746,6 +18794,86 @@
   {
     "unit_id": 2850,
     "group_id": 60046,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2851,
+    "group_id": 60047,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2852,
+    "group_id": 60047,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2853,
+    "group_id": 60047,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2854,
+    "group_id": 60047,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2855,
+    "group_id": 60048,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2856,
+    "group_id": 60048,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2857,
+    "group_id": 60048,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2858,
+    "group_id": 60048,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2859,
+    "group_id": 60049,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2860,
+    "group_id": 60049,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -18786,6 +18914,46 @@
   {
     "unit_id": 2865,
     "group_id": 60050,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2866,
+    "group_id": 60050,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2867,
+    "group_id": 60051,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2868,
+    "group_id": 60051,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2869,
+    "group_id": 60051,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 2870,
+    "group_id": 60051,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -20512,38 +20680,6 @@
     "drop_show_plan": 4
   },
   {
-    "unit_id": 2851,
-    "group_id": 60047,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2852,
-    "group_id": 60047,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2853,
-    "group_id": 60047,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2854,
-    "group_id": 60047,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
     "unit_id": 3065,
     "group_id": 71450,
     "min_num": 60,
@@ -20698,22 +20834,6 @@
   {
     "unit_id": 2654,
     "group_id": 60001525,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2855,
-    "group_id": 60048,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2856,
-    "group_id": 60048,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
@@ -20992,38 +21112,6 @@
     "drop_show_plan": 4
   },
   {
-    "unit_id": 2857,
-    "group_id": 60048,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2858,
-    "group_id": 60048,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2859,
-    "group_id": 60049,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
-    "unit_id": 2860,
-    "group_id": 60049,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
     "unit_id": 3071,
     "group_id": 71456,
     "min_num": 126,
@@ -21086,22 +21174,6 @@
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 1
-  },
-  {
-    "unit_id": 1891,
-    "group_id": 42310190,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
-  },
-  {
-    "unit_id": 1912,
-    "group_id": 42500040,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 7
   },
   {
     "unit_id": 2189,
@@ -21184,20 +21256,116 @@
     "drop_show_plan": 1
   },
   {
-    "unit_id": 2866,
-    "group_id": 60050,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
     "unit_id": 3080,
     "group_id": 63107,
     "min_num": 1,
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12608,
+    "group_id": 21010026,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 4
+  },
+  {
+    "unit_id": 12609,
+    "group_id": 21020016,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 4
+  },
+  {
+    "unit_id": 12610,
+    "group_id": 21010063,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 4
+  },
+  {
+    "unit_id": 11685,
+    "group_id": 19,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 11658,
+    "group_id": 8341,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 11659,
+    "group_id": 8342,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 11660,
+    "group_id": 8343,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 11661,
+    "group_id": 8344,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 11662,
+    "group_id": 8345,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 11663,
+    "group_id": 8346,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 11664,
+    "group_id": 8347,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 11665,
+    "group_id": 8348,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 11926,
+    "group_id": 41400144,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 2
   },
   {
     "unit_id": 12879,
@@ -21262,5 +21430,381 @@
     "max_num": 1,
     "interval": 0,
     "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12887,
+    "group_id": 60054,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12888,
+    "group_id": 60054,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12889,
+    "group_id": 60054,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12890,
+    "group_id": 60054,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12891,
+    "group_id": 60055,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12892,
+    "group_id": 60055,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12893,
+    "group_id": 60055,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12894,
+    "group_id": 60055,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12895,
+    "group_id": 60056,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12896,
+    "group_id": 60056,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12897,
+    "group_id": 60056,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12898,
+    "group_id": 60056,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12899,
+    "group_id": 60057,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12900,
+    "group_id": 60057,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12901,
+    "group_id": 60057,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12902,
+    "group_id": 60057,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12903,
+    "group_id": 60058,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12904,
+    "group_id": 60058,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12905,
+    "group_id": 60058,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12906,
+    "group_id": 60058,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12907,
+    "group_id": 60059,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12908,
+    "group_id": 60059,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12909,
+    "group_id": 60059,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12910,
+    "group_id": 60059,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 13074,
+    "group_id": 70139324,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 13075,
+    "group_id": 70139326,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 13076,
+    "group_id": 70139328,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 1363,
+    "group_id": 5010,
+    "min_num": 3,
+    "max_num": 3,
+    "interval": 1,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 1364,
+    "group_id": 5010,
+    "min_num": 4,
+    "max_num": 4,
+    "interval": 1,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 1365,
+    "group_id": 5010,
+    "min_num": 5,
+    "max_num": 5,
+    "interval": 1,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 1366,
+    "group_id": 5011,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 1,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12440,
+    "group_id": 70140004,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 7
+  },
+  {
+    "unit_id": 3081,
+    "group_id": 61016,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 3082,
+    "group_id": 61017,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 3083,
+    "group_id": 61018,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12911,
+    "group_id": 69003,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12912,
+    "group_id": 69003,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12913,
+    "group_id": 69003,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12914,
+    "group_id": 69003,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12915,
+    "group_id": 69004,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12916,
+    "group_id": 69004,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12917,
+    "group_id": 69004,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12918,
+    "group_id": 69004,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 13077,
+    "group_id": 71030001,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 3084,
+    "group_id": 61019,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 1
+  },
+  {
+    "unit_id": 12190,
+    "group_id": 50000088,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 2
+  },
+  {
+    "unit_id": 12191,
+    "group_id": 50000089,
+    "min_num": 1,
+    "max_num": 1,
+    "interval": 0,
+    "drop_show_plan": 2
   }
 ]

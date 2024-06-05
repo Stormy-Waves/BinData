@@ -765,7 +765,7 @@
     "id": 80001023,
     "public_cd_group": 0,
     "buffs": [
-      83010508
+      83010511
     ],
     "cd": 5,
     "share": true
@@ -794,6 +794,42 @@
     "buffs": [
       83010308,
       83010509
+    ],
+    "cd": 5,
+    "share": true
+  },
+  {
+    "id": 80000033,
+    "public_cd_group": 0,
+    "buffs": [
+      83011001
+    ],
+    "cd": 5,
+    "share": true
+  },
+  {
+    "id": 80000034,
+    "public_cd_group": 0,
+    "buffs": [
+      83011101
+    ],
+    "cd": 5,
+    "share": true
+  },
+  {
+    "id": 80001033,
+    "public_cd_group": 0,
+    "buffs": [
+      83011002
+    ],
+    "cd": 5,
+    "share": true
+  },
+  {
+    "id": 80001034,
+    "public_cd_group": 0,
+    "buffs": [
+      83011102
     ],
     "cd": 5,
     "share": true

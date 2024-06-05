@@ -268,5 +268,35 @@
     "stage_image": "/Game/Aki/UI/UIResources/Common/Image/IconCharge/T_IconCharge_01.T_IconCharge_01",
     "bonus_item_count": 4354,
     "special_bonus_item_count": 0
+  },
+  {
+    "id": 100,
+    "item_id": 4,
+    "item_count": 12960,
+    "pay_id": 31,
+    "is_display": false,
+    "stage_image": "/Game/Aki/UI/UIResources/Common/Image/IconCharge/T_IconCharge_06.T_IconCharge_06",
+    "bonus_item_count": 3200,
+    "special_bonus_item_count": 0
+  },
+  {
+    "id": 101,
+    "item_id": 4,
+    "item_count": 32400,
+    "pay_id": 32,
+    "is_display": false,
+    "stage_image": "/Game/Aki/UI/UIResources/Common/Image/IconCharge/T_IconCharge_06.T_IconCharge_06",
+    "bonus_item_count": 8000,
+    "special_bonus_item_count": 0
+  },
+  {
+    "id": 102,
+    "item_id": 4,
+    "item_count": 64800,
+    "pay_id": 33,
+    "is_display": false,
+    "stage_image": "/Game/Aki/UI/UIResources/Common/Image/IconCharge/T_IconCharge_06.T_IconCharge_06",
+    "bonus_item_count": 16000,
+    "special_bonus_item_count": 0
   }
 ]

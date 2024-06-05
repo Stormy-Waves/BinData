@@ -818,5 +818,87 @@
       "play_vo_nanzhu_rankup04",
       "play_vo_nanzhu_rankup05"
     ]
+  },
+  {
+    "id": 1304,
+    "name": "jinxi",
+    "fast_climb_event": "play_vo_jinxi_com_fastclimb",
+    "vision_morph_event": "play_vo_jinxi_bat_hxchange",
+    "vision_summon_event": "play_vo_jinxi_bat_hxsummon",
+    "open_treasure_box_event": "play_vo_jinxi_com_openbox",
+    "scan_treasure_box_event": "play_vo_jinxi_com_scan",
+    "join_team_event": "play_vo_jinxi_sys_jointeam",
+    "lost_health_event_map": [
+      {
+        "key": 70,
+        "value": "play_vo_jinxi_com_hpdown01"
+      },
+      {
+        "key": 50,
+        "value": "play_vo_jinxi_com_hpdown02"
+      },
+      {
+        "key": 30,
+        "value": "play_vo_jinxi_com_hpdown03"
+      },
+      {
+        "key": 0,
+        "value": "play_vo_jinxi_com_die"
+      }
+    ],
+    "low_strength_event_list": [
+      "play_vo_jinxi_com_tired",
+      "play_vo_jinxi_com_tiredlow"
+    ],
+    "break_up_event_list": [
+      "play_vo_jinxi_rankup01",
+      "play_vo_jinxi_rankup02",
+      "play_vo_jinxi_rankup01",
+      "play_vo_jinxi_rankup02",
+      "play_vo_jinxi_rankup03",
+      "play_vo_jinxi_rankup04",
+      "play_vo_jinxi_rankup05"
+    ]
+  },
+  {
+    "id": 1205,
+    "name": "changli",
+    "fast_climb_event": "play_vo_changli_com_fastclimb",
+    "vision_morph_event": "play_vo_changli_bat_hxchange",
+    "vision_summon_event": "play_vo_changli_bat_hxsummon",
+    "open_treasure_box_event": "play_vo_changli_com_openbox",
+    "scan_treasure_box_event": "play_vo_changli_com_scan",
+    "join_team_event": "play_vo_changli_sys_jointeam",
+    "lost_health_event_map": [
+      {
+        "key": 70,
+        "value": "play_vo_changli_com_hpdown01"
+      },
+      {
+        "key": 50,
+        "value": "play_vo_changli_com_hpdown02"
+      },
+      {
+        "key": 30,
+        "value": "play_vo_changli_com_hpdown03"
+      },
+      {
+        "key": 0,
+        "value": "play_vo_changli_com_die"
+      }
+    ],
+    "low_strength_event_list": [
+      "play_vo_changli_com_tired",
+      "play_vo_changli_com_tiredlow"
+    ],
+    "break_up_event_list": [
+      "play_vo_changli_rankup01",
+      "play_vo_changli_rankup02",
+      "play_vo_changli_rankup01",
+      "play_vo_changli_rankup02",
+      "play_vo_changli_rankup03",
+      "play_vo_changli_rankup04",
+      "play_vo_changli_rankup05"
+    ]
   }
 ]

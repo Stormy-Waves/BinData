@@ -311,7 +311,7 @@
     ],
     "skill_array": [
       1000801,
-      1001102
+      1000802
     ],
     "description": "SkillInput_160202_Description"
   },
@@ -510,5 +510,65 @@
       1000301
     ],
     "description": "SkillInput_150302_Description"
+  },
+  {
+    "id": 130401,
+    "input_array": [
+      "技能1"
+    ],
+    "skill_array": [
+      1002002
+    ],
+    "description": "SkillInput_130401_Description"
+  },
+  {
+    "id": 130402,
+    "input_array": [
+      "技能1"
+    ],
+    "skill_array": [
+      1002002
+    ],
+    "description": "SkillInput_130402_Description"
+  },
+  {
+    "id": 130403,
+    "input_array": [
+      "技能1"
+    ],
+    "skill_array": [
+      1002002
+    ],
+    "description": "SkillInput_130403_Description"
+  },
+  {
+    "id": 120501,
+    "input_array": [
+      "攻击"
+    ],
+    "skill_array": [
+      1002101
+    ],
+    "description": "SkillInput_120501_Description"
+  },
+  {
+    "id": 120502,
+    "input_array": [
+      "攻击"
+    ],
+    "skill_array": [
+      1002101
+    ],
+    "description": "SkillInput_120502_Description"
+  },
+  {
+    "id": 120503,
+    "input_array": [
+      "攻击"
+    ],
+    "skill_array": [
+      1002101
+    ],
+    "description": "SkillInput_120503_Description"
   }
 ]

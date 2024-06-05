@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "group_id": 1,
+    "level": 1,
+    "lower_upper_limits": [
+      10,
+      750
+    ],
+    "bgm": ""
+  },
+  {
+    "id": 2,
+    "group_id": 1,
+    "level": 2,
+    "lower_upper_limits": [
+      750,
+      2250
+    ],
+    "bgm": ""
+  },
+  {
+    "id": 3,
+    "group_id": 1,
+    "level": 3,
+    "lower_upper_limits": [
+      2250,
+      4250
+    ],
+    "bgm": ""
+  },
+  {
+    "id": 4,
+    "group_id": 1,
+    "level": 4,
+    "lower_upper_limits": [
+      4250,
+      6750
+    ],
+    "bgm": ""
+  },
+  {
+    "id": 5,
+    "group_id": 1,
+    "level": 5,
+    "lower_upper_limits": [
+      6750,
+      9500
+    ],
+    "bgm": ""
+  },
+  {
+    "id": 6,
+    "group_id": 1,
+    "level": 6,
+    "lower_upper_limits": [
+      9500,
+      12250
+    ],
+    "bgm": ""
+  }
+]

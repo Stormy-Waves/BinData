@@ -3339,12 +3339,10 @@
     "complete_condition": 0,
     "complete_param": "[1301651,0]",
     "failed_condition": [
-      0,
-      1,
-      2
+      4
     ],
     "failed_param": [
-      "1301651"
+      "1301400001"
     ]
   },
   {
@@ -3758,5 +3756,410 @@
     "complete_param": "[1104016,0]",
     "failed_condition": [],
     "failed_param": []
+  },
+  {
+    "id": 12050101,
+    "complete_condition": 0,
+    "complete_param": "[1205001,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1205001"
+    ]
+  },
+  {
+    "id": 12050102,
+    "complete_condition": 0,
+    "complete_param": "[1205002,0]",
+    "failed_condition": [
+      0,
+      1,
+      2
+    ],
+    "failed_param": [
+      "1205002"
+    ]
+  },
+  {
+    "id": 12050103,
+    "complete_condition": 0,
+    "complete_param": "[1205003,0]",
+    "failed_condition": [
+      0,
+      1,
+      2
+    ],
+    "failed_param": [
+      "1205003"
+    ]
+  },
+  {
+    "id": 12050104,
+    "complete_condition": 0,
+    "complete_param": "[1205004,0]",
+    "failed_condition": [
+      0,
+      1,
+      2
+    ],
+    "failed_param": [
+      "1205004"
+    ]
+  },
+  {
+    "id": 12050105,
+    "complete_condition": 0,
+    "complete_param": "[1205005,0]",
+    "failed_condition": [
+      0,
+      1,
+      2
+    ],
+    "failed_param": [
+      "1205005"
+    ]
+  },
+  {
+    "id": 12050201,
+    "complete_condition": 6,
+    "complete_param": "[0]",
+    "failed_condition": [],
+    "failed_param": []
+  },
+  {
+    "id": 12050202,
+    "complete_condition": 0,
+    "complete_param": "[1205101,0]",
+    "failed_condition": [
+      0,
+      6
+    ],
+    "failed_param": []
+  },
+  {
+    "id": 12050203,
+    "complete_condition": 0,
+    "complete_param": "[1205102,0]",
+    "failed_condition": [
+      0,
+      6
+    ],
+    "failed_param": []
+  },
+  {
+    "id": 12050204,
+    "complete_condition": 0,
+    "complete_param": "[1205103,0]",
+    "failed_condition": [
+      0,
+      6
+    ],
+    "failed_param": []
+  },
+  {
+    "id": 12050205,
+    "complete_condition": 0,
+    "complete_param": "[1205104,0]",
+    "failed_condition": [
+      0,
+      6
+    ],
+    "failed_param": []
+  },
+  {
+    "id": 12050206,
+    "complete_condition": 0,
+    "complete_param": "[1205106,0]",
+    "failed_condition": [
+      0,
+      6
+    ],
+    "failed_param": []
+  },
+  {
+    "id": 12050207,
+    "complete_condition": 0,
+    "complete_param": "[1205105,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": []
+  },
+  {
+    "id": 12050301,
+    "complete_condition": 0,
+    "complete_param": "[1205006,1]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1205006"
+    ]
+  },
+  {
+    "id": 12050401,
+    "complete_condition": 0,
+    "complete_param": "[1205201,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1205201"
+    ]
+  },
+  {
+    "id": 12050501,
+    "complete_condition": 0,
+    "complete_param": "[1205106,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1205106"
+    ]
+  },
+  {
+    "id": 12050502,
+    "complete_condition": 3,
+    "complete_param": "[1205116,0]",
+    "failed_condition": [
+      0,
+      6
+    ],
+    "failed_param": [
+      "1205116"
+    ]
+  },
+  {
+    "id": 12050601,
+    "complete_condition": 0,
+    "complete_param": "[1205402,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1205402"
+    ]
+  },
+  {
+    "id": 12050701,
+    "complete_condition": 0,
+    "complete_param": "[1205401,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1205401"
+    ]
+  },
+  {
+    "id": 13040101,
+    "complete_condition": 0,
+    "complete_param": "[1304001,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1304001"
+    ]
+  },
+  {
+    "id": 13040102,
+    "complete_condition": 0,
+    "complete_param": "[1304002,0]",
+    "failed_condition": [
+      0,
+      1,
+      2
+    ],
+    "failed_param": [
+      "1304002"
+    ]
+  },
+  {
+    "id": 13040103,
+    "complete_condition": 0,
+    "complete_param": "[1304003,0]",
+    "failed_condition": [
+      0,
+      1,
+      2
+    ],
+    "failed_param": [
+      "1304003"
+    ]
+  },
+  {
+    "id": 13040104,
+    "complete_condition": 0,
+    "complete_param": "[1304004,0]",
+    "failed_condition": [
+      0,
+      1,
+      2
+    ],
+    "failed_param": [
+      "1304004"
+    ]
+  },
+  {
+    "id": 13040201,
+    "complete_condition": 6,
+    "complete_param": "[0]",
+    "failed_condition": [],
+    "failed_param": []
+  },
+  {
+    "id": 13040202,
+    "complete_condition": 0,
+    "complete_param": "[1304006,0]",
+    "failed_condition": [
+      0,
+      6
+    ],
+    "failed_param": []
+  },
+  {
+    "id": 13040301,
+    "complete_condition": 0,
+    "complete_param": "[1304100,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1304100"
+    ]
+  },
+  {
+    "id": 13040401,
+    "complete_condition": 0,
+    "complete_param": "[1304200,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1304200"
+    ]
+  },
+  {
+    "id": 13040402,
+    "complete_condition": 0,
+    "complete_param": "[1304210,0]",
+    "failed_condition": [
+      0,
+      1,
+      2
+    ],
+    "failed_param": [
+      "1304210"
+    ]
+  },
+  {
+    "id": 13040501,
+    "complete_condition": 0,
+    "complete_param": "[1304101,0]",
+    "failed_condition": [
+      5,
+      0
+    ],
+    "failed_param": [
+      "角色.R2T1JinxiMd10011.状态标识.大招状态",
+      "1304101"
+    ]
+  },
+  {
+    "id": 13040502,
+    "complete_condition": 0,
+    "complete_param": "[1304102,0]",
+    "failed_condition": [
+      5,
+      0
+    ],
+    "failed_param": [
+      "角色.R2T1JinxiMd10011.状态标识.大招状态",
+      "1304102"
+    ]
+  },
+  {
+    "id": 13040503,
+    "complete_condition": 0,
+    "complete_param": "[1304103,0]",
+    "failed_condition": [
+      5,
+      0
+    ],
+    "failed_param": [
+      "角色.R2T1JinxiMd10011.状态标识.大招状态",
+      "1304103"
+    ]
+  },
+  {
+    "id": 13040504,
+    "complete_condition": 0,
+    "complete_param": "[1304104,0]",
+    "failed_condition": [
+      5,
+      0
+    ],
+    "failed_param": [
+      "角色.R2T1JinxiMd10011.状态标识.大招状态",
+      "1304104"
+    ]
+  },
+  {
+    "id": 13040601,
+    "complete_condition": 0,
+    "complete_param": "[1304106,0]",
+    "failed_condition": [
+      5
+    ],
+    "failed_param": [
+      "角色.R2T1JinxiMd10011.状态标识.大招状态"
+    ]
+  },
+  {
+    "id": 13040701,
+    "complete_condition": 0,
+    "complete_param": "[1304110,0]",
+    "failed_condition": [
+      5,
+      0
+    ],
+    "failed_param": [
+      "角色.R2T1JinxiMd10011.状态标识.大招状态",
+      "1304110"
+    ]
+  },
+  {
+    "id": 13040801,
+    "complete_condition": 0,
+    "complete_param": "[1304310,0]",
+    "failed_condition": [
+      5,
+      0
+    ],
+    "failed_param": [
+      "角色.R2T1JinxiMd10011.状态标识.大招状态",
+      "1304310"
+    ]
+  },
+  {
+    "id": 13040901,
+    "complete_condition": 0,
+    "complete_param": "[1304300,0]",
+    "failed_condition": [],
+    "failed_param": []
+  },
+  {
+    "id": 13040602,
+    "complete_condition": 0,
+    "complete_param": "[1304106,0]",
+    "failed_condition": [
+      0
+    ],
+    "failed_param": [
+      "1304106"
+    ]
   }
 ]

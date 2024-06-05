@@ -5,7 +5,8 @@
     "mini_map_tile_path": "T_MapTiles_-1_-1_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "T_FogTiles_-1_-1_UI",
-    "mini_fog_tile_path": "T_FogTiles_-1_-1_UI_MINI"
+    "mini_fog_tile_path": "T_FogTiles_-1_-1_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "-1_-2",
@@ -13,7 +14,8 @@
     "mini_map_tile_path": "T_MapTiles_-1_-2_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "T_FogTiles_-1_-2_UI",
-    "mini_fog_tile_path": "T_FogTiles_-1_-2_UI_MINI"
+    "mini_fog_tile_path": "T_FogTiles_-1_-2_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "-1_-3",
@@ -21,7 +23,8 @@
     "mini_map_tile_path": "T_MapTiles_-1_-3_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "T_FogTiles_-1_-3_UI",
-    "mini_fog_tile_path": "T_FogTiles_-1_-3_UI_MINI"
+    "mini_fog_tile_path": "T_FogTiles_-1_-3_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "-1_0",
@@ -29,7 +32,8 @@
     "mini_map_tile_path": "T_MapTiles_-1_0_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "T_FogTiles_-1_0_UI",
-    "mini_fog_tile_path": "T_FogTiles_-1_0_UI_MINI"
+    "mini_fog_tile_path": "T_FogTiles_-1_0_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "-1_1",
@@ -37,199 +41,8 @@
     "mini_map_tile_path": "T_MapTiles_-1_1_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "T_FogTiles_-1_1_UI",
-    "mini_fog_tile_path": "T_FogTiles_-1_1_UI_MINI"
-  },
-  {
-    "block": "-2_-1",
-    "map_tile_path": "T_MapTiles_-2_-1_UI",
-    "mini_map_tile_path": "T_MapTiles_-2_-1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_-2_-1_UI",
-    "mini_fog_tile_path": "T_FogTiles_-2_-1_UI_MINI"
-  },
-  {
-    "block": "-2_-2",
-    "map_tile_path": "T_MapTiles_-2_-2_UI",
-    "mini_map_tile_path": "T_MapTiles_-2_-2_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_-2_-2_UI",
-    "mini_fog_tile_path": "T_FogTiles_-2_-2_UI_MINI"
-  },
-  {
-    "block": "-2_0",
-    "map_tile_path": "T_MapTiles_-2_0_UI",
-    "mini_map_tile_path": "T_MapTiles_-2_0_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_-2_0_UI",
-    "mini_fog_tile_path": "T_FogTiles_-2_0_UI_MINI"
-  },
-  {
-    "block": "0_-1",
-    "map_tile_path": "T_MapTiles_0_-1_UI",
-    "mini_map_tile_path": "T_MapTiles_0_-1_UI_MINI",
-    "hd_map_tile_path": "T_MapTiles_0_-1_HD_UI",
-    "fog_tile_path": "T_FogTiles_0_-1_UI",
-    "mini_fog_tile_path": "T_FogTiles_0_-1_UI_MINI"
-  },
-  {
-    "block": "0_-2",
-    "map_tile_path": "T_MapTiles_0_-2_UI",
-    "mini_map_tile_path": "T_MapTiles_0_-2_UI_MINI",
-    "hd_map_tile_path": "T_MapTiles_0_-2_HD_UI",
-    "fog_tile_path": "T_FogTiles_0_-2_UI",
-    "mini_fog_tile_path": "T_FogTiles_0_-2_UI_MINI"
-  },
-  {
-    "block": "0_-3",
-    "map_tile_path": "T_MapTiles_0_-3_UI",
-    "mini_map_tile_path": "T_MapTiles_0_-3_UI_MINI",
-    "hd_map_tile_path": "T_MapTiles_0_-3_HD_UI",
-    "fog_tile_path": "T_FogTiles_0_-3_UI",
-    "mini_fog_tile_path": "T_FogTiles_0_-3_UI_MINI"
-  },
-  {
-    "block": "0_-4",
-    "map_tile_path": "T_MapTiles_0_-4_UI",
-    "mini_map_tile_path": "T_MapTiles_0_-4_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_0_-4_UI",
-    "mini_fog_tile_path": "T_FogTiles_0_-4_UI_MINI"
-  },
-  {
-    "block": "0_0",
-    "map_tile_path": "T_MapTiles_0_0_UI",
-    "mini_map_tile_path": "T_MapTiles_0_0_UI_MINI",
-    "hd_map_tile_path": "T_MapTiles_0_0_HD_UI",
-    "fog_tile_path": "T_FogTiles_0_0_UI",
-    "mini_fog_tile_path": "T_FogTiles_0_0_UI_MINI"
-  },
-  {
-    "block": "0_1",
-    "map_tile_path": "T_MapTiles_0_1_UI",
-    "mini_map_tile_path": "T_MapTiles_0_1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_0_1_UI",
-    "mini_fog_tile_path": "T_FogTiles_0_1_UI_MINI"
-  },
-  {
-    "block": "0_2",
-    "map_tile_path": "T_MapTiles_0_2_UI",
-    "mini_map_tile_path": "T_MapTiles_0_2_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_0_2_UI",
-    "mini_fog_tile_path": "T_FogTiles_0_2_UI_MINI"
-  },
-  {
-    "block": "1_-1",
-    "map_tile_path": "T_MapTiles_1_-1_UI",
-    "mini_map_tile_path": "T_MapTiles_1_-1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_1_-1_UI",
-    "mini_fog_tile_path": "T_FogTiles_1_-1_UI_MINI"
-  },
-  {
-    "block": "1_-2",
-    "map_tile_path": "T_MapTiles_1_-2_UI",
-    "mini_map_tile_path": "T_MapTiles_1_-2_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_1_-2_UI",
-    "mini_fog_tile_path": "T_FogTiles_1_-2_UI_MINI"
-  },
-  {
-    "block": "1_-3",
-    "map_tile_path": "T_MapTiles_1_-3_UI",
-    "mini_map_tile_path": "T_MapTiles_1_-3_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_1_-3_UI",
-    "mini_fog_tile_path": "T_FogTiles_1_-3_UI_MINI"
-  },
-  {
-    "block": "1_-4",
-    "map_tile_path": "T_MapTiles_1_-4_UI",
-    "mini_map_tile_path": "T_MapTiles_1_-4_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_1_-4_UI",
-    "mini_fog_tile_path": "T_FogTiles_1_-4_UI_MINI"
-  },
-  {
-    "block": "1_0",
-    "map_tile_path": "T_MapTiles_1_0_UI",
-    "mini_map_tile_path": "T_MapTiles_1_0_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_1_0_UI",
-    "mini_fog_tile_path": "T_FogTiles_1_0_UI_MINI"
-  },
-  {
-    "block": "1_1",
-    "map_tile_path": "T_MapTiles_1_1_UI",
-    "mini_map_tile_path": "T_MapTiles_1_1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_1_1_UI",
-    "mini_fog_tile_path": "T_FogTiles_1_1_UI_MINI"
-  },
-  {
-    "block": "1_2",
-    "map_tile_path": "T_MapTiles_1_2_UI",
-    "mini_map_tile_path": "T_MapTiles_1_2_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_1_2_UI",
-    "mini_fog_tile_path": "T_FogTiles_1_2_UI_MINI"
-  },
-  {
-    "block": "2_-1",
-    "map_tile_path": "T_MapTiles_2_-1_UI",
-    "mini_map_tile_path": "T_MapTiles_2_-1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_2_-1_UI",
-    "mini_fog_tile_path": "T_FogTiles_2_-1_UI_MINI"
-  },
-  {
-    "block": "2_-2",
-    "map_tile_path": "T_MapTiles_2_-2_UI",
-    "mini_map_tile_path": "T_MapTiles_2_-2_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_2_-2_UI",
-    "mini_fog_tile_path": "T_FogTiles_2_-2_UI_MINI"
-  },
-  {
-    "block": "2_-3",
-    "map_tile_path": "T_MapTiles_2_-3_UI",
-    "mini_map_tile_path": "T_MapTiles_2_-3_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_2_-3_UI",
-    "mini_fog_tile_path": "T_FogTiles_2_-3_UI_MINI"
-  },
-  {
-    "block": "2_-4",
-    "map_tile_path": "T_MapTiles_2_-4_UI",
-    "mini_map_tile_path": "T_MapTiles_2_-4_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_2_-4_UI",
-    "mini_fog_tile_path": "T_FogTiles_2_-4_UI_MINI"
-  },
-  {
-    "block": "2_1",
-    "map_tile_path": "T_MapTiles_2_1_UI",
-    "mini_map_tile_path": "T_MapTiles_2_1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_2_1_UI",
-    "mini_fog_tile_path": "T_FogTiles_2_1_UI_MINI"
-  },
-  {
-    "block": "2_2",
-    "map_tile_path": "T_MapTiles_2_2_UI",
-    "mini_map_tile_path": "T_MapTiles_2_2_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_2_2_UI",
-    "mini_fog_tile_path": "T_FogTiles_2_2_UI_MINI"
-  },
-  {
-    "block": "4_0",
-    "map_tile_path": "T_MapTiles_4_0_UI",
-    "mini_map_tile_path": "T_MapTiles_4_0_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_4_0_UI",
-    "mini_fog_tile_path": "T_FogTiles_4_0_UI_MINI"
+    "mini_fog_tile_path": "T_FogTiles_-1_1_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "-1_-4",
@@ -237,95 +50,8 @@
     "mini_map_tile_path": "T_MapTiles_-1_-4_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "T_FogTiles_-1_-4_UI",
-    "mini_fog_tile_path": "T_FogTiles_-1_-4_UI_MINI"
-  },
-  {
-    "block": "-2_-3",
-    "map_tile_path": "T_MapTiles_-2_-3_UI",
-    "mini_map_tile_path": "T_MapTiles_-2_-3_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_-2_-3_UI",
-    "mini_fog_tile_path": "T_FogTiles_-2_-3_UI_MINI"
-  },
-  {
-    "block": "2_0",
-    "map_tile_path": "T_MapTiles_2_0_UI",
-    "mini_map_tile_path": "T_MapTiles_2_0_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_2_0_UI",
-    "mini_fog_tile_path": "T_FogTiles_2_0_UI_MINI"
-  },
-  {
-    "block": "3_1",
-    "map_tile_path": "T_MapTiles_3_1_UI",
-    "mini_map_tile_path": "T_MapTiles_3_1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_3_1_UI",
-    "mini_fog_tile_path": "T_FogTiles_3_1_UI_MINI"
-  },
-  {
-    "block": "3_0",
-    "map_tile_path": "T_MapTiles_3_0_UI",
-    "mini_map_tile_path": "T_MapTiles_3_0_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_3_0_UI",
-    "mini_fog_tile_path": "T_FogTiles_3_0_UI_MINI"
-  },
-  {
-    "block": "3_-1",
-    "map_tile_path": "T_MapTiles_3_-1_UI",
-    "mini_map_tile_path": "T_MapTiles_3_-1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_3_-1_UI",
-    "mini_fog_tile_path": "T_FogTiles_3_-1_UI_MINI"
-  },
-  {
-    "block": "3_-2",
-    "map_tile_path": "T_MapTiles_3_-2_UI",
-    "mini_map_tile_path": "T_MapTiles_3_-2_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_3_-2_UI",
-    "mini_fog_tile_path": "T_FogTiles_3_-2_UI_MINI"
-  },
-  {
-    "block": "4_1",
-    "map_tile_path": "T_MapTiles_4_1_UI",
-    "mini_map_tile_path": "T_MapTiles_4_1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "T_FogTiles_4_1_UI",
-    "mini_fog_tile_path": "T_FogTiles_4_1_UI_MINI"
-  },
-  {
-    "block": "3_-3",
-    "map_tile_path": "T_MapTiles_3_-3_UI",
-    "mini_map_tile_path": "T_MapTiles_3_-3_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "",
-    "mini_fog_tile_path": ""
-  },
-  {
-    "block": "4_-2",
-    "map_tile_path": "T_MapTiles_4_-2_UI",
-    "mini_map_tile_path": "T_MapTiles_4_-2_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "",
-    "mini_fog_tile_path": ""
-  },
-  {
-    "block": "4_-3",
-    "map_tile_path": "T_MapTiles_4_-3_UI",
-    "mini_map_tile_path": "T_MapTiles_4_-3_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "",
-    "mini_fog_tile_path": ""
-  },
-  {
-    "block": "-2_1",
-    "map_tile_path": "T_MapTiles_-2_1_UI",
-    "mini_map_tile_path": "T_MapTiles_-2_1_UI_MINI",
-    "hd_map_tile_path": "",
-    "fog_tile_path": "",
-    "mini_fog_tile_path": ""
+    "mini_fog_tile_path": "T_FogTiles_-1_-4_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "-1_2",
@@ -333,7 +59,8 @@
     "mini_map_tile_path": "T_MapTiles_-1_2_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "",
-    "mini_fog_tile_path": ""
+    "mini_fog_tile_path": "",
+    "sub_map_group_id": 0
   },
   {
     "block": "-2_2",
@@ -341,7 +68,44 @@
     "mini_map_tile_path": "T_MapTiles_-2_2_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "",
-    "mini_fog_tile_path": ""
+    "mini_fog_tile_path": "",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "-2_1",
+    "map_tile_path": "T_MapTiles_-2_1_UI",
+    "mini_map_tile_path": "T_MapTiles_-2_1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "",
+    "mini_fog_tile_path": "",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "-2_-1",
+    "map_tile_path": "T_MapTiles_-2_-1_UI",
+    "mini_map_tile_path": "T_MapTiles_-2_-1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_-2_-1_UI",
+    "mini_fog_tile_path": "T_FogTiles_-2_-1_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "-2_-2",
+    "map_tile_path": "T_MapTiles_-2_-2_UI",
+    "mini_map_tile_path": "T_MapTiles_-2_-2_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_-2_-2_UI",
+    "mini_fog_tile_path": "T_FogTiles_-2_-2_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "-2_-3",
+    "map_tile_path": "T_MapTiles_-2_-3_UI",
+    "mini_map_tile_path": "T_MapTiles_-2_-3_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_-2_-3_UI",
+    "mini_fog_tile_path": "T_FogTiles_-2_-3_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "-2_-4",
@@ -349,15 +113,260 @@
     "mini_map_tile_path": "T_MapTiles_-2_-4_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "",
-    "mini_fog_tile_path": ""
+    "mini_fog_tile_path": "",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "-2_0",
+    "map_tile_path": "T_MapTiles_-2_0_UI",
+    "mini_map_tile_path": "T_MapTiles_-2_0_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_-2_0_UI",
+    "mini_fog_tile_path": "T_FogTiles_-2_0_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "0_-1",
+    "map_tile_path": "T_MapTiles_0_-1_UI",
+    "mini_map_tile_path": "T_MapTiles_0_-1_UI_MINI",
+    "hd_map_tile_path": "T_MapTiles_0_-1_HD_UI",
+    "fog_tile_path": "T_FogTiles_0_-1_UI",
+    "mini_fog_tile_path": "T_FogTiles_0_-1_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "0_-2",
+    "map_tile_path": "T_MapTiles_0_-2_UI",
+    "mini_map_tile_path": "T_MapTiles_0_-2_UI_MINI",
+    "hd_map_tile_path": "T_MapTiles_0_-2_HD_UI",
+    "fog_tile_path": "T_FogTiles_0_-2_UI",
+    "mini_fog_tile_path": "T_FogTiles_0_-2_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "0_-3",
+    "map_tile_path": "T_MapTiles_0_-3_UI",
+    "mini_map_tile_path": "T_MapTiles_0_-3_UI_MINI",
+    "hd_map_tile_path": "T_MapTiles_0_-3_HD_UI",
+    "fog_tile_path": "T_FogTiles_0_-3_UI",
+    "mini_fog_tile_path": "T_FogTiles_0_-3_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "0_-4",
+    "map_tile_path": "T_MapTiles_0_-4_UI",
+    "mini_map_tile_path": "T_MapTiles_0_-4_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_0_-4_UI",
+    "mini_fog_tile_path": "T_FogTiles_0_-4_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "0_0",
+    "map_tile_path": "T_MapTiles_0_0_UI",
+    "mini_map_tile_path": "T_MapTiles_0_0_UI_MINI",
+    "hd_map_tile_path": "T_MapTiles_0_0_HD_UI",
+    "fog_tile_path": "T_FogTiles_0_0_UI",
+    "mini_fog_tile_path": "T_FogTiles_0_0_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "0_1",
+    "map_tile_path": "T_MapTiles_0_1_UI",
+    "mini_map_tile_path": "T_MapTiles_0_1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_0_1_UI",
+    "mini_fog_tile_path": "T_FogTiles_0_1_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "0_2",
+    "map_tile_path": "T_MapTiles_0_2_UI",
+    "mini_map_tile_path": "T_MapTiles_0_2_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_0_2_UI",
+    "mini_fog_tile_path": "T_FogTiles_0_2_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "1_-1",
+    "map_tile_path": "T_MapTiles_1_-1_UI",
+    "mini_map_tile_path": "T_MapTiles_1_-1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_1_-1_UI",
+    "mini_fog_tile_path": "T_FogTiles_1_-1_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "1_-2",
+    "map_tile_path": "T_MapTiles_1_-2_UI",
+    "mini_map_tile_path": "T_MapTiles_1_-2_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_1_-2_UI",
+    "mini_fog_tile_path": "T_FogTiles_1_-2_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "1_-3",
+    "map_tile_path": "T_MapTiles_1_-3_UI",
+    "mini_map_tile_path": "T_MapTiles_1_-3_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_1_-3_UI",
+    "mini_fog_tile_path": "T_FogTiles_1_-3_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "1_-4",
+    "map_tile_path": "T_MapTiles_1_-4_UI",
+    "mini_map_tile_path": "T_MapTiles_1_-4_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_1_-4_UI",
+    "mini_fog_tile_path": "T_FogTiles_1_-4_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "1_0",
+    "map_tile_path": "T_MapTiles_1_0_UI",
+    "mini_map_tile_path": "T_MapTiles_1_0_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_1_0_UI",
+    "mini_fog_tile_path": "T_FogTiles_1_0_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "1_1",
+    "map_tile_path": "T_MapTiles_1_1_UI",
+    "mini_map_tile_path": "T_MapTiles_1_1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_1_1_UI",
+    "mini_fog_tile_path": "T_FogTiles_1_1_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "1_2",
+    "map_tile_path": "T_MapTiles_1_2_UI",
+    "mini_map_tile_path": "T_MapTiles_1_2_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_1_2_UI",
+    "mini_fog_tile_path": "T_FogTiles_1_2_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "2_0",
+    "map_tile_path": "T_MapTiles_2_0_UI",
+    "mini_map_tile_path": "T_MapTiles_2_0_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_2_0_UI",
+    "mini_fog_tile_path": "T_FogTiles_2_0_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "2_-1",
+    "map_tile_path": "T_MapTiles_2_-1_UI",
+    "mini_map_tile_path": "T_MapTiles_2_-1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_2_-1_UI",
+    "mini_fog_tile_path": "T_FogTiles_2_-1_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "2_-2",
+    "map_tile_path": "T_MapTiles_2_-2_UI",
+    "mini_map_tile_path": "T_MapTiles_2_-2_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_2_-2_UI",
+    "mini_fog_tile_path": "T_FogTiles_2_-2_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "2_-3",
+    "map_tile_path": "T_MapTiles_2_-3_UI",
+    "mini_map_tile_path": "T_MapTiles_2_-3_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_2_-3_UI",
+    "mini_fog_tile_path": "T_FogTiles_2_-3_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "2_-4",
+    "map_tile_path": "T_MapTiles_2_-4_UI",
+    "mini_map_tile_path": "T_MapTiles_2_-4_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_2_-4_UI",
+    "mini_fog_tile_path": "T_FogTiles_2_-4_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "2_1",
+    "map_tile_path": "T_MapTiles_2_1_UI",
+    "mini_map_tile_path": "T_MapTiles_2_1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_2_1_UI",
+    "mini_fog_tile_path": "T_FogTiles_2_1_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "2_2",
+    "map_tile_path": "T_MapTiles_2_2_UI",
+    "mini_map_tile_path": "T_MapTiles_2_2_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_2_2_UI",
+    "mini_fog_tile_path": "T_FogTiles_2_2_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "3_1",
+    "map_tile_path": "T_MapTiles_3_1_UI",
+    "mini_map_tile_path": "T_MapTiles_3_1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_3_1_UI",
+    "mini_fog_tile_path": "T_FogTiles_3_1_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "3_0",
+    "map_tile_path": "T_MapTiles_3_0_UI",
+    "mini_map_tile_path": "T_MapTiles_3_0_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_3_0_UI",
+    "mini_fog_tile_path": "T_FogTiles_3_0_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "3_-1",
+    "map_tile_path": "T_MapTiles_3_-1_UI",
+    "mini_map_tile_path": "T_MapTiles_3_-1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_3_-1_UI",
+    "mini_fog_tile_path": "T_FogTiles_3_-1_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "3_-2",
+    "map_tile_path": "T_MapTiles_3_-2_UI",
+    "mini_map_tile_path": "T_MapTiles_3_-2_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_3_-2_UI",
+    "mini_fog_tile_path": "T_FogTiles_3_-2_UI_MINI",
+    "sub_map_group_id": 1
+  },
+  {
+    "block": "3_-3",
+    "map_tile_path": "T_MapTiles_3_-3_UI",
+    "mini_map_tile_path": "T_MapTiles_3_-3_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_3_-3_UI",
+    "mini_fog_tile_path": "T_FogTiles_3_-3_UI_MINI",
+    "sub_map_group_id": 1
   },
   {
     "block": "3_-4",
     "map_tile_path": "T_MapTiles_3_-4_UI",
     "mini_map_tile_path": "T_MapTiles_3_-4_UI_MINI",
     "hd_map_tile_path": "",
-    "fog_tile_path": "",
-    "mini_fog_tile_path": ""
+    "fog_tile_path": "T_FogTiles_3_-4_UI",
+    "mini_fog_tile_path": "T_FogTiles_3_-4_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "3_2",
@@ -365,7 +374,26 @@
     "mini_map_tile_path": "T_MapTiles_3_2_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "T_FogTiles_3_2_UI",
-    "mini_fog_tile_path": "T_FogTiles_3_2_UI_MINI"
+    "mini_fog_tile_path": "T_FogTiles_3_2_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "4_0",
+    "map_tile_path": "T_MapTiles_4_0_UI",
+    "mini_map_tile_path": "T_MapTiles_4_0_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_4_0_UI",
+    "mini_fog_tile_path": "T_FogTiles_4_0_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "4_1",
+    "map_tile_path": "T_MapTiles_4_1_UI",
+    "mini_map_tile_path": "T_MapTiles_4_1_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_4_1_UI",
+    "mini_fog_tile_path": "T_FogTiles_4_1_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "4_-1",
@@ -373,7 +401,26 @@
     "mini_map_tile_path": "T_MapTiles_4_-1_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "",
-    "mini_fog_tile_path": ""
+    "mini_fog_tile_path": "",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "4_-2",
+    "map_tile_path": "T_MapTiles_4_-2_UI",
+    "mini_map_tile_path": "T_MapTiles_4_-2_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_4_-2_UI",
+    "mini_fog_tile_path": "T_FogTiles_4_-2_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "4_-3",
+    "map_tile_path": "T_MapTiles_4_-3_UI",
+    "mini_map_tile_path": "T_MapTiles_4_-3_UI_MINI",
+    "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_4_-3_UI",
+    "mini_fog_tile_path": "T_FogTiles_4_-3_UI_MINI",
+    "sub_map_group_id": 0
   },
   {
     "block": "4_2",
@@ -381,14 +428,25 @@
     "mini_map_tile_path": "T_MapTiles_4_2_UI_MINI",
     "hd_map_tile_path": "",
     "fog_tile_path": "",
-    "mini_fog_tile_path": ""
+    "mini_fog_tile_path": "",
+    "sub_map_group_id": 0
   },
   {
     "block": "4_-4",
     "map_tile_path": "T_MapTiles_4_-4_UI",
     "mini_map_tile_path": "T_MapTiles_4_-4_UI_MINI",
     "hd_map_tile_path": "",
+    "fog_tile_path": "T_FogTiles_4_-4_UI",
+    "mini_fog_tile_path": "T_FogTiles_4_-4_UI_MINI",
+    "sub_map_group_id": 0
+  },
+  {
+    "block": "5_-1",
+    "map_tile_path": "T_MapTiles_5_-1_UI",
+    "mini_map_tile_path": "T_MapTiles_5_-1_UI_MINI",
+    "hd_map_tile_path": "",
     "fog_tile_path": "",
-    "mini_fog_tile_path": ""
+    "mini_fog_tile_path": "",
+    "sub_map_group_id": 0
   }
 ]

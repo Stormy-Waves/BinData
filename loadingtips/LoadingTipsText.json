@@ -790,5 +790,13 @@
     "weight": 10,
     "title": "LoadingTipsText_1012_Title",
     "tips_text": "LoadingTipsText_1012_TipsText"
+  },
+  {
+    "id": 20410101,
+    "level_area_id": 204101,
+    "image_id": 204101,
+    "weight": 10,
+    "title": "LoadingTipsText_20410101_Title",
+    "tips_text": "LoadingTipsText_20410101_TipsText"
   }
 ]

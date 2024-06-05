@@ -7679,5 +7679,344 @@
     "level_limit": 90,
     "consume": [],
     "gold_consume": 0
+  },
+  {
+    "id": 665,
+    "breach_id": 21010026,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
+      {
+        "key": 41100011,
+        "value": 6
+      }
+    ],
+    "gold_consume": 10000
+  },
+  {
+    "id": 666,
+    "breach_id": 21010026,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
+      {
+        "key": 43020041,
+        "value": 6
+      },
+      {
+        "key": 41100012,
+        "value": 6
+      }
+    ],
+    "gold_consume": 20000
+  },
+  {
+    "id": 667,
+    "breach_id": 21010026,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
+      {
+        "key": 43020042,
+        "value": 8
+      },
+      {
+        "key": 41100013,
+        "value": 4
+      }
+    ],
+    "gold_consume": 40000
+  },
+  {
+    "id": 668,
+    "breach_id": 21010026,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
+      {
+        "key": 43020043,
+        "value": 6
+      },
+      {
+        "key": 41100013,
+        "value": 6
+      }
+    ],
+    "gold_consume": 60000
+  },
+  {
+    "id": 669,
+    "breach_id": 21010026,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
+      {
+        "key": 43020044,
+        "value": 8
+      },
+      {
+        "key": 41100014,
+        "value": 4
+      }
+    ],
+    "gold_consume": 80000
+  },
+  {
+    "id": 670,
+    "breach_id": 21010026,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
+      {
+        "key": 43020044,
+        "value": 12
+      },
+      {
+        "key": 41100014,
+        "value": 8
+      }
+    ],
+    "gold_consume": 120000
+  },
+  {
+    "id": 671,
+    "breach_id": 21010026,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
+  },
+  {
+    "id": 673,
+    "breach_id": 21020016,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
+      {
+        "key": 41100021,
+        "value": 6
+      }
+    ],
+    "gold_consume": 10000
+  },
+  {
+    "id": 674,
+    "breach_id": 21020016,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
+      {
+        "key": 43020011,
+        "value": 6
+      },
+      {
+        "key": 41100022,
+        "value": 6
+      }
+    ],
+    "gold_consume": 20000
+  },
+  {
+    "id": 675,
+    "breach_id": 21020016,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
+      {
+        "key": 43020012,
+        "value": 8
+      },
+      {
+        "key": 41100023,
+        "value": 4
+      }
+    ],
+    "gold_consume": 40000
+  },
+  {
+    "id": 676,
+    "breach_id": 21020016,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
+      {
+        "key": 43020013,
+        "value": 6
+      },
+      {
+        "key": 41100023,
+        "value": 6
+      }
+    ],
+    "gold_consume": 60000
+  },
+  {
+    "id": 677,
+    "breach_id": 21020016,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
+      {
+        "key": 43020014,
+        "value": 8
+      },
+      {
+        "key": 41100024,
+        "value": 4
+      }
+    ],
+    "gold_consume": 80000
+  },
+  {
+    "id": 678,
+    "breach_id": 21020016,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
+      {
+        "key": 43020014,
+        "value": 12
+      },
+      {
+        "key": 41100024,
+        "value": 8
+      }
+    ],
+    "gold_consume": 120000
+  },
+  {
+    "id": 679,
+    "breach_id": 21020016,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
+  },
+  {
+    "id": 681,
+    "breach_id": 21010063,
+    "level": 0,
+    "condition_id": 504002,
+    "level_limit": 20,
+    "consume": [
+      {
+        "key": 41100011,
+        "value": 4
+      }
+    ],
+    "gold_consume": 6000
+  },
+  {
+    "id": 682,
+    "breach_id": 21010063,
+    "level": 1,
+    "condition_id": 504003,
+    "level_limit": 40,
+    "consume": [
+      {
+        "key": 43020041,
+        "value": 4
+      },
+      {
+        "key": 41100012,
+        "value": 4
+      }
+    ],
+    "gold_consume": 12000
+  },
+  {
+    "id": 683,
+    "breach_id": 21010063,
+    "level": 2,
+    "condition_id": 504004,
+    "level_limit": 50,
+    "consume": [
+      {
+        "key": 43020042,
+        "value": 5
+      },
+      {
+        "key": 41100013,
+        "value": 3
+      }
+    ],
+    "gold_consume": 24000
+  },
+  {
+    "id": 684,
+    "breach_id": 21010063,
+    "level": 3,
+    "condition_id": 504005,
+    "level_limit": 60,
+    "consume": [
+      {
+        "key": 43020043,
+        "value": 4
+      },
+      {
+        "key": 41100013,
+        "value": 4
+      }
+    ],
+    "gold_consume": 36000
+  },
+  {
+    "id": 685,
+    "breach_id": 21010063,
+    "level": 4,
+    "condition_id": 504006,
+    "level_limit": 70,
+    "consume": [
+      {
+        "key": 43020044,
+        "value": 5
+      },
+      {
+        "key": 41100014,
+        "value": 3
+      }
+    ],
+    "gold_consume": 48000
+  },
+  {
+    "id": 686,
+    "breach_id": 21010063,
+    "level": 5,
+    "condition_id": 504007,
+    "level_limit": 80,
+    "consume": [
+      {
+        "key": 43020044,
+        "value": 8
+      },
+      {
+        "key": 41100014,
+        "value": 5
+      }
+    ],
+    "gold_consume": 72000
+  },
+  {
+    "id": 687,
+    "breach_id": 21010063,
+    "level": 6,
+    "condition_id": 504007,
+    "level_limit": 90,
+    "consume": [],
+    "gold_consume": 0
   }
 ]

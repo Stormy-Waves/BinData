@@ -1,0 +1,62 @@
+[
+  {
+    "block": "3_-3",
+    "multi_map_list": [
+      1
+    ],
+    "multi_map_range_list": [
+      {
+        "array_int": [
+          370,
+          0,
+          550,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "block": "3_-4",
+    "multi_map_list": [
+      1
+    ],
+    "multi_map_range_list": [
+      {
+        "array_int": [
+          350,
+          700,
+          575,
+          850
+        ]
+      }
+    ]
+  },
+  {
+    "block": "4_-3",
+    "multi_map_list": [
+      3
+    ],
+    "multi_map_range_list": [
+      {
+        "array_int": [
+          0,
+          375,
+          50,
+          575,
+          50,
+          300,
+          100,
+          525,
+          100,
+          300,
+          150,
+          475,
+          150,
+          375,
+          200,
+          465
+        ]
+      }
+    ]
+  }
+]

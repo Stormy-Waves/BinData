@@ -8,10 +8,6 @@
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_FaceButton_Top"
-      },
-      {
-        "key": "GenericUSBController_Button5",
-        "value": "GenericUSBController_Button4"
       }
     ],
     "secondary_key_valid_time": -1,
@@ -27,10 +23,6 @@
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_DPad_Down"
-      },
-      {
-        "key": "GenericUSBController_Button5",
-        "value": "GenericUSBController_Button18"
       }
     ],
     "secondary_key_valid_time": -1,
@@ -46,10 +38,6 @@
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_FaceButton_Left"
-      },
-      {
-        "key": "GenericUSBController_Button5",
-        "value": "GenericUSBController_Button1"
       }
     ],
     "secondary_key_valid_time": -1,
@@ -65,10 +53,6 @@
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_LeftTrigger"
-      },
-      {
-        "key": "GenericUSBController_Button5",
-        "value": "GenericUSBController_Button7"
       }
     ],
     "secondary_key_valid_time": -1,
@@ -84,10 +68,6 @@
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_RightTrigger"
-      },
-      {
-        "key": "GenericUSBController_Button5",
-        "value": "GenericUSBController_Button8"
       }
     ],
     "secondary_key_valid_time": -1,
@@ -103,10 +83,6 @@
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_RightThumbstick"
-      },
-      {
-        "key": "GenericUSBController_Button5",
-        "value": "GenericUSBController_Button12"
       }
     ],
     "secondary_key_valid_time": -1,
@@ -122,10 +98,6 @@
       {
         "key": "Gamepad_LeftThumbstick",
         "value": "Gamepad_RightThumbstick"
-      },
-      {
-        "key": "GenericUSBController_Button11",
-        "value": "GenericUSBController_Button12"
       }
     ],
     "secondary_key_valid_time": -1,
@@ -141,10 +113,6 @@
       {
         "key": "Gamepad_LeftShoulder",
         "value": "Gamepad_Special_Right"
-      },
-      {
-        "key": "GenericUSBController_Button5",
-        "value": "GenericUSBController_Button10"
       }
     ],
     "secondary_key_valid_time": -1,

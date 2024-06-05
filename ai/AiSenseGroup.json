@@ -764,6 +764,17 @@
     "share_dis": 0.0
   },
   {
+    "id": 77049,
+    "lose_delay": {
+      "min": 2000.0,
+      "max": 3000.0
+    },
+    "ai_sense_ids": [
+      77049
+    ],
+    "share_dis": 0.0
+  },
+  {
     "id": 800021,
     "lose_delay": {
       "min": 0.0,
@@ -839,6 +850,18 @@
     },
     "ai_sense_ids": [
       800101
+    ],
+    "share_dis": 0.0
+  },
+  {
+    "id": 77032,
+    "lose_delay": {
+      "min": 2000.0,
+      "max": 3000.0
+    },
+    "ai_sense_ids": [
+      77032,
+      170001
     ],
     "share_dis": 0.0
   }

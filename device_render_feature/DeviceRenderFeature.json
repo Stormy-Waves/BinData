@@ -17,6 +17,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -37,6 +39,8 @@
     "vsync": 1,
     "screen_percentage": 1,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -57,6 +61,8 @@
     "vsync": 1,
     "screen_percentage": 2,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -77,6 +83,8 @@
     "vsync": 1,
     "screen_percentage": 3,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -97,6 +105,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -117,6 +127,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -137,6 +149,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -157,6 +171,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -177,6 +193,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -197,6 +215,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -217,6 +237,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -237,6 +259,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -257,6 +281,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -277,6 +303,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -297,6 +325,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -317,6 +347,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -337,6 +369,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -357,6 +391,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -377,6 +413,8 @@
     "vsync": 1,
     "screen_percentage": 2,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -397,6 +435,8 @@
     "vsync": 1,
     "screen_percentage": 3,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -417,6 +457,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -437,6 +479,8 @@
     "vsync": 1,
     "screen_percentage": 1,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -457,6 +501,8 @@
     "vsync": 1,
     "screen_percentage": 2,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -477,6 +523,8 @@
     "vsync": 1,
     "screen_percentage": 3,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -497,6 +545,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -517,6 +567,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -537,6 +589,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -557,6 +611,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -577,6 +633,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 2,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -597,6 +655,8 @@
     "vsync": 1,
     "screen_percentage": 1,
     "super_resolution": 2,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -617,6 +677,8 @@
     "vsync": 1,
     "screen_percentage": 2,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -637,6 +699,8 @@
     "vsync": 1,
     "screen_percentage": 3,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -657,6 +721,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 2,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -677,6 +743,8 @@
     "vsync": 1,
     "screen_percentage": 1,
     "super_resolution": 2,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -697,6 +765,8 @@
     "vsync": 1,
     "screen_percentage": 2,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -717,6 +787,8 @@
     "vsync": 1,
     "screen_percentage": 3,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -737,6 +809,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 2,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -757,6 +831,8 @@
     "vsync": 1,
     "screen_percentage": 1,
     "super_resolution": 2,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -777,6 +853,8 @@
     "vsync": 1,
     "screen_percentage": 2,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -797,6 +875,8 @@
     "vsync": 1,
     "screen_percentage": 3,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -817,6 +897,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 2,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -837,6 +919,8 @@
     "vsync": 1,
     "screen_percentage": 1,
     "super_resolution": 2,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -857,6 +941,8 @@
     "vsync": 1,
     "screen_percentage": 2,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -877,6 +963,8 @@
     "vsync": 1,
     "screen_percentage": 3,
     "super_resolution": 2,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -897,6 +985,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -917,6 +1007,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -937,6 +1029,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -957,6 +1051,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -977,6 +1073,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -997,6 +1095,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1017,6 +1117,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1037,6 +1139,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1057,6 +1161,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1077,6 +1183,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1097,6 +1205,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1117,6 +1227,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1137,6 +1249,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1157,6 +1271,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1177,6 +1293,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1197,6 +1315,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1217,6 +1337,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1237,6 +1359,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1257,6 +1381,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1277,6 +1403,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1297,6 +1425,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1317,6 +1447,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1337,6 +1469,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1357,6 +1491,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1377,6 +1513,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1397,6 +1535,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1417,6 +1557,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1437,6 +1579,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1457,6 +1601,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1477,6 +1623,8 @@
     "vsync": 0,
     "screen_percentage": 0,
     "super_resolution": 0,
+    "npc_density": 0,
+    "bloom": 0,
     "other_command": ""
   },
   {
@@ -1497,6 +1645,8 @@
     "vsync": 0,
     "screen_percentage": 1,
     "super_resolution": 0,
+    "npc_density": 1,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -1517,6 +1667,8 @@
     "vsync": 0,
     "screen_percentage": 2,
     "super_resolution": 0,
+    "npc_density": 2,
+    "bloom": 1,
     "other_command": ""
   }
 ]

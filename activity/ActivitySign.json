@@ -1,6 +1,7 @@
 [
   {
     "id": 100100001,
+    "type": 1,
     "sign_rewards": [
       {
         "item_id": 50001,
@@ -37,5 +38,43 @@
     "preview_list": [
       100704
     ]
+  },
+  {
+    "id": 100100002,
+    "type": 2,
+    "sign_rewards": [
+      {
+        "item_id": 50001,
+        "count": 1
+      },
+      {
+        "item_id": 50001,
+        "count": 1
+      },
+      {
+        "item_id": 50002,
+        "count": 2
+      },
+      {
+        "item_id": 50001,
+        "count": 1
+      },
+      {
+        "item_id": 50001,
+        "count": 1
+      },
+      {
+        "item_id": 50001,
+        "count": 1
+      },
+      {
+        "item_id": 50002,
+        "count": 3
+      }
+    ],
+    "important_reward_index": -1,
+    "important_reward_icon": "1",
+    "important_reward_type": 0,
+    "preview_list": []
   }
 ]

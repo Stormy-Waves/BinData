@@ -611,7 +611,7 @@
     "light_sequence": ""
   },
   {
-    "id": 55,
+    "id": 57,
     "parent_view_name": "RoguelikeAchievementView",
     "child_view_name": "RoguelikeAchievementView",
     "tab_name": "Achievement_Rogue_Name",
@@ -620,20 +620,7 @@
     "ui_camera_settings_name": "",
     "ui_camera_blend_name": "",
     "back_view_blend_name": "",
-    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueSpeComplete.SP_IconRogueSpeComplete",
-    "light_sequence": ""
-  },
-  {
-    "id": 57,
-    "parent_view_name": "RoguelikeAchievementView",
-    "child_view_name": "RoguelikeAchievementView",
-    "tab_name": "Achievement_Rogue_Name",
-    "tab_index": 4,
-    "function_id": 0,
-    "ui_camera_settings_name": "",
-    "ui_camera_blend_name": "",
-    "back_view_blend_name": "",
-    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueRoleComplete.SP_IconRogueRoleComplete",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueUnlock.SP_IconRogueUnlock",
     "light_sequence": ""
   },
   {
@@ -660,6 +647,58 @@
     "ui_camera_blend_name": "",
     "back_view_blend_name": "",
     "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_VisionbookRecovery.SP_VisionbookRecovery",
+    "light_sequence": ""
+  },
+  {
+    "id": 60,
+    "parent_view_name": "BossRushMainView",
+    "child_view_name": "BossRushSelectView",
+    "tab_name": "",
+    "tab_index": 1,
+    "function_id": 0,
+    "ui_camera_settings_name": "",
+    "ui_camera_blend_name": "",
+    "back_view_blend_name": "",
+    "icon": "",
+    "light_sequence": ""
+  },
+  {
+    "id": 61,
+    "parent_view_name": "BossRushMainView",
+    "child_view_name": "BossRushLevelDetailView",
+    "tab_name": "",
+    "tab_index": 2,
+    "function_id": 0,
+    "ui_camera_settings_name": "",
+    "ui_camera_blend_name": "",
+    "back_view_blend_name": "",
+    "icon": "",
+    "light_sequence": ""
+  },
+  {
+    "id": 62,
+    "parent_view_name": "BossRushMainView",
+    "child_view_name": "BossRushBuffSelectView",
+    "tab_name": "",
+    "tab_index": 3,
+    "function_id": 0,
+    "ui_camera_settings_name": "",
+    "ui_camera_blend_name": "",
+    "back_view_blend_name": "",
+    "icon": "",
+    "light_sequence": ""
+  },
+  {
+    "id": 56,
+    "parent_view_name": "RoguelikeAchievementView",
+    "child_view_name": "RoguelikeAchievementView",
+    "tab_name": "Achievement_Rogue_Name",
+    "tab_index": 3,
+    "function_id": 0,
+    "ui_camera_settings_name": "",
+    "ui_camera_blend_name": "",
+    "back_view_blend_name": "",
+    "icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconRogueRoleComplete.SP_IconRogueRoleComplete",
     "light_sequence": ""
   }
 ]

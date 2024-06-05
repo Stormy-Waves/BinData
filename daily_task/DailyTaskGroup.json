@@ -190,5 +190,75 @@
     ],
     "type_id": 110,
     "country_id": 1
+  },
+  {
+    "id": 11101,
+    "task_ids": [
+      11900012
+    ],
+    "type_id": 111,
+    "country_id": 1
+  },
+  {
+    "id": 11102,
+    "task_ids": [
+      11900013,
+      11900014
+    ],
+    "type_id": 111,
+    "country_id": 1
+  },
+  {
+    "id": 11103,
+    "task_ids": [
+      11900015
+    ],
+    "type_id": 111,
+    "country_id": 1
+  },
+  {
+    "id": 11201,
+    "task_ids": [
+      11900008
+    ],
+    "type_id": 112,
+    "country_id": 1
+  },
+  {
+    "id": 11202,
+    "task_ids": [
+      11900009,
+      11900010
+    ],
+    "type_id": 112,
+    "country_id": 1
+  },
+  {
+    "id": 11203,
+    "task_ids": [
+      11900011
+    ],
+    "type_id": 112,
+    "country_id": 1
+  },
+  {
+    "id": 11301,
+    "task_ids": [
+      11900006,
+      11900007
+    ],
+    "type_id": 113,
+    "country_id": 1
+  },
+  {
+    "id": 11401,
+    "task_ids": [
+      11900002,
+      11900003,
+      11900004,
+      11900005
+    ],
+    "type_id": 114,
+    "country_id": 1
   }
 ]

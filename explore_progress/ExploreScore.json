@@ -248,5 +248,30 @@
         "value": 35
       }
     ]
+  },
+  {
+    "area": 14,
+    "explore_score": [
+      {
+        "key": 20,
+        "value": 270
+      },
+      {
+        "key": 40,
+        "value": 270
+      },
+      {
+        "key": 60,
+        "value": 270
+      },
+      {
+        "key": 80,
+        "value": 270
+      },
+      {
+        "key": 100,
+        "value": 270
+      }
+    ]
   }
 ]

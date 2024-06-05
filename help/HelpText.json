@@ -718,5 +718,85 @@
     "picture": "",
     "content": "HelpText_71_Content",
     "type": 0
+  },
+  {
+    "id": 72,
+    "group_id": 72,
+    "title": "HelpText_72_Title",
+    "picture": "",
+    "content": "HelpText_72_Content",
+    "type": 0
+  },
+  {
+    "id": 74,
+    "group_id": 74,
+    "title": "HelpText_74_Title",
+    "picture": "",
+    "content": "HelpText_74_Content",
+    "type": 0
+  },
+  {
+    "id": 73,
+    "group_id": 73,
+    "title": "HelpText_73_Title",
+    "picture": "",
+    "content": "HelpText_73_Content",
+    "type": 0
+  },
+  {
+    "id": 75,
+    "group_id": 75,
+    "title": "HelpText_75_Title",
+    "picture": "",
+    "content": "HelpText_75_Content",
+    "type": 0
+  },
+  {
+    "id": 76,
+    "group_id": 76,
+    "title": "HelpText_76_Title",
+    "picture": "",
+    "content": "HelpText_76_Content",
+    "type": 0
+  },
+  {
+    "id": 77,
+    "group_id": 77,
+    "title": "HelpText_77_Title",
+    "picture": "",
+    "content": "HelpText_77_Content",
+    "type": 0
+  },
+  {
+    "id": 78,
+    "group_id": 78,
+    "title": "HelpText_71_Title",
+    "picture": "",
+    "content": "HelpText_78_Content",
+    "type": 0
+  },
+  {
+    "id": 79,
+    "group_id": 79,
+    "title": "HelpText_79_Title",
+    "picture": "",
+    "content": "HelpText_79_Content",
+    "type": 0
+  },
+  {
+    "id": 80,
+    "group_id": 80,
+    "title": "HelpText_80_Title",
+    "picture": "",
+    "content": "HelpText_80_Content",
+    "type": 0
+  },
+  {
+    "id": 84,
+    "group_id": 84,
+    "title": "HelpText_84_Title",
+    "picture": "",
+    "content": "HelpText_84_Content",
+    "type": 0
   }
 ]

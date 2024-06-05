@@ -1548,5 +1548,53 @@
     "value": [
       3000.0
     ]
+  },
+  {
+    "id": 900312004,
+    "priority": 3,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2
+    ],
+    "value": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "id": 91300400,
+    "priority": 3,
+    "refrence_attribute": 2,
+    "refrence_target": 0,
+    "attribute_rate": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
+    ],
+    "value": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
   }
 ]

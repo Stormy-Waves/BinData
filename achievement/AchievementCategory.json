@@ -2,30 +2,42 @@
   {
     "id": 1,
     "name": "AchievementCategory_1_Name",
+    "function_type": 1,
     "sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconAchievement1.SP_IconAchievement1",
     "texture_path": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementShijie_UI.T_AchievementShijie_UI"
   },
   {
     "id": 2,
     "name": "AchievementCategory_2_Name",
+    "function_type": 1,
     "sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconAchievement2.SP_IconAchievement2",
     "texture_path": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementLicheng_UI.T_AchievementLicheng_UI"
   },
   {
     "id": 3,
     "name": "AchievementCategory_3_Name",
+    "function_type": 1,
     "sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconAchievement3.SP_IconAchievement3",
     "texture_path": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementZhandou_UI.T_AchievementZhandou_UI"
   },
   {
     "id": 4,
     "name": "AchievementCategory_4_Name",
+    "function_type": 1,
     "sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconAchievement4.SP_IconAchievement4",
     "texture_path": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementChengzhamg_UI.T_AchievementChengzhamg_UI"
   },
   {
     "id": 7,
     "name": "AchievementCategory_6_Name",
+    "function_type": 2,
+    "sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconAchievement3.SP_IconAchievement3",
+    "texture_path": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementHezuo_UI.T_AchievementHezuo_UI"
+  },
+  {
+    "id": 8,
+    "name": "AchievementCategory_6_Name",
+    "function_type": 2,
     "sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconAchievement3.SP_IconAchievement3",
     "texture_path": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementHezuo_UI.T_AchievementHezuo_UI"
   }

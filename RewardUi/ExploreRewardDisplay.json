@@ -208,5 +208,35 @@
     "description": "Text_RoleChallengeFailDesc_Text",
     "is_success": true,
     "audio_id": ""
+  },
+  {
+    "id": 3015,
+    "title": "Text_ChallengeFail_Text",
+    "title_hex_color": "",
+    "title_icon_path": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+    "title_icon_hex_color": "",
+    "is_record_visible": false,
+    "is_item_visible": true,
+    "is_explore_progress_visible": false,
+    "explore_bar_tips_text_id": "",
+    "is_description": false,
+    "description": "",
+    "is_success": true,
+    "audio_id": ""
+  },
+  {
+    "id": 3016,
+    "title": "Text_ChallengeSuccess_Text",
+    "title_hex_color": "",
+    "title_icon_path": "/Game/Aki/UI/UIResources/UiTips/Image/T_Tipsxinheng.T_Tipsxinheng",
+    "title_icon_hex_color": "",
+    "is_record_visible": false,
+    "is_item_visible": true,
+    "is_explore_progress_visible": false,
+    "explore_bar_tips_text_id": "",
+    "is_description": false,
+    "description": "",
+    "is_success": true,
+    "audio_id": ""
   }
 ]

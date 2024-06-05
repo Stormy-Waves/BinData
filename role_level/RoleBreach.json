@@ -3221,6 +3221,15 @@
     "condition_id": 0
   },
   {
+    "id": 501101,
+    "breach_group_id": 5011,
+    "breach_level": 0,
+    "max_level": 90,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 0
+  },
+  {
     "id": 501201,
     "breach_group_id": 5012,
     "breach_level": 0,
@@ -3412,5 +3421,319 @@
     "breach_consume": [],
     "breach_reward": 0,
     "condition_id": 0
+  },
+  {
+    "id": 172,
+    "breach_group_id": 1304,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
+  },
+  {
+    "id": 173,
+    "breach_group_id": 1304,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
+      {
+        "key": 41100021,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 5000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504002
+  },
+  {
+    "id": 174,
+    "breach_group_id": 1304,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
+      {
+        "key": 41400034,
+        "value": 3
+      },
+      {
+        "key": 42310210,
+        "value": 4
+      },
+      {
+        "key": 41100022,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 10000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504003
+  },
+  {
+    "id": 175,
+    "breach_group_id": 1304,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
+      {
+        "key": 41400034,
+        "value": 6
+      },
+      {
+        "key": 42310210,
+        "value": 8
+      },
+      {
+        "key": 41100022,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 15000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504004
+  },
+  {
+    "id": 176,
+    "breach_group_id": 1304,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
+      {
+        "key": 41400034,
+        "value": 9
+      },
+      {
+        "key": 42310210,
+        "value": 12
+      },
+      {
+        "key": 41100023,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 20000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504005
+  },
+  {
+    "id": 177,
+    "breach_group_id": 1304,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
+      {
+        "key": 41400034,
+        "value": 12
+      },
+      {
+        "key": 42310210,
+        "value": 16
+      },
+      {
+        "key": 41100023,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 40000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504006
+  },
+  {
+    "id": 178,
+    "breach_group_id": 1304,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
+      {
+        "key": 41400034,
+        "value": 16
+      },
+      {
+        "key": 42310210,
+        "value": 20
+      },
+      {
+        "key": 41100024,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 80000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504007
+  },
+  {
+    "id": 179,
+    "breach_group_id": 1205,
+    "breach_level": 0,
+    "max_level": 20,
+    "breach_consume": [],
+    "breach_reward": 0,
+    "condition_id": 504001
+  },
+  {
+    "id": 180,
+    "breach_group_id": 1205,
+    "breach_level": 1,
+    "max_level": 40,
+    "breach_consume": [
+      {
+        "key": 41100031,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 5000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504002
+  },
+  {
+    "id": 181,
+    "breach_group_id": 1205,
+    "breach_level": 2,
+    "max_level": 50,
+    "breach_consume": [
+      {
+        "key": 41400044,
+        "value": 3
+      },
+      {
+        "key": 42310200,
+        "value": 4
+      },
+      {
+        "key": 41100032,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 10000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504003
+  },
+  {
+    "id": 182,
+    "breach_group_id": 1205,
+    "breach_level": 3,
+    "max_level": 60,
+    "breach_consume": [
+      {
+        "key": 41400044,
+        "value": 6
+      },
+      {
+        "key": 42310200,
+        "value": 8
+      },
+      {
+        "key": 41100032,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 15000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504004
+  },
+  {
+    "id": 183,
+    "breach_group_id": 1205,
+    "breach_level": 4,
+    "max_level": 70,
+    "breach_consume": [
+      {
+        "key": 41400044,
+        "value": 9
+      },
+      {
+        "key": 42310200,
+        "value": 12
+      },
+      {
+        "key": 41100033,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 20000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504005
+  },
+  {
+    "id": 184,
+    "breach_group_id": 1205,
+    "breach_level": 5,
+    "max_level": 80,
+    "breach_consume": [
+      {
+        "key": 41400044,
+        "value": 12
+      },
+      {
+        "key": 42310200,
+        "value": 16
+      },
+      {
+        "key": 41100033,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 40000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504006
+  },
+  {
+    "id": 185,
+    "breach_group_id": 1205,
+    "breach_level": 6,
+    "max_level": 90,
+    "breach_consume": [
+      {
+        "key": 41400044,
+        "value": 16
+      },
+      {
+        "key": 42310200,
+        "value": 20
+      },
+      {
+        "key": 41100034,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 80000
+      }
+    ],
+    "breach_reward": 0,
+    "condition_id": 504007
   }
 ]

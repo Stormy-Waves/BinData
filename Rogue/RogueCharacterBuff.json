@@ -1956,5 +1956,547 @@
     "affix_desc_simple": "RogueBuffPool_900000010025_BuffDesc_0",
     "affix_title": "RogueBuffPool_900000010025_BuffDesc_1",
     "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujue/SP_IconZhujueC1.SP_IconZhujueC1"
+  },
+  {
+    "id": 140501,
+    "buff_id": 900291000002,
+    "buff_ids": [
+      900291000002,
+      900291000026,
+      900291000031,
+      900291000032
+    ],
+    "affix_desc": "RogueBuffPool_140501_BuffDesc",
+    "affix_desc_param": [
+      "30%",
+      "50%",
+      "1"
+    ],
+    "affix_desc_simple": "RogueBuffPool_140501_BuffDesc_0",
+    "affix_title": "RogueBuffPool_140501_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist"
+  },
+  {
+    "id": 140502,
+    "buff_id": 900291000002,
+    "buff_ids": [
+      900291000010,
+      900291000030
+    ],
+    "affix_desc": "RogueBuffPool_140502_BuffDesc",
+    "affix_desc_param": [
+      "80%",
+      "30",
+      "120",
+      "1"
+    ],
+    "affix_desc_simple": "RogueBuffPool_140502_BuffDesc_0",
+    "affix_title": "RogueBuffPool_140502_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJianxin/SP_IconJianxinB1.SP_IconJianxinB1"
+  },
+  {
+    "id": 140503,
+    "buff_id": 900291000002,
+    "buff_ids": [
+      900291000020
+    ],
+    "affix_desc": "RogueBuffPool_140503_BuffDesc",
+    "affix_desc_param": [
+      "500%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_140503_BuffDesc_0",
+    "affix_title": "RogueBuffPool_140503_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJianxin/SP_IconJianxinY.SP_IconJianxinY"
+  },
+  {
+    "id": 140504,
+    "buff_id": 900291000002,
+    "buff_ids": [
+      900291000016
+    ],
+    "affix_desc": "RogueBuffPool_140504_BuffDesc",
+    "affix_desc_param": [
+      "25%",
+      "3",
+      "30"
+    ],
+    "affix_desc_simple": "RogueBuffPool_140504_BuffDesc_0",
+    "affix_title": "RogueBuffPool_140504_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJianxin/SP_IconJianxinB1.SP_IconJianxinB1"
+  },
+  {
+    "id": 140505,
+    "buff_id": 900291000002,
+    "buff_ids": [
+      900291000006
+    ],
+    "affix_desc": "RogueBuffPool_140505_BuffDesc",
+    "affix_desc_param": [
+      "6",
+      "40%",
+      "75%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_140505_BuffDesc_0",
+    "affix_title": "RogueBuffPool_140505_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJianxin/SP_IconJianxinC1.SP_IconJianxinC1"
+  },
+  {
+    "id": 140506,
+    "buff_id": 900000010022,
+    "buff_ids": [
+      900000010022
+    ],
+    "affix_desc": "RogueBuffPool_900000010022_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010022_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010022_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist"
+  },
+  {
+    "id": 140507,
+    "buff_id": 900000010023,
+    "buff_ids": [
+      900000010023
+    ],
+    "affix_desc": "RogueBuffPool_900000010023_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010023_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010023_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist"
+  },
+  {
+    "id": 140508,
+    "buff_id": 900000010024,
+    "buff_ids": [
+      900000010024
+    ],
+    "affix_desc": "RogueBuffPool_900000010024_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010024_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010024_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJianxin/SP_IconJianxinB1.SP_IconJianxinB1"
+  },
+  {
+    "id": 140509,
+    "buff_id": 900000010025,
+    "buff_ids": [
+      900000010025
+    ],
+    "affix_desc": "RogueBuffPool_900000010025_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010025_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010025_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJianxin/SP_IconJianxinC1.SP_IconJianxinC1"
+  },
+  {
+    "id": 110201,
+    "buff_id": 1102912031,
+    "buff_ids": [
+      1102912091,
+      1102912094
+    ],
+    "affix_desc": "RogueBuffPool_110201_BuffDesc",
+    "affix_desc_param": [
+      "5",
+      "200%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_110201_BuffDesc_0",
+    "affix_title": "RogueBuffPool_110201_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaB1.SP_IconSanhuaB1"
+  },
+  {
+    "id": 110202,
+    "buff_id": 1102912021,
+    "buff_ids": [
+      1102912021,
+      1102912022
+    ],
+    "affix_desc": "RogueBuffPool_110202_BuffDesc",
+    "affix_desc_param": [
+      "200%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_110202_BuffDesc_0",
+    "affix_title": "RogueBuffPool_110202_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+  },
+  {
+    "id": 110203,
+    "buff_id": 1102912011,
+    "buff_ids": [
+      1102912011,
+      1102912012
+    ],
+    "affix_desc": "RogueBuffPool_110203_BuffDesc",
+    "affix_desc_param": [
+      "5",
+      "200%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_110203_BuffDesc_0",
+    "affix_title": "RogueBuffPool_110203_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+  },
+  {
+    "id": 110204,
+    "buff_id": 1102912051,
+    "buff_ids": [
+      1102912052,
+      1102912053
+    ],
+    "affix_desc": "RogueBuffPool_110204_BuffDesc",
+    "affix_desc_param": [
+      "10%",
+      "10",
+      "6"
+    ],
+    "affix_desc_simple": "RogueBuffPool_110204_BuffDesc_0",
+    "affix_title": "RogueBuffPool_110204_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaY.SP_IconSanhuaY"
+  },
+  {
+    "id": 110205,
+    "buff_id": 1102912041,
+    "buff_ids": [
+      1102912046
+    ],
+    "affix_desc": "RogueBuffPool_110205_BuffDesc",
+    "affix_desc_param": [
+      "15%",
+      "8",
+      "3"
+    ],
+    "affix_desc_simple": "RogueBuffPool_110205_BuffDesc_0",
+    "affix_title": "RogueBuffPool_110205_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaC1.SP_IconSanhuaC1"
+  },
+  {
+    "id": 110206,
+    "buff_id": 900000010022,
+    "buff_ids": [
+      900000010022
+    ],
+    "affix_desc": "RogueBuffPool_900000010022_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010022_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010022_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+  },
+  {
+    "id": 110207,
+    "buff_id": 900000010023,
+    "buff_ids": [
+      900000010023
+    ],
+    "affix_desc": "RogueBuffPool_900000010023_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010023_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010023_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+  },
+  {
+    "id": 110208,
+    "buff_id": 900000010024,
+    "buff_ids": [
+      900000010024
+    ],
+    "affix_desc": "RogueBuffPool_900000010024_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010024_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010024_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaB1.SP_IconSanhuaB1"
+  },
+  {
+    "id": 110209,
+    "buff_id": 900000010025,
+    "buff_ids": [
+      900000010025
+    ],
+    "affix_desc": "RogueBuffPool_900000010025_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010025_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010025_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaC1.SP_IconSanhuaC1"
+  },
+  {
+    "id": 130401,
+    "buff_id": 921304000001,
+    "buff_ids": [
+      921304000001
+    ],
+    "affix_desc": "RogueBuffPool_130401_BuffDesc",
+    "affix_desc_param": [
+      "80%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_130401_BuffDesc_0",
+    "affix_title": "RogueBuffPool_130401_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJinxi/SP_IconJinxiB1.SP_IconJinxiB1"
+  },
+  {
+    "id": 130402,
+    "buff_id": 921304000101,
+    "buff_ids": [
+      921304000101
+    ],
+    "affix_desc": "RogueBuffPool_130402_BuffDesc",
+    "affix_desc_param": [
+      "100%",
+      "1",
+      "5"
+    ],
+    "affix_desc_simple": "RogueBuffPool_130402_BuffDesc_0",
+    "affix_title": "RogueBuffPool_130402_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword"
+  },
+  {
+    "id": 130403,
+    "buff_id": 921304000201,
+    "buff_ids": [
+      921304000201
+    ],
+    "affix_desc": "RogueBuffPool_130403_BuffDesc",
+    "affix_desc_param": [
+      "3",
+      "10%",
+      "10",
+      "5"
+    ],
+    "affix_desc_simple": "RogueBuffPool_130403_BuffDesc_0",
+    "affix_title": "RogueBuffPool_130403_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword"
+  },
+  {
+    "id": 130404,
+    "buff_id": 921304000301,
+    "buff_ids": [
+      921304000301
+    ],
+    "affix_desc": "RogueBuffPool_130404_BuffDesc",
+    "affix_desc_param": [
+      "20",
+      "50%",
+      "6",
+      "10"
+    ],
+    "affix_desc_simple": "RogueBuffPool_130404_BuffDesc_0",
+    "affix_title": "RogueBuffPool_130404_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJinxi/SP_IconJinxiY.SP_IconJinxiY"
+  },
+  {
+    "id": 130405,
+    "buff_id": 921304000401,
+    "buff_ids": [
+      921304000401
+    ],
+    "affix_desc": "RogueBuffPool_130405_BuffDesc",
+    "affix_desc_param": [
+      "2",
+      "250%",
+      "800%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_130405_BuffDesc_0",
+    "affix_title": "RogueBuffPool_130405_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJinxi/SP_IconJinxiY.SP_IconJinxiY"
+  },
+  {
+    "id": 130406,
+    "buff_id": 900000010022,
+    "buff_ids": [
+      900000010022
+    ],
+    "affix_desc": "RogueBuffPool_900000010022_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010022_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010022_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword"
+  },
+  {
+    "id": 130407,
+    "buff_id": 900000010023,
+    "buff_ids": [
+      900000010023
+    ],
+    "affix_desc": "RogueBuffPool_900000010023_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010023_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010023_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword"
+  },
+  {
+    "id": 130408,
+    "buff_id": 900000010024,
+    "buff_ids": [
+      900000010024
+    ],
+    "affix_desc": "RogueBuffPool_900000010024_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010024_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010024_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJinxi/SP_IconJinxiB1.SP_IconJinxiB1"
+  },
+  {
+    "id": 130409,
+    "buff_id": 900000010025,
+    "buff_ids": [
+      900000010025
+    ],
+    "affix_desc": "RogueBuffPool_900000010025_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010025_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010025_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJinxi/SP_IconJinxiC1.SP_IconJinxiC1"
+  },
+  {
+    "id": 120501,
+    "buff_id": 921205000001,
+    "buff_ids": [
+      921205000001
+    ],
+    "affix_desc": "RogueBuffPool_120501_BuffDesc",
+    "affix_desc_param": [],
+    "affix_desc_simple": "RogueBuffPool_120501_BuffDesc_0",
+    "affix_title": "RogueBuffPool_120501_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliB1.SP_IconChangliB1"
+  },
+  {
+    "id": 120502,
+    "buff_id": 921205000101,
+    "buff_ids": [
+      921205000101
+    ],
+    "affix_desc": "RogueBuffPool_120502_BuffDesc",
+    "affix_desc_param": [
+      "20%",
+      "10",
+      "4"
+    ],
+    "affix_desc_simple": "RogueBuffPool_120502_BuffDesc_0",
+    "affix_title": "RogueBuffPool_120502_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+  },
+  {
+    "id": 120503,
+    "buff_id": 921205000201,
+    "buff_ids": [
+      921205000201
+    ],
+    "affix_desc": "RogueBuffPool_120503_BuffDesc",
+    "affix_desc_param": [
+      "30",
+      "100%",
+      "8",
+      "0.3"
+    ],
+    "affix_desc_simple": "RogueBuffPool_120503_BuffDesc_0",
+    "affix_title": "RogueBuffPool_120503_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+  },
+  {
+    "id": 120504,
+    "buff_id": 921205000401,
+    "buff_ids": [
+      921205000401
+    ],
+    "affix_desc": "RogueBuffPool_120504_BuffDesc",
+    "affix_desc_param": [
+      "20%",
+      "5",
+      "5"
+    ],
+    "affix_desc_simple": "RogueBuffPool_120504_BuffDesc_0",
+    "affix_title": "RogueBuffPool_120504_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+  },
+  {
+    "id": 120505,
+    "buff_id": 921205000501,
+    "buff_ids": [
+      921205000501
+    ],
+    "affix_desc": "RogueBuffPool_120505_BuffDesc",
+    "affix_desc_param": [
+      "20"
+    ],
+    "affix_desc_simple": "RogueBuffPool_120505_BuffDesc_0",
+    "affix_title": "RogueBuffPool_120505_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliB1.SP_IconChangliB1"
+  },
+  {
+    "id": 120506,
+    "buff_id": 900000010022,
+    "buff_ids": [
+      900000010022
+    ],
+    "affix_desc": "RogueBuffPool_900000010022_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010022_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010022_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+  },
+  {
+    "id": 120507,
+    "buff_id": 900000010023,
+    "buff_ids": [
+      900000010023
+    ],
+    "affix_desc": "RogueBuffPool_900000010023_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010023_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010023_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife"
+  },
+  {
+    "id": 120508,
+    "buff_id": 900000010024,
+    "buff_ids": [
+      900000010024
+    ],
+    "affix_desc": "RogueBuffPool_900000010024_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010024_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010024_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliB1.SP_IconChangliB1"
+  },
+  {
+    "id": 120509,
+    "buff_id": 900000010025,
+    "buff_ids": [
+      900000010025
+    ],
+    "affix_desc": "RogueBuffPool_900000010025_BuffDesc",
+    "affix_desc_param": [
+      "50%"
+    ],
+    "affix_desc_simple": "RogueBuffPool_900000010025_BuffDesc_0",
+    "affix_title": "RogueBuffPool_900000010025_BuffDesc_1",
+    "affix_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliC1.SP_IconChangliC1"
   }
 ]

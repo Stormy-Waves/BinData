@@ -236,6 +236,10 @@
     "map_path": "/Game/Aki/Map/Level/Main/ShangHen/InstanceTree_ShangHen2"
   },
   {
+    "map_id": 2041,
+    "map_path": "/Game/Aki/Map/Level/Main/1_1_SuiGuang/InstanceTree_SuiGuang"
+  },
+  {
     "map_id": 2501,
     "map_path": "/Game/Aki/Map/Level/Test/LevelTest/WorldInstanceTest"
   },
@@ -396,7 +400,23 @@
     "map_path": "/Game/Aki/Map/Level/System/Activity_Role_trials/InstanceTree_Activity_Role_trials"
   },
   {
+    "map_id": 1001,
+    "map_path": "/Game/Aki/Map/Level/Roles/1_1_Changli/InstanceTree_Changli"
+  },
+  {
     "map_id": 2031,
     "map_path": "/Game/Aki/Map/Level/Main/BeiLuoYe/InstanceTree_BeiLuoYe_fushua"
+  },
+  {
+    "map_id": 8160,
+    "map_path": "/Game/Aki/Map/Level/Huodong/1_1_BossRush/InstanceTree_Huodong003"
+  },
+  {
+    "map_id": 1507,
+    "map_path": "/Game/Aki/Map/Level/Main/1_1_SuiGuang/InstanceTree_SuiGuang"
+  },
+  {
+    "map_id": 1508,
+    "map_path": "/Game/Aki/Map/Level/Main/1_1_TunLongZhu/InstanceTree_TunLongZhu"
   }
 ]

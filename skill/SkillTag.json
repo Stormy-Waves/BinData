@@ -178,5 +178,10 @@
     "id": 305,
     "tag_name": "SkillTag_36_TagName",
     "tag_color": "2596a0"
+  },
+  {
+    "id": 9,
+    "tag_name": "SkillTag_37_TagName",
+    "tag_color": "6d25a0"
   }
 ]

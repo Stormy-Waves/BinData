@@ -182,5 +182,9 @@
   {
     "id": 46,
     "name": "ItemShowType_46_Name"
+  },
+  {
+    "id": 47,
+    "name": "PhantomItem_60000020_TypeDescription"
   }
 ]

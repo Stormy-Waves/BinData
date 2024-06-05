@@ -166,5 +166,117 @@
     "girl_or_boy": 1,
     "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0234/M0234_Nanzhu.M0234_Nanzhu",
     "can_skip": false
+  },
+  {
+    "cg_id": 131,
+    "cg_name": "M0238",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/M0238/M0238_Nvzhu.M0238_Nvzhu",
+    "can_skip": false
+  },
+  {
+    "cg_id": 132,
+    "cg_name": "M0238",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/M0238/M0238_Nanzhu.M0238_Nanzhu",
+    "can_skip": false
+  },
+  {
+    "cg_id": 137,
+    "cg_name": "M0244",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/M0244/M0244_Nvzhu.M0244_Nvzhu",
+    "can_skip": false
+  },
+  {
+    "cg_id": 138,
+    "cg_name": "M0244",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/M0244/M0244_Nanzhu.M0244_Nanzhu",
+    "can_skip": false
+  },
+  {
+    "cg_id": 139,
+    "cg_name": "ChangLi01",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/R0009.R0009",
+    "can_skip": false
+  },
+  {
+    "cg_id": 140,
+    "cg_name": "ChangLi01",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/R0009.R0009",
+    "can_skip": false
+  },
+  {
+    "cg_id": 141,
+    "cg_name": "C0004",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/C0004/C0004.C0004",
+    "can_skip": false
+  },
+  {
+    "cg_id": 142,
+    "cg_name": "C0004",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/C0004/C0004.C0004",
+    "can_skip": false
+  },
+  {
+    "cg_id": 143,
+    "cg_name": "M0233",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0233.M0233",
+    "can_skip": false
+  },
+  {
+    "cg_id": 144,
+    "cg_name": "M0233",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0233.M0233",
+    "can_skip": false
+  },
+  {
+    "cg_id": 145,
+    "cg_name": "M0243",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0243.M0243",
+    "can_skip": false
+  },
+  {
+    "cg_id": 146,
+    "cg_name": "M0243",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0243.M0243",
+    "can_skip": false
+  },
+  {
+    "cg_id": 153,
+    "cg_name": "C0003",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_1/ChangLi01/C0003/C0003.C0003",
+    "can_skip": false
+  },
+  {
+    "cg_id": 154,
+    "cg_name": "C0003",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_1/ChangLi01/C0003/C0003.C0003",
+    "can_skip": false
+  },
+  {
+    "cg_id": 155,
+    "cg_name": "R1016",
+    "girl_or_boy": 0,
+    "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Roles/Changli01/Changli_R01016/Changli_R01016_NvZhu.Changli_R01016_NvZhu",
+    "can_skip": false
+  },
+  {
+    "cg_id": 156,
+    "cg_name": "R1016",
+    "girl_or_boy": 1,
+    "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Roles/Changli01/Changli_R01016/Changli_R01016_NanZhu.Changli_R01016_NanZhu",
+    "can_skip": false
   }
 ]

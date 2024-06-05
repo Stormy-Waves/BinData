@@ -302,5 +302,29 @@
     "only_show_in_main": true,
     "root_item_index": 1,
     "is_wait_normal": true
+  },
+  {
+    "view_name": "LongShanUnlockView",
+    "area": "Top",
+    "priority": 20,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
+  },
+  {
+    "view_name": "ActivityUnlockTipView",
+    "area": "Top",
+    "priority": 20,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
+  },
+  {
+    "view_name": "SoundAreaPlayTips",
+    "area": "NewItemTips",
+    "priority": 0,
+    "only_show_in_main": true,
+    "root_item_index": 0,
+    "is_wait_normal": true
   }
 ]

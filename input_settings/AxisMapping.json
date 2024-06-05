@@ -9,13 +9,15 @@
         "value": -1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "MouseY",
+        "value": -1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_RightY",
-        "value": 0.7
-      },
-      {
-        "key": "GenericUSBController_Axis3",
         "value": 0.7
       }
     ],
@@ -35,13 +37,19 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "S",
+        "value": -1.0
+      },
+      {
+        "key": "Z",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftY",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis5",
         "value": 1.0
       }
     ],
@@ -61,13 +69,19 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "Q",
+        "value": -1.0
+      },
+      {
+        "key": "D",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis6",
         "value": 1.0
       }
     ],
@@ -83,13 +97,15 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "MouseX",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_RightX",
-        "value": 0.7
-      },
-      {
-        "key": "GenericUSBController_Axis4",
         "value": 0.7
       }
     ],
@@ -100,6 +116,12 @@
     "axis_name": "Zoom",
     "axis_type": 1,
     "pc_keys": [
+      {
+        "key": "MouseWheelAxis",
+        "value": 1.0
+      }
+    ],
+    "france_pc_keys": [
       {
         "key": "MouseWheelAxis",
         "value": 1.0
@@ -118,6 +140,12 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "MouseWheelAxis",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [],
     "display_name": ""
   },
@@ -131,13 +159,15 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "C",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_RightTriggerAxis",
-        "value": -1.0
-      },
-      {
-        "key": "GenericUSBController_Axis1",
         "value": -1.0
       }
     ],
@@ -153,13 +183,15 @@
         "value": -1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "W",
+        "value": -1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftTriggerAxis",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis2",
         "value": 1.0
       }
     ],
@@ -179,13 +211,19 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "S",
+        "value": -1.0
+      },
+      {
+        "key": "Z",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftY",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis5",
         "value": 1.0
       }
     ],
@@ -205,13 +243,19 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "Q",
+        "value": -1.0
+      },
+      {
+        "key": "D",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis6",
         "value": 1.0
       }
     ],
@@ -222,6 +266,7 @@
     "axis_name": "UiIncrease2",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_DPad_Right",
@@ -229,14 +274,6 @@
       },
       {
         "key": "Gamepad_LeftX",
-        "value": 0.2
-      },
-      {
-        "key": "GenericUSBController_Button17",
-        "value": 0.2
-      },
-      {
-        "key": "GenericUSBController_Axis6",
         "value": 0.2
       }
     ],
@@ -247,6 +284,7 @@
     "axis_name": "UiReduce2",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_DPad_Left",
@@ -254,14 +292,6 @@
       },
       {
         "key": "Gamepad_LeftX",
-        "value": 0.2
-      },
-      {
-        "key": "GenericUSBController_Button19",
-        "value": -0.2
-      },
-      {
-        "key": "GenericUSBController_Axis6",
         "value": 0.2
       }
     ],
@@ -272,13 +302,10 @@
     "axis_name": "NavigationTopDown",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftY",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis5",
         "value": 1.0
       }
     ],
@@ -289,13 +316,10 @@
     "axis_name": "NavigationLeftRight",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis6",
         "value": 1.0
       }
     ],
@@ -306,13 +330,10 @@
     "axis_name": "UiScroll1",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_RightY",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis3",
         "value": 1.0
       }
     ],
@@ -323,13 +344,10 @@
     "axis_name": "UiScroll2",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_RightX",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis4",
         "value": 1.0
       }
     ],
@@ -345,13 +363,15 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "MouseY",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_RightY",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis3",
         "value": 1.0
       }
     ],
@@ -367,13 +387,15 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "MouseX",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_RightX",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis4",
         "value": 1.0
       }
     ],
@@ -384,6 +406,12 @@
     "axis_name": "UiWheelAxis",
     "axis_type": 4,
     "pc_keys": [
+      {
+        "key": "MouseWheelAxis",
+        "value": 1.0
+      }
+    ],
+    "france_pc_keys": [
       {
         "key": "MouseWheelAxis",
         "value": 1.0
@@ -402,13 +430,15 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "Mouse2D",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_Left2D",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Button28",
         "value": 1.0
       }
     ],
@@ -424,13 +454,15 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "Mouse2D",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_Right2D",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Button29",
         "value": 1.0
       }
     ],
@@ -450,6 +482,16 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "MouseX",
+        "value": 1.0
+      },
+      {
+        "key": "MouseY",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [],
     "display_name": ""
   },
@@ -458,13 +500,10 @@
     "axis_name": "NextGroup",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis6",
         "value": 1.0
       }
     ],
@@ -475,13 +514,10 @@
     "axis_name": "PrevGroup",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis6",
         "value": 1.0
       }
     ],
@@ -492,13 +528,10 @@
     "axis_name": "MapIncrease",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftTriggerAxis",
-        "value": -1.0
-      },
-      {
-        "key": "GenericUSBController_Axis2",
         "value": -1.0
       }
     ],
@@ -509,13 +542,10 @@
     "axis_name": "MapReduce",
     "axis_type": 4,
     "pc_keys": [],
+    "france_pc_keys": [],
     "gamepad_keys": [
       {
         "key": "Gamepad_RightTriggerAxis",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis1",
         "value": 1.0
       }
     ],
@@ -535,13 +565,19 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "S",
+        "value": -1.0
+      },
+      {
+        "key": "Z",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftY",
-        "value": 1.0
-      },
-      {
-        "key": "GenericUSBController_Axis5",
         "value": 1.0
       }
     ],
@@ -561,13 +597,75 @@
         "value": 1.0
       }
     ],
+    "france_pc_keys": [
+      {
+        "key": "Q",
+        "value": -1.0
+      },
+      {
+        "key": "D",
+        "value": 1.0
+      }
+    ],
     "gamepad_keys": [
       {
         "key": "Gamepad_LeftX",
         "value": 1.0
-      },
+      }
+    ],
+    "display_name": ""
+  },
+  {
+    "id": 29,
+    "axis_name": "RoleLookUp",
+    "axis_type": 4,
+    "pc_keys": [],
+    "france_pc_keys": [],
+    "gamepad_keys": [
       {
-        "key": "GenericUSBController_Axis6",
+        "key": "Gamepad_RightY",
+        "value": 1.0
+      }
+    ],
+    "display_name": ""
+  },
+  {
+    "id": 30,
+    "axis_name": "RoleTurn",
+    "axis_type": 4,
+    "pc_keys": [],
+    "france_pc_keys": [],
+    "gamepad_keys": [
+      {
+        "key": "Gamepad_RightX",
+        "value": 1.0
+      }
+    ],
+    "display_name": ""
+  },
+  {
+    "id": 31,
+    "axis_name": "RoleIncrease",
+    "axis_type": 4,
+    "pc_keys": [],
+    "france_pc_keys": [],
+    "gamepad_keys": [
+      {
+        "key": "Gamepad_RightTriggerAxis",
+        "value": -1.0
+      }
+    ],
+    "display_name": ""
+  },
+  {
+    "id": 32,
+    "axis_name": "RoleReduce",
+    "axis_type": 4,
+    "pc_keys": [],
+    "france_pc_keys": [],
+    "gamepad_keys": [
+      {
+        "key": "Gamepad_LeftTriggerAxis",
         "value": 1.0
       }
     ],

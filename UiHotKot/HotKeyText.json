@@ -382,5 +382,41 @@
   {
     "text_id": "RefuseTips2",
     "name": "HotKeyText_RefuseTips2_Name"
+  },
+  {
+    "text_id": "LockTips2",
+    "name": "HotKeyText_LockTips2_Name"
+  },
+  {
+    "text_id": "LVPreviewTips",
+    "name": "HotKeyText_LVPreviewTips_Name"
+  },
+  {
+    "text_id": "PauseTips",
+    "name": "HotKeyText_Pause_Name"
+  },
+  {
+    "text_id": "LayersTips",
+    "name": "HotKeyText_LayersTips_Name"
+  },
+  {
+    "text_id": "EmojiTips2",
+    "name": "HotKeyText_EmojiTips2_Name"
+  },
+  {
+    "text_id": "ShortTips",
+    "name": "HotKeyText_ShortTips_Name"
+  },
+  {
+    "text_id": "CameraTips",
+    "name": "HotKeyText_CameraTips_Name"
+  },
+  {
+    "text_id": "CameraTips2",
+    "name": "HotKeyText_CameraTips2_Name"
+  },
+  {
+    "text_id": "MapTips",
+    "name": "FunctionMenu_10015_FunctionName"
   }
 ]

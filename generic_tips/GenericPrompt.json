@@ -1662,5 +1662,53 @@
     "extra_text": "设备性能负载过高，为避免严重发热/卡顿，请调整图像设置",
     "duration": 0,
     "priority": 0
+  },
+  {
+    "tips_id": "ResetPositionTip2",
+    "type_id": 9,
+    "tips_text": "GenericPrompt_ResetPositionTip2_TipsText",
+    "extra_text": "",
+    "duration": 0,
+    "priority": 0
+  },
+  {
+    "tips_id": "QuestRecommendAccept",
+    "type_id": 9,
+    "tips_text": "GenericPrompt_QuestRecommendAccept_TipsText",
+    "extra_text": "",
+    "duration": 0,
+    "priority": 0
+  },
+  {
+    "tips_id": "DLSSFRC120fps",
+    "type_id": 9,
+    "tips_text": "GenericPrompt_DLSSFRC120fps_TipsText",
+    "extra_text": "当前处于DLSS插帧模式，游戏内固定显示帧率为120fps",
+    "duration": 0,
+    "priority": 0
+  },
+  {
+    "tips_id": "AndroidIRX120fps",
+    "type_id": 9,
+    "tips_text": "GenericPrompt_AndroidIRX120fps_TipsText",
+    "extra_text": "当前处于IRX渲染加速模式，游戏内固定显示帧率为120fps",
+    "duration": 0,
+    "priority": 0
+  },
+  {
+    "tips_id": "ExploreDeploySuccess",
+    "type_id": 9,
+    "tips_text": "ExploreDeploySuccess_TipsText",
+    "extra_text": "",
+    "duration": 0,
+    "priority": 0
+  },
+  {
+    "tips_id": "NotOpen",
+    "type_id": 9,
+    "tips_text": "GenericPrompt_NotOpen_TipsText",
+    "extra_text": "",
+    "duration": 0,
+    "priority": 0
   }
 ]

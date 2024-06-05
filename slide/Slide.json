@@ -36,7 +36,8 @@
     "ski_horizontal_input_speed_threshold": {
       "min": 800.0,
       "max": 2000.0
-    }
+    },
+    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
   },
   {
     "id": "1",
@@ -75,7 +76,8 @@
     "ski_horizontal_input_speed_threshold": {
       "min": 400.0,
       "max": 1800.0
-    }
+    },
+    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
   },
   {
     "id": "2",
@@ -114,7 +116,8 @@
     "ski_horizontal_input_speed_threshold": {
       "min": 800.0,
       "max": 2000.0
-    }
+    },
+    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
   },
   {
     "id": "3",
@@ -153,7 +156,8 @@
     "ski_horizontal_input_speed_threshold": {
       "min": 800.0,
       "max": 2000.0
-    }
+    },
+    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
   },
   {
     "id": "4",
@@ -192,6 +196,47 @@
     "ski_horizontal_input_speed_threshold": {
       "min": 400.0,
       "max": 1800.0
-    }
+    },
+    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
+  },
+  {
+    "id": "5",
+    "falling_lateral_frictions": [
+      {
+        "key": 0,
+        "value": 0.15
+      },
+      {
+        "key": 30,
+        "value": 0.25
+      },
+      {
+        "key": 75,
+        "value": 0.5
+      },
+      {
+        "key": 85,
+        "value": 0.95
+      }
+    ],
+    "slide_friction": 500.0,
+    "slide_accel": 4000.0,
+    "slide_accel_up": 0.5,
+    "slide_accel_down": 1.0,
+    "max_slide_horizontal_seed": 1500.0,
+    "slide_mode_switch_range": {
+      "min": 25.0,
+      "max": 75.0
+    },
+    "ski": true,
+    "ski_max_sp_hor": 800.0,
+    "ski_max_sp_ver": 1200.0,
+    "jump_rate": 0.2,
+    "turn_speed": 60.0,
+    "ski_horizontal_input_speed_threshold": {
+      "min": 400.0,
+      "max": 1800.0
+    },
+    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
   }
 ]

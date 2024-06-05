@@ -38,6 +38,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
   },
@@ -78,6 +83,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
@@ -120,6 +130,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
   },
@@ -160,6 +175,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
@@ -203,6 +223,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
   },
@@ -242,6 +267,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
@@ -285,6 +315,11 @@
       120,
       180
     ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
   },
@@ -325,6 +360,11 @@
       0,
       120,
       180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
@@ -369,6 +409,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
   },
@@ -409,6 +454,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
@@ -453,6 +503,11 @@
       120,
       180
     ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
   },
@@ -494,6 +549,11 @@
       0,
       120,
       180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
@@ -541,6 +601,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
   },
@@ -585,6 +650,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
@@ -633,6 +703,11 @@
       120,
       180
     ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
   },
@@ -677,6 +752,11 @@
       0,
       120,
       180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
@@ -723,6 +803,11 @@
       90,
       150,
       180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
@@ -773,6 +858,11 @@
       150,
       180
     ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
   },
@@ -818,6 +908,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
   },
@@ -861,6 +956,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
@@ -907,6 +1007,11 @@
       120,
       180
     ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
   },
@@ -949,6 +1054,11 @@
       0,
       120,
       180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
@@ -996,6 +1106,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
   },
@@ -1040,6 +1155,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
@@ -1088,6 +1208,11 @@
       120,
       180
     ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
   },
@@ -1132,6 +1257,11 @@
       0,
       120,
       180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
@@ -1178,6 +1308,11 @@
       90,
       150,
       180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
@@ -1228,6 +1363,11 @@
       150,
       180
     ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
   },
@@ -1273,6 +1413,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
   },
@@ -1316,6 +1461,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
@@ -1362,6 +1512,11 @@
       120,
       180
     ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
   },
@@ -1404,6 +1559,11 @@
       0,
       120,
       180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
@@ -1451,6 +1611,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
   },
@@ -1495,6 +1660,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
@@ -1543,6 +1713,11 @@
       120,
       180
     ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
   },
@@ -1587,6 +1762,11 @@
       0,
       120,
       180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
@@ -1633,6 +1813,11 @@
       90,
       150,
       180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
@@ -1683,6 +1868,11 @@
       150,
       180
     ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
   },
@@ -1730,6 +1920,11 @@
       90,
       150
     ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
   },
@@ -1775,6 +1970,11 @@
       0,
       90,
       150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
@@ -1823,6 +2023,11 @@
       120,
       180
     ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
   },
@@ -1867,6 +2072,2033 @@
       0,
       120,
       180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 43,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 1,
+    "instance_id": 20013,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 1,
+    "recommend_element": [
+      4
+    ],
+    "show_monsters": [
+      310000070,
+      310000030,
+      310000040,
+      310000050
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007101,
+      92008019
+    ],
+    "role_buff": [
+      92008019,
+      622100102,
+      92007101
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
+  },
+  {
+    "id": 44,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 2,
+    "instance_id": 20014,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 2,
+    "recommend_element": [
+      4
+    ],
+    "show_monsters": [
+      320000080,
+      310000220,
+      310000280
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007101,
+      92008019
+    ],
+    "role_buff": [
+      92008019,
+      622100102,
+      92007101
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
+  },
+  {
+    "id": 45,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 3,
+    "instance_id": 20015,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 3,
+    "recommend_element": [
+      4
+    ],
+    "show_monsters": [
+      320000060,
+      320000070,
+      310000030,
+      310000040,
+      310000050
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007101,
+      92008019
+    ],
+    "role_buff": [
+      92008019,
+      622100102,
+      92007101
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 46,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 4,
+    "instance_id": 20016,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 4,
+    "recommend_element": [
+      4
+    ],
+    "show_monsters": [
+      330000060,
+      320000150,
+      310000245
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007101,
+      92008019
+    ],
+    "role_buff": [
+      92008019,
+      622100102,
+      92007101
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 47,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 2,
+    "floor": 1,
+    "instance_id": 20019,
+    "area_name": "Text_TowerThree_Text",
+    "cost": 5,
+    "recommend_element": [],
+    "show_monsters": [
+      340000080
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007106,
+      92008022
+    ],
+    "role_buff": [
+      92008022,
+      622100102,
+      92007100,
+      92007101,
+      92007102,
+      92007103,
+      92007104,
+      92007105
+    ],
+    "monster_buff": [],
+    "target": [
+      90,
+      150,
+      180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 48,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 2,
+    "floor": 2,
+    "instance_id": 20020,
+    "area_name": "Text_TowerThree_Text",
+    "cost": 5,
+    "recommend_element": [],
+    "show_monsters": [
+      330000050,
+      310000010,
+      310000020,
+      320000010
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007106,
+      92008022
+    ],
+    "role_buff": [
+      92008022,
+      622100102,
+      92007100,
+      92007101,
+      92007102,
+      92007103,
+      92007104,
+      92007105
+    ],
+    "monster_buff": [],
+    "target": [
+      90,
+      150,
+      180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 49,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 1,
+    "instance_id": 20021,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 1,
+    "recommend_element": [
+      3
+    ],
+    "show_monsters": [
+      310000060,
+      310000070,
+      310000050
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007100,
+      92008023
+    ],
+    "role_buff": [
+      622100102,
+      92007100,
+      920080232
+    ],
+    "monster_buff": [
+      92008023
+    ],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
+  },
+  {
+    "id": 50,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 2,
+    "instance_id": 20022,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 2,
+    "recommend_element": [
+      3
+    ],
+    "show_monsters": [
+      320000100,
+      310000280
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007100,
+      92008023
+    ],
+    "role_buff": [
+      622100102,
+      92007100,
+      920080232
+    ],
+    "monster_buff": [
+      92008023
+    ],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
+  },
+  {
+    "id": 51,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 3,
+    "instance_id": 20023,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 3,
+    "recommend_element": [
+      3
+    ],
+    "show_monsters": [
+      320000140,
+      320000150,
+      310000245
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007100,
+      92008023
+    ],
+    "role_buff": [
+      622100102,
+      92007100,
+      920080232
+    ],
+    "monster_buff": [
+      92008023
+    ],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 52,
+    "season": 4,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 4,
+    "instance_id": 20024,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 4,
+    "recommend_element": [
+      3
+    ],
+    "show_monsters": [
+      330000030
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007100,
+      92008023
+    ],
+    "role_buff": [
+      622100102,
+      92007100,
+      920080232
+    ],
+    "monster_buff": [
+      92008023
+    ],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 53,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 1,
+    "instance_id": 20013,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 1,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      320000190,
+      310000280,
+      320000100
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
+  },
+  {
+    "id": 54,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 2,
+    "instance_id": 20014,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 2,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      320000090,
+      310000220,
+      310000350
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
+  },
+  {
+    "id": 55,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 3,
+    "instance_id": 20015,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 3,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      310000150,
+      320000020,
+      320000030
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 56,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 4,
+    "instance_id": 20016,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 4,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      310000245,
+      320000140,
+      330000020
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 57,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 2,
+    "floor": 1,
+    "instance_id": 20019,
+    "area_name": "Text_TowerThree_Text",
+    "cost": 5,
+    "recommend_element": [],
+    "show_monsters": [
+      330000030
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007106,
+      92008024
+    ],
+    "role_buff": [
+      92008024,
+      622100102,
+      92007100,
+      92007101,
+      92007102,
+      92007103,
+      92007104,
+      92007105
+    ],
+    "monster_buff": [],
+    "target": [
+      90,
+      150,
+      180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 58,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 2,
+    "floor": 2,
+    "instance_id": 20020,
+    "area_name": "Text_TowerThree_Text",
+    "cost": 5,
+    "recommend_element": [],
+    "show_monsters": [
+      310000010,
+      310000020,
+      320000010,
+      340000060
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007106,
+      92008024
+    ],
+    "role_buff": [
+      92008024,
+      622100102,
+      92007100,
+      92007101,
+      92007102,
+      92007103,
+      92007104,
+      92007105
+    ],
+    "monster_buff": [],
+    "target": [
+      90,
+      150,
+      180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 59,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 1,
+    "instance_id": 20021,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 1,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      310000060,
+      310000070,
+      310000050
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
+  },
+  {
+    "id": 60,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 2,
+    "instance_id": 20022,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 2,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      310000090,
+      310000100,
+      310000080,
+      310000340,
+      320000010
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
+  },
+  {
+    "id": 61,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 3,
+    "instance_id": 20023,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 3,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      320000200
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 62,
+    "season": 5,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 4,
+    "instance_id": 20024,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 4,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      340000050
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 63,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 1,
+    "instance_id": 20013,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 1,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      320000190,
+      310000280,
+      320000100
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
+  },
+  {
+    "id": 64,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 2,
+    "instance_id": 20014,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 2,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      320000090,
+      310000220,
+      310000350
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
+  },
+  {
+    "id": 65,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 3,
+    "instance_id": 20015,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 3,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      310000150,
+      320000020,
+      320000030
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 66,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 4,
+    "instance_id": 20016,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 4,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      310000245,
+      320000140,
+      330000020
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 67,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 2,
+    "floor": 1,
+    "instance_id": 20019,
+    "area_name": "Text_TowerThree_Text",
+    "cost": 5,
+    "recommend_element": [],
+    "show_monsters": [
+      330000030
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007106,
+      92008024
+    ],
+    "role_buff": [
+      92008024,
+      622100102,
+      92007100,
+      92007101,
+      92007102,
+      92007103,
+      92007104,
+      92007105
+    ],
+    "monster_buff": [],
+    "target": [
+      90,
+      150,
+      180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 68,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 2,
+    "floor": 2,
+    "instance_id": 20020,
+    "area_name": "Text_TowerThree_Text",
+    "cost": 5,
+    "recommend_element": [],
+    "show_monsters": [
+      310000010,
+      310000020,
+      320000010,
+      340000060
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007106,
+      92008024
+    ],
+    "role_buff": [
+      92008024,
+      622100102,
+      92007100,
+      92007101,
+      92007102,
+      92007103,
+      92007104,
+      92007105
+    ],
+    "monster_buff": [],
+    "target": [
+      90,
+      150,
+      180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 69,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 1,
+    "instance_id": 20021,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 1,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      310000060,
+      310000070,
+      310000050
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
+  },
+  {
+    "id": 70,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 2,
+    "instance_id": 20022,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 2,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      310000090,
+      310000100,
+      310000080,
+      310000340,
+      320000010
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
+  },
+  {
+    "id": 71,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 3,
+    "instance_id": 20023,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 3,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      320000200
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 72,
+    "season": 6,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 4,
+    "instance_id": 20024,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 4,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      340000050
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 73,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 1,
+    "instance_id": 20013,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 1,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      320000190,
+      310000280,
+      320000100
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
+  },
+  {
+    "id": 74,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 2,
+    "instance_id": 20014,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 2,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      320000090,
+      310000220,
+      310000350
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
+  },
+  {
+    "id": 75,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 3,
+    "instance_id": 20015,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 3,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      310000150,
+      320000020,
+      320000030
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 76,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 1,
+    "floor": 4,
+    "instance_id": 20016,
+    "area_name": "Text_TowerOne_Text",
+    "cost": 4,
+    "recommend_element": [
+      5
+    ],
+    "show_monsters": [
+      310000245,
+      320000140,
+      330000020
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007104,
+      92008026
+    ],
+    "role_buff": [
+      92007104,
+      92008026,
+      622100102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 77,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 2,
+    "floor": 1,
+    "instance_id": 20019,
+    "area_name": "Text_TowerThree_Text",
+    "cost": 5,
+    "recommend_element": [],
+    "show_monsters": [
+      330000030
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007106,
+      92008024
+    ],
+    "role_buff": [
+      92008024,
+      622100102,
+      92007100,
+      92007101,
+      92007102,
+      92007103,
+      92007104,
+      92007105
+    ],
+    "monster_buff": [],
+    "target": [
+      90,
+      150,
+      180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 78,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 2,
+    "floor": 2,
+    "instance_id": 20020,
+    "area_name": "Text_TowerThree_Text",
+    "cost": 5,
+    "recommend_element": [],
+    "show_monsters": [
+      310000010,
+      310000020,
+      320000010,
+      340000060
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007106,
+      92008024
+    ],
+    "role_buff": [
+      92008024,
+      622100102,
+      92007100,
+      92007101,
+      92007102,
+      92007103,
+      92007104,
+      92007105
+    ],
+    "monster_buff": [],
+    "target": [
+      90,
+      150,
+      180
+    ],
+    "target_config": [
+      2,
+      3,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"
+  },
+  {
+    "id": 79,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 1,
+    "instance_id": 20021,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 1,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      310000060,
+      310000070,
+      310000050
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg01_UI_png.T_loopTowerBg01_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL1.T_DailyTowerL1"
+  },
+  {
+    "id": 80,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 2,
+    "instance_id": 20022,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 2,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      310000090,
+      310000100,
+      310000080,
+      310000340,
+      320000010
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      90,
+      150
+    ],
+    "target_config": [
+      1,
+      2,
+      3
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg02_UI_png.T_loopTowerBg02_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL2.T_DailyTowerL2"
+  },
+  {
+    "id": 81,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 3,
+    "instance_id": 20023,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 3,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      320000210
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
+    ],
+    "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg03_UI_png.T_loopTowerBg03_UI_png",
+    "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL3.T_DailyTowerL3"
+  },
+  {
+    "id": 82,
+    "season": 7,
+    "difficulty": 3,
+    "area_num": 3,
+    "floor": 4,
+    "instance_id": 20024,
+    "area_name": "Text_TowerTwo_Text",
+    "cost": 4,
+    "recommend_element": [
+      2
+    ],
+    "show_monsters": [
+      340000050
+    ],
+    "show_monsters_and_level": [
+      {
+        "item1": 310000280,
+        "item2": 10
+      },
+      {
+        "item1": 320000010,
+        "item2": 5
+      }
+    ],
+    "show_buffs": [
+      92007102,
+      92008025
+    ],
+    "role_buff": [
+      622100102,
+      92008025,
+      92007102
+    ],
+    "monster_buff": [],
+    "target": [
+      0,
+      120,
+      180
+    ],
+    "target_config": [
+      1,
+      6,
+      7
     ],
     "bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_loopTowerBg04_UI_png.T_loopTowerBg04_UI_png",
     "item_bg_path": "/Game/Aki/UI/UIResources/UiDailyTower/Image/T_DailyTowerL4.T_DailyTowerL4"

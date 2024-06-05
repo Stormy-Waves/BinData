@@ -102,5 +102,13 @@
     "name": "PayShopTab_5_2_Name",
     "logic": 2,
     "enable": true
+  },
+  {
+    "shop_id": 204,
+    "tab_id": 1,
+    "sort": 1,
+    "name": "PayShopTab_Rogue_Name",
+    "logic": 2,
+    "enable": true
   }
 ]

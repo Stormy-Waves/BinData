@@ -2198,5 +2198,285 @@
       "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
       "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
     ]
+  },
+  {
+    "id": 1001,
+    "common_icon": "",
+    "crit_icon": "/Game/Aki/UI/UIResources/UiFight/Image/T_Fight_bing_baoji_UI.T_Fight_bing_baoji_UI",
+    "crit_niagara_path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Number_Ice.NS_Fx_LGUI_Number_Ice",
+    "text_color": "72e9feFF",
+    "stroke_color": "2E8DC39F",
+    "crit_text_color": "ADF3FFFF",
+    "crit_stroke_color": "71AAFFDF",
+    "min_deviation_x": -50,
+    "min_deviation_y": 0,
+    "max_deviation_x": 50,
+    "max_deviation_y": 170,
+    "own_damage_sequence": "Ani_OwnDamageSequence",
+    "own_critical_damage_sequence": "Ani_OwnCriticalDamageSequence",
+    "monster_damage_sequence": "Ani_SpecialDamage",
+    "monster_critical_damage_sequence": "Ani_SpecialCriticalDamage",
+    "damage_text_sequence": "",
+    "is_preload": true,
+    "own_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "own_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ]
+  },
+  {
+    "id": 1002,
+    "common_icon": "",
+    "crit_icon": "/Game/Aki/UI/UIResources/UiFight/Image/T_Fight_huo_baoji_UI.T_Fight_huo_baoji_UI",
+    "crit_niagara_path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Number_Fire.NS_Fx_LGUI_Number_Fire",
+    "text_color": "ff7a18FF",
+    "stroke_color": "BC360C9F",
+    "crit_text_color": "FFA462FF",
+    "crit_stroke_color": "F8453ADF",
+    "min_deviation_x": -50,
+    "min_deviation_y": 0,
+    "max_deviation_x": 50,
+    "max_deviation_y": 170,
+    "own_damage_sequence": "Ani_OwnDamageSequence",
+    "own_critical_damage_sequence": "Ani_OwnCriticalDamageSequence",
+    "monster_damage_sequence": "Ani_SpecialDamage",
+    "monster_critical_damage_sequence": "Ani_SpecialCriticalDamage",
+    "damage_text_sequence": "",
+    "is_preload": true,
+    "own_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "own_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ]
+  },
+  {
+    "id": 1003,
+    "common_icon": "",
+    "crit_icon": "/Game/Aki/UI/UIResources/UiFight/Image/T_Fight_lei_baoji_UI.T_Fight_lei_baoji_UI",
+    "crit_niagara_path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Number_Thunder.NS_Fx_LGUI_Number_Thunder",
+    "text_color": "986AFFFF",
+    "stroke_color": "9543BB9F",
+    "crit_text_color": "BEA0FFFF",
+    "crit_stroke_color": "BB61E4DF",
+    "min_deviation_x": -50,
+    "min_deviation_y": 0,
+    "max_deviation_x": 50,
+    "max_deviation_y": 170,
+    "own_damage_sequence": "Ani_OwnDamageSequence",
+    "own_critical_damage_sequence": "Ani_OwnCriticalDamageSequence",
+    "monster_damage_sequence": "Ani_SpecialDamage",
+    "monster_critical_damage_sequence": "Ani_SpecialCriticalDamage",
+    "damage_text_sequence": "",
+    "is_preload": true,
+    "own_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "own_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ]
+  },
+  {
+    "id": 1004,
+    "common_icon": "",
+    "crit_icon": "/Game/Aki/UI/UIResources/UiFight/Image/T_Fight_feng_baoji_UI.T_Fight_feng_baoji_UI",
+    "crit_niagara_path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Number_Wind.NS_Fx_LGUI_Number_Wind",
+    "text_color": "2fe7cfFF",
+    "stroke_color": "0E826D9F",
+    "crit_text_color": "67FFEBFF",
+    "crit_stroke_color": "22C091DF",
+    "min_deviation_x": -50,
+    "min_deviation_y": 0,
+    "max_deviation_x": 50,
+    "max_deviation_y": 170,
+    "own_damage_sequence": "Ani_OwnDamageSequence",
+    "own_critical_damage_sequence": "Ani_OwnCriticalDamageSequence",
+    "monster_damage_sequence": "Ani_SpecialDamage",
+    "monster_critical_damage_sequence": "Ani_SpecialCriticalDamage",
+    "damage_text_sequence": "",
+    "is_preload": true,
+    "own_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "own_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ]
+  },
+  {
+    "id": 1005,
+    "common_icon": "",
+    "crit_icon": "/Game/Aki/UI/UIResources/UiFight/Image/T_Fight_guang_baoji_UI.T_Fight_guang_baoji_UI",
+    "crit_niagara_path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Number_Light.NS_Fx_LGUI_Number_Light",
+    "text_color": "ffef81FF",
+    "stroke_color": "D3AB199F",
+    "crit_text_color": "FFF6B9FF",
+    "crit_stroke_color": "FFBC38DF",
+    "min_deviation_x": -50,
+    "min_deviation_y": 0,
+    "max_deviation_x": 50,
+    "max_deviation_y": 170,
+    "own_damage_sequence": "Ani_OwnDamageSequence",
+    "own_critical_damage_sequence": "Ani_OwnCriticalDamageSequence",
+    "monster_damage_sequence": "Ani_SpecialDamage",
+    "monster_critical_damage_sequence": "Ani_SpecialCriticalDamage",
+    "damage_text_sequence": "",
+    "is_preload": true,
+    "own_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "own_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ]
+  },
+  {
+    "id": 1006,
+    "common_icon": "",
+    "crit_icon": "/Game/Aki/UI/UIResources/UiFight/Image/T_Fight_an_baoji_UI.T_Fight_an_baoji_UI",
+    "crit_niagara_path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Number_Drak.NS_Fx_LGUI_Number_Drak",
+    "text_color": "dc3771FF",
+    "stroke_color": "8708549F",
+    "crit_text_color": "E84C83FF",
+    "crit_stroke_color": "A913ACDF",
+    "min_deviation_x": -50,
+    "min_deviation_y": 0,
+    "max_deviation_x": 50,
+    "max_deviation_y": 170,
+    "own_damage_sequence": "Ani_OwnDamageSequence",
+    "own_critical_damage_sequence": "Ani_OwnCriticalDamageSequence",
+    "monster_damage_sequence": "Ani_SpecialDamage",
+    "monster_critical_damage_sequence": "Ani_SpecialCriticalDamage",
+    "damage_text_sequence": "",
+    "is_preload": true,
+    "own_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "own_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ]
+  },
+  {
+    "id": 1010,
+    "common_icon": "",
+    "crit_icon": "/Game/Aki/UI/UIResources/UiFight/Image/T_Fight_pugong_baoji_UI.T_Fight_pugong_baoji_UI",
+    "crit_niagara_path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_Number.NS_Fx_LGUI_Number",
+    "text_color": "F5F5F5FF",
+    "stroke_color": "0000005F",
+    "crit_text_color": "FFFFFFFF",
+    "crit_stroke_color": "ACA68EDF",
+    "min_deviation_x": -50,
+    "min_deviation_y": 0,
+    "max_deviation_x": 50,
+    "max_deviation_y": 170,
+    "own_damage_sequence": "Ani_OwnDamageSequence",
+    "own_critical_damage_sequence": "Ani_OwnCriticalDamageSequence",
+    "monster_damage_sequence": "Ani_SpecialDamage",
+    "monster_critical_damage_sequence": "Ani_SpecialCriticalDamage",
+    "damage_text_sequence": "",
+    "is_preload": true,
+    "own_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "own_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/OwnPlayerDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_common_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Normal/Location_CurveVector.Location_CurveVector"
+    ],
+    "monster_critical_damage_curve_path": [
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Alpha_CurveFloat.Alpha_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Scale_CurveFloat.Scale_CurveFloat",
+      "/Game/Aki/UI/UIResources/UiFight/Curve/MonsterDamageCurve/Critical/Location_CurveVector.Location_CurveVector"
+    ]
   }
 ]

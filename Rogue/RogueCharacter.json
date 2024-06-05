@@ -254,5 +254,37 @@
     "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
     "role_name": "RoleInfo_1601_Name",
     "role_big_icon": ""
+  },
+  {
+    "id": 100020,
+    "role_id": 1405,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1405_Name",
+    "role_big_icon": ""
+  },
+  {
+    "id": 100022,
+    "role_id": 1102,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1102_Name",
+    "role_big_icon": ""
+  },
+  {
+    "id": 100021,
+    "role_id": 1304,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1304_Name",
+    "role_big_icon": ""
+  },
+  {
+    "id": 100023,
+    "role_id": 1205,
+    "quality": 4,
+    "role_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1601_UI.T_IconRup80_Part_1601_UI",
+    "role_name": "RoleInfo_1205_Name",
+    "role_big_icon": ""
   }
 ]

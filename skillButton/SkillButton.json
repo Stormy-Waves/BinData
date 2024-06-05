@@ -3053,6 +3053,132 @@
     "dynamic_effect_tag_map": []
   },
   {
+    "id": 13041002,
+    "role_id": 1304,
+    "name": "攻击",
+    "button_type": 4,
+    "action_type": 4,
+    "skill_id": 1304001,
+    "skill_id_tag_map": [],
+    "skill_icon_tags": [
+      "行为状态.逻辑状态.新控物.控制"
+    ],
+    "enable_tags": [],
+    "disable_tags": [
+      "战斗状态.技能限制.禁止普攻",
+      "行为状态.逻辑状态.控物.控物空中投掷禁止"
+    ],
+    "disable_skill_id_tags": [],
+    "hidden_tags": [],
+    "is_cd_visible": true,
+    "attribute_id": 0,
+    "max_attribute_id": 0,
+    "attribute_id_tag_map": [],
+    "max_attribute_burst_effect_id": 0,
+    "cd_completed_effect_id": 0,
+    "is_long_press_control_camera": false,
+    "long_press_time": 0,
+    "dynamic_effect_tag_map": []
+  },
+  {
+    "id": 13041004,
+    "role_id": 1304,
+    "name": "共鸣技能",
+    "button_type": 6,
+    "action_type": 6,
+    "skill_id": 1304200,
+    "skill_id_tag_map": [
+      {
+        "key": "角色.R2T1JinxiMd10011.状态标识.大招派生可用",
+        "value": 1304310
+      },
+      {
+        "key": "角色.R2T1JinxiMd10011.状态标识.E技能分支二可用",
+        "value": 1304210
+      },
+      {
+        "key": "角色.R2T1JinxiMd10011.状态标识.E技能分支三可用",
+        "value": 1304110
+      },
+      {
+        "key": "角色.Common.技能通用标识.控物拼图旋转.可用",
+        "value": 210009
+      },
+      {
+        "key": "角色.Common.技能通用标识.控物拼图旋转.不可用",
+        "value": 210009
+      }
+    ],
+    "skill_icon_tags": [],
+    "enable_tags": [
+      "角色.Common.技能通用标识.控物拼图旋转.可用"
+    ],
+    "disable_tags": [
+      "功能.功能制作.被击硬直时间",
+      "战斗状态.技能限制.禁止E技能",
+      "角色.Common.技能通用标识.控物拼图旋转.不可用"
+    ],
+    "disable_skill_id_tags": [
+      {
+        "key": "行为状态.位置状态.空中",
+        "value": {
+          "array_int": [
+            1304200
+          ]
+        }
+      }
+    ],
+    "hidden_tags": [
+      "功能.功能制作.隐藏按钮功能.隐藏技能按键"
+    ],
+    "is_cd_visible": true,
+    "attribute_id": 0,
+    "max_attribute_id": 0,
+    "attribute_id_tag_map": [],
+    "max_attribute_burst_effect_id": 0,
+    "cd_completed_effect_id": 0,
+    "is_long_press_control_camera": false,
+    "long_press_time": 0,
+    "dynamic_effect_tag_map": [
+      {
+        "key": "角色.R2T1JinxiMd10011.状态标识.大招派生可用",
+        "value": 1304310
+      },
+      {
+        "key": "角色.R2T1JinxiMd10011.状态标识.E技能分支二可用",
+        "value": 1304310
+      }
+    ]
+  },
+  {
+    "id": 13041006,
+    "role_id": 1304,
+    "name": "共鸣解放",
+    "button_type": 8,
+    "action_type": 8,
+    "skill_id": 1304300,
+    "skill_id_tag_map": [],
+    "skill_icon_tags": [],
+    "enable_tags": [],
+    "disable_tags": [
+      "功能.功能制作.被击硬直时间",
+      "战斗状态.技能限制.禁止大招"
+    ],
+    "disable_skill_id_tags": [],
+    "hidden_tags": [
+      "功能.功能制作.隐藏按钮功能.隐藏大招按键"
+    ],
+    "is_cd_visible": true,
+    "attribute_id": 60,
+    "max_attribute_id": 59,
+    "attribute_id_tag_map": [],
+    "max_attribute_burst_effect_id": 0,
+    "cd_completed_effect_id": 0,
+    "is_long_press_control_camera": false,
+    "long_press_time": 0,
+    "dynamic_effect_tag_map": []
+  },
+  {
     "id": 50120001,
     "role_id": 5012,
     "name": "攻击",
@@ -3227,5 +3353,158 @@
     "is_long_press_control_camera": false,
     "long_press_time": 0,
     "dynamic_effect_tag_map": []
+  },
+  {
+    "id": 12051002,
+    "role_id": 1205,
+    "name": "攻击",
+    "button_type": 4,
+    "action_type": 4,
+    "skill_id": 1205001,
+    "skill_id_tag_map": [
+      {
+        "key": "角色.R2T1ChangLiMd10011.buff相关.技能按钮标识地面",
+        "value": 1205005
+      },
+      {
+        "key": "角色.R2T1ChangLiMd10011.buff相关.技能按钮标识空中",
+        "value": 1205106
+      }
+    ],
+    "skill_icon_tags": [
+      "行为状态.逻辑状态.新控物.控制"
+    ],
+    "enable_tags": [],
+    "disable_tags": [
+      "战斗状态.技能限制.禁止普攻",
+      "行为状态.逻辑状态.控物.控物空中投掷禁止"
+    ],
+    "disable_skill_id_tags": [],
+    "hidden_tags": [],
+    "is_cd_visible": true,
+    "attribute_id": 0,
+    "max_attribute_id": 0,
+    "attribute_id_tag_map": [],
+    "max_attribute_burst_effect_id": 0,
+    "cd_completed_effect_id": 0,
+    "is_long_press_control_camera": true,
+    "long_press_time": 0,
+    "dynamic_effect_tag_map": [
+      {
+        "key": "角色.R2T1ChangLiMd10011.buff相关.心眼",
+        "value": 12051310
+      }
+    ]
+  },
+  {
+    "id": 12051004,
+    "role_id": 1205,
+    "name": "共鸣技能",
+    "button_type": 6,
+    "action_type": 6,
+    "skill_id": 1205201,
+    "skill_id_tag_map": [
+      {
+        "key": "角色.Common.技能通用标识.控物拼图旋转.可用",
+        "value": 210009
+      },
+      {
+        "key": "角色.Common.技能通用标识.控物拼图旋转.不可用",
+        "value": 210009
+      }
+    ],
+    "skill_icon_tags": [],
+    "enable_tags": [
+      "角色.Common.技能通用标识.控物拼图旋转.可用"
+    ],
+    "disable_tags": [
+      "功能.功能制作.被击硬直时间",
+      "战斗状态.技能限制.禁止E技能",
+      "角色.Common.技能通用标识.控物拼图旋转.不可用"
+    ],
+    "disable_skill_id_tags": [],
+    "hidden_tags": [
+      "功能.功能制作.隐藏按钮功能.隐藏技能按键"
+    ],
+    "is_cd_visible": true,
+    "attribute_id": 0,
+    "max_attribute_id": 0,
+    "attribute_id_tag_map": [],
+    "max_attribute_burst_effect_id": 0,
+    "cd_completed_effect_id": 0,
+    "is_long_press_control_camera": false,
+    "long_press_time": 0,
+    "dynamic_effect_tag_map": []
+  },
+  {
+    "id": 12051006,
+    "role_id": 1205,
+    "name": "共鸣解放",
+    "button_type": 8,
+    "action_type": 8,
+    "skill_id": 1205401,
+    "skill_id_tag_map": [],
+    "skill_icon_tags": [],
+    "enable_tags": [],
+    "disable_tags": [
+      "功能.功能制作.被击硬直时间",
+      "战斗状态.技能限制.禁止大招"
+    ],
+    "disable_skill_id_tags": [],
+    "hidden_tags": [
+      "功能.功能制作.隐藏按钮功能.隐藏大招按键"
+    ],
+    "is_cd_visible": true,
+    "attribute_id": 60,
+    "max_attribute_id": 59,
+    "attribute_id_tag_map": [],
+    "max_attribute_burst_effect_id": 0,
+    "cd_completed_effect_id": 0,
+    "is_long_press_control_camera": false,
+    "long_press_time": 0,
+    "dynamic_effect_tag_map": []
+  },
+  {
+    "id": 1102912001,
+    "role_id": 1102,
+    "name": "共鸣技能",
+    "button_type": 6,
+    "action_type": 6,
+    "skill_id": 1102020,
+    "skill_id_tag_map": [],
+    "skill_icon_tags": [],
+    "enable_tags": [],
+    "disable_tags": [
+      "功能.功能制作.被击硬直时间",
+      "战斗状态.技能限制.禁止E技能",
+      "角色.Common.技能通用标识.控物拼图旋转.不可用"
+    ],
+    "disable_skill_id_tags": [
+      {
+        "key": "行为状态.位置状态.空中",
+        "value": {
+          "array_int": [
+            1104040
+          ]
+        }
+      }
+    ],
+    "hidden_tags": [
+      "功能.功能制作.隐藏按钮功能.隐藏技能按键"
+    ],
+    "is_cd_visible": true,
+    "attribute_id": 0,
+    "max_attribute_id": 0,
+    "attribute_id_tag_map": [],
+    "max_attribute_burst_effect_id": 0,
+    "cd_completed_effect_id": 0,
+    "is_long_press_control_camera": false,
+    "long_press_time": 0,
+    "dynamic_effect_tag_map": [
+      {
+        "key": "系统.肉鸽.角色BD.散华.二段E",
+        "value": 11041004
+      }
+    ]
   }
 ]

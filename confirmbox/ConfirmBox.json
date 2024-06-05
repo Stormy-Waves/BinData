@@ -2638,6 +2638,21 @@
     "need_close": true
   },
   {
+    "id": 180,
+    "title": "ConfirmBox_180_Title",
+    "content": "ConfirmBox_180_Content",
+    "secondary_content": "",
+    "button_text": [
+      "ConfirmBox_180_ButtonText_0",
+      "ConfirmBox_180_ButtonText_1"
+    ],
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": true
+  },
+  {
     "id": 181,
     "title": "ConfirmBox_180_Title",
     "content": "ConfirmBox_181_Content",
@@ -2710,17 +2725,73 @@
     "need_close": true
   },
   {
-    "id": 180,
-    "title": "ConfirmBox_180_Title",
-    "content": "ConfirmBox_180_Content",
+    "id": 186,
+    "title": "ConfirmBox_186_Title",
+    "content": "ConfirmBox_186_Content",
     "secondary_content": "",
-    "button_text": [
-      "ConfirmBox_180_ButtonText_0",
-      "ConfirmBox_180_ButtonText_1"
-    ],
+    "button_text": [],
     "delay_time": 0,
     "delay_button_index": 0,
     "need_mask_close": false,
+    "ui_show_type": 0,
+    "need_close": false
+  },
+  {
+    "id": 188,
+    "title": "ConfirmBox_1_Title",
+    "content": "Bossrush_TeamNotFull_Text",
+    "secondary_content": "",
+    "button_text": [
+      "ConfirmBox_1_ButtonText_0",
+      "ConfirmBox_1_ButtonText_1"
+    ],
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
+  },
+  {
+    "id": 189,
+    "title": "ConfirmBox_189_Title",
+    "content": "ConfirmBox_189_Content",
+    "secondary_content": "",
+    "button_text": [
+      "ConfirmBox_100_ButtonText_0",
+      "ConfirmBox_100_ButtonText_1"
+    ],
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
+  },
+  {
+    "id": 195,
+    "title": "ConfirmBox_195_Title",
+    "content": "ConfirmBox_195_Content",
+    "secondary_content": "",
+    "button_text": [
+      "ConfirmBox_195_ButtonText_0"
+    ],
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
+    "ui_show_type": 0,
+    "need_close": true
+  },
+  {
+    "id": 200,
+    "title": "ConfirmBox_1_Title",
+    "content": "ConfirmBox_200_Content",
+    "secondary_content": "",
+    "button_text": [
+      "ConfirmBox_1_ButtonText_0",
+      "ConfirmBox_1_ButtonText_1"
+    ],
+    "delay_time": 0,
+    "delay_button_index": 0,
+    "need_mask_close": true,
     "ui_show_type": 0,
     "need_close": true
   }

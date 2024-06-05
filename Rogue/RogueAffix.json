@@ -159,5 +159,55 @@
     "affix_desc": "RogueBuffPool_938000301106_BuffDesc",
     "affix_desc_param": [],
     "affix_desc_simple": "RogueBuffPool_938000301106_BuffDesc"
+  },
+  {
+    "id": 4001,
+    "buff_id": [
+      20001691300100,
+      20001691300101,
+      20001691300102
+    ],
+    "affix_desc": "RogueBuffPool_9126000043001_BuffDesc",
+    "affix_desc_param": [],
+    "affix_desc_simple": "RogueBuffPool_9126000043001_BuffDesc_0"
+  },
+  {
+    "id": 4002,
+    "buff_id": [
+      20001691300400,
+      20001691300412,
+      20001691300413,
+      20001691300422,
+      20001691300423,
+      20001691300432,
+      20001691300433,
+      20001691300442,
+      20001691300452,
+      20001691300462
+    ],
+    "affix_desc": "RogueBuffPool_9126000043004_BuffDesc",
+    "affix_desc_param": [],
+    "affix_desc_simple": "RogueBuffPool_9126000043004_BuffDesc_0"
+  },
+  {
+    "id": 4003,
+    "buff_id": [
+      20001691300300
+    ],
+    "affix_desc": "RogueBuffPool_9126000043003_BuffDesc",
+    "affix_desc_param": [],
+    "affix_desc_simple": "RogueBuffPool_9126000043003_BuffDesc_0"
+  },
+  {
+    "id": 4004,
+    "buff_id": [
+      20001691300200,
+      20001691300201,
+      20001691300203,
+      20001691300205
+    ],
+    "affix_desc": "RogueBuffPool_9126000043002_BuffDesc",
+    "affix_desc_param": [],
+    "affix_desc_simple": "RogueBuffPool_9126000043002_BuffDesc_0"
   }
 ]

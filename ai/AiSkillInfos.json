@@ -13465,19 +13465,19 @@
   },
   {
     "id": 70112001,
-    "skill_weight": 1,
-    "skill_precondition_id": 70112001,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
     "skill_id": "70112001",
     "skill_cd_range": {
       "min": 0.0,
-      "max": 1000.0
+      "max": 3000.0
     },
-    "skill_type": -1
+    "skill_type": 0
   },
   {
     "id": 70112002,
     "skill_weight": 1,
-    "skill_precondition_id": 70112001,
+    "skill_precondition_id": 2,
     "skill_id": "70112002",
     "skill_cd_range": {
       "min": 5500.0,
@@ -14081,30 +14081,30 @@
   },
   {
     "id": 70112004,
-    "skill_weight": 1,
-    "skill_precondition_id": 70112001,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
     "skill_id": "70112004",
     "skill_cd_range": {
       "min": 0.0,
-      "max": 0.0
+      "max": 3000.0
     },
-    "skill_type": -1
+    "skill_type": 0
   },
   {
     "id": 70112005,
-    "skill_weight": 1,
+    "skill_weight": 10,
     "skill_precondition_id": 70112001,
     "skill_id": "70112005",
     "skill_cd_range": {
       "min": 0.0,
-      "max": 0.0
+      "max": 3000.0
     },
-    "skill_type": -1
+    "skill_type": 0
   },
   {
     "id": 70112006,
     "skill_weight": 1,
-    "skill_precondition_id": 70112001,
+    "skill_precondition_id": 2,
     "skill_id": "70112006",
     "skill_cd_range": {
       "min": 0.0,
@@ -14114,25 +14114,25 @@
   },
   {
     "id": 70112007,
-    "skill_weight": 1,
-    "skill_precondition_id": 70112001,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
     "skill_id": "70112007",
     "skill_cd_range": {
       "min": 0.0,
-      "max": 0.0
+      "max": 3000.0
     },
-    "skill_type": -1
+    "skill_type": 0
   },
   {
     "id": 70112008,
-    "skill_weight": 1,
+    "skill_weight": 10,
     "skill_precondition_id": 70112001,
     "skill_id": "70112008",
     "skill_cd_range": {
       "min": 0.0,
-      "max": 0.0
+      "max": 3000.0
     },
-    "skill_type": -1
+    "skill_type": 0
   },
   {
     "id": 80009040,
@@ -14444,34 +14444,23 @@
   },
   {
     "id": 77042001,
-    "skill_weight": 10,
+    "skill_weight": 15,
     "skill_precondition_id": 77042001,
     "skill_id": "77042001",
     "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
-    },
-    "skill_type": 0
-  },
-  {
-    "id": 77042002,
-    "skill_weight": 10,
-    "skill_precondition_id": 77042002,
-    "skill_id": "77042002",
-    "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
+      "min": 3000.0,
+      "max": 6000.0
     },
     "skill_type": 0
   },
   {
     "id": 77042003,
-    "skill_weight": 10,
+    "skill_weight": 5,
     "skill_precondition_id": 77042003,
     "skill_id": "77042003",
     "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
+      "min": 7000.0,
+      "max": 8000.0
     },
     "skill_type": 0
   },
@@ -14488,14 +14477,14 @@
   },
   {
     "id": 77042005,
-    "skill_weight": 10,
+    "skill_weight": 0,
     "skill_precondition_id": 77042005,
     "skill_id": "77042005",
     "skill_cd_range": {
       "min": 0.0,
       "max": 3000.0
     },
-    "skill_type": 0
+    "skill_type": 12
   },
   {
     "id": 77042006,
@@ -14503,8 +14492,8 @@
     "skill_precondition_id": 77042006,
     "skill_id": "77042006",
     "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
+      "min": 4000.0,
+      "max": 7000.0
     },
     "skill_type": 0
   },
@@ -14514,8 +14503,8 @@
     "skill_precondition_id": 77042007,
     "skill_id": "77042007",
     "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
+      "min": 7000.0,
+      "max": 8000.0
     },
     "skill_type": 0
   },
@@ -14542,24 +14531,13 @@
     "skill_type": 0
   },
   {
-    "id": 77042010,
-    "skill_weight": 10,
-    "skill_precondition_id": 77042010,
-    "skill_id": "77042010",
-    "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
-    },
-    "skill_type": 0
-  },
-  {
     "id": 77042011,
     "skill_weight": 10,
     "skill_precondition_id": 77042011,
     "skill_id": "77042011",
     "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
+      "min": 5000.0,
+      "max": 8000.0
     },
     "skill_type": 0
   },
@@ -14569,10 +14547,10 @@
     "skill_precondition_id": 77042050,
     "skill_id": "77042050",
     "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
+      "min": 3500.0,
+      "max": 5500.0
     },
-    "skill_type": 2
+    "skill_type": 11
   },
   {
     "id": 77042060,
@@ -14583,7 +14561,7 @@
       "min": 0.0,
       "max": 3000.0
     },
-    "skill_type": 2
+    "skill_type": 13
   },
   {
     "id": 80017301,
@@ -15038,19 +15016,19 @@
   },
   {
     "id": 70112009,
-    "skill_weight": 1,
-    "skill_precondition_id": 70112001,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
     "skill_id": "70112009",
     "skill_cd_range": {
       "min": 0.0,
-      "max": 0.0
+      "max": 3000.0
     },
-    "skill_type": -1
+    "skill_type": 0
   },
   {
     "id": 70112010,
-    "skill_weight": 1,
-    "skill_precondition_id": 70112001,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
     "skill_id": "70112010",
     "skill_cd_range": {
       "min": 7000.0,
@@ -16156,7 +16134,7 @@
       "min": 0.0,
       "max": 3000.0
     },
-    "skill_type": 2
+    "skill_type": 14
   },
   {
     "id": 77042062,
@@ -16167,29 +16145,7 @@
       "min": 0.0,
       "max": 3000.0
     },
-    "skill_type": 2
-  },
-  {
-    "id": 77042063,
-    "skill_weight": 0,
-    "skill_precondition_id": 77042063,
-    "skill_id": "77042063",
-    "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
-    },
-    "skill_type": 2
-  },
-  {
-    "id": 77042064,
-    "skill_weight": 0,
-    "skill_precondition_id": 77042064,
-    "skill_id": "77042064",
-    "skill_cd_range": {
-      "min": 0.0,
-      "max": 3000.0
-    },
-    "skill_type": 2
+    "skill_type": 12
   },
   {
     "id": 77042065,
@@ -16200,7 +16156,7 @@
       "min": 0.0,
       "max": 3000.0
     },
-    "skill_type": 2
+    "skill_type": 13
   },
   {
     "id": 77042066,
@@ -16211,7 +16167,7 @@
       "min": 0.0,
       "max": 3000.0
     },
-    "skill_type": 2
+    "skill_type": 14
   },
   {
     "id": 77042067,
@@ -16226,7 +16182,7 @@
   },
   {
     "id": 77042068,
-    "skill_weight": 5,
+    "skill_weight": 0,
     "skill_precondition_id": 77042068,
     "skill_id": "77042068",
     "skill_cd_range": {
@@ -16894,6 +16850,50 @@
       "max": 3000.0
     },
     "skill_type": 0
+  },
+  {
+    "id": 77042017,
+    "skill_weight": 0,
+    "skill_precondition_id": 13,
+    "skill_id": "77042017",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 2
+  },
+  {
+    "id": 77042018,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042018,
+    "skill_id": "77042018",
+    "skill_cd_range": {
+      "min": 7000.0,
+      "max": 12000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042021,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042021,
+    "skill_id": "77042021",
+    "skill_cd_range": {
+      "min": 15000.0,
+      "max": 20000.0
+    },
+    "skill_type": 2
+  },
+  {
+    "id": 77042023,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042023,
+    "skill_id": "77042023",
+    "skill_cd_range": {
+      "min": 4000.0,
+      "max": 7000.0
+    },
+    "skill_type": 2
   },
   {
     "id": 1402001,
@@ -18007,6 +18007,644 @@
     "skill_type": 0
   },
   {
+    "id": 77049001,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049001",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77049002,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049002",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77049003,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049003",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77049004,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049004",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77049005,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049005",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77049006,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049006",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77049007,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049007",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77049008,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049008",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77049009,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049009",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77049010,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77049010",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77032011,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77032011",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032012,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77032012",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032013,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77032013",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032014,
+    "skill_weight": 0,
+    "skill_precondition_id": 77032014,
+    "skill_id": "77032014",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032015,
+    "skill_weight": 0,
+    "skill_precondition_id": 77032015,
+    "skill_id": "77032015",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032016,
+    "skill_weight": 30,
+    "skill_precondition_id": 77032016,
+    "skill_id": "77032016",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032017,
+    "skill_weight": 10,
+    "skill_precondition_id": 77032017,
+    "skill_id": "77032017",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032018,
+    "skill_weight": 10,
+    "skill_precondition_id": 2,
+    "skill_id": "77032018",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032019,
+    "skill_weight": 0,
+    "skill_precondition_id": 77032019,
+    "skill_id": "77032019",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032020,
+    "skill_weight": 5,
+    "skill_precondition_id": 77032020,
+    "skill_id": "77032020",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032021,
+    "skill_weight": 100,
+    "skill_precondition_id": 2,
+    "skill_id": "77032021",
+    "skill_cd_range": {
+      "min": 30000.0,
+      "max": 31000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032022,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77032022",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032023,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77032022",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032024,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77032024",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 80004074,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004074",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004075,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004075",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004076,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004076",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004077,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004077",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004078,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004078",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004079,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004079",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004080,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004080",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004081,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004081",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004082,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004082",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004083,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004083",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004084,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004084",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004085,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004085",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004086,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004086",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004087,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004087",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004088,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004088",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004089,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004089",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004090,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004090",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77042013,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042013,
+    "skill_id": "77042013",
+    "skill_cd_range": {
+      "min": 15000.0,
+      "max": 20000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042024,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042024,
+    "skill_id": "77042024",
+    "skill_cd_range": {
+      "min": 3000.0,
+      "max": 6000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042025,
+    "skill_weight": 0,
+    "skill_precondition_id": 77042025,
+    "skill_id": "77042025",
+    "skill_cd_range": {
+      "min": 4000.0,
+      "max": 7000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042026,
+    "skill_weight": 0,
+    "skill_precondition_id": 77042026,
+    "skill_id": "77042026",
+    "skill_cd_range": {
+      "min": 4000.0,
+      "max": 7000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042028,
+    "skill_weight": 0,
+    "skill_precondition_id": 77042028,
+    "skill_id": "77042028",
+    "skill_cd_range": {
+      "min": 7000.0,
+      "max": 12000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042029,
+    "skill_weight": 5,
+    "skill_precondition_id": 77042029,
+    "skill_id": "77042029",
+    "skill_cd_range": {
+      "min": 4000.0,
+      "max": 7000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042030,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042030,
+    "skill_id": "77042030",
+    "skill_cd_range": {
+      "min": 6000.0,
+      "max": 8000.0
+    },
+    "skill_type": 11
+  },
+  {
+    "id": 77042031,
+    "skill_weight": 20,
+    "skill_precondition_id": 77042031,
+    "skill_id": "77042031",
+    "skill_cd_range": {
+      "min": 2000.0,
+      "max": 2500.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042032,
+    "skill_weight": 0,
+    "skill_precondition_id": 77042031,
+    "skill_id": "77042032",
+    "skill_cd_range": {
+      "min": 30000.0,
+      "max": 37000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042033,
+    "skill_weight": 15,
+    "skill_precondition_id": 77042033,
+    "skill_id": "77042033",
+    "skill_cd_range": {
+      "min": 6000.0,
+      "max": 8000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042034,
+    "skill_weight": 0,
+    "skill_precondition_id": 77042034,
+    "skill_id": "77042034",
+    "skill_cd_range": {
+      "min": 2000.0,
+      "max": 2500.0
+    },
+    "skill_type": 2
+  },
+  {
+    "id": 77042035,
+    "skill_weight": 0,
+    "skill_precondition_id": 77042035,
+    "skill_id": "77042035",
+    "skill_cd_range": {
+      "min": 2000.0,
+      "max": 2500.0
+    },
+    "skill_type": 2
+  },
+  {
+    "id": 77042037,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042037,
+    "skill_id": "77042037",
+    "skill_cd_range": {
+      "min": 3000.0,
+      "max": 6000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042038,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042038,
+    "skill_id": "77042038",
+    "skill_cd_range": {
+      "min": 3000.0,
+      "max": 6000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042039,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042039,
+    "skill_id": "77042039",
+    "skill_cd_range": {
+      "min": 3000.0,
+      "max": 6000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042051,
+    "skill_weight": 0,
+    "skill_precondition_id": 77042050,
+    "skill_id": "77042051",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 2
+  },
+  {
+    "id": 77042069,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042069,
+    "skill_id": "77042069",
+    "skill_cd_range": {
+      "min": 5500.0,
+      "max": 9500.0
+    },
+    "skill_type": 2
+  },
+  {
     "id": 80017041,
     "skill_weight": 100,
     "skill_precondition_id": 80017041,
@@ -18016,6 +18654,160 @@
       "max": 8500.0
     },
     "skill_type": -1
+  },
+  {
+    "id": 80004091,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004091",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004092,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004092",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004093,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004093",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004094,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004094",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004095,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004095",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004096,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004096",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004097,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004097",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004098,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004098",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 80004099,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "80004099",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": -1
+  },
+  {
+    "id": 77032028,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77032028",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77032029,
+    "skill_weight": 0,
+    "skill_precondition_id": 2,
+    "skill_id": "77032029",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042014,
+    "skill_weight": 0,
+    "skill_precondition_id": 77042019,
+    "skill_id": "77042014",
+    "skill_cd_range": {
+      "min": 15000.0,
+      "max": 20000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042015,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042019,
+    "skill_id": "77042015",
+    "skill_cd_range": {
+      "min": 15000.0,
+      "max": 20000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 77042016,
+    "skill_weight": 10,
+    "skill_precondition_id": 77042016,
+    "skill_id": "77042016",
+    "skill_cd_range": {
+      "min": 15000.0,
+      "max": 20000.0
+    },
+    "skill_type": 0
   },
   {
     "id": 800170381,
@@ -18049,5 +18841,38 @@
       "max": 8500.0
     },
     "skill_type": 5
+  },
+  {
+    "id": 77042041,
+    "skill_weight": 0,
+    "skill_precondition_id": 13,
+    "skill_id": "77042041",
+    "skill_cd_range": {
+      "min": 15000.0,
+      "max": 20000.0
+    },
+    "skill_type": 0
+  },
+  {
+    "id": 200051010,
+    "skill_weight": 1,
+    "skill_precondition_id": 4,
+    "skill_id": "200051010",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 120
+  },
+  {
+    "id": 200054010,
+    "skill_weight": 1,
+    "skill_precondition_id": 4,
+    "skill_id": "200054010",
+    "skill_cd_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "skill_type": 120
   }
 ]

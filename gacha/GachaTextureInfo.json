@@ -637,5 +637,41 @@
     "bind_point": "",
     "id_array": [],
     "trial_id": 21501601
+  },
+  {
+    "id": 1304,
+    "gacha_main_view_texture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+    "gacha_result_view_texture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jinxi_UI.T_Luckdraw_jinxi_UI",
+    "show_sequence": 1304,
+    "bind_point": "RoleCase",
+    "id_array": [],
+    "trial_id": 100718
+  },
+  {
+    "id": 1205,
+    "gacha_main_view_texture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+    "gacha_result_view_texture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_changli_UI.T_Luckdraw_changli_UI",
+    "show_sequence": 1205,
+    "bind_point": "RoleCase",
+    "id_array": [],
+    "trial_id": 100719
+  },
+  {
+    "id": 21010026,
+    "gacha_main_view_texture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+    "gacha_result_view_texture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010026_UI.T_Luckdraw21010026_UI",
+    "show_sequence": 3,
+    "bind_point": "",
+    "id_array": [],
+    "trial_id": 21501101
+  },
+  {
+    "id": 21020016,
+    "gacha_main_view_texture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+    "gacha_result_view_texture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020016_UI.T_Luckdraw21020016_UI",
+    "show_sequence": 3,
+    "bind_point": "",
+    "id_array": [],
+    "trial_id": 21501201
   }
 ]

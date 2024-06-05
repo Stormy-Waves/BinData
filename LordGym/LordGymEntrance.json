@@ -58,5 +58,20 @@
     "entrance_title": "BossEn_title_04",
     "entrance_description": "BossEn_detail_04",
     "is_debug": false
+  },
+  {
+    "id": 14010,
+    "mark_id": 4024,
+    "lord_gym_list": [
+      1401,
+      1402,
+      1403,
+      1404,
+      1405,
+      1406
+    ],
+    "entrance_title": "BossEn_title_05",
+    "entrance_description": "BossEn_detail_05",
+    "is_debug": false
   }
 ]

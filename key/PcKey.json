@@ -270,7 +270,7 @@
     "key_name": "Apostrophe",
     "key_description": "",
     "key_display_name": "",
-    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_KeyApostrophe_UI.T_IconPcBtn_KeyApostrophe_UI"
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key4_UI.T_IconPcBtn_Key4_UI"
   },
   {
     "id": 40,
@@ -712,5 +712,26 @@
     "key_description": "",
     "key_display_name": "",
     "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_ThumbMouseButton_UI.T_IconPcBtn_ThumbMouseButton_UI"
+  },
+  {
+    "id": 103,
+    "key_name": "Ampersand",
+    "key_description": "键盘1(法语)",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key1_UI.T_IconPcBtn_Key1_UI"
+  },
+  {
+    "id": 104,
+    "key_name": "E_AccentAigu",
+    "key_description": "键盘2(法语)",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key2_UI.T_IconPcBtn_Key2_UI"
+  },
+  {
+    "id": 105,
+    "key_name": "Quote",
+    "key_description": "键盘3(法语)",
+    "key_display_name": "",
+    "key_icon_path": "/Game/Aki/UI/UIResources/Common/Image/UiIconPcBtn/T_IconPcBtn_Key3_UI.T_IconPcBtn_Key3_UI"
   }
 ]

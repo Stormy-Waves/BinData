@@ -195,5 +195,39 @@
     "trigger_type3": 0,
     "trigger_effect3": 0,
     "trigger_effect_params3": []
+  },
+  {
+    "id": 7,
+    "init_value": 0,
+    "init_recovery_rate": -5000,
+    "init_max": 10000,
+    "mark_tag": [
+      "功能.逻辑状态标识.剧情中"
+    ],
+    "resist_tag": [],
+    "trigger_range1": {
+      "min": 9999.0,
+      "max": 10000.0
+    },
+    "trigger_type1": 0,
+    "trigger_effect1": 0,
+    "trigger_effect_params1": [
+      640007002,
+      640007020
+    ],
+    "trigger_range2": {
+      "min": 9999.0,
+      "max": 10000.0
+    },
+    "trigger_type2": 0,
+    "trigger_effect2": 0,
+    "trigger_effect_params2": [],
+    "trigger_range3": {
+      "min": 9999.0,
+      "max": 10000.0
+    },
+    "trigger_type3": 0,
+    "trigger_effect3": 0,
+    "trigger_effect_params3": []
   }
 ]

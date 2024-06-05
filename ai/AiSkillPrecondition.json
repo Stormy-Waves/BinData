@@ -6785,12 +6785,12 @@
   {
     "id": 70112001,
     "distance_range": {
-      "min": -10000.0,
-      "max": 10000.0
+      "min": -100.0,
+      "max": 1000.0
     },
     "angle_range": {
-      "min": -180.0,
-      "max": 180.0
+      "min": -90.0,
+      "max": 90.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -6807,7 +6807,7 @@
     "id": 70111001,
     "distance_range": {
       "min": 0.0,
-      "max": 500.0
+      "max": 300.0
     },
     "angle_range": {
       "min": -45.0,
@@ -6827,7 +6827,7 @@
   {
     "id": 70111002,
     "distance_range": {
-      "min": 500.0,
+      "min": 300.0,
       "max": 1500.0
     },
     "angle_range": {
@@ -6890,12 +6890,12 @@
   {
     "id": 70112002,
     "distance_range": {
-      "min": -800.0,
-      "max": 800.0
+      "min": -100.0,
+      "max": 500.0
     },
     "angle_range": {
-      "min": -180.0,
-      "max": 180.0
+      "min": -90.0,
+      "max": 90.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -6912,7 +6912,7 @@
     "id": 77042001,
     "distance_range": {
       "min": 0.0,
-      "max": 580.0
+      "max": 500.0
     },
     "angle_range": {
       "min": -60.0,
@@ -6953,12 +6953,12 @@
   {
     "id": 77042003,
     "distance_range": {
-      "min": 680.0,
-      "max": 1200.0
+      "min": 800.0,
+      "max": 1800.0
     },
     "angle_range": {
       "min": -60.0,
-      "max": 60.0
+      "max": 40.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -6975,7 +6975,7 @@
     "id": 77042004,
     "distance_range": {
       "min": 0.0,
-      "max": 800.0
+      "max": 300.0
     },
     "angle_range": {
       "min": -180.0,
@@ -6996,11 +6996,11 @@
     "id": 77042005,
     "distance_range": {
       "min": 0.0,
-      "max": 800.0
+      "max": 450.0
     },
     "angle_range": {
-      "min": 120.0,
-      "max": 240.0
+      "min": 140.0,
+      "max": 245.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -7016,12 +7016,12 @@
   {
     "id": 77042006,
     "distance_range": {
-      "min": 0.0,
-      "max": 600.0
+      "min": 300.0,
+      "max": 850.0
     },
     "angle_range": {
-      "min": -40.0,
-      "max": 40.0
+      "min": 20.0,
+      "max": 90.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -7037,7 +7037,7 @@
   {
     "id": 77042007,
     "distance_range": {
-      "min": 680.0,
+      "min": 800.0,
       "max": 1800.0
     },
     "angle_range": {
@@ -7058,12 +7058,12 @@
   {
     "id": 77042008,
     "distance_range": {
-      "min": 790.0,
-      "max": 2000.0
+      "min": 0.0,
+      "max": 300.0
     },
     "angle_range": {
-      "min": -60.0,
-      "max": 60.0
+      "min": -180.0,
+      "max": 180.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -7205,12 +7205,12 @@
   {
     "id": 77042050,
     "distance_range": {
-      "min": 0.0,
-      "max": 2500.0
+      "min": 1500.0,
+      "max": 3000.0
     },
     "angle_range": {
-      "min": -40.0,
-      "max": 40.0
+      "min": -30.0,
+      "max": 30.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -7226,12 +7226,12 @@
   {
     "id": 77042060,
     "distance_range": {
-      "min": 400.0,
-      "max": 1100.0
+      "min": 0.0,
+      "max": 3000.0
     },
     "angle_range": {
-      "min": -180.0,
-      "max": 30.0
+      "min": -100.0,
+      "max": -50.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -8507,12 +8507,12 @@
   {
     "id": 77042061,
     "distance_range": {
-      "min": 400.0,
-      "max": 1100.0
+      "min": 0.0,
+      "max": 3000.0
     },
     "angle_range": {
-      "min": 30.0,
-      "max": 180.0
+      "min": 50.0,
+      "max": 100.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -8529,11 +8529,11 @@
     "id": 77042062,
     "distance_range": {
       "min": 0.0,
-      "max": 2500.0
+      "max": 3000.0
     },
     "angle_range": {
       "min": 120.0,
-      "max": 250.0
+      "max": 260.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -8595,8 +8595,8 @@
       "max": 1100.0
     },
     "angle_range": {
-      "min": -120.0,
-      "max": -60.0
+      "min": -100.0,
+      "max": -50.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -8616,8 +8616,8 @@
       "max": 1100.0
     },
     "angle_range": {
-      "min": 70.0,
-      "max": 120.0
+      "min": 50.0,
+      "max": 100.0
     },
     "target_angle_range": {
       "min": -180.0,
@@ -8633,7 +8633,7 @@
   {
     "id": 77042067,
     "distance_range": {
-      "min": 0.0,
+      "min": 600.0,
       "max": 1800.0
     },
     "angle_range": {
@@ -9177,6 +9177,132 @@
     "need_target": true
   },
   {
+    "id": 77042018,
+    "distance_range": {
+      "min": 0.0,
+      "max": 350.0
+    },
+    "angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042019,
+    "distance_range": {
+      "min": -9000.0,
+      "max": 9000.0
+    },
+    "angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": false
+  },
+  {
+    "id": 77042020,
+    "distance_range": {
+      "min": -9000.0,
+      "max": 9000.0
+    },
+    "angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": false
+  },
+  {
+    "id": 77042021,
+    "distance_range": {
+      "min": 0.0,
+      "max": 2500.0
+    },
+    "angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042022,
+    "distance_range": {
+      "min": 0.0,
+      "max": 2500.0
+    },
+    "angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "怪物.Taguanghu.逻辑状态.狂暴状态.可大招",
+    "need_target": true
+  },
+  {
+    "id": 77042023,
+    "distance_range": {
+      "min": 400.0,
+      "max": 1100.0
+    },
+    "angle_range": {
+      "min": -70.0,
+      "max": 70.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
     "id": 70065801,
     "distance_range": {
       "min": 0.0,
@@ -9529,6 +9655,489 @@
     "height_range": {
       "min": -3000.0,
       "max": 2000.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77032014,
+    "distance_range": {
+      "min": 300.0,
+      "max": 1000.0
+    },
+    "angle_range": {
+      "min": 90.0,
+      "max": 180.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77032015,
+    "distance_range": {
+      "min": 300.0,
+      "max": 1000.0
+    },
+    "angle_range": {
+      "min": -180.0,
+      "max": -90.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77032016,
+    "distance_range": {
+      "min": 300.0,
+      "max": 600.0
+    },
+    "angle_range": {
+      "min": -60.0,
+      "max": 60.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77032017,
+    "distance_range": {
+      "min": 400.0,
+      "max": 800.0
+    },
+    "angle_range": {
+      "min": -80.0,
+      "max": 80.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77032019,
+    "distance_range": {
+      "min": 800.0,
+      "max": 1200.0
+    },
+    "angle_range": {
+      "min": -60.0,
+      "max": 60.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77032020,
+    "distance_range": {
+      "min": 300.0,
+      "max": 600.0
+    },
+    "angle_range": {
+      "min": -60.0,
+      "max": 60.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042013,
+    "distance_range": {
+      "min": 0.0,
+      "max": 600.0
+    },
+    "angle_range": {
+      "min": -70.0,
+      "max": 70.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "怪物.Taguanghu.逻辑状态.狂暴状态",
+    "need_target": true
+  },
+  {
+    "id": 77042024,
+    "distance_range": {
+      "min": 0.0,
+      "max": 500.0
+    },
+    "angle_range": {
+      "min": -60.0,
+      "max": 60.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042025,
+    "distance_range": {
+      "min": 300.0,
+      "max": 850.0
+    },
+    "angle_range": {
+      "min": 20.0,
+      "max": 90.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042026,
+    "distance_range": {
+      "min": 0.0,
+      "max": 500.0
+    },
+    "angle_range": {
+      "min": -100.0,
+      "max": -40.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042028,
+    "distance_range": {
+      "min": 800.0,
+      "max": 1400.0
+    },
+    "angle_range": {
+      "min": -40.0,
+      "max": 40.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042029,
+    "distance_range": {
+      "min": 0.0,
+      "max": 400.0
+    },
+    "angle_range": {
+      "min": -60.0,
+      "max": 60.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042030,
+    "distance_range": {
+      "min": 680.0,
+      "max": 1200.0
+    },
+    "angle_range": {
+      "min": -30.0,
+      "max": 30.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042031,
+    "distance_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042033,
+    "distance_range": {
+      "min": 0.0,
+      "max": 480.0
+    },
+    "angle_range": {
+      "min": -60.0,
+      "max": 60.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042034,
+    "distance_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042035,
+    "distance_range": {
+      "min": 0.0,
+      "max": 3000.0
+    },
+    "angle_range": {
+      "min": -60.0,
+      "max": 60.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042036,
+    "distance_range": {
+      "min": 0.0,
+      "max": 2500.0
+    },
+    "angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042037,
+    "distance_range": {
+      "min": 0.0,
+      "max": 650.0
+    },
+    "angle_range": {
+      "min": -60.0,
+      "max": 60.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042038,
+    "distance_range": {
+      "min": 0.0,
+      "max": 650.0
+    },
+    "angle_range": {
+      "min": 0.0,
+      "max": 90.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042039,
+    "distance_range": {
+      "min": 0.0,
+      "max": 650.0
+    },
+    "angle_range": {
+      "min": -90.0,
+      "max": 0.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042069,
+    "distance_range": {
+      "min": 800.0,
+      "max": 1400.0
+    },
+    "angle_range": {
+      "min": -50.0,
+      "max": 50.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042101,
+    "distance_range": {
+      "min": 0.0,
+      "max": 500.0
+    },
+    "angle_range": {
+      "min": -60.0,
+      "max": 60.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
     },
     "need_tag": "",
     "need_target": true
@@ -10560,6 +11169,27 @@
       "max": 600.0
     },
     "need_tag": "",
+    "need_target": true
+  },
+  {
+    "id": 77042016,
+    "distance_range": {
+      "min": 0.0,
+      "max": 2000.0
+    },
+    "angle_range": {
+      "min": -90.0,
+      "max": 90.0
+    },
+    "target_angle_range": {
+      "min": -180.0,
+      "max": 180.0
+    },
+    "height_range": {
+      "min": -600.0,
+      "max": 600.0
+    },
+    "need_tag": "怪物.Taguanghu.逻辑状态.狂暴状态",
     "need_target": true
   },
   {

@@ -780,5 +780,63 @@
     "role_list": [
       1403
     ]
+  },
+  {
+    "id": 10033,
+    "formula_item_id": 80010033,
+    "food_item_id": 80000033,
+    "type_id": 1,
+    "unlock": false,
+    "name": "雪莲酥",
+    "consume_items": [
+      {
+        "item_id": 42310220,
+        "count": 2
+      },
+      {
+        "item_id": 80050000,
+        "count": 3
+      },
+      {
+        "item_id": 80050003,
+        "count": 1
+      }
+    ],
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
+      1304
+    ]
+  },
+  {
+    "id": 10034,
+    "formula_item_id": 80010034,
+    "food_item_id": 80000034,
+    "type_id": 1,
+    "unlock": false,
+    "name": "雀翎辣肉",
+    "consume_items": [
+      {
+        "item_id": 42310200,
+        "count": 1
+      },
+      {
+        "item_id": 42400030,
+        "count": 3
+      },
+      {
+        "item_id": 80050001,
+        "count": 2
+      }
+    ],
+    "proficiency": 20,
+    "max_proficiency_count": 20,
+    "food_content": "",
+    "food_background": "",
+    "role_list": [
+      1205
+    ]
   }
 ]

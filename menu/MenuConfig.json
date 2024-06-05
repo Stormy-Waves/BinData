@@ -25,6 +25,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -53,6 +61,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -81,6 +97,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -109,6 +133,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -144,6 +176,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -175,6 +215,18 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [
+      0
+    ],
+    "disable_function": [
+      6
+    ],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -210,6 +262,14 @@
     "button_text": "",
     "open_view": "ResolutionListView",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -243,6 +303,19 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [
+      {
+        "key": 128,
+        "value": 1
+      }
+    ],
+    "clicked_tips": "AndroidIRX120fps",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -278,6 +351,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -299,16 +380,26 @@
     "digits": 0,
     "options_name": [
       "MenuConfig_44_OptionsName_0",
+      "MenuConfig_43_OptionsName_1",
       "MenuConfig_44_OptionsName_1"
     ],
     "options_value": [
       0,
-      1
+      1,
+      2
     ],
     "key_map": "",
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -342,6 +433,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -375,6 +474,14 @@
     "relation_function": [
       81
     ],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -406,6 +513,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -431,6 +546,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -456,6 +579,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -481,6 +612,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -506,6 +645,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -531,6 +678,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -556,6 +711,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -581,6 +744,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -606,6 +777,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -631,6 +810,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -656,6 +843,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -681,6 +876,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -706,6 +909,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -731,6 +942,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -756,6 +975,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -781,6 +1008,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -806,6 +1041,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -831,6 +1074,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -856,6 +1107,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -881,6 +1140,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -906,6 +1173,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -931,6 +1206,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -956,6 +1239,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -981,6 +1272,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1006,6 +1305,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1031,6 +1338,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1056,6 +1371,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1081,6 +1404,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1106,6 +1437,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1131,6 +1470,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1156,6 +1503,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1181,6 +1536,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1220,6 +1583,14 @@
     "button_text": "",
     "open_view": "TextLanguageSettingView",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1250,6 +1621,14 @@
     "button_text": "",
     "open_view": "VoiceLanguageSelectView",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1280,6 +1659,14 @@
     "button_text": "MenuConfig_40_ButtonText",
     "open_view": "VoiceLanguageDownloadView",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1305,6 +1692,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1330,6 +1725,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1361,6 +1764,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1392,6 +1803,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1423,6 +1842,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1456,6 +1883,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1489,6 +1924,14 @@
     "relation_function": [
       81
     ],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1517,6 +1960,14 @@
     "button_text": "MenuConfig_42_ButtonText",
     "open_view": "BrightnessView",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1545,6 +1996,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1573,6 +2032,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1604,6 +2071,32 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [
+      0
+    ],
+    "disable_function": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "affected_value": [
+      1
+    ],
+    "affected_function": [
+      {
+        "key": 87,
+        "value": 0
+      },
+      {
+        "key": 125,
+        "value": 0
+      }
+    ],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1645,6 +2138,14 @@
     "relation_function": [
       81
     ],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1675,6 +2176,14 @@
     "relation_function": [
       81
     ],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1710,6 +2219,14 @@
     "relation_function": [
       81
     ],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1735,6 +2252,14 @@
     "button_text": "MenuConfig_75_ButtonText",
     "open_view": "BattleUiSetView",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 12990008
   },
   {
@@ -1766,6 +2291,25 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [
+      1
+    ],
+    "affected_function": [
+      {
+        "key": 81,
+        "value": 0
+      },
+      {
+        "key": 125,
+        "value": 0
+      }
+    ],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1794,6 +2338,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1822,6 +2374,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1850,6 +2410,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1878,6 +2446,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1911,6 +2487,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1939,6 +2523,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1967,6 +2559,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -1995,6 +2595,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2023,6 +2631,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2051,6 +2667,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2079,6 +2703,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2110,6 +2742,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2141,6 +2781,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2153,7 +2801,7 @@
     "sub_sort": 1,
     "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETxitongshezhi2.SP_SETxitongshezhi2",
     "name": "MenuConfig_103_Name",
-    "platform": 0,
+    "platform": 2,
     "function_sort": 12,
     "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETcaozuo.SP_SETcaozuo",
     "set_type": 2,
@@ -2172,6 +2820,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2200,6 +2856,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2233,6 +2897,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2261,6 +2933,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2286,6 +2966,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "LogUploadView",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2317,6 +3005,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2352,6 +3048,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2383,6 +3087,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2408,6 +3120,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "Account,1",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 900
   },
   {
@@ -2433,6 +3153,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "Account,2",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 901
   },
   {
@@ -2458,6 +3186,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "Account,3",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 902
   },
   {
@@ -2483,6 +3219,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "Account,4",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 903
   },
   {
@@ -2508,6 +3252,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "Account,5",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 904
   },
   {
@@ -2533,6 +3285,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "Account,6",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 905
   },
   {
@@ -2558,6 +3318,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "Account,7",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 906
   },
   {
@@ -2583,6 +3351,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "Account,8",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 907
   },
   {
@@ -2611,6 +3387,14 @@
     "button_text": "MenuConfig_112_OptionsName",
     "open_view": "CdKeyInputView",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 12005119
   },
   {
@@ -2642,6 +3426,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2673,6 +3465,14 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   },
   {
@@ -2698,6 +3498,14 @@
     "button_text": "MenuConfig_107_ButtonText",
     "open_view": "Account,9",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 908
   },
   {
@@ -2731,6 +3539,442 @@
     "button_text": "",
     "open_view": "",
     "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 71,
+    "function_id": 82,
+    "options_default": 1,
+    "main_type": 2,
+    "sub_name": "MenuConfig_71_SubName",
+    "sub_type": 0,
+    "sub_sort": 2,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "name": "MenuConfig_71_Name",
+    "platform": 1,
+    "function_sort": 11,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_71_OptionsName_0",
+      "MenuConfig_71_OptionsName_1"
+    ],
+    "options_value": [
+      0,
+      1
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [
+      81
+    ],
+    "disable_value": [
+      1
+    ],
+    "disable_function": [
+      11
+    ],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 125,
+    "function_id": 125,
+    "options_default": 1,
+    "main_type": 2,
+    "sub_name": "MenuConfig_71_SubName",
+    "sub_type": 0,
+    "sub_sort": 2,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "name": "MenuConfig_125_Name",
+    "platform": 1,
+    "function_sort": 11,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_71_OptionsName_0",
+      "MenuConfig_71_OptionsName_1"
+    ],
+    "options_value": [
+      0,
+      1
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [],
+    "disable_value": [
+      0
+    ],
+    "disable_function": [
+      126
+    ],
+    "affected_value": [
+      1
+    ],
+    "affected_function": [
+      {
+        "key": 81,
+        "value": 0
+      },
+      {
+        "key": 87,
+        "value": 0
+      }
+    ],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 126,
+    "function_id": 126,
+    "options_default": 1,
+    "main_type": 2,
+    "sub_name": "MenuConfig_71_SubName",
+    "sub_type": 0,
+    "sub_sort": 2,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "name": "MenuConfig_126_Name",
+    "platform": 1,
+    "function_sort": 11,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_126_OptionsName_0",
+      "MenuConfig_126_OptionsName_1",
+      "MenuConfig_126_OptionsName_2",
+      "MenuConfig_126_OptionsName_3",
+      "MenuConfig_126_OptionsName_4"
+    ],
+    "options_value": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 127,
+    "function_id": 127,
+    "options_default": 1,
+    "main_type": 2,
+    "sub_name": "MenuConfig_71_SubName",
+    "sub_type": 0,
+    "sub_sort": 2,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "name": "MenuConfig_127_Name",
+    "platform": 4,
+    "function_sort": 0,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_71_OptionsName_0",
+      "MenuConfig_71_OptionsName_1"
+    ],
+    "options_value": [
+      0,
+      1
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 128,
+    "function_id": 128,
+    "options_default": 1,
+    "main_type": 2,
+    "sub_name": "MenuConfig_71_SubName",
+    "sub_type": 0,
+    "sub_sort": 2,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "name": "MenuConfig_128_Name",
+    "platform": 3,
+    "function_sort": 0,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_71_OptionsName_0",
+      "MenuConfig_71_OptionsName_1"
+    ],
+    "options_value": [
+      0,
+      1
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [],
+    "disable_value": [
+      1
+    ],
+    "disable_function": [
+      11
+    ],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [
+      {
+        "key": 1,
+        "value": "AndroidIRX120fps"
+      }
+    ],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 68,
+    "function_id": 79,
+    "options_default": 1,
+    "main_type": 2,
+    "sub_name": "MenuConfig_68_SubName",
+    "sub_type": 0,
+    "sub_sort": 2,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "name": "MenuConfig_68_Name",
+    "platform": 0,
+    "function_sort": 20,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_93_OptionsName_0",
+      "MenuConfig_93_OptionsName_1",
+      "MenuConfig_93_OptionsName_2"
+    ],
+    "options_value": [
+      0,
+      1,
+      2
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 10301,
+    "function_id": 103,
+    "options_default": 0,
+    "main_type": 6,
+    "sub_name": "MenuConfig_89_SubName",
+    "sub_type": 1,
+    "sub_sort": 1,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETxitongshezhi2.SP_SETxitongshezhi2",
+    "name": "MenuConfig_103_Name",
+    "platform": 1,
+    "function_sort": 12,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETcaozuo.SP_SETcaozuo",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_55_OptionsName_0",
+      "MenuConfig_55_OptionsName_1"
+    ],
+    "options_value": [
+      0,
+      1
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 130,
+    "function_id": 130,
+    "options_default": 0,
+    "main_type": 6,
+    "sub_name": "MenuConfig_104_SubName",
+    "sub_type": 2,
+    "sub_sort": 2,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETxitongshezhi3.SP_SETxitongshezhi3",
+    "name": "MenuConfig_129_Name",
+    "platform": 1,
+    "function_sort": 5,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian1.SP_SETanjian1",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_55_OptionsName_0",
+      "MenuConfig_55_OptionsName_1"
+    ],
+    "options_value": [
+      0,
+      1
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 131,
+    "function_id": 131,
+    "options_default": 0,
+    "main_type": 6,
+    "sub_name": "MenuConfig_104_SubName",
+    "sub_type": 2,
+    "sub_sort": 2,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETxitongshezhi3.SP_SETxitongshezhi3",
+    "name": "MenuConfig_130_Name",
+    "platform": 1,
+    "function_sort": 6,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian1.SP_SETanjian1",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_55_OptionsName_0",
+      "MenuConfig_55_OptionsName_1"
+    ],
+    "options_value": [
+      0,
+      1
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
+    "condition_group": 0
+  },
+  {
+    "id": 132,
+    "function_id": 132,
+    "options_default": 0,
+    "main_type": 2,
+    "sub_name": "MenuConfig_46_SubName",
+    "sub_type": 0,
+    "sub_sort": 2,
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "name": "MenuConfig_132_Name",
+    "platform": 0,
+    "function_sort": 14,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "set_type": 2,
+    "slider_range": [],
+    "slider_default": 0.0,
+    "digits": 0,
+    "options_name": [
+      "MenuConfig_54_OptionsName_0",
+      "MenuConfig_54_OptionsName_1"
+    ],
+    "options_value": [
+      0,
+      1
+    ],
+    "key_map": "",
+    "button_text": "",
+    "open_view": "",
+    "relation_function": [],
+    "disable_value": [],
+    "disable_function": [],
+    "affected_value": [],
+    "affected_function": [],
+    "value_tips_map": [],
+    "clicked_tips_map": [],
+    "clicked_tips": "0",
+    "block_on_ios_check_server": false,
     "condition_group": 0
   }
 ]

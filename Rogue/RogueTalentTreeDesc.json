@@ -89,5 +89,89 @@
     "args": [],
     "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_CardUpdate.SP_RogueSkill_CardUpdate",
     "talent_name": "Rogue_SkillTree_13_Title"
+  },
+  {
+    "id": 201,
+    "base_desc": "Rogue_SkillTree_202_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_VIT.SP_RogueSkill_VIT",
+    "talent_name": "Rogue_SkillTree_202_Title"
+  },
+  {
+    "id": 202,
+    "base_desc": "Rogue_SkillTree_212_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_DPSPower.SP_RogueSkill_DPSPower",
+    "talent_name": "Rogue_SkillTree_212_Title"
+  },
+  {
+    "id": 203,
+    "base_desc": "Rogue_SkillTree_203_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_DPS.SP_RogueSkill_DPS",
+    "talent_name": "Rogue_SkillTree_203_Title"
+  },
+  {
+    "id": 204,
+    "base_desc": "Rogue_SkillTree_204_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_DPS.SP_RogueSkill_DPS",
+    "talent_name": "Rogue_SkillTree_204_Title"
+  },
+  {
+    "id": 205,
+    "base_desc": "Rogue_SkillTree_205_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_DPS.SP_RogueSkill_DPS",
+    "talent_name": "Rogue_SkillTree_205_Title"
+  },
+  {
+    "id": 206,
+    "base_desc": "Rogue_SkillTree_206_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_CardUpdate.SP_RogueSkill_CardUpdate",
+    "talent_name": "Rogue_SkillTree_206_Title"
+  },
+  {
+    "id": 207,
+    "base_desc": "Rogue_SkillTree_07_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_Buff2.SP_RogueSkill_Buff2",
+    "talent_name": "Rogue_SkillTree_07_Title"
+  },
+  {
+    "id": 208,
+    "base_desc": "Rogue_SkillTree_208_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_CD.SP_RogueSkill_CD",
+    "talent_name": "Rogue_SkillTree_208_Title"
+  },
+  {
+    "id": 209,
+    "base_desc": "Rogue_SkillTree_209_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_HP.SP_RogueSkill_HP",
+    "talent_name": "Rogue_SkillTree_209_Title"
+  },
+  {
+    "id": 210,
+    "base_desc": "Rogue_SkillTree_210_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_HP.SP_RogueSkill_HP",
+    "talent_name": "Rogue_SkillTree_210_Title"
+  },
+  {
+    "id": 211,
+    "base_desc": "Rogue_SkillTree_211_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_HP.SP_RogueSkill_HP",
+    "talent_name": "Rogue_SkillTree_211_Title"
+  },
+  {
+    "id": 212,
+    "base_desc": "Rogue_SkillTree_201_Desc",
+    "args": [],
+    "talent_icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconRogue/SP_RogueSkill_CD.SP_RogueSkill_CD",
+    "talent_name": "Rogue_SkillTree_201_Title"
   }
 ]

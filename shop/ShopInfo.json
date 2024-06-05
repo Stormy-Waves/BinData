@@ -98,5 +98,15 @@
       2
     ],
     "dialogue_text": ""
+  },
+  {
+    "id": 113,
+    "shop_type": 1,
+    "shop_name": "ShopInfo_104_ShopName",
+    "open_id": 0,
+    "show_currency": [
+      44010025
+    ],
+    "dialogue_text": ""
   }
 ]

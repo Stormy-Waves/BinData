@@ -4,167 +4,251 @@
     "name": "AkiWorld_WP",
     "event": "map_world",
     "enter_event": "map_world_enter",
-    "exit_event": "map_world_exit"
+    "exit_event": "map_world_exit",
+    "reset_event": "map_world_reset",
+    "music_reset_event": "map_world_musicreset_deprecated"
   },
   {
     "id": 40,
     "name": "InstanceTree_longzhujusuo-02",
     "event": "map_main_longzhujusuo02",
     "enter_event": "map_main_longzhujusuo02_enter",
-    "exit_event": "map_main_longzhujusuo02_exit"
+    "exit_event": "map_main_longzhujusuo02_exit",
+    "reset_event": "map_main_longzhujusuo02_reset",
+    "music_reset_event": ""
   },
   {
     "id": 49,
     "name": "InstanceTree_longzhujusuo",
     "event": "map_main_longzhujusuo",
     "enter_event": "map_main_longzhujusuo_enter",
-    "exit_event": "map_main_longzhujusuo_exit"
+    "exit_event": "map_main_longzhujusuo_exit",
+    "reset_event": "map_main_longzhujusuo_reset",
+    "music_reset_event": "map_main_longzhujusuo_musicreset_deprecated"
   },
   {
     "id": 68,
     "name": "InstanceTree_longzhujusuo-W",
     "event": "map_world_longzhujusuo",
     "enter_event": "map_world_longzhujusuo_enter",
-    "exit_event": "map_world_longzhujusuo_exit"
+    "exit_event": "map_world_longzhujusuo_exit",
+    "reset_event": "map_world_longzhujusuo_reset",
+    "music_reset_event": ""
   },
   {
     "id": 90,
     "name": "InstanceTree_NewTower",
     "event": "map_system_tower",
     "enter_event": "map_system_tower_enter",
-    "exit_event": "map_system_tower_exit"
+    "exit_event": "map_system_tower_exit",
+    "reset_event": "map_system_tower_reset",
+    "music_reset_event": ""
   },
   {
     "id": 91,
     "name": "InstanceTree_Jiyan_1",
     "event": "map_role_jiyan",
     "enter_event": "map_role_jiyan_enter",
-    "exit_event": "map_role_jiyan_exit"
+    "exit_event": "map_role_jiyan_exit",
+    "reset_event": "map_role_jiyan_reset",
+    "music_reset_event": "map_role_jiyan_musicreset_deprecated"
   },
   {
     "id": 94,
     "name": "InstanceTree_Lingyang",
     "event": "map_role_lingyang",
     "enter_event": "map_role_lingyang_enter",
-    "exit_event": "map_role_lingyang_exit"
+    "exit_event": "map_role_lingyang_exit",
+    "reset_event": "map_role_lingyang_reset",
+    "music_reset_event": "map_role_lingyang_musicreset_deprecated"
   },
   {
     "id": 95,
     "name": "yinlinMain",
     "event": "map_role_yinlin",
     "enter_event": "map_role_yinlin_enter",
-    "exit_event": "map_role_yinlin_exit"
+    "exit_event": "map_role_yinlin_exit",
+    "reset_event": "map_role_yinlin_reset",
+    "music_reset_event": ""
   },
   {
     "id": 1501,
     "name": "InstanceTree_ShangHen1",
     "event": "map_main_shanghen01",
     "enter_event": "map_main_shanghen01_enter",
-    "exit_event": "map_main_shanghen01_exit"
+    "exit_event": "map_main_shanghen01_exit",
+    "reset_event": "map_main_shanghen01_reset",
+    "music_reset_event": "map_main_shanghen01_musicreset_deprecated"
   },
   {
     "id": 1504,
     "name": "InstanceTree_BeiLuoYe",
     "event": "map_main_beiluoye",
     "enter_event": "map_main_beiluoye_enter",
-    "exit_event": "map_main_beiluoye_exit"
+    "exit_event": "map_main_beiluoye_exit",
+    "reset_event": "map_main_beiluoye_reset",
+    "music_reset_event": ""
   },
   {
     "id": 2002,
     "name": "InstanceTree_2DParkour",
     "event": "map_onetime_2dparkour",
     "enter_event": "map_onetime_2dparkour_enter",
-    "exit_event": "map_onetime_2dparkour_exit"
+    "exit_event": "map_onetime_2dparkour_exit",
+    "reset_event": "map_onetime_2dparkour_reset",
+    "music_reset_event": ""
   },
   {
     "id": 2021,
     "name": "InstanceTree_ShangHen2",
     "event": "map_main_shanghen02",
     "enter_event": "map_main_shanghen02_enter",
-    "exit_event": "map_main_shanghen02_exit"
+    "exit_event": "map_main_shanghen02_exit",
+    "reset_event": "map_main_shanghen02_reset",
+    "music_reset_event": "map_main_shanghen02_musicreset_deprecated"
   },
   {
     "id": 2502,
     "name": "InstanceTree_yanjiusuo",
     "event": "map_world_yanjiusuo",
     "enter_event": "map_world_yanjiusuo_enter",
-    "exit_event": "map_world_yanjiusuo_exit"
+    "exit_event": "map_world_yanjiusuo_exit",
+    "reset_event": "map_world_yanjiusuo_reset",
+    "music_reset_event": ""
   },
   {
     "id": 4021,
     "name": "InstanceTree_Break",
     "event": "map_system_break",
     "enter_event": "map_system_break_enter",
-    "exit_event": "map_system_break_exit"
+    "exit_event": "map_system_break_exit",
+    "reset_event": "map_system_break_reset",
+    "music_reset_event": ""
   },
   {
     "id": 4041,
     "name": "InstanceTree_JZ_Material",
     "event": "map_system_jzmaterial",
     "enter_event": "map_system_jzmaterial_enter",
-    "exit_event": "map_system_jzmaterial_exit"
+    "exit_event": "map_system_jzmaterial_exit",
+    "reset_event": "map_system_jzmaterial_reset",
+    "music_reset_event": ""
   },
   {
     "id": 5001,
     "name": "InstanceTree_RoleTrials",
     "event": "map_system_roletrials",
     "enter_event": "map_system_roletrials_enter",
-    "exit_event": "map_system_roletrials_exit"
+    "exit_event": "map_system_roletrials_exit",
+    "reset_event": "map_system_roletrials_reset",
+    "music_reset_event": ""
   },
   {
     "id": 6001,
     "name": "InstanceTree_RotateRoom",
     "event": "map_onetime_rotateroom",
     "enter_event": "map_onetime_rotateroom_enter",
-    "exit_event": "map_onetime_rotateroom_exit"
+    "exit_event": "map_onetime_rotateroom_exit",
+    "reset_event": "map_onetime_rotateroom_reset",
+    "music_reset_event": ""
   },
   {
     "id": 8002,
     "name": "InstanceTree_Rogue_A",
     "event": "map_system_roguea",
     "enter_event": "map_system_roguea_enter",
-    "exit_event": "map_system_roguea_exit"
+    "exit_event": "map_system_roguea_exit",
+    "reset_event": "map_system_roguea_reset",
+    "music_reset_event": "map_system_roguea_musicreset_deprecated"
   },
   {
     "id": 201000,
     "name": "InstanceTree_Skill",
     "event": "map_system_skill",
     "enter_event": "map_system_skill_enter",
-    "exit_event": "map_system_skill_exit"
+    "exit_event": "map_system_skill_exit",
+    "reset_event": "map_system_skill_reset",
+    "music_reset_event": ""
   },
   {
     "id": 301000,
     "name": "InstanceTree_Weapon",
     "event": "map_system_weapon",
     "enter_event": "map_system_weapon_enter",
-    "exit_event": "map_system_weapon_exit"
+    "exit_event": "map_system_weapon_exit",
+    "reset_event": "map_system_weapon_reset",
+    "music_reset_event": ""
   },
   {
     "id": 1505,
     "name": "InstanceTree_YanjiusuoBattle",
     "event": "map_main_yanjiusuo",
     "enter_event": "map_main_yanjiusuo_enter",
-    "exit_event": "map_main_yanjiusuo_exit"
+    "exit_event": "map_main_yanjiusuo_exit",
+    "reset_event": "map_main_yanjiusuo_reset",
+    "music_reset_event": ""
   },
   {
     "id": 8101,
     "name": "InstanceTree_Activity_Role_trials",
     "event": "map_system_roletrials",
     "enter_event": "map_system_roletrials_enter",
-    "exit_event": "map_system_roletrials_exit"
+    "exit_event": "map_system_roletrials_exit",
+    "reset_event": "map_system_roletrials_reset",
+    "music_reset_event": ""
+  },
+  {
+    "id": 1001,
+    "name": "InstanceTree_changli",
+    "event": "map_role_changli",
+    "enter_event": "map_role_changli_enter",
+    "exit_event": "map_role_changli_exit",
+    "reset_event": "map_role_changli_reset",
+    "music_reset_event": ""
+  },
+  {
+    "id": 2041,
+    "name": "InstanceTree_SuiGuang",
+    "event": "map_boss_suiguang",
+    "enter_event": "map_boss_suiguang_enter",
+    "exit_event": "map_boss_suiguang_exit",
+    "reset_event": "map_boss_suiguang_reset",
+    "music_reset_event": ""
   },
   {
     "id": 8000,
     "name": "InstanceTree_Huodong001",
     "event": "map_huodong_huodong001",
     "enter_event": "map_huodong_huodong001_enter",
-    "exit_event": "map_huodong_huodong001_exit"
+    "exit_event": "map_huodong_huodong001_exit",
+    "reset_event": "map_huodong_huodong001_reset",
+    "music_reset_event": ""
   },
   {
     "id": 8150,
     "name": "InstanceTree_Huodong002",
     "event": "map_huodong_huodong002",
     "enter_event": "map_huodong_huodong002_enter",
-    "exit_event": "map_huodong_huodong002_exit"
+    "exit_event": "map_huodong_huodong002_exit",
+    "reset_event": "map_huodong_huodong002_reset",
+    "music_reset_event": ""
+  },
+  {
+    "id": 8160,
+    "name": "InstanceTree_Huodong003",
+    "event": "map_huodong_huodong003",
+    "enter_event": "map_huodong_huodong003_enter",
+    "exit_event": "map_huodong_huodong003_exit",
+    "reset_event": "map_huodong_huodong003_reset",
+    "music_reset_event": ""
+  },
+  {
+    "id": 2031,
+    "name": "InstanceTree_BeiLuoYe_fushua",
+    "event": "map_main_beiluoyefushua",
+    "enter_event": "map_main_beiluoyefushua_enter",
+    "exit_event": "map_main_beiluoyefushua_exit",
+    "reset_event": "map_main_beiluoyefushua_reset",
+    "music_reset_event": ""
   }
 ]

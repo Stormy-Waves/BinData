@@ -64,5 +64,11 @@
     "icon": "/Game/Aki/UI/UIResources/UILoading/Atlas/SP_LoadingIcon4.SP_LoadingIcon4",
     "image": "/Game/Aki/UI/UIResources/Common/Image/BgCg/T_Bgloadin12_UI.T_Bgloadin12_UI",
     "umg_icon": "/Game/Aki/UI/Module/Loading/Image/SP_LoadingIcon4.SP_LoadingIcon4"
+  },
+  {
+    "id": 204101,
+    "icon": "/Game/Aki/UI/UIResources/UILoading/Atlas/SP_LoadingIcon4.SP_LoadingIcon4",
+    "image": "/Game/Aki/UI/UIResources/Common/Image/BgCg/T_Bgloadin14_UI.T_Bgloadin14_UI",
+    "umg_icon": "/Game/Aki/UI/Module/Loading/Image/SP_LoadingIcon4.SP_LoadingIcon4"
   }
 ]
