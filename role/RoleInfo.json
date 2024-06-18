@@ -9,7 +9,6 @@
     "introduction": "FavorRoleInfo_1402_Info",
     "tag": [
       3,
-      5,
       8,
       11
     ],
@@ -99,8 +98,7 @@
     "nick_name": "RoleInfo_1202_NickName",
     "introduction": "FavorRoleInfo_1202_Info",
     "tag": [
-      2,
-      4
+      2
     ],
     "parent_id": 0,
     "priority": 3,
@@ -189,6 +187,7 @@
     "introduction": "FavorRoleInfo_1503_Info",
     "tag": [
       1,
+      9,
       13
     ],
     "parent_id": 0,
@@ -635,6 +634,7 @@
     "introduction": "FavorRoleInfo_1103_Info",
     "tag": [
       1,
+      9,
       13
     ],
     "parent_id": 0,
@@ -813,7 +813,6 @@
     "introduction": "FavorRoleInfo_1602_Info",
     "tag": [
       3,
-      6,
       14
     ],
     "parent_id": 0,
@@ -1173,7 +1172,7 @@
     "introduction": "FavorRoleInfo_1301_Info",
     "tag": [
       2,
-      5
+      7
     ],
     "parent_id": 0,
     "priority": 16,
@@ -1443,7 +1442,7 @@
     "introduction": "FavorRoleInfo_1303_Info",
     "tag": [
       3,
-      6,
+      9,
       30,
       12
     ],
@@ -1533,8 +1532,7 @@
     "nick_name": "RoleInfo_1604_NickName",
     "introduction": "FavorRoleInfo_1502_Info",
     "tag": [
-      2,
-      4
+      2
     ],
     "parent_id": 0,
     "priority": 2,
@@ -1622,8 +1620,7 @@
     "nick_name": "RoleInfo_1605_NickName",
     "introduction": "FavorRoleInfo_1501_Info",
     "tag": [
-      2,
-      4
+      2
     ],
     "parent_id": 0,
     "priority": 2,
