@@ -2253,7 +2253,7 @@
     "long_press_time": 0,
     "release_failure_time": 0,
     "bind_button_tag": "tag2",
-    "applicable_type": 0
+    "applicable_type": 1
   },
   {
     "id": 9103,
@@ -3852,18 +3852,6 @@
     "applicable_type": 5
   },
   {
-    "id": 1409,
-    "action_name": "UI键盘T手柄Y",
-    "axis_name": "",
-    "axis_direction": 0,
-    "text_id": "",
-    "type": "ClickButton",
-    "long_press_time": 0,
-    "release_failure_time": 0,
-    "bind_button_tag": "tag4d",
-    "applicable_type": 2
-  },
-  {
     "id": 3020,
     "action_name": "UI方向左",
     "axis_name": "",
@@ -3912,6 +3900,18 @@
     "applicable_type": 2
   },
   {
+    "id": 1409,
+    "action_name": "UI键盘T手柄Y",
+    "axis_name": "",
+    "axis_direction": 0,
+    "text_id": "",
+    "type": "ClickButton",
+    "long_press_time": 0,
+    "release_failure_time": 0,
+    "bind_button_tag": "tag4d",
+    "applicable_type": 2
+  },
+  {
     "id": 1253,
     "action_name": "UI键盘F手柄A",
     "axis_name": "",
@@ -3921,6 +3921,30 @@
     "long_press_time": 0,
     "release_failure_time": 0,
     "bind_button_tag": "tag2",
+    "applicable_type": 2
+  },
+  {
+    "id": 1012,
+    "action_name": "UI返回",
+    "axis_name": "",
+    "axis_direction": 0,
+    "text_id": "",
+    "type": "ClickButton",
+    "long_press_time": 0,
+    "release_failure_time": 0,
+    "bind_button_tag": "tag1a",
+    "applicable_type": 1
+  },
+  {
+    "id": 1252,
+    "action_name": "UI键盘F手柄A",
+    "axis_name": "",
+    "axis_direction": 0,
+    "text_id": "",
+    "type": "LongPress",
+    "long_press_time": 0,
+    "release_failure_time": 0,
+    "bind_button_tag": "tag2a",
     "applicable_type": 2
   }
 ]

@@ -1541,14 +1541,15 @@
     "tutorial_type": 4,
     "tutorial_order": 0,
     "page_id": [
-      34040
+      34040,
+      3404002
     ],
     "page_replace_condition_group_id": 0,
     "replace_page_id": [],
     "group_name": "GuideTutorial_34040_GroupName",
     "tutorial_tip": false,
     "drop_id": 100001,
-    "require_read_all": false
+    "require_read_all": true
   },
   {
     "id": 34041,

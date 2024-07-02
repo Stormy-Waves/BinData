@@ -1396,8 +1396,8 @@
       "max": 2000.0
     },
     "disengage_height_range_max": {
-      "min": -3000.0,
-      "max": 3000.0
+      "min": -5000.0,
+      "max": 5000.0
     },
     "disengage_born_distance": {
       "min": 3500.0,
@@ -2292,8 +2292,8 @@
       "max": 2000.0
     },
     "disengage_height_range_max": {
-      "min": -3000.0,
-      "max": 3000.0
+      "min": -5000.0,
+      "max": 5000.0
     },
     "disengage_born_distance": {
       "min": 4000.0,
@@ -2580,8 +2580,8 @@
       "max": 2000.0
     },
     "disengage_height_range_max": {
-      "min": -3000.0,
-      "max": 3000.0
+      "min": -5000.0,
+      "max": 5000.0
     },
     "disengage_born_distance": {
       "min": 4000.0,

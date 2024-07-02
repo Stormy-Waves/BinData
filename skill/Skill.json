@@ -523,7 +523,8 @@
       1503031101,
       1503031014,
       1503031004,
-      1503031013
+      1503031013,
+      1503031006
     ],
     "icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJueyuan/SP_IconJueyuanC1.SP_IconJueyuanC1",
     "effect_skill_path": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconJueyuanA1_UI.T_IconJueyuanA1_UI",
@@ -5215,19 +5216,25 @@
     "skill_resume": "Skill_1002007_SkillDescribe",
     "skill_tag_list": [],
     "skill_detail_num": [
-      "40",
+      "50",
       "25",
-      "40",
+      "50",
       "1",
+      "3",
+      "1",
+      "2",
       "3",
       "1"
     ],
     "multi_skill_describe": "Skill_1002007_SkillDescribe",
     "multi_skill_detail_num": [
-      "40",
+      "50",
       "25",
-      "40",
+      "50",
       "1",
+      "3",
+      "1",
+      "2",
       "3",
       "1"
     ]
@@ -5274,10 +5281,12 @@
     ],
     "skill_detail_num": [
       "1",
+      "1",
       "20"
     ],
     "multi_skill_describe": "Skill_1002009_SkillDescribe",
     "multi_skill_detail_num": [
+      "1",
       "1",
       "20"
     ]
@@ -5484,7 +5493,9 @@
     "skill_describe": "Skill_1002107_SkillDescribe",
     "skill_resume": "Skill_1002107_SkillDescribe",
     "skill_tag_list": [],
-    "skill_detail_num": [],
+    "skill_detail_num": [
+      "40%"
+    ],
     "multi_skill_describe": "Skill_1002107_SkillDescribe",
     "multi_skill_detail_num": []
   },

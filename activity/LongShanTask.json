@@ -1,94 +1,9 @@
 [
   {
-    "task_id": 102,
+    "task_id": 101,
     "stage_id": 1,
-    "task_name": "LongShanTask_102_TaskName",
-    "sort_id": 4,
-    "task_reward": [
-      {
-        "key": 3,
-        "value": 20
-      },
-      {
-        "key": 36000003,
-        "value": 3
-      }
-    ],
-    "jump_id": 810002
-  },
-  {
-    "task_id": 203,
-    "stage_id": 2,
-    "task_name": "LongShanTask_203_TaskName",
-    "sort_id": 16,
-    "task_reward": [
-      {
-        "key": 3,
-        "value": 20
-      },
-      {
-        "key": 36000003,
-        "value": 3
-      }
-    ],
-    "jump_id": 810006
-  },
-  {
-    "task_id": 204,
-    "stage_id": 2,
-    "task_name": "LongShanTask_204_TaskName",
-    "sort_id": 18,
-    "task_reward": [
-      {
-        "key": 3,
-        "value": 20
-      },
-      {
-        "key": 43020003,
-        "value": 3
-      }
-    ],
-    "jump_id": 810007
-  },
-  {
-    "task_id": 303,
-    "stage_id": 3,
-    "task_name": "LongShanTask_402_TaskName",
-    "sort_id": 26,
-    "task_reward": [
-      {
-        "key": 3,
-        "value": 20
-      },
-      {
-        "key": 43010003,
-        "value": 3
-      }
-    ],
-    "jump_id": 810014
-  },
-  {
-    "task_id": 304,
-    "stage_id": 3,
-    "task_name": "LongShanTask_304_TaskName",
-    "sort_id": 28,
-    "task_reward": [
-      {
-        "key": 3,
-        "value": 20
-      },
-      {
-        "key": 36000003,
-        "value": 3
-      }
-    ],
-    "jump_id": 810011
-  },
-  {
-    "task_id": 401,
-    "stage_id": 4,
-    "task_name": "LongShanTask_401_TaskName",
-    "sort_id": 32,
+    "task_name": "LongShanTask_101_TaskName",
+    "sort_id": 101,
     "task_reward": [
       {
         "key": 3,
@@ -97,23 +12,220 @@
       {
         "key": 43010004,
         "value": 4
+      },
+      {
+        "key": 2,
+        "value": 20000
+      }
+    ],
+    "jump_id": 810001
+  },
+  {
+    "task_id": 102,
+    "stage_id": 1,
+    "task_name": "LongShanTask_102_TaskName",
+    "sort_id": 102,
+    "task_reward": [
+      {
+        "key": 3,
+        "value": 30
+      },
+      {
+        "key": 36000003,
+        "value": 3
+      },
+      {
+        "key": 42310210,
+        "value": 15
+      }
+    ],
+    "jump_id": 810002
+  },
+  {
+    "task_id": 201,
+    "stage_id": 2,
+    "task_name": "LongShanTask_201_TaskName",
+    "sort_id": 201,
+    "task_reward": [
+      {
+        "key": 3,
+        "value": 40
+      },
+      {
+        "key": 36000004,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 20000
+      }
+    ],
+    "jump_id": 810005
+  },
+  {
+    "task_id": 203,
+    "stage_id": 2,
+    "task_name": "LongShanTask_203_TaskName",
+    "sort_id": 202,
+    "task_reward": [
+      {
+        "key": 3,
+        "value": 30
+      },
+      {
+        "key": 43010003,
+        "value": 3
+      },
+      {
+        "key": 42310210,
+        "value": 15
+      }
+    ],
+    "jump_id": 810006
+  },
+  {
+    "task_id": 204,
+    "stage_id": 2,
+    "task_name": "LongShanTask_204_TaskName",
+    "sort_id": 203,
+    "task_reward": [
+      {
+        "key": 3,
+        "value": 30
+      },
+      {
+        "key": 43020003,
+        "value": 3
+      },
+      {
+        "key": 43010002,
+        "value": 6
+      }
+    ],
+    "jump_id": 810007
+  },
+  {
+    "task_id": 301,
+    "stage_id": 3,
+    "task_name": "LongShanTask_301_TaskName",
+    "sort_id": 301,
+    "task_reward": [
+      {
+        "key": 3,
+        "value": 40
+      },
+      {
+        "key": 43010004,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 20000
+      }
+    ],
+    "jump_id": 810009
+  },
+  {
+    "task_id": 303,
+    "stage_id": 3,
+    "task_name": "LongShanTask_402_TaskName",
+    "sort_id": 302,
+    "task_reward": [
+      {
+        "key": 3,
+        "value": 40
+      },
+      {
+        "key": 43020003,
+        "value": 3
+      },
+      {
+        "key": 42310200,
+        "value": 15
+      }
+    ],
+    "jump_id": 810014
+  },
+  {
+    "task_id": 304,
+    "stage_id": 3,
+    "task_name": "LongShanTask_304_TaskName",
+    "sort_id": 303,
+    "task_reward": [
+      {
+        "key": 3,
+        "value": 40
+      },
+      {
+        "key": 36000003,
+        "value": 3
+      },
+      {
+        "key": 43020002,
+        "value": 6
+      }
+    ],
+    "jump_id": 810011
+  },
+  {
+    "task_id": 401,
+    "stage_id": 4,
+    "task_name": "LongShanTask_401_TaskName",
+    "sort_id": 401,
+    "task_reward": [
+      {
+        "key": 3,
+        "value": 40
+      },
+      {
+        "key": 36000004,
+        "value": 4
+      },
+      {
+        "key": 2,
+        "value": 20000
       }
     ],
     "jump_id": 810013
   },
   {
+    "task_id": 402,
+    "stage_id": 4,
+    "task_name": "LongShanTask_205_TaskName",
+    "sort_id": 402,
+    "task_reward": [
+      {
+        "key": 3,
+        "value": 40
+      },
+      {
+        "key": 43010003,
+        "value": 3
+      },
+      {
+        "key": 42310200,
+        "value": 15
+      }
+    ],
+    "jump_id": 810008
+  },
+  {
     "task_id": 405,
     "stage_id": 4,
     "task_name": "LongShanTask_405_TaskName",
-    "sort_id": 40,
+    "sort_id": 404,
     "task_reward": [
       {
-        "key": 43020003,
+        "key": 36000003,
+        "value": 2
+      },
+      {
+        "key": 43020002,
         "value": 2
       },
       {
         "key": 2,
-        "value": 30000
+        "value": 10000
       }
     ],
     "jump_id": 810017
@@ -122,15 +234,19 @@
     "task_id": 104,
     "stage_id": 1,
     "task_name": "LongShanTask_206_TaskName",
-    "sort_id": 8,
+    "sort_id": 103,
     "task_reward": [
       {
         "key": 3,
-        "value": 20
+        "value": 30
       },
       {
         "key": 43010003,
         "value": 3
+      },
+      {
+        "key": 43020002,
+        "value": 6
       }
     ],
     "jump_id": 810018
@@ -139,15 +255,19 @@
     "task_id": 305,
     "stage_id": 3,
     "task_name": "LongShanTask_305_TaskName",
-    "sort_id": 30,
+    "sort_id": 304,
     "task_reward": [
       {
         "key": 43010003,
         "value": 2
       },
       {
+        "key": 36000002,
+        "value": 2
+      },
+      {
         "key": 2,
-        "value": 30000
+        "value": 10000
       }
     ],
     "jump_id": 810012
@@ -156,15 +276,19 @@
     "task_id": 105,
     "stage_id": 1,
     "task_name": "LongShanTask_105_TaskName",
-    "sort_id": 10,
+    "sort_id": 104,
     "task_reward": [
       {
         "key": 3,
-        "value": 20
+        "value": 30
+      },
+      {
+        "key": 43020003,
+        "value": 3
       },
       {
         "key": 2,
-        "value": 30000
+        "value": 10000
       }
     ],
     "jump_id": 810004
@@ -173,15 +297,19 @@
     "task_id": 205,
     "stage_id": 2,
     "task_name": "LongShanTask_104_TaskName",
-    "sort_id": 14,
+    "sort_id": 204,
     "task_reward": [
       {
         "key": 3,
-        "value": 20
+        "value": 30
+      },
+      {
+        "key": 36000003,
+        "value": 3
       },
       {
         "key": 2,
-        "value": 30000
+        "value": 10000
       }
     ],
     "jump_id": 810003
@@ -190,15 +318,19 @@
     "task_id": 404,
     "stage_id": 4,
     "task_name": "LongShanTask_404_TaskName",
-    "sort_id": 38,
+    "sort_id": 403,
     "task_reward": [
       {
         "key": 3,
-        "value": 20
+        "value": 40
       },
       {
-        "key": 43010003,
-        "value": 3
+        "key": 43020004,
+        "value": 2
+      },
+      {
+        "key": 36000002,
+        "value": 6
       }
     ],
     "jump_id": 810016

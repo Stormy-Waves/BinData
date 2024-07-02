@@ -24081,32 +24081,6 @@
     ]
   },
   {
-    "id": 1008009,
-    "group_id": 1008009,
-    "world_level": 1,
-    "only_trial": true,
-    "hide_trial_label": false,
-    "parent_id": 1304,
-    "level": 90,
-    "resonance_level": 0,
-    "unlock_skill_level": 10,
-    "unlock_skill_node_list": [
-      8,
-      4,
-      5,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16
-    ],
-    "trail_weapon": 21501190,
-    "phantom_equip_list": []
-  },
-  {
     "id": 12050100,
     "group_id": 12050100,
     "world_level": 1,
@@ -24413,123 +24387,192 @@
     ]
   },
   {
-    "id": 5200045,
-    "group_id": 5200045,
-    "world_level": 1,
-    "only_trial": false,
-    "hide_trial_label": false,
-    "parent_id": 1102,
-    "level": 70,
-    "resonance_level": 0,
-    "unlock_skill_level": 5,
-    "unlock_skill_node_list": [
-      8,
-      4
-    ],
-    "trail_weapon": 21020370,
-    "phantom_equip_list": []
-  },
-  {
-    "id": 5200046,
-    "group_id": 5200046,
-    "world_level": 1,
-    "only_trial": false,
-    "hide_trial_label": false,
-    "parent_id": 1405,
-    "level": 70,
-    "resonance_level": 0,
-    "unlock_skill_level": 5,
-    "unlock_skill_node_list": [
-      8,
-      4
-    ],
-    "trail_weapon": 21040370,
-    "phantom_equip_list": []
-  },
-  {
-    "id": 5200047,
-    "group_id": 5200047,
-    "world_level": 1,
-    "only_trial": false,
-    "hide_trial_label": false,
-    "parent_id": 1405,
-    "level": 80,
-    "resonance_level": 0,
-    "unlock_skill_level": 7,
-    "unlock_skill_node_list": [
-      8,
-      4
-    ],
-    "trail_weapon": 21040380,
-    "phantom_equip_list": []
-  },
-  {
-    "id": 5200048,
-    "group_id": 5200048,
+    "id": 531011,
+    "group_id": 531011,
     "world_level": 1,
     "only_trial": true,
     "hide_trial_label": false,
-    "parent_id": 1304,
+    "parent_id": 1404,
     "level": 80,
     "resonance_level": 0,
     "unlock_skill_level": 7,
     "unlock_skill_node_list": [
       8,
-      4
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
     ],
-    "trail_weapon": 21010380,
-    "phantom_equip_list": []
+    "trail_weapon": 21010590,
+    "phantom_equip_list": [
+      {
+        "item1": 60000435,
+        "item2": 10045320
+      },
+      {
+        "item1": 60000135,
+        "item2": 10045220
+      },
+      {
+        "item1": 60000405,
+        "item2": 10045220
+      },
+      {
+        "item1": 60000085,
+        "item2": 10045120
+      },
+      {
+        "item1": 60000235,
+        "item2": 10045120
+      }
+    ]
   },
   {
-    "id": 5200049,
-    "group_id": 5200049,
+    "id": 531012,
+    "group_id": 531012,
     "world_level": 1,
-    "only_trial": false,
+    "only_trial": true,
     "hide_trial_label": false,
-    "parent_id": 1205,
-    "level": 70,
-    "resonance_level": 0,
-    "unlock_skill_level": 5,
-    "unlock_skill_node_list": [
-      8,
-      4
-    ],
-    "trail_weapon": 21020370,
-    "phantom_equip_list": []
-  },
-  {
-    "id": 5200050,
-    "group_id": 5200050,
-    "world_level": 1,
-    "only_trial": false,
-    "hide_trial_label": false,
-    "parent_id": 1205,
+    "parent_id": 1301,
     "level": 80,
     "resonance_level": 0,
     "unlock_skill_level": 7,
     "unlock_skill_node_list": [
       8,
-      4
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
     ],
-    "trail_weapon": 21020380,
-    "phantom_equip_list": []
+    "trail_weapon": 21010590,
+    "phantom_equip_list": [
+      {
+        "item1": 60000225,
+        "item2": 10035320
+      },
+      {
+        "item1": 60000195,
+        "item2": 10035220
+      },
+      {
+        "item1": 60000125,
+        "item2": 10035220
+      },
+      {
+        "item1": 60000035,
+        "item2": 10035120
+      },
+      {
+        "item1": 60000235,
+        "item2": 10035120
+      }
+    ]
   },
   {
-    "id": 5200051,
-    "group_id": 5200051,
+    "id": 531013,
+    "group_id": 531013,
     "world_level": 1,
-    "only_trial": false,
+    "only_trial": true,
     "hide_trial_label": false,
-    "parent_id": 1205,
-    "level": 60,
+    "parent_id": 1405,
+    "level": 80,
     "resonance_level": 0,
-    "unlock_skill_level": 3,
+    "unlock_skill_level": 7,
     "unlock_skill_node_list": [
       8,
-      4
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
     ],
-    "trail_weapon": 21020360,
-    "phantom_equip_list": []
+    "trail_weapon": 21040490,
+    "phantom_equip_list": [
+      {
+        "item1": 60000375,
+        "item2": 10075320
+      },
+      {
+        "item1": 60000245,
+        "item2": 10075220
+      },
+      {
+        "item1": 60000185,
+        "item2": 10075220
+      },
+      {
+        "item1": 60000255,
+        "item2": 10075120
+      },
+      {
+        "item1": 60000085,
+        "item2": 10075120
+      }
+    ]
+  },
+  {
+    "id": 531014,
+    "group_id": 531014,
+    "world_level": 1,
+    "only_trial": true,
+    "hide_trial_label": false,
+    "parent_id": 1503,
+    "level": 80,
+    "resonance_level": 0,
+    "unlock_skill_level": 7,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21050490,
+    "phantom_equip_list": [
+      {
+        "item1": 60000375,
+        "item2": 10075320
+      },
+      {
+        "item1": 60000245,
+        "item2": 10075220
+      },
+      {
+        "item1": 60000185,
+        "item2": 10075220
+      },
+      {
+        "item1": 60000255,
+        "item2": 10075120
+      },
+      {
+        "item1": 60000085,
+        "item2": 10075120
+      }
+    ]
   },
   {
     "id": 531001,
@@ -25002,104 +25045,44 @@
     ]
   },
   {
-    "id": 531011,
-    "group_id": 531011,
+    "id": 5200045,
+    "group_id": 5200045,
     "world_level": 1,
-    "only_trial": true,
+    "only_trial": false,
     "hide_trial_label": false,
-    "parent_id": 1404,
-    "level": 80,
+    "parent_id": 1102,
+    "level": 70,
     "resonance_level": 0,
-    "unlock_skill_level": 7,
+    "unlock_skill_level": 5,
     "unlock_skill_node_list": [
       8,
-      4,
-      5,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16
+      4
     ],
-    "trail_weapon": 21010590,
-    "phantom_equip_list": [
-      {
-        "item1": 60000435,
-        "item2": 10045320
-      },
-      {
-        "item1": 60000135,
-        "item2": 10045220
-      },
-      {
-        "item1": 60000405,
-        "item2": 10045220
-      },
-      {
-        "item1": 60000085,
-        "item2": 10045120
-      },
-      {
-        "item1": 60000235,
-        "item2": 10045120
-      }
-    ]
+    "trail_weapon": 21020370,
+    "phantom_equip_list": []
   },
   {
-    "id": 531012,
-    "group_id": 531012,
+    "id": 5200046,
+    "group_id": 5200046,
     "world_level": 1,
-    "only_trial": true,
+    "only_trial": false,
     "hide_trial_label": false,
-    "parent_id": 1301,
-    "level": 80,
+    "parent_id": 1405,
+    "level": 70,
     "resonance_level": 0,
-    "unlock_skill_level": 7,
+    "unlock_skill_level": 5,
     "unlock_skill_node_list": [
       8,
-      4,
-      5,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16
+      4
     ],
-    "trail_weapon": 21010590,
-    "phantom_equip_list": [
-      {
-        "item1": 60000225,
-        "item2": 10035320
-      },
-      {
-        "item1": 60000195,
-        "item2": 10035220
-      },
-      {
-        "item1": 60000125,
-        "item2": 10035220
-      },
-      {
-        "item1": 60000035,
-        "item2": 10035120
-      },
-      {
-        "item1": 60000235,
-        "item2": 10035120
-      }
-    ]
+    "trail_weapon": 21040370,
+    "phantom_equip_list": []
   },
   {
-    "id": 531013,
-    "group_id": 531013,
+    "id": 5200047,
+    "group_id": 5200047,
     "world_level": 1,
-    "only_trial": true,
+    "only_trial": false,
     "hide_trial_label": false,
     "parent_id": 1405,
     "level": 80,
@@ -25107,6 +25090,74 @@
     "unlock_skill_level": 7,
     "unlock_skill_node_list": [
       8,
+      4
+    ],
+    "trail_weapon": 21040380,
+    "phantom_equip_list": []
+  },
+  {
+    "id": 5200048,
+    "group_id": 5200048,
+    "world_level": 1,
+    "only_trial": true,
+    "hide_trial_label": false,
+    "parent_id": 1304,
+    "level": 80,
+    "resonance_level": 0,
+    "unlock_skill_level": 7,
+    "unlock_skill_node_list": [
+      8,
+      4
+    ],
+    "trail_weapon": 21010380,
+    "phantom_equip_list": []
+  },
+  {
+    "id": 5200049,
+    "group_id": 5200049,
+    "world_level": 1,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1205,
+    "level": 70,
+    "resonance_level": 0,
+    "unlock_skill_level": 5,
+    "unlock_skill_node_list": [
+      8,
+      4
+    ],
+    "trail_weapon": 21020370,
+    "phantom_equip_list": []
+  },
+  {
+    "id": 5200050,
+    "group_id": 5200050,
+    "world_level": 1,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1205,
+    "level": 80,
+    "resonance_level": 0,
+    "unlock_skill_level": 7,
+    "unlock_skill_node_list": [
+      8,
+      4
+    ],
+    "trail_weapon": 21020380,
+    "phantom_equip_list": []
+  },
+  {
+    "id": 1008009,
+    "group_id": 1008009,
+    "world_level": 1,
+    "only_trial": true,
+    "hide_trial_label": false,
+    "parent_id": 1304,
+    "level": 90,
+    "resonance_level": 0,
+    "unlock_skill_level": 10,
+    "unlock_skill_node_list": [
+      8,
       4,
       5,
       9,
@@ -25118,37 +25169,222 @@
       15,
       16
     ],
-    "trail_weapon": 21040490,
+    "trail_weapon": 21501190,
+    "phantom_equip_list": []
+  },
+  {
+    "id": 5200051,
+    "group_id": 5200051,
+    "world_level": 1,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1205,
+    "level": 60,
+    "resonance_level": 0,
+    "unlock_skill_level": 3,
+    "unlock_skill_node_list": [
+      8,
+      4
+    ],
+    "trail_weapon": 21020360,
+    "phantom_equip_list": []
+  },
+  {
+    "id": 12052005,
+    "group_id": 12050005,
+    "world_level": 1,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1205,
+    "level": 20,
+    "resonance_level": 0,
+    "unlock_skill_level": 1,
+    "unlock_skill_node_list": [
+      8
+    ],
+    "trail_weapon": 21501220,
     "phantom_equip_list": [
       {
-        "item1": 60000375,
-        "item2": 10075320
-      },
-      {
-        "item1": 60000245,
-        "item2": 10075220
-      },
-      {
-        "item1": 60000185,
-        "item2": 10075220
-      },
-      {
-        "item1": 60000255,
-        "item2": 10075120
-      },
-      {
-        "item1": 60000085,
-        "item2": 10075120
+        "item1": 60000322,
+        "item2": 10022301
       }
     ]
   },
   {
-    "id": 531014,
-    "group_id": 531014,
-    "world_level": 1,
-    "only_trial": true,
+    "id": 12054005,
+    "group_id": 12050005,
+    "world_level": 2,
+    "only_trial": false,
     "hide_trial_label": false,
-    "parent_id": 1503,
+    "parent_id": 1205,
+    "level": 40,
+    "resonance_level": 0,
+    "unlock_skill_level": 2,
+    "unlock_skill_node_list": [
+      8,
+      4
+    ],
+    "trail_weapon": 21501240,
+    "phantom_equip_list": [
+      {
+        "item1": 60000322,
+        "item2": 10022309
+      },
+      {
+        "item1": 60000292,
+        "item2": 10022209
+      },
+      {
+        "item1": 60000352,
+        "item2": 10022209
+      },
+      {
+        "item1": 60000062,
+        "item2": 10022109
+      },
+      {
+        "item1": 60000362,
+        "item2": 10022109
+      }
+    ]
+  },
+  {
+    "id": 12055005,
+    "group_id": 12050005,
+    "world_level": 3,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1205,
+    "level": 50,
+    "resonance_level": 0,
+    "unlock_skill_level": 3,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      9,
+      10
+    ],
+    "trail_weapon": 21501250,
+    "phantom_equip_list": [
+      {
+        "item1": 60000324,
+        "item2": 10024313
+      },
+      {
+        "item1": 60000294,
+        "item2": 10024213
+      },
+      {
+        "item1": 60000354,
+        "item2": 10024213
+      },
+      {
+        "item1": 60000064,
+        "item2": 10024113
+      },
+      {
+        "item1": 60000364,
+        "item2": 10024113
+      }
+    ]
+  },
+  {
+    "id": 12056005,
+    "group_id": 12050005,
+    "world_level": 4,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1205,
+    "level": 60,
+    "resonance_level": 0,
+    "unlock_skill_level": 3,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "trail_weapon": 21501260,
+    "phantom_equip_list": [
+      {
+        "item1": 60000324,
+        "item2": 10024315
+      },
+      {
+        "item1": 60000294,
+        "item2": 10024215
+      },
+      {
+        "item1": 60000354,
+        "item2": 10024215
+      },
+      {
+        "item1": 60000064,
+        "item2": 10024115
+      },
+      {
+        "item1": 60000364,
+        "item2": 10024115
+      }
+    ]
+  },
+  {
+    "id": 12057005,
+    "group_id": 12050005,
+    "world_level": 5,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1205,
+    "level": 70,
+    "resonance_level": 0,
+    "unlock_skill_level": 5,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21501270,
+    "phantom_equip_list": [
+      {
+        "item1": 60000325,
+        "item2": 10025318
+      },
+      {
+        "item1": 60000295,
+        "item2": 10025218
+      },
+      {
+        "item1": 60000355,
+        "item2": 10025218
+      },
+      {
+        "item1": 60000065,
+        "item2": 10025118
+      },
+      {
+        "item1": 60000365,
+        "item2": 10025118
+      }
+    ]
+  },
+  {
+    "id": 12058005,
+    "group_id": 12050005,
+    "world_level": 6,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1205,
     "level": 80,
     "resonance_level": 0,
     "unlock_skill_level": 7,
@@ -25165,27 +25401,923 @@
       15,
       16
     ],
-    "trail_weapon": 21050490,
+    "trail_weapon": 21501290,
     "phantom_equip_list": [
       {
-        "item1": 60000375,
-        "item2": 10075320
+        "item1": 60000325,
+        "item2": 10025320
+      },
+      {
+        "item1": 60000295,
+        "item2": 10025220
+      },
+      {
+        "item1": 60000355,
+        "item2": 10025220
+      },
+      {
+        "item1": 60000065,
+        "item2": 10025120
+      },
+      {
+        "item1": 60000365,
+        "item2": 10025120
+      }
+    ]
+  },
+  {
+    "id": 12059005,
+    "group_id": 12050005,
+    "world_level": 7,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1205,
+    "level": 90,
+    "resonance_level": 0,
+    "unlock_skill_level": 10,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21501290,
+    "phantom_equip_list": [
+      {
+        "item1": 60000325,
+        "item2": 10025325
+      },
+      {
+        "item1": 60000295,
+        "item2": 10025225
+      },
+      {
+        "item1": 60000355,
+        "item2": 10025225
+      },
+      {
+        "item1": 60000065,
+        "item2": 10025125
+      },
+      {
+        "item1": 60000365,
+        "item2": 10025125
+      }
+    ]
+  },
+  {
+    "id": 15012005,
+    "group_id": 15010005,
+    "world_level": 1,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1501,
+    "level": 20,
+    "resonance_level": 0,
+    "unlock_skill_level": 1,
+    "unlock_skill_node_list": [
+      8
+    ],
+    "trail_weapon": 21020320,
+    "phantom_equip_list": [
+      {
+        "item1": 60000452,
+        "item2": 10052201
+      }
+    ]
+  },
+  {
+    "id": 15014005,
+    "group_id": 15010005,
+    "world_level": 2,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1501,
+    "level": 40,
+    "resonance_level": 0,
+    "unlock_skill_level": 2,
+    "unlock_skill_node_list": [
+      8,
+      4
+    ],
+    "trail_weapon": 21020440,
+    "phantom_equip_list": [
+      {
+        "item1": 60000452,
+        "item2": 10052309
+      },
+      {
+        "item1": 60000242,
+        "item2": 10052209
+      },
+      {
+        "item1": 60000132,
+        "item2": 10052209
+      },
+      {
+        "item1": 60000072,
+        "item2": 10052109
+      },
+      {
+        "item1": 60000162,
+        "item2": 10052109
+      }
+    ]
+  },
+  {
+    "id": 15015005,
+    "group_id": 15010005,
+    "world_level": 3,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1501,
+    "level": 50,
+    "resonance_level": 0,
+    "unlock_skill_level": 3,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      9,
+      10
+    ],
+    "trail_weapon": 21020450,
+    "phantom_equip_list": [
+      {
+        "item1": 60000454,
+        "item2": 10054313
+      },
+      {
+        "item1": 60000244,
+        "item2": 10054213
+      },
+      {
+        "item1": 60000134,
+        "item2": 10054213
+      },
+      {
+        "item1": 60000074,
+        "item2": 10054113
+      },
+      {
+        "item1": 60000164,
+        "item2": 10054113
+      }
+    ]
+  },
+  {
+    "id": 15016005,
+    "group_id": 15010005,
+    "world_level": 4,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1501,
+    "level": 60,
+    "resonance_level": 0,
+    "unlock_skill_level": 3,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "trail_weapon": 21020560,
+    "phantom_equip_list": [
+      {
+        "item1": 60000454,
+        "item2": 10054315
+      },
+      {
+        "item1": 60000244,
+        "item2": 10054215
+      },
+      {
+        "item1": 60000134,
+        "item2": 10054215
+      },
+      {
+        "item1": 60000074,
+        "item2": 10054115
+      },
+      {
+        "item1": 60000164,
+        "item2": 10054115
+      }
+    ]
+  },
+  {
+    "id": 15017005,
+    "group_id": 15010005,
+    "world_level": 5,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1501,
+    "level": 70,
+    "resonance_level": 0,
+    "unlock_skill_level": 5,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21020570,
+    "phantom_equip_list": [
+      {
+        "item1": 60000455,
+        "item2": 10055318
       },
       {
         "item1": 60000245,
-        "item2": 10075220
+        "item2": 10055218
       },
       {
-        "item1": 60000185,
-        "item2": 10075220
+        "item1": 60000135,
+        "item2": 10055218
       },
       {
-        "item1": 60000255,
-        "item2": 10075120
+        "item1": 60000075,
+        "item2": 10055118
       },
       {
-        "item1": 60000085,
-        "item2": 10075120
+        "item1": 60000165,
+        "item2": 10055118
+      }
+    ]
+  },
+  {
+    "id": 15018005,
+    "group_id": 15010005,
+    "world_level": 6,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1501,
+    "level": 80,
+    "resonance_level": 0,
+    "unlock_skill_level": 7,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21210590,
+    "phantom_equip_list": [
+      {
+        "item1": 60000455,
+        "item2": 10055320
+      },
+      {
+        "item1": 60000245,
+        "item2": 10055220
+      },
+      {
+        "item1": 60000135,
+        "item2": 10055220
+      },
+      {
+        "item1": 60000075,
+        "item2": 10055120
+      },
+      {
+        "item1": 60000165,
+        "item2": 10055120
+      }
+    ]
+  },
+  {
+    "id": 15019005,
+    "group_id": 15010005,
+    "world_level": 7,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1501,
+    "level": 90,
+    "resonance_level": 0,
+    "unlock_skill_level": 10,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21210590,
+    "phantom_equip_list": [
+      {
+        "item1": 60000455,
+        "item2": 10055325
+      },
+      {
+        "item1": 60000245,
+        "item2": 10055225
+      },
+      {
+        "item1": 60000135,
+        "item2": 10055225
+      },
+      {
+        "item1": 60000075,
+        "item2": 10055125
+      },
+      {
+        "item1": 60000165,
+        "item2": 10055125
+      }
+    ]
+  },
+  {
+    "id": 15022005,
+    "group_id": 15020005,
+    "world_level": 1,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1502,
+    "level": 20,
+    "resonance_level": 0,
+    "unlock_skill_level": 1,
+    "unlock_skill_node_list": [
+      8
+    ],
+    "trail_weapon": 21020320,
+    "phantom_equip_list": [
+      {
+        "item1": 60000452,
+        "item2": 10052201
+      }
+    ]
+  },
+  {
+    "id": 15024005,
+    "group_id": 15020005,
+    "world_level": 2,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1502,
+    "level": 40,
+    "resonance_level": 0,
+    "unlock_skill_level": 2,
+    "unlock_skill_node_list": [
+      8,
+      4
+    ],
+    "trail_weapon": 21020440,
+    "phantom_equip_list": [
+      {
+        "item1": 60000452,
+        "item2": 10052309
+      },
+      {
+        "item1": 60000242,
+        "item2": 10052209
+      },
+      {
+        "item1": 60000132,
+        "item2": 10052209
+      },
+      {
+        "item1": 60000072,
+        "item2": 10052109
+      },
+      {
+        "item1": 60000162,
+        "item2": 10052109
+      }
+    ]
+  },
+  {
+    "id": 15025005,
+    "group_id": 15020005,
+    "world_level": 3,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1502,
+    "level": 50,
+    "resonance_level": 0,
+    "unlock_skill_level": 3,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      9,
+      10
+    ],
+    "trail_weapon": 21020450,
+    "phantom_equip_list": [
+      {
+        "item1": 60000454,
+        "item2": 10054313
+      },
+      {
+        "item1": 60000244,
+        "item2": 10054213
+      },
+      {
+        "item1": 60000134,
+        "item2": 10054213
+      },
+      {
+        "item1": 60000074,
+        "item2": 10054113
+      },
+      {
+        "item1": 60000164,
+        "item2": 10054113
+      }
+    ]
+  },
+  {
+    "id": 15026005,
+    "group_id": 15020005,
+    "world_level": 4,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1502,
+    "level": 60,
+    "resonance_level": 0,
+    "unlock_skill_level": 3,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "trail_weapon": 21020560,
+    "phantom_equip_list": [
+      {
+        "item1": 60000454,
+        "item2": 10054315
+      },
+      {
+        "item1": 60000244,
+        "item2": 10054215
+      },
+      {
+        "item1": 60000134,
+        "item2": 10054215
+      },
+      {
+        "item1": 60000074,
+        "item2": 10054115
+      },
+      {
+        "item1": 60000164,
+        "item2": 10054115
+      }
+    ]
+  },
+  {
+    "id": 15027005,
+    "group_id": 15020005,
+    "world_level": 5,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1502,
+    "level": 70,
+    "resonance_level": 0,
+    "unlock_skill_level": 5,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21020570,
+    "phantom_equip_list": [
+      {
+        "item1": 60000455,
+        "item2": 10055318
+      },
+      {
+        "item1": 60000245,
+        "item2": 10055218
+      },
+      {
+        "item1": 60000135,
+        "item2": 10055218
+      },
+      {
+        "item1": 60000075,
+        "item2": 10055118
+      },
+      {
+        "item1": 60000165,
+        "item2": 10055118
+      }
+    ]
+  },
+  {
+    "id": 15028005,
+    "group_id": 15020005,
+    "world_level": 6,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1502,
+    "level": 80,
+    "resonance_level": 0,
+    "unlock_skill_level": 7,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21210590,
+    "phantom_equip_list": [
+      {
+        "item1": 60000455,
+        "item2": 10055320
+      },
+      {
+        "item1": 60000245,
+        "item2": 10055220
+      },
+      {
+        "item1": 60000135,
+        "item2": 10055220
+      },
+      {
+        "item1": 60000075,
+        "item2": 10055120
+      },
+      {
+        "item1": 60000165,
+        "item2": 10055120
+      }
+    ]
+  },
+  {
+    "id": 15029005,
+    "group_id": 15020005,
+    "world_level": 7,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1502,
+    "level": 90,
+    "resonance_level": 0,
+    "unlock_skill_level": 10,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21210590,
+    "phantom_equip_list": [
+      {
+        "item1": 60000455,
+        "item2": 10055325
+      },
+      {
+        "item1": 60000245,
+        "item2": 10055225
+      },
+      {
+        "item1": 60000135,
+        "item2": 10055225
+      },
+      {
+        "item1": 60000075,
+        "item2": 10055125
+      },
+      {
+        "item1": 60000165,
+        "item2": 10055125
+      }
+    ]
+  },
+  {
+    "id": 13042005,
+    "group_id": 13040005,
+    "world_level": 1,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1304,
+    "level": 20,
+    "resonance_level": 0,
+    "unlock_skill_level": 1,
+    "unlock_skill_node_list": [
+      8
+    ],
+    "trail_weapon": 21501120,
+    "phantom_equip_list": [
+      {
+        "item1": 60000592,
+        "item2": 10052201
+      }
+    ]
+  },
+  {
+    "id": 13044005,
+    "group_id": 13040005,
+    "world_level": 2,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1304,
+    "level": 40,
+    "resonance_level": 0,
+    "unlock_skill_level": 2,
+    "unlock_skill_node_list": [
+      8,
+      4
+    ],
+    "trail_weapon": 21501140,
+    "phantom_equip_list": [
+      {
+        "item1": 60000592,
+        "item2": 10052309
+      },
+      {
+        "item1": 60000242,
+        "item2": 10052209
+      },
+      {
+        "item1": 60000132,
+        "item2": 10052209
+      },
+      {
+        "item1": 60000072,
+        "item2": 10052109
+      },
+      {
+        "item1": 60000162,
+        "item2": 10052109
+      }
+    ]
+  },
+  {
+    "id": 13045005,
+    "group_id": 13040005,
+    "world_level": 3,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1304,
+    "level": 50,
+    "resonance_level": 0,
+    "unlock_skill_level": 3,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      9,
+      10
+    ],
+    "trail_weapon": 21501150,
+    "phantom_equip_list": [
+      {
+        "item1": 60000594,
+        "item2": 10054313
+      },
+      {
+        "item1": 60000244,
+        "item2": 10054213
+      },
+      {
+        "item1": 60000134,
+        "item2": 10054213
+      },
+      {
+        "item1": 60000074,
+        "item2": 10054113
+      },
+      {
+        "item1": 60000164,
+        "item2": 10054113
+      }
+    ]
+  },
+  {
+    "id": 13046005,
+    "group_id": 13040005,
+    "world_level": 4,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1304,
+    "level": 60,
+    "resonance_level": 0,
+    "unlock_skill_level": 3,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12
+    ],
+    "trail_weapon": 21501160,
+    "phantom_equip_list": [
+      {
+        "item1": 60000594,
+        "item2": 10054315
+      },
+      {
+        "item1": 60000244,
+        "item2": 10054215
+      },
+      {
+        "item1": 60000134,
+        "item2": 10054215
+      },
+      {
+        "item1": 60000074,
+        "item2": 10054115
+      },
+      {
+        "item1": 60000164,
+        "item2": 10054115
+      }
+    ]
+  },
+  {
+    "id": 13047005,
+    "group_id": 13040005,
+    "world_level": 5,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1304,
+    "level": 70,
+    "resonance_level": 0,
+    "unlock_skill_level": 5,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21501170,
+    "phantom_equip_list": [
+      {
+        "item1": 60000595,
+        "item2": 10055318
+      },
+      {
+        "item1": 60000245,
+        "item2": 10055218
+      },
+      {
+        "item1": 60000135,
+        "item2": 10055218
+      },
+      {
+        "item1": 60000075,
+        "item2": 10055118
+      },
+      {
+        "item1": 60000165,
+        "item2": 10055118
+      }
+    ]
+  },
+  {
+    "id": 13048005,
+    "group_id": 13040005,
+    "world_level": 6,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1304,
+    "level": 80,
+    "resonance_level": 0,
+    "unlock_skill_level": 7,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21501190,
+    "phantom_equip_list": [
+      {
+        "item1": 60000595,
+        "item2": 10055320
+      },
+      {
+        "item1": 60000245,
+        "item2": 10055220
+      },
+      {
+        "item1": 60000135,
+        "item2": 10055220
+      },
+      {
+        "item1": 60000075,
+        "item2": 10055120
+      },
+      {
+        "item1": 60000165,
+        "item2": 10055120
+      }
+    ]
+  },
+  {
+    "id": 13049005,
+    "group_id": 13040005,
+    "world_level": 7,
+    "only_trial": false,
+    "hide_trial_label": false,
+    "parent_id": 1304,
+    "level": 90,
+    "resonance_level": 0,
+    "unlock_skill_level": 10,
+    "unlock_skill_node_list": [
+      8,
+      4,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "trail_weapon": 21501190,
+    "phantom_equip_list": [
+      {
+        "item1": 60000595,
+        "item2": 10055325
+      },
+      {
+        "item1": 60000245,
+        "item2": 10055225
+      },
+      {
+        "item1": 60000135,
+        "item2": 10055225
+      },
+      {
+        "item1": 60000075,
+        "item2": 10055125
+      },
+      {
+        "item1": 60000165,
+        "item2": 10055125
       }
     ]
   }

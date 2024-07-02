@@ -192,6 +192,12 @@
     "event_path": "/Game/Aki/WwiseAudio/Events/play_sfx_lva_c0003_01.play_sfx_lva_c0003_01"
   },
   {
+    "caption_id": 33,
+    "cg_name": "C0003",
+    "girl_or_boy": 2,
+    "event_path": "/Game/Aki/WwiseAudio/Events/play_vo_story_dtm_c0003.play_vo_story_dtm_c0003"
+  },
+  {
     "caption_id": 34,
     "cg_name": "R1016",
     "girl_or_boy": 2,
@@ -210,6 +216,12 @@
     "event_path": "/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0238.play_sfx_lva_m0238"
   },
   {
+    "caption_id": 37,
+    "cg_name": "M0238",
+    "girl_or_boy": 2,
+    "event_path": "/Game/Aki/WwiseAudio/Events/play_vo_story_m0238.play_vo_story_m0238"
+  },
+  {
     "caption_id": 38,
     "cg_name": "M0244",
     "girl_or_boy": 2,
@@ -222,6 +234,12 @@
     "event_path": "/Game/Aki/WwiseAudio/Events/play_sfx_lva_m0244.play_sfx_lva_m0244"
   },
   {
+    "caption_id": 40,
+    "cg_name": "M0244",
+    "girl_or_boy": 2,
+    "event_path": "/Game/Aki/WwiseAudio/Events/play_vo_story_m0244.play_vo_story_m0244"
+  },
+  {
     "caption_id": 41,
     "cg_name": "C0004",
     "girl_or_boy": 2,
@@ -232,5 +250,11 @@
     "cg_name": "C0004",
     "girl_or_boy": 2,
     "event_path": "/Game/Aki/WwiseAudio/Events/play_sfx_lva_c0004.play_sfx_lva_c0004"
+  },
+  {
+    "caption_id": 43,
+    "cg_name": "C0004",
+    "girl_or_boy": 2,
+    "event_path": "/Game/Aki/WwiseAudio/Events/play_vo_story_dtm_c0004.play_vo_story_dtm_c0004"
   }
 ]

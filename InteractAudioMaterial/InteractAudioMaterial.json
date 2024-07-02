@@ -115,5 +115,14 @@
     "maxforce": 10000.0,
     "minimum_postevent_force": 30.0,
     "minimum_time_between_akevent": 0.2
+  },
+  {
+    "collision_material": "DungeonOpenItem",
+    "is_active_impacter": true,
+    "audio_event": "/Game/Aki/WwiseAudio/Events/play_amb_interact_imp_iron.play_amb_interact_imp_iron",
+    "impact_mass": 30.0,
+    "maxforce": 10000.0,
+    "minimum_postevent_force": 30.0,
+    "minimum_time_between_akevent": 0.2
   }
 ]

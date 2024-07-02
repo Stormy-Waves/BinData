@@ -1373,5 +1373,47 @@
     ],
     "use_loop_anim": true,
     "use_mask": 0
+  },
+  {
+    "guide_id": 590,
+    "content": "GuideTips_590_Content",
+    "button": [],
+    "input_enums": [
+      "攻击"
+    ],
+    "limit_input_enums": [],
+    "use_loop_anim": false,
+    "use_mask": 0
+  },
+  {
+    "guide_id": 591,
+    "content": "GuideTips_591_Content",
+    "button": [],
+    "input_enums": [
+      "攻击"
+    ],
+    "limit_input_enums": [],
+    "use_loop_anim": false,
+    "use_mask": 0
+  },
+  {
+    "guide_id": 592,
+    "content": "GuideTips_592_Content",
+    "button": [],
+    "input_enums": [
+      "攻击"
+    ],
+    "limit_input_enums": [],
+    "use_loop_anim": false,
+    "use_mask": 0
+  },
+  {
+    "guide_id": 10118,
+    "content": "GuideTips_10118_Content",
+    "button": [],
+    "input_enums": [],
+    "limit_input_enums": [],
+    "use_loop_anim": false,
+    "use_mask": 0
   }
 ]

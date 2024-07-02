@@ -5102,5 +5102,9 @@
   {
     "id": "BossRushLevelLock",
     "text": "BossRushLevelLock"
+  },
+  {
+    "id": "MatchLeaveTeamByKickOut",
+    "text": "MatchLeaveTeamByKickOut"
   }
 ]

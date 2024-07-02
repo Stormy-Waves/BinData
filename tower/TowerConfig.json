@@ -1578,7 +1578,7 @@
     "area_name": "Text_TowerOne_Text",
     "cost": 1,
     "recommend_element": [
-      4
+      3
     ],
     "show_monsters": [
       310000070,
@@ -1597,13 +1597,13 @@
       }
     ],
     "show_buffs": [
-      92007101,
-      92008019
+      92007100,
+      552
     ],
     "role_buff": [
-      92008019,
+      552,
       622100102,
-      92007101
+      92007100
     ],
     "monster_buff": [],
     "target": [
@@ -1629,7 +1629,7 @@
     "area_name": "Text_TowerOne_Text",
     "cost": 2,
     "recommend_element": [
-      4
+      3
     ],
     "show_monsters": [
       320000080,
@@ -1647,13 +1647,13 @@
       }
     ],
     "show_buffs": [
-      92007101,
-      92008019
+      92007100,
+      552
     ],
     "role_buff": [
-      92008019,
+      552,
       622100102,
-      92007101
+      92007100
     ],
     "monster_buff": [],
     "target": [
@@ -1679,7 +1679,7 @@
     "area_name": "Text_TowerOne_Text",
     "cost": 3,
     "recommend_element": [
-      4
+      3
     ],
     "show_monsters": [
       320000060,
@@ -1699,13 +1699,13 @@
       }
     ],
     "show_buffs": [
-      92007101,
-      92008019
+      92007100,
+      552
     ],
     "role_buff": [
-      92008019,
+      552,
       622100102,
-      92007101
+      92007100
     ],
     "monster_buff": [],
     "target": [
@@ -1731,7 +1731,7 @@
     "area_name": "Text_TowerOne_Text",
     "cost": 4,
     "recommend_element": [
-      4
+      3
     ],
     "show_monsters": [
       330000060,
@@ -1749,13 +1749,13 @@
       }
     ],
     "show_buffs": [
-      92007101,
-      92008019
+      92007100,
+      552
     ],
     "role_buff": [
-      92008019,
+      552,
       622100102,
-      92007101
+      92007100
     ],
     "monster_buff": [],
     "target": [
@@ -1800,6 +1800,7 @@
     ],
     "role_buff": [
       92008022,
+      601,
       622100102,
       92007100,
       92007101,
@@ -1854,6 +1855,7 @@
     ],
     "role_buff": [
       92008022,
+      601,
       622100102,
       92007100,
       92007101,
@@ -1886,7 +1888,7 @@
     "area_name": "Text_TowerTwo_Text",
     "cost": 1,
     "recommend_element": [
-      3
+      5
     ],
     "show_monsters": [
       310000060,
@@ -1904,12 +1906,12 @@
       }
     ],
     "show_buffs": [
-      92007100,
+      92007104,
       92008023
     ],
     "role_buff": [
       622100102,
-      92007100,
+      92007104,
       920080232
     ],
     "monster_buff": [
@@ -1938,7 +1940,7 @@
     "area_name": "Text_TowerTwo_Text",
     "cost": 2,
     "recommend_element": [
-      3
+      5
     ],
     "show_monsters": [
       320000100,
@@ -1955,12 +1957,12 @@
       }
     ],
     "show_buffs": [
-      92007100,
+      92007104,
       92008023
     ],
     "role_buff": [
       622100102,
-      92007100,
+      92007104,
       920080232
     ],
     "monster_buff": [
@@ -1989,7 +1991,7 @@
     "area_name": "Text_TowerTwo_Text",
     "cost": 3,
     "recommend_element": [
-      3
+      5
     ],
     "show_monsters": [
       320000140,
@@ -2007,12 +2009,12 @@
       }
     ],
     "show_buffs": [
-      92007100,
+      92007104,
       92008023
     ],
     "role_buff": [
       622100102,
-      92007100,
+      92007104,
       920080232
     ],
     "monster_buff": [
@@ -2041,7 +2043,7 @@
     "area_name": "Text_TowerTwo_Text",
     "cost": 4,
     "recommend_element": [
-      3
+      5
     ],
     "show_monsters": [
       330000030
@@ -2057,12 +2059,12 @@
       }
     ],
     "show_buffs": [
-      92007100,
+      92007104,
       92008023
     ],
     "role_buff": [
       622100102,
-      92007100,
+      92007104,
       920080232
     ],
     "monster_buff": [
@@ -2091,7 +2093,7 @@
     "area_name": "Text_TowerOne_Text",
     "cost": 1,
     "recommend_element": [
-      4
+      3
     ],
     "show_monsters": [
       310000070,
@@ -2110,13 +2112,13 @@
       }
     ],
     "show_buffs": [
-      92007101,
-      92008019
+      92007100,
+      552
     ],
     "role_buff": [
-      92008019,
+      552,
       622100102,
-      92007101
+      92007100
     ],
     "monster_buff": [],
     "target": [
@@ -2142,7 +2144,7 @@
     "area_name": "Text_TowerOne_Text",
     "cost": 2,
     "recommend_element": [
-      4
+      3
     ],
     "show_monsters": [
       320000080,
@@ -2160,13 +2162,13 @@
       }
     ],
     "show_buffs": [
-      92007101,
-      92008019
+      92007100,
+      552
     ],
     "role_buff": [
-      92008019,
+      552,
       622100102,
-      92007101
+      92007100
     ],
     "monster_buff": [],
     "target": [
@@ -2192,7 +2194,7 @@
     "area_name": "Text_TowerOne_Text",
     "cost": 3,
     "recommend_element": [
-      4
+      3
     ],
     "show_monsters": [
       320000060,
@@ -2212,13 +2214,13 @@
       }
     ],
     "show_buffs": [
-      92007101,
-      92008019
+      92007100,
+      552
     ],
     "role_buff": [
-      92008019,
+      552,
       622100102,
-      92007101
+      92007100
     ],
     "monster_buff": [],
     "target": [
@@ -2244,7 +2246,7 @@
     "area_name": "Text_TowerOne_Text",
     "cost": 4,
     "recommend_element": [
-      4
+      3
     ],
     "show_monsters": [
       330000060,
@@ -2262,13 +2264,13 @@
       }
     ],
     "show_buffs": [
-      92007101,
-      92008019
+      92007100,
+      552
     ],
     "role_buff": [
-      92008019,
+      552,
       622100102,
-      92007101
+      92007100
     ],
     "monster_buff": [],
     "target": [
@@ -2313,6 +2315,7 @@
     ],
     "role_buff": [
       92008022,
+      601,
       622100102,
       92007100,
       92007101,
@@ -2367,6 +2370,7 @@
     ],
     "role_buff": [
       92008022,
+      601,
       622100102,
       92007100,
       92007101,
@@ -2399,7 +2403,7 @@
     "area_name": "Text_TowerTwo_Text",
     "cost": 1,
     "recommend_element": [
-      3
+      5
     ],
     "show_monsters": [
       310000060,
@@ -2417,12 +2421,12 @@
       }
     ],
     "show_buffs": [
-      92007100,
+      92007104,
       92008023
     ],
     "role_buff": [
       622100102,
-      92007100,
+      92007104,
       920080232
     ],
     "monster_buff": [
@@ -2451,7 +2455,7 @@
     "area_name": "Text_TowerTwo_Text",
     "cost": 2,
     "recommend_element": [
-      3
+      5
     ],
     "show_monsters": [
       320000100,
@@ -2468,12 +2472,12 @@
       }
     ],
     "show_buffs": [
-      92007100,
+      92007104,
       92008023
     ],
     "role_buff": [
       622100102,
-      92007100,
+      92007104,
       920080232
     ],
     "monster_buff": [
@@ -2502,7 +2506,7 @@
     "area_name": "Text_TowerTwo_Text",
     "cost": 3,
     "recommend_element": [
-      3
+      5
     ],
     "show_monsters": [
       320000140,
@@ -2520,12 +2524,12 @@
       }
     ],
     "show_buffs": [
-      92007100,
+      92007104,
       92008023
     ],
     "role_buff": [
       622100102,
-      92007100,
+      92007104,
       920080232
     ],
     "monster_buff": [
@@ -2554,7 +2558,7 @@
     "area_name": "Text_TowerTwo_Text",
     "cost": 4,
     "recommend_element": [
-      3
+      5
     ],
     "show_monsters": [
       330000030
@@ -2570,12 +2574,12 @@
       }
     ],
     "show_buffs": [
-      92007100,
+      92007104,
       92008023
     ],
     "role_buff": [
       622100102,
-      92007100,
+      92007104,
       920080232
     ],
     "monster_buff": [

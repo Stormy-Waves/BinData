@@ -10483,9 +10483,9 @@
   },
   {
     "id": 57,
-    "debug_text": "消息超出频率控制",
+    "debug_text": "操作频率过快，请稍后再试。",
     "text": "ErrorCode_57_Text",
-    "is_tip": false
+    "is_tip": true
   },
   {
     "id": 58,
@@ -12120,42 +12120,6 @@
     "is_tip": false
   },
   {
-    "id": 200335,
-    "debug_text": "奖励配置找不到",
-    "text": "ErrorCode_200352_Text",
-    "is_tip": true
-  },
-  {
-    "id": 200336,
-    "debug_text": "活动未开启",
-    "text": "ErrorCode_200353_Text",
-    "is_tip": true
-  },
-  {
-    "id": 200337,
-    "debug_text": "奖励已领取",
-    "text": "ErrorCode_200354_Text",
-    "is_tip": true
-  },
-  {
-    "id": 200338,
-    "debug_text": "未到领奖时间",
-    "text": "ErrorCode_200355_Text",
-    "is_tip": true
-  },
-  {
-    "id": 200339,
-    "debug_text": "兑换中,请稍后重试",
-    "text": "ErrorCode_200356_Text",
-    "is_tip": true
-  },
-  {
-    "id": 600096,
-    "debug_text": "死亡后不能交互",
-    "text": "ErrorCode_600096_Text",
-    "is_tip": false
-  },
-  {
     "id": 1100237,
     "debug_text": "肉鸽路线房间配置为空",
     "text": "ErrorCode_1100237_Text",
@@ -12246,15 +12210,93 @@
     "is_tip": false
   },
   {
-    "id": 600097,
-    "debug_text": "联机挂起实体",
-    "text": "ErrorCode_600097_Text",
+    "id": 200335,
+    "debug_text": "奖励配置找不到",
+    "text": "ErrorCode_200352_Text",
+    "is_tip": true
+  },
+  {
+    "id": 200336,
+    "debug_text": "活动未开启",
+    "text": "ErrorCode_200353_Text",
+    "is_tip": true
+  },
+  {
+    "id": 200337,
+    "debug_text": "奖励已领取",
+    "text": "ErrorCode_200354_Text",
+    "is_tip": true
+  },
+  {
+    "id": 200338,
+    "debug_text": "未到领奖时间",
+    "text": "ErrorCode_200355_Text",
+    "is_tip": true
+  },
+  {
+    "id": 600096,
+    "debug_text": "死亡后不能交互",
+    "text": "ErrorCode_600096_Text",
     "is_tip": false
+  },
+  {
+    "id": 200339,
+    "debug_text": "兑换中,请稍后重试",
+    "text": "ErrorCode_200356_Text",
+    "is_tip": true
   },
   {
     "id": 2000026,
     "debug_text": "控物已经被放置",
     "text": "ErrorCode_2000032_Text",
     "is_tip": true
+  },
+  {
+    "id": 600097,
+    "debug_text": "联机挂起实体",
+    "text": "ErrorCode_600097_Text",
+    "is_tip": false
+  },
+  {
+    "id": 1800044,
+    "debug_text": "对方加入多人游戏失败",
+    "text": "ErrorCode_1800044_Text",
+    "is_tip": false
+  },
+  {
+    "id": 1800045,
+    "debug_text": "加入多人游戏失败",
+    "text": "ErrorCode_1800045_Text",
+    "is_tip": false
+  },
+  {
+    "id": 1900067,
+    "debug_text": "登录繁忙，请稍候重试",
+    "text": "ErrorCode_1900081_Text",
+    "is_tip": false
+  },
+  {
+    "id": 1900068,
+    "debug_text": "登录繁忙，请稍候重试",
+    "text": "ErrorCode_1900082_Text",
+    "is_tip": false
+  },
+  {
+    "id": 1900069,
+    "debug_text": "请输入正确的账密",
+    "text": "ErrorCode_1900083_Text",
+    "is_tip": false
+  },
+  {
+    "id": 1900070,
+    "debug_text": "登录繁忙，请稍候重试",
+    "text": "ErrorCode_1900094_Text",
+    "is_tip": false
+  },
+  {
+    "id": 1900071,
+    "debug_text": "声匣探索度已满",
+    "text": "ErrorCode_1900095_Text",
+    "is_tip": false
   }
 ]

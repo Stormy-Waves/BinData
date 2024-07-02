@@ -183,14 +183,14 @@
   },
   {
     "id": 900007,
-    "data_layer": "Area_Chengxiaoshan_DLTask_CXS01",
+    "data_layer": "DataLayerRuntime_DLTask_CXS01",
     "cn_name": "乘宵山龙心树-枯萎",
     "level_id": 8,
     "init_load": true
   },
   {
     "id": 900008,
-    "data_layer": "Area_Chengxiaoshan_DLTask_CXS02",
+    "data_layer": "DataLayerRuntime_DLTask_CXS02",
     "cn_name": "乘宵山龙心树-正常",
     "level_id": 8,
     "init_load": true

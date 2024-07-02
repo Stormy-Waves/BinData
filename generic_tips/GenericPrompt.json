@@ -1710,5 +1710,13 @@
     "extra_text": "",
     "duration": 0,
     "priority": 0
+  },
+  {
+    "tips_id": "Exolore_ShengXiaNoDetec",
+    "type_id": 9,
+    "tips_text": "Exolore_ShengXiaNoDetec",
+    "extra_text": "",
+    "duration": 0,
+    "priority": 0
   }
 ]

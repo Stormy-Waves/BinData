@@ -250,5 +250,14 @@
     "exit_event": "map_main_beiluoyefushua_exit",
     "reset_event": "map_main_beiluoyefushua_reset",
     "music_reset_event": ""
+  },
+  {
+    "id": 1508,
+    "name": "InstanceTree_TunLongZhu",
+    "event": "map_main_tunlongzhu",
+    "enter_event": "map_main_tunlongzhu_enter",
+    "exit_event": "map_main_tunlongzhu_exit",
+    "reset_event": "map_main_tunlongzhu_reset",
+    "music_reset_event": ""
   }
 ]

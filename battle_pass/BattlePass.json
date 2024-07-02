@@ -12,5 +12,19 @@
     "recurring_level_exp": 1000,
     "week_exp_limit": 10000,
     "exclusive_reward_path": "/Game/Aki/UI/UIResources/UiBp/Image/T_BpWeapon1_UI.T_BpWeapon1_UI"
+  },
+  {
+    "id": 1,
+    "initial_level": 0,
+    "level_limit": 70,
+    "level_up_exp": 1000,
+    "consume_id": 3,
+    "consume_count": 100,
+    "is_recurring_level": false,
+    "free_recurring_reward": [],
+    "pay_recurring_reward": [],
+    "recurring_level_exp": 1000,
+    "week_exp_limit": 10000,
+    "exclusive_reward_path": "/Game/Aki/UI/UIResources/UiBp/Image/T_BpWeapon1_UI.T_BpWeapon1_UI"
   }
 ]

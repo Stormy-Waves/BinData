@@ -6513,7 +6513,7 @@
     "id": 13000026,
     "group_id": [
       13000026,
-      16
+      6
     ],
     "relation": 0,
     "hint_text": "Condition_13000026_Description"
@@ -8217,7 +8217,8 @@
   {
     "id": 13000038,
     "group_id": [
-      14
+      14,
+      13000039
     ],
     "relation": 0,
     "hint_text": "Condition_13000038_Description"
@@ -8233,7 +8234,7 @@
   {
     "id": 13000040,
     "group_id": [
-      14
+      13000040
     ],
     "relation": 0,
     "hint_text": "Condition_13000040_Description"
@@ -8241,7 +8242,7 @@
   {
     "id": 13000041,
     "group_id": [
-      14
+      13000041
     ],
     "relation": 0,
     "hint_text": "Condition_13000041_Description"
@@ -8249,7 +8250,7 @@
   {
     "id": 13000042,
     "group_id": [
-      14
+      13000042
     ],
     "relation": 0,
     "hint_text": "Condition_13000042_Description"
@@ -8465,9 +8466,10 @@
   {
     "id": 13000057,
     "group_id": [
-      13000057
+      13000057,
+      13000064
     ],
-    "relation": 0,
+    "relation": 1,
     "hint_text": ""
   },
   {
@@ -8497,9 +8499,10 @@
   {
     "id": 13000062,
     "group_id": [
-      13000062
+      13000062,
+      13000065
     ],
-    "relation": 0,
+    "relation": 1,
     "hint_text": ""
   },
   {
@@ -8900,9 +8903,10 @@
   {
     "id": 101100217,
     "group_id": [
-      101100217
+      101100217,
+      101100238
     ],
-    "relation": 0,
+    "relation": 1,
     "hint_text": ""
   },
   {
@@ -9349,7 +9353,7 @@
       1017007053,
       1017007054
     ],
-    "relation": 0,
+    "relation": 1,
     "hint_text": ""
   },
   {
@@ -9793,11 +9797,12 @@
     "hint_text": ""
   },
   {
-    "id": 13000063,
+    "id": 12007015,
     "group_id": [
-      13000063
+      12007019,
+      12007020
     ],
-    "relation": 0,
+    "relation": 1,
     "hint_text": ""
   },
   {
@@ -9807,6 +9812,14 @@
     ],
     "relation": 0,
     "hint_text": "Condition_13000067_Description"
+  },
+  {
+    "id": 13000063,
+    "group_id": [
+      13000063
+    ],
+    "relation": 0,
+    "hint_text": ""
   },
   {
     "id": 242916910,
@@ -9825,20 +9838,22 @@
     "hint_text": ""
   },
   {
-    "id": 12007015,
-    "group_id": [
-      12007019,
-      12007020
-    ],
-    "relation": 1,
-    "hint_text": ""
-  },
-  {
     "id": 502006,
     "group_id": [
       502006
     ],
     "relation": 0,
     "hint_text": "ConditionGroup_502006_HintText"
+  },
+  {
+    "id": 12031031,
+    "group_id": [
+      12031031,
+      12031032,
+      12031033,
+      12031034
+    ],
+    "relation": 1,
+    "hint_text": ""
   }
 ]

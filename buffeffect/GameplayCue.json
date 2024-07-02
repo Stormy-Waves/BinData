@@ -31919,8 +31919,8 @@
   },
   {
     "id": 640007015,
-    "path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_FightHook_Wind_01.NS_Fx_LGUI_FightHook_Wind_01",
-    "cue_type": 0,
+    "path": "/Game/Aki/Effect/DataAsset/ScreenDA/SD_Fight/Bigworld/DA_Fx_Screen_SpeedUp.DA_Fx_Screen_SpeedUp",
+    "cue_type": 9,
     "comp": 1,
     "comp_name": "Mesh",
     "socket": "Bip001",
@@ -32077,117 +32077,6 @@
     "parameters": []
   },
   {
-    "id": 20051,
-    "path": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
-    "cue_type": 2,
-    "comp": 0,
-    "comp_name": "Mesh",
-    "socket": "None",
-    "location": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "scale": {
-      "x": 1.0,
-      "y": 1.0,
-      "z": 1.0
-    },
-    "loc_rule": 0,
-    "rota_rule": 0,
-    "scl_rule": 0,
-    "end_rule": 0,
-    "magni": 0,
-    "attr_id": 0,
-    "tag": "",
-    "max": 10000,
-    "min": 0,
-    "listen_attr": false,
-    "soft_follow": false,
-    "lock_revolution": false,
-    "lock_rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "interp_speed": 5,
-    "farthest_distance": 100,
-    "fault_tolerance": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "target_scale_up": [
-      1.0,
-      1.0
-    ],
-    "resources": [],
-    "parameters": [
-      "1",
-      "FFEA5D7F"
-    ]
-  },
-  {
-    "id": 20061,
-    "path": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
-    "cue_type": 2,
-    "comp": 0,
-    "comp_name": "Mesh",
-    "socket": "None",
-    "location": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "scale": {
-      "x": 1.0,
-      "y": 1.0,
-      "z": 1.0
-    },
-    "loc_rule": 0,
-    "rota_rule": 0,
-    "scl_rule": 0,
-    "end_rule": 0,
-    "magni": 0,
-    "attr_id": 0,
-    "tag": "",
-    "max": 10000,
-    "min": 0,
-    "listen_attr": false,
-    "soft_follow": false,
-    "lock_revolution": false,
-    "lock_rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "interp_speed": 5,
-    "farthest_distance": 100,
-    "fault_tolerance": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "target_scale_up": [
-      1.0,
-      1.0
-    ],
-    "resources": [],
-    "parameters": [
-      "2"
-    ]
-  },
-  {
     "id": 1205104091,
     "path": "/Game/Aki/Effect/EffectGroup/R2T1ChangliMd10011/DA_Fx_Group_Changli_Buff_Eye.DA_Fx_Group_Changli_Buff_Eye",
     "cue_type": 0,
@@ -32241,12 +32130,12 @@
     "parameters": []
   },
   {
-    "id": 1205104062,
-    "path": "/Game/Aki/Effect/MaterialController/DA_Character/Changli/DA_Fx_Changli_Hand.DA_Fx_Changli_Hand",
-    "cue_type": 1,
+    "id": 1304001004,
+    "path": "/Game/Aki/Effect/EffectGroup/R2T1JinxiMd10011/DA_Fx_Group_R1b_LongjiaoLei.DA_Fx_Group_R1b_LongjiaoLei",
+    "cue_type": 0,
     "comp": 1,
     "comp_name": "Mesh",
-    "socket": "None",
+    "socket": "Bip001Head",
     "location": {
       "x": 0.0,
       "y": 0.0,
@@ -32294,12 +32183,12 @@
     "parameters": []
   },
   {
-    "id": 1205104063,
-    "path": "/Game/Aki/Effect/EffectGroup/R2T1ChangliMd10011/DA_Fx_Group_Ma_Lizi02.DA_Fx_Group_Ma_Lizi02",
-    "cue_type": 0,
-    "comp": 1,
+    "id": 1304001014,
+    "path": "",
+    "cue_type": 11,
+    "comp": 0,
     "comp_name": "Mesh",
-    "socket": "Bip001LHand",
+    "socket": "None",
     "location": {
       "x": 0.0,
       "y": 0.0,
@@ -32319,6 +32208,118 @@
     "rota_rule": 0,
     "scl_rule": 0,
     "end_rule": 0,
+    "magni": 0,
+    "attr_id": 0,
+    "tag": "",
+    "max": 10000,
+    "min": 0,
+    "listen_attr": false,
+    "soft_follow": false,
+    "lock_revolution": false,
+    "lock_rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "interp_speed": 5,
+    "farthest_distance": 100,
+    "fault_tolerance": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "target_scale_up": [
+      1.0,
+      1.0
+    ],
+    "resources": [],
+    "parameters": [
+      "OtherCase1",
+      "0"
+    ]
+  },
+  {
+    "id": 1304001015,
+    "path": "",
+    "cue_type": 11,
+    "comp": 0,
+    "comp_name": "Mesh",
+    "socket": "None",
+    "location": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "loc_rule": 0,
+    "rota_rule": 0,
+    "scl_rule": 0,
+    "end_rule": 0,
+    "magni": 0,
+    "attr_id": 0,
+    "tag": "",
+    "max": 10000,
+    "min": 0,
+    "listen_attr": false,
+    "soft_follow": false,
+    "lock_revolution": false,
+    "lock_rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "interp_speed": 5,
+    "farthest_distance": 100,
+    "fault_tolerance": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "target_scale_up": [
+      1.0,
+      1.0
+    ],
+    "resources": [],
+    "parameters": [
+      "OtherCase1",
+      "1"
+    ]
+  },
+  {
+    "id": 1304001016,
+    "path": "/Game/Aki/Effect/MaterialController/DA_Character/Jinxi/DA_Fx_Jinxi_Stand_LongjiaoNoEnd.DA_Fx_Jinxi_Stand_LongjiaoNoEnd",
+    "cue_type": 1,
+    "comp": 0,
+    "comp_name": "Mesh",
+    "socket": "None",
+    "location": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "loc_rule": 0,
+    "rota_rule": 0,
+    "scl_rule": 0,
+    "end_rule": 1,
     "magni": 0,
     "attr_id": 0,
     "tag": "",
@@ -32774,277 +32775,6 @@
     ]
   },
   {
-    "id": 80017090,
-    "path": "/Game/Aki/Effect/EffectGroup/R2T1JinxiMd10011/DA_Fx_Group_R1a_TimeFrozen.DA_Fx_Group_R1a_TimeFrozen",
-    "cue_type": 0,
-    "comp": 1,
-    "comp_name": "Mesh",
-    "socket": "None",
-    "location": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "scale": {
-      "x": 1.0,
-      "y": 1.0,
-      "z": 1.0
-    },
-    "loc_rule": 0,
-    "rota_rule": 0,
-    "scl_rule": 0,
-    "end_rule": 1,
-    "magni": 0,
-    "attr_id": 0,
-    "tag": "",
-    "max": 10000,
-    "min": 0,
-    "listen_attr": false,
-    "soft_follow": false,
-    "lock_revolution": false,
-    "lock_rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "interp_speed": 5,
-    "farthest_distance": 100,
-    "fault_tolerance": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "target_scale_up": [
-      1.0,
-      1.0
-    ],
-    "resources": [],
-    "parameters": []
-  },
-  {
-    "id": 1304001004,
-    "path": "/Game/Aki/Effect/EffectGroup/R2T1JinxiMd10011/DA_Fx_Group_R1b_LongjiaoLei.DA_Fx_Group_R1b_LongjiaoLei",
-    "cue_type": 0,
-    "comp": 1,
-    "comp_name": "Mesh",
-    "socket": "Bip001Head",
-    "location": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "scale": {
-      "x": 1.0,
-      "y": 1.0,
-      "z": 1.0
-    },
-    "loc_rule": 0,
-    "rota_rule": 0,
-    "scl_rule": 0,
-    "end_rule": 0,
-    "magni": 0,
-    "attr_id": 0,
-    "tag": "",
-    "max": 10000,
-    "min": 0,
-    "listen_attr": false,
-    "soft_follow": false,
-    "lock_revolution": false,
-    "lock_rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "interp_speed": 5,
-    "farthest_distance": 100,
-    "fault_tolerance": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "target_scale_up": [
-      1.0,
-      1.0
-    ],
-    "resources": [],
-    "parameters": []
-  },
-  {
-    "id": 1304001014,
-    "path": "",
-    "cue_type": 11,
-    "comp": 0,
-    "comp_name": "Mesh",
-    "socket": "None",
-    "location": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "scale": {
-      "x": 1.0,
-      "y": 1.0,
-      "z": 1.0
-    },
-    "loc_rule": 0,
-    "rota_rule": 0,
-    "scl_rule": 0,
-    "end_rule": 0,
-    "magni": 0,
-    "attr_id": 0,
-    "tag": "",
-    "max": 10000,
-    "min": 0,
-    "listen_attr": false,
-    "soft_follow": false,
-    "lock_revolution": false,
-    "lock_rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "interp_speed": 5,
-    "farthest_distance": 100,
-    "fault_tolerance": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "target_scale_up": [
-      1.0,
-      1.0
-    ],
-    "resources": [],
-    "parameters": [
-      "OtherCase1",
-      "0"
-    ]
-  },
-  {
-    "id": 1304001015,
-    "path": "",
-    "cue_type": 11,
-    "comp": 0,
-    "comp_name": "Mesh",
-    "socket": "None",
-    "location": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "scale": {
-      "x": 1.0,
-      "y": 1.0,
-      "z": 1.0
-    },
-    "loc_rule": 0,
-    "rota_rule": 0,
-    "scl_rule": 0,
-    "end_rule": 0,
-    "magni": 0,
-    "attr_id": 0,
-    "tag": "",
-    "max": 10000,
-    "min": 0,
-    "listen_attr": false,
-    "soft_follow": false,
-    "lock_revolution": false,
-    "lock_rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "interp_speed": 5,
-    "farthest_distance": 100,
-    "fault_tolerance": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "target_scale_up": [
-      1.0,
-      1.0
-    ],
-    "resources": [],
-    "parameters": [
-      "OtherCase1",
-      "1"
-    ]
-  },
-  {
-    "id": 1304001016,
-    "path": "/Game/Aki/Effect/MaterialController/DA_Character/Jinxi/DA_Fx_Jinxi_Stand_LongjiaoNoEnd.DA_Fx_Jinxi_Stand_LongjiaoNoEnd",
-    "cue_type": 1,
-    "comp": 0,
-    "comp_name": "Mesh",
-    "socket": "None",
-    "location": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "scale": {
-      "x": 1.0,
-      "y": 1.0,
-      "z": 1.0
-    },
-    "loc_rule": 0,
-    "rota_rule": 0,
-    "scl_rule": 0,
-    "end_rule": 1,
-    "magni": 0,
-    "attr_id": 0,
-    "tag": "",
-    "max": 10000,
-    "min": 0,
-    "listen_attr": false,
-    "soft_follow": false,
-    "lock_revolution": false,
-    "lock_rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "interp_speed": 5,
-    "farthest_distance": 100,
-    "fault_tolerance": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "target_scale_up": [
-      1.0,
-      1.0
-    ],
-    "resources": [],
-    "parameters": []
-  },
-  {
     "id": 280012003,
     "path": "/Game/Aki/Effect/EffectGroup/MB1SuiguangMd00501/ShouJi/DA_Fx_Group_MBa01_Debuff.DA_Fx_Group_MBa01_Debuff",
     "cue_type": 0,
@@ -33091,8 +32821,8 @@
       "z": 0.0
     },
     "target_scale_up": [
-      1.0,
-      5.0
+      1.5,
+      4.0
     ],
     "resources": [],
     "parameters": []
@@ -33149,5 +32879,275 @@
     ],
     "resources": [],
     "parameters": []
+  },
+  {
+    "id": 1205104062,
+    "path": "/Game/Aki/Effect/MaterialController/DA_Character/Changli/DA_Fx_Changli_Hand.DA_Fx_Changli_Hand",
+    "cue_type": 1,
+    "comp": 1,
+    "comp_name": "Mesh",
+    "socket": "None",
+    "location": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "loc_rule": 0,
+    "rota_rule": 0,
+    "scl_rule": 0,
+    "end_rule": 0,
+    "magni": 0,
+    "attr_id": 0,
+    "tag": "",
+    "max": 10000,
+    "min": 0,
+    "listen_attr": false,
+    "soft_follow": false,
+    "lock_revolution": false,
+    "lock_rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "interp_speed": 5,
+    "farthest_distance": 100,
+    "fault_tolerance": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "target_scale_up": [
+      1.0,
+      1.0
+    ],
+    "resources": [],
+    "parameters": []
+  },
+  {
+    "id": 1205104063,
+    "path": "/Game/Aki/Effect/EffectGroup/R2T1ChangliMd10011/DA_Fx_Group_Ma_Lizi02.DA_Fx_Group_Ma_Lizi02",
+    "cue_type": 0,
+    "comp": 1,
+    "comp_name": "Mesh",
+    "socket": "Bip001LHand",
+    "location": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "loc_rule": 0,
+    "rota_rule": 0,
+    "scl_rule": 0,
+    "end_rule": 0,
+    "magni": 0,
+    "attr_id": 0,
+    "tag": "",
+    "max": 10000,
+    "min": 0,
+    "listen_attr": false,
+    "soft_follow": false,
+    "lock_revolution": false,
+    "lock_rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "interp_speed": 5,
+    "farthest_distance": 100,
+    "fault_tolerance": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "target_scale_up": [
+      1.0,
+      1.0
+    ],
+    "resources": [],
+    "parameters": []
+  },
+  {
+    "id": 80017090,
+    "path": "/Game/Aki/Effect/EffectGroup/R2T1JinxiMd10011/DA_Fx_Group_R1a_TimeFrozen.DA_Fx_Group_R1a_TimeFrozen",
+    "cue_type": 0,
+    "comp": 1,
+    "comp_name": "Mesh",
+    "socket": "None",
+    "location": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "loc_rule": 0,
+    "rota_rule": 0,
+    "scl_rule": 0,
+    "end_rule": 1,
+    "magni": 0,
+    "attr_id": 0,
+    "tag": "",
+    "max": 10000,
+    "min": 0,
+    "listen_attr": false,
+    "soft_follow": false,
+    "lock_revolution": false,
+    "lock_rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "interp_speed": 5,
+    "farthest_distance": 100,
+    "fault_tolerance": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "target_scale_up": [
+      1.0,
+      1.0
+    ],
+    "resources": [],
+    "parameters": []
+  },
+  {
+    "id": 20051,
+    "path": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "cue_type": 2,
+    "comp": 0,
+    "comp_name": "Mesh",
+    "socket": "None",
+    "location": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "loc_rule": 0,
+    "rota_rule": 0,
+    "scl_rule": 0,
+    "end_rule": 0,
+    "magni": 0,
+    "attr_id": 0,
+    "tag": "",
+    "max": 10000,
+    "min": 0,
+    "listen_attr": false,
+    "soft_follow": false,
+    "lock_revolution": false,
+    "lock_rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "interp_speed": 5,
+    "farthest_distance": 100,
+    "fault_tolerance": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "target_scale_up": [
+      1.0,
+      1.0
+    ],
+    "resources": [],
+    "parameters": [
+      "1",
+      "FFEA5D7F"
+    ]
+  },
+  {
+    "id": 20061,
+    "path": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI",
+    "cue_type": 2,
+    "comp": 0,
+    "comp_name": "Mesh",
+    "socket": "None",
+    "location": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "loc_rule": 0,
+    "rota_rule": 0,
+    "scl_rule": 0,
+    "end_rule": 0,
+    "magni": 0,
+    "attr_id": 0,
+    "tag": "",
+    "max": 10000,
+    "min": 0,
+    "listen_attr": false,
+    "soft_follow": false,
+    "lock_revolution": false,
+    "lock_rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "interp_speed": 5,
+    "farthest_distance": 100,
+    "fault_tolerance": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "target_scale_up": [
+      1.0,
+      1.0
+    ],
+    "resources": [],
+    "parameters": [
+      "2"
+    ]
   }
 ]

@@ -6400,23 +6400,23 @@
     "pc_path": ""
   },
   {
-    "id": "UiItem_ActivityTimePointReward",
-    "path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/Welfare/UiItem_WelfareInfo.UiItem_WelfareInfo",
-    "pc_path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/PC/Welfare/PC_UiItem_WelfareInfo.PC_UiItem_WelfareInfo"
-  },
-  {
     "id": "ActivityRoleGuide_1205",
     "path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/ActivityRoleGuide/UiItem_RoleChangli.UiItem_RoleChangli",
     "pc_path": ""
   },
   {
-    "id": "ActivityTimePointReward_Bg_1",
-    "path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/Welfare/UiItem_WelfareBg.UiItem_WelfareBg",
+    "id": "SP_MarkBlock",
+    "path": "/Game/Aki/UI/UIResources/UiWorldMap/Atlas/SP_MarkBlock.SP_MarkBlock",
     "pc_path": ""
   },
   {
-    "id": "SP_MarkBlock",
-    "path": "/Game/Aki/UI/UIResources/UiWorldMap/Atlas/SP_MarkBlock.SP_MarkBlock",
+    "id": "UiItem_ActivityTimePointReward",
+    "path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/Welfare/UiItem_WelfareInfo.UiItem_WelfareInfo",
+    "pc_path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/PC/Welfare/PC_UiItem_WelfareInfo.PC_UiItem_WelfareInfo"
+  },
+  {
+    "id": "ActivityTimePointReward_Bg_1",
+    "path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/Welfare/UiItem_WelfareBg.UiItem_WelfareBg",
     "pc_path": ""
   },
   {
@@ -6432,6 +6432,11 @@
   {
     "id": "SP_TimePointReward_Index03",
     "path": "/Game/Aki/UI/UIResources/UiActivity/Atlas/Welfare/SP_Num03.SP_Num03",
+    "pc_path": ""
+  },
+  {
+    "id": "UiItem_SafeZoneUnitNode_Prefab",
+    "path": "/Game/Aki/UI/Framework/LGUI/SafeZoneUnitNode.SafeZoneUnitNode",
     "pc_path": ""
   }
 ]

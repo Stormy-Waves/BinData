@@ -689,7 +689,7 @@
     "light_sequence": ""
   },
   {
-    "id": 56,
+    "id": 55,
     "parent_view_name": "RoguelikeAchievementView",
     "child_view_name": "RoguelikeAchievementView",
     "tab_name": "Achievement_Rogue_Name",

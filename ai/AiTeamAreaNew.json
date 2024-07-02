@@ -41,7 +41,7 @@
   },
   {
     "id": 3,
-    "max_character": 6,
+    "max_character": 99,
     "reaction_time": {
       "min": 0.0,
       "max": 2000.0
@@ -99,7 +99,7 @@
   },
   {
     "id": 6,
-    "max_character": 6,
+    "max_character": 99,
     "reaction_time": {
       "min": 0.0,
       "max": 2000.0

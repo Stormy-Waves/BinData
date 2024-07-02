@@ -851,13 +851,13 @@
       "play_vo_jinxi_com_tiredlow"
     ],
     "break_up_event_list": [
-      "play_vo_jinxi_rankup01",
-      "play_vo_jinxi_rankup02",
-      "play_vo_jinxi_rankup01",
-      "play_vo_jinxi_rankup02",
-      "play_vo_jinxi_rankup03",
-      "play_vo_jinxi_rankup04",
-      "play_vo_jinxi_rankup05"
+      "play_vo_jinxi_sys_rankup01",
+      "play_vo_jinxi_sys_rankup02",
+      "play_vo_jinxi_sys_rankup01",
+      "play_vo_jinxi_sys_rankup02",
+      "play_vo_jinxi_sys_rankup03",
+      "play_vo_jinxi_sys_rankup04",
+      "play_vo_jinxi_sys_rankup05"
     ]
   },
   {
@@ -892,13 +892,13 @@
       "play_vo_changli_com_tiredlow"
     ],
     "break_up_event_list": [
-      "play_vo_changli_rankup01",
-      "play_vo_changli_rankup02",
-      "play_vo_changli_rankup01",
-      "play_vo_changli_rankup02",
-      "play_vo_changli_rankup03",
-      "play_vo_changli_rankup04",
-      "play_vo_changli_rankup05"
+      "play_vo_changli_sys_rankup01",
+      "play_vo_changli_sys_rankup02",
+      "play_vo_changli_sys_rankup01",
+      "play_vo_changli_sys_rankup02",
+      "play_vo_changli_sys_rankup03",
+      "play_vo_changli_sys_rankup04",
+      "play_vo_changli_sys_rankup05"
     ]
   }
 ]

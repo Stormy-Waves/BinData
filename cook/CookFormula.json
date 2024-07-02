@@ -838,5 +838,191 @@
     "role_list": [
       1205
     ]
+  },
+  {
+    "id": 10007,
+    "formula_item_id": 80010007,
+    "food_item_id": 80000007,
+    "type_id": 3,
+    "unlock": false,
+    "name": "咸奶茶",
+    "consume_items": [
+      {
+        "item_id": 80050004,
+        "count": 3
+      },
+      {
+        "item_id": 80050005,
+        "count": 3
+      },
+      {
+        "item_id": 80050008,
+        "count": 3
+      },
+      {
+        "item_id": 80021006,
+        "count": 1
+      }
+    ],
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
+  },
+  {
+    "id": 10018,
+    "formula_item_id": 80010018,
+    "food_item_id": 80000018,
+    "type_id": 3,
+    "unlock": false,
+    "name": "香柠炖肉",
+    "consume_items": [
+      {
+        "item_id": 42400030,
+        "count": 4
+      },
+      {
+        "item_id": 42310070,
+        "count": 3
+      },
+      {
+        "item_id": 80050008,
+        "count": 2
+      },
+      {
+        "item_id": 80021006,
+        "count": 1
+      }
+    ],
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
+  },
+  {
+    "id": 10022,
+    "formula_item_id": 80010022,
+    "food_item_id": 80000022,
+    "type_id": 3,
+    "unlock": false,
+    "name": "菱果炒盐雀",
+    "consume_items": [
+      {
+        "item_id": 80020002,
+        "count": 1
+      },
+      {
+        "item_id": 42310110,
+        "count": 2
+      },
+      {
+        "item_id": 42400010,
+        "count": 3
+      },
+      {
+        "item_id": 80021006,
+        "count": 1
+      }
+    ],
+    "proficiency": 40,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
+  },
+  {
+    "id": 10027,
+    "formula_item_id": 80010027,
+    "food_item_id": 80000027,
+    "type_id": 3,
+    "unlock": false,
+    "name": "糖醋里脊",
+    "consume_items": [
+      {
+        "item_id": 80020003,
+        "count": 1
+      },
+      {
+        "item_id": 42400030,
+        "count": 4
+      },
+      {
+        "item_id": 80050000,
+        "count": 4
+      },
+      {
+        "item_id": 80021007,
+        "count": 1
+      }
+    ],
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
+  },
+  {
+    "id": 10028,
+    "formula_item_id": 80010028,
+    "food_item_id": 80000028,
+    "type_id": 3,
+    "unlock": false,
+    "name": "油辣豆腐",
+    "consume_items": [
+      {
+        "item_id": 80020000,
+        "count": 1
+      },
+      {
+        "item_id": 80020004,
+        "count": 4
+      },
+      {
+        "item_id": 42400010,
+        "count": 2
+      },
+      {
+        "item_id": 80021006,
+        "count": 1
+      }
+    ],
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
+  },
+  {
+    "id": 10030,
+    "formula_item_id": 80010030,
+    "food_item_id": 80000030,
+    "type_id": 3,
+    "unlock": false,
+    "name": "酿肉豆腐",
+    "consume_items": [
+      {
+        "item_id": 80020001,
+        "count": 1
+      },
+      {
+        "item_id": 80020004,
+        "count": 2
+      },
+      {
+        "item_id": 42400030,
+        "count": 4
+      },
+      {
+        "item_id": 80021006,
+        "count": 1
+      }
+    ],
+    "proficiency": 60,
+    "max_proficiency_count": 10,
+    "food_content": "",
+    "food_background": "",
+    "role_list": []
   }
 ]

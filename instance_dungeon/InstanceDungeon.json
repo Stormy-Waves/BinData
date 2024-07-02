@@ -7887,7 +7887,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 2
+    "drop_vision_limit": 0
   },
   {
     "id": 2022,
@@ -8014,7 +8014,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 2
+    "drop_vision_limit": 0
   },
   {
     "id": 2023,
@@ -8141,7 +8141,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 2
+    "drop_vision_limit": 0
   },
   {
     "id": 2024,
@@ -8268,7 +8268,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 2
+    "drop_vision_limit": 0
   },
   {
     "id": 2025,
@@ -8395,7 +8395,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 2
+    "drop_vision_limit": 0
   },
   {
     "id": 2026,
@@ -8522,7 +8522,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 2
+    "drop_vision_limit": 0
   },
   {
     "id": 2027,
@@ -8649,7 +8649,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 2
+    "drop_vision_limit": 0
   },
   {
     "id": 2028,
@@ -8776,7 +8776,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 2
+    "drop_vision_limit": 0
   },
   {
     "id": 4001,
@@ -16513,9 +16513,7 @@
     "inst_type": 2,
     "inst_sub_type": 11,
     "online_type": 0,
-    "custom_types": [
-      1
-    ],
+    "custom_types": [],
     "mini_map_id": 1,
     "sub_levels": [],
     "fight_formation_id": 2,
@@ -33160,7 +33158,13 @@
       "PayShopRootView",
       "OnlineWorldHallView",
       "WorldMapView",
-      "QuestView"
+      "QuestView",
+      "CommonActivityView",
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -35786,7 +35790,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 0
+    "drop_vision_limit": 2
   },
   {
     "id": 2032,
@@ -35918,7 +35922,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 0
+    "drop_vision_limit": 2
   },
   {
     "id": 2033,
@@ -36050,7 +36054,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 0
+    "drop_vision_limit": 2
   },
   {
     "id": 2034,
@@ -36182,7 +36186,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 0
+    "drop_vision_limit": 2
   },
   {
     "id": 2035,
@@ -36314,7 +36318,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 0
+    "drop_vision_limit": 2
   },
   {
     "id": 2036,
@@ -36446,7 +36450,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 0
+    "drop_vision_limit": 2
   },
   {
     "id": 2037,
@@ -36578,7 +36582,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 0
+    "drop_vision_limit": 2
   },
   {
     "id": 2038,
@@ -36710,7 +36714,7 @@
     "enter_condition_group": 0,
     "icon_tag_path": "",
     "render_settings": [],
-    "drop_vision_limit": 0
+    "drop_vision_limit": 2
   },
   {
     "id": 1507,
@@ -36774,8 +36778,31 @@
     "recommend_element": [],
     "share_attri": 0,
     "limit_view_name": [
+      "CommonActivityView",
       "EditFormationView",
-      "EditBattleTeamView"
+      "RoleRootView",
+      "RoleBreachView",
+      "RoleSkillView",
+      "RoleLevelUpView",
+      "RolePhantomSkillView",
+      "ShopView",
+      "FunctionView",
+      "InventoryView",
+      "MailBoxView",
+      "WeaponRootView",
+      "WeaponReplaceView",
+      "WeaponBreachSuccessView",
+      "WeaponResonanceSuccessView",
+      "PhantomCultureView",
+      "InventoryPcView",
+      "FriendView",
+      "PayShopRootView",
+      "OnlineWorldHallView",
+      "WorldMapView",
+      "QuestView",
+      "GachaMainView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 1,
     "guide_type": 0,
@@ -38044,7 +38071,11 @@
       "WorldMapView",
       "QuestView",
       "CommonActivityView",
-      "AdventureTargetView"
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -38175,7 +38206,11 @@
       "WorldMapView",
       "QuestView",
       "CommonActivityView",
-      "AdventureTargetView"
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -38307,7 +38342,11 @@
       "WorldMapView",
       "QuestView",
       "CommonActivityView",
-      "AdventureTargetView"
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -38438,7 +38477,11 @@
       "WorldMapView",
       "QuestView",
       "CommonActivityView",
-      "AdventureTargetView"
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -38572,7 +38615,11 @@
       "WorldMapView",
       "QuestView",
       "CommonActivityView",
-      "AdventureTargetView"
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -38707,7 +38754,11 @@
       "WorldMapView",
       "QuestView",
       "CommonActivityView",
-      "AdventureTargetView"
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -38823,7 +38874,13 @@
       "PayShopRootView",
       "OnlineWorldHallView",
       "WorldMapView",
-      "QuestView"
+      "QuestView",
+      "CommonActivityView",
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -38933,7 +38990,13 @@
       "PayShopRootView",
       "OnlineWorldHallView",
       "WorldMapView",
-      "QuestView"
+      "QuestView",
+      "CommonActivityView",
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -39043,7 +39106,13 @@
       "PayShopRootView",
       "OnlineWorldHallView",
       "WorldMapView",
-      "QuestView"
+      "QuestView",
+      "CommonActivityView",
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -39153,7 +39222,13 @@
       "PayShopRootView",
       "OnlineWorldHallView",
       "WorldMapView",
-      "QuestView"
+      "QuestView",
+      "CommonActivityView",
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -39263,7 +39338,13 @@
       "PayShopRootView",
       "OnlineWorldHallView",
       "WorldMapView",
-      "QuestView"
+      "QuestView",
+      "CommonActivityView",
+      "AdventureTargetView",
+      "GachaMainView",
+      "CommonActivityView",
+      "BattlePassMainView",
+      "functionView"
     ],
     "can_use_item": 0,
     "guide_type": 0,
@@ -39979,6 +40060,261 @@
     "guide_type": 0,
     "guide_value": 0,
     "settle_button_type": 2,
+    "sub_title": [],
+    "sub_instance_title": "",
+    "auto_leave_time": 60,
+    "limit_time": 0,
+    "leave_wait_time": 0,
+    "fail_tips": "",
+    "verify_creature_gen": false,
+    "difficulty_level": [],
+    "difficulty_desc": [],
+    "drop": [],
+    "enter_count": 0,
+    "enter_condition_group": 0,
+    "icon_tag_path": "",
+    "render_settings": [],
+    "drop_vision_limit": 0
+  },
+  {
+    "id": 8114,
+    "map_config_id": 8101,
+    "map_name": "InstanceDungeon_8106_MapName",
+    "inst_type": 2,
+    "inst_sub_type": 14,
+    "online_type": 0,
+    "custom_types": [],
+    "mini_map_id": 1,
+    "sub_levels": [],
+    "fight_formation_id": 0,
+    "trial_role_info": [
+      0,
+      0,
+      0
+    ],
+    "trial_role_formation": 8106,
+    "revive_id": 7,
+    "born_position": [
+      -5110,
+      260,
+      450
+    ],
+    "born_rotation": [
+      0,
+      0,
+      160
+    ],
+    "recover_world_location": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "entrance_entities": [],
+    "exit_entities": [],
+    "dungeon_desc": "InstanceDungeon_5001_DungeonDesc",
+    "title": 999,
+    "banner_path": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_CheckpointsBg8_UI.T_CheckpointsBg8_UI",
+    "monster_preview": [],
+    "monster_tips": "",
+    "first_reward_id": 0,
+    "reward_id": 0,
+    "repeat_reward_id": 0,
+    "enter_control_id": 0,
+    "enter_condition": [],
+    "enter_condition_text": "",
+    "difficulty_icon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
+    "entity_level": 65,
+    "recommend_level": [
+      {
+        "key": 1,
+        "value": 70
+      }
+    ],
+    "recommend_role": [],
+    "recommend_element": [],
+    "share_attri": 1,
+    "limit_view_name": [
+      "EditFormationView",
+      "EditBattleTeamView"
+    ],
+    "can_use_item": 0,
+    "guide_type": 4,
+    "guide_value": 1601,
+    "settle_button_type": 3,
+    "sub_title": [],
+    "sub_instance_title": "",
+    "auto_leave_time": 60,
+    "limit_time": 0,
+    "leave_wait_time": 0,
+    "fail_tips": "",
+    "verify_creature_gen": false,
+    "difficulty_level": [],
+    "difficulty_desc": [],
+    "drop": [],
+    "enter_count": 0,
+    "enter_condition_group": 0,
+    "icon_tag_path": "",
+    "render_settings": [],
+    "drop_vision_limit": 0
+  },
+  {
+    "id": 8115,
+    "map_config_id": 8101,
+    "map_name": "InstanceDungeon_8103_MapName",
+    "inst_type": 2,
+    "inst_sub_type": 14,
+    "online_type": 0,
+    "custom_types": [],
+    "mini_map_id": 1,
+    "sub_levels": [],
+    "fight_formation_id": 0,
+    "trial_role_info": [
+      0,
+      0,
+      0
+    ],
+    "trial_role_formation": 8103,
+    "revive_id": 7,
+    "born_position": [
+      -5110,
+      260,
+      450
+    ],
+    "born_rotation": [
+      0,
+      0,
+      160
+    ],
+    "recover_world_location": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "entrance_entities": [],
+    "exit_entities": [],
+    "dungeon_desc": "InstanceDungeon_5001_DungeonDesc",
+    "title": 999,
+    "banner_path": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_CheckpointsBg8_UI.T_CheckpointsBg8_UI",
+    "monster_preview": [],
+    "monster_tips": "",
+    "first_reward_id": 0,
+    "reward_id": 0,
+    "repeat_reward_id": 0,
+    "enter_control_id": 0,
+    "enter_condition": [],
+    "enter_condition_text": "",
+    "difficulty_icon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
+    "entity_level": 65,
+    "recommend_level": [
+      {
+        "key": 1,
+        "value": 70
+      }
+    ],
+    "recommend_role": [],
+    "recommend_element": [],
+    "share_attri": 1,
+    "limit_view_name": [
+      "EditFormationView",
+      "EditBattleTeamView"
+    ],
+    "can_use_item": 0,
+    "guide_type": 4,
+    "guide_value": 1602,
+    "settle_button_type": 3,
+    "sub_title": [],
+    "sub_instance_title": "",
+    "auto_leave_time": 60,
+    "limit_time": 0,
+    "leave_wait_time": 0,
+    "fail_tips": "",
+    "verify_creature_gen": false,
+    "difficulty_level": [],
+    "difficulty_desc": [],
+    "drop": [],
+    "enter_count": 0,
+    "enter_condition_group": 0,
+    "icon_tag_path": "",
+    "render_settings": [],
+    "drop_vision_limit": 0
+  },
+  {
+    "id": 8116,
+    "map_config_id": 8101,
+    "map_name": "InstanceDungeon_8102_MapName",
+    "inst_type": 2,
+    "inst_sub_type": 14,
+    "online_type": 0,
+    "custom_types": [],
+    "mini_map_id": 1,
+    "sub_levels": [],
+    "fight_formation_id": 0,
+    "trial_role_info": [
+      0,
+      0,
+      0
+    ],
+    "trial_role_formation": 8102,
+    "revive_id": 7,
+    "born_position": [
+      -5110,
+      260,
+      450
+    ],
+    "born_rotation": [
+      0,
+      0,
+      160
+    ],
+    "recover_world_location": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "entrance_entities": [],
+    "exit_entities": [],
+    "dungeon_desc": "InstanceDungeon_5001_DungeonDesc",
+    "title": 999,
+    "banner_path": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_CheckpointsBg8_UI.T_CheckpointsBg8_UI",
+    "monster_preview": [],
+    "monster_tips": "",
+    "first_reward_id": 0,
+    "reward_id": 0,
+    "repeat_reward_id": 0,
+    "enter_control_id": 0,
+    "enter_condition": [],
+    "enter_condition_text": "",
+    "difficulty_icon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
+    "entity_level": 65,
+    "recommend_level": [
+      {
+        "key": 1,
+        "value": 70
+      }
+    ],
+    "recommend_role": [],
+    "recommend_element": [],
+    "share_attri": 1,
+    "limit_view_name": [
+      "EditFormationView",
+      "EditBattleTeamView"
+    ],
+    "can_use_item": 0,
+    "guide_type": 4,
+    "guide_value": 1204,
+    "settle_button_type": 3,
     "sub_title": [],
     "sub_instance_title": "",
     "auto_leave_time": 60,

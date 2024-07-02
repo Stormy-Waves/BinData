@@ -1614,5 +1614,13 @@
     "sub_title": "",
     "content": "GuideTutorialPage_3404101_Content",
     "button": []
+  },
+  {
+    "id": 3404002,
+    "pic": "/Game/Aki/UI/UIResources/Common/Image/ImgHelp/T_ImgHelp_Tuwenyindao_34040_02_UI.T_ImgHelp_Tuwenyindao_34040_02_UI",
+    "title": "Tutorial_3404002_Title",
+    "sub_title": "",
+    "content": "GuideTutorialPage_3404002_Content",
+    "button": []
   }
 ]

@@ -408,7 +408,7 @@
     "affix_desc_param": [
       "1",
       "2",
-      "100%"
+      "150%"
     ],
     "affix_desc_simple": "RogueBuffPool_1103430112_BuffDesc_0",
     "affix_title": "RogueBuffPool_1103430112_BuffDesc_1",
@@ -439,7 +439,9 @@
     ],
     "affix_desc": "RogueBuffPool_1103430115_BuffDesc",
     "affix_desc_param": [
-      "75%"
+      "75%",
+      "0.5",
+      "1"
     ],
     "affix_desc_simple": "RogueBuffPool_1103430115_BuffDesc_0",
     "affix_title": "RogueBuffPool_1103430115_BuffDesc_1",
@@ -724,8 +726,8 @@
     "affix_desc_param": [
       "4",
       "40%",
-      "5",
-      "5",
+      "10",
+      "10",
       "20%"
     ],
     "affix_desc_simple": "RogueBuffPool_1404500008_BuffDesc_0",
@@ -2304,6 +2306,9 @@
     ],
     "affix_desc": "RogueBuffPool_130405_BuffDesc",
     "affix_desc_param": [
+      "50%",
+      "6",
+      "2",
       "2",
       "250%",
       "800%"
@@ -2405,7 +2410,6 @@
     "affix_desc": "RogueBuffPool_120503_BuffDesc",
     "affix_desc_param": [
       "30",
-      "100%",
       "8",
       "0.3"
     ],

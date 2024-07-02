@@ -155,7 +155,7 @@
       27,
       30
     ],
-    "is_support_select_all": true,
+    "is_support_select_all": false,
     "is_show_icon": true,
     "grid_type": "UiItem_FliterGridS"
   }

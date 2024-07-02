@@ -14,7 +14,7 @@
     "title": "LongShanStage_Title02",
     "title_detail": "LongShanStage_TitleDetail02",
     "open_condition_id": 13000040,
-    "question_id": 125000120,
+    "question_id": 125000121,
     "picture": "/Game/Aki/UI/UIResources/UiActivity/Image/Longshan/T_LongshanPix02.T_LongshanPix02"
   },
   {
@@ -23,7 +23,7 @@
     "title": "LongShanStage_Title03",
     "title_detail": "LongShanStage_TitleDetail03",
     "open_condition_id": 13000041,
-    "question_id": 125000120,
+    "question_id": 133000009,
     "picture": "/Game/Aki/UI/UIResources/UiActivity/Image/Longshan/T_LongshanPix03.T_LongshanPix03"
   },
   {
@@ -32,7 +32,7 @@
     "title": "LongShanStage_Title04",
     "title_detail": "LongShanStage_TitleDetail04",
     "open_condition_id": 13000042,
-    "question_id": 125000120,
+    "question_id": 125000124,
     "picture": "/Game/Aki/UI/UIResources/UiActivity/Image/Longshan/T_LongshanPix04.T_LongshanPix04"
   }
 ]

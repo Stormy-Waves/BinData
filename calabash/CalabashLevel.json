@@ -914,7 +914,7 @@
   {
     "level": 20,
     "level_up_exp": 350,
-    "level_up_condition": 502006,
+    "level_up_condition": 502005,
     "temp_catch_gain": 1000,
     "buff_ids": [],
     "buff_description": "",
@@ -1010,7 +1010,7 @@
   {
     "level": 21,
     "level_up_exp": 9999999,
-    "level_up_condition": 502006,
+    "level_up_condition": 502005,
     "temp_catch_gain": 1000,
     "buff_ids": [],
     "buff_description": "",

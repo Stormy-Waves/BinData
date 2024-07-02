@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "activity_id": 102000001,
+    "ui_prefab": "ActivityTimePointReward_Bg_1"
+  }
+]

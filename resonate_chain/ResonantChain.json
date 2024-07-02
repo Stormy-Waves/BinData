@@ -1672,7 +1672,7 @@
     "attributes_description_params": [
       "4"
     ],
-    "node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM1_UI.T_IconDevice_QiushuiM2_UI"
+    "node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM1_UI.T_IconDevice_QiushuiM1_UI"
   },
   {
     "id": 68,
@@ -1697,7 +1697,7 @@
       "100%",
       "15%"
     ],
-    "node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM2_UI.T_IconDevice_QiushuiM1_UI"
+    "node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM2_UI.T_IconDevice_QiushuiM2_UI"
   },
   {
     "id": 69,
@@ -2829,7 +2829,7 @@
     ],
     "attributes_description_params": [
       "45%",
-      "71%"
+      "45%"
     ],
     "node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JinxiM6_UI.T_IconDevice_JinxiM6_UI"
   },
@@ -2877,7 +2877,7 @@
       }
     ],
     "attributes_description_params": [
-      "30%",
+      "25%",
       "8"
     ],
     "node_icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ChangliM2_UI.T_IconDevice_ChangliM2_UI"

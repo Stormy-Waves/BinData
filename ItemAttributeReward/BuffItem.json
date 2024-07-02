@@ -100,9 +100,9 @@
   },
   {
     "id": 80000007,
-    "public_cd_group": 0,
+    "public_cd_group": 8,
     "buffs": [
-      83010304
+      83011201
     ],
     "cd": 0,
     "share": true
@@ -202,7 +202,7 @@
   },
   {
     "id": 80000018,
-    "public_cd_group": 0,
+    "public_cd_group": 8,
     "buffs": [
       83010901
     ],
@@ -238,10 +238,9 @@
   },
   {
     "id": 80000022,
-    "public_cd_group": 0,
+    "public_cd_group": 8,
     "buffs": [
-      81000017,
-      81000020
+      83011301
     ],
     "cd": 0,
     "share": true
@@ -284,7 +283,7 @@
   },
   {
     "id": 80000027,
-    "public_cd_group": 0,
+    "public_cd_group": 8,
     "buffs": [
       83010902
     ],
@@ -293,10 +292,9 @@
   },
   {
     "id": 80000028,
-    "public_cd_group": 0,
+    "public_cd_group": 8,
     "buffs": [
-      81000015,
-      81000021
+      83011202
     ],
     "cd": 0,
     "share": true
@@ -312,10 +310,9 @@
   },
   {
     "id": 80000030,
-    "public_cd_group": 0,
+    "public_cd_group": 8,
     "buffs": [
-      81000012,
-      81000023
+      83011302
     ],
     "cd": 0,
     "share": true

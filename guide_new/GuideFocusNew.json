@@ -18526,19 +18526,21 @@
     "view_name": "BattleView",
     "dynamic_tab_name": "",
     "platform": "主机端",
-    "hook_name": "T-共鸣技能",
-    "hook_name_for_show": "T-共鸣技能",
+    "hook_name": "T-手柄共鸣",
+    "hook_name_for_show": "V-手柄共鸣",
     "extra_param": [],
     "extra_param_desc": "",
     "content_direction": "U",
     "show_arrow": true,
     "content": "GuideFocusNew_1159_Content",
-    "button": [],
+    "button": [
+      "技能1"
+    ],
     "input_enums": [
-      "手柄引导下一步"
+      "技能1"
     ],
     "limit_input_enums": [
-      "手柄引导下一步"
+      "技能1"
     ],
     "show_mouse": false,
     "use_mask": true,
@@ -18615,8 +18617,8 @@
     "view_name": "BattleView",
     "dynamic_tab_name": "",
     "platform": "主机端",
-    "hook_name": "T-共鸣技能",
-    "hook_name_for_show": "T-共鸣技能",
+    "hook_name": "T-手柄共鸣",
+    "hook_name_for_show": "V-手柄共鸣",
     "extra_param": [],
     "extra_param_desc": "",
     "content_direction": "U",
@@ -18706,8 +18708,8 @@
     "view_name": "BattleView",
     "dynamic_tab_name": "",
     "platform": "主机端",
-    "hook_name": "T-共鸣技能",
-    "hook_name_for_show": "T-共鸣技能",
+    "hook_name": "T-手柄共鸣",
+    "hook_name_for_show": "V-手柄共鸣",
     "extra_param": [],
     "extra_param_desc": "",
     "content_direction": "U",
@@ -18766,19 +18768,21 @@
     "view_name": "BattleView",
     "dynamic_tab_name": "",
     "platform": "主机端",
-    "hook_name": "T-普攻",
-    "hook_name_for_show": "T-普攻",
+    "hook_name": "T-手柄普攻",
+    "hook_name_for_show": "T-手柄普攻",
     "extra_param": [],
     "extra_param_desc": "",
     "content_direction": "U",
     "show_arrow": true,
     "content": "GuideFocusNew_1168_Content",
-    "button": [],
+    "button": [
+      "攻击"
+    ],
     "input_enums": [
-      "手柄引导下一步"
+      "攻击"
     ],
     "limit_input_enums": [
-      "手柄引导下一步"
+      "攻击"
     ],
     "show_mouse": false,
     "use_mask": true,
@@ -18824,8 +18828,8 @@
     "view_name": "BattleView",
     "dynamic_tab_name": "",
     "platform": "主机端",
-    "hook_name": "T-跳跃",
-    "hook_name_for_show": "V-跳跃",
+    "hook_name": "T-手柄跳跃",
+    "hook_name_for_show": "T-手柄跳跃",
     "extra_param": [],
     "extra_param_desc": "",
     "content_direction": "U",
@@ -18978,8 +18982,8 @@
     "view_name": "BattleView",
     "dynamic_tab_name": "",
     "platform": "主机端",
-    "hook_name": "T-普攻",
-    "hook_name_for_show": "T-普攻",
+    "hook_name": "T-手柄普攻",
+    "hook_name_for_show": "T-手柄普攻",
     "extra_param": [],
     "extra_param_desc": "",
     "content_direction": "U",

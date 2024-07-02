@@ -37,7 +37,7 @@
       "min": 800.0,
       "max": 2000.0
     },
-    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
+    "speed_reduce_curve": ""
   },
   {
     "id": "1",
@@ -77,7 +77,7 @@
       "min": 400.0,
       "max": 1800.0
     },
-    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
+    "speed_reduce_curve": ""
   },
   {
     "id": "2",
@@ -117,7 +117,7 @@
       "min": 800.0,
       "max": 2000.0
     },
-    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
+    "speed_reduce_curve": ""
   },
   {
     "id": "3",
@@ -157,7 +157,7 @@
       "min": 800.0,
       "max": 2000.0
     },
-    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
+    "speed_reduce_curve": ""
   },
   {
     "id": "4",
@@ -197,7 +197,7 @@
       "min": 400.0,
       "max": 1800.0
     },
-    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
+    "speed_reduce_curve": ""
   },
   {
     "id": "5",
@@ -237,6 +237,6 @@
       "min": 400.0,
       "max": 1800.0
     },
-    "speed_reduce_curve": "/Game/Aki/Character/BaseCharacter/Curves/CharacterMovementCurves/SlideSpeedReduceCurve.SlideSpeedReduceCurve"
+    "speed_reduce_curve": ""
   }
 ]

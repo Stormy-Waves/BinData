@@ -221,8 +221,15 @@
     "disable_function": [
       6
     ],
-    "affected_value": [],
-    "affected_function": [],
+    "affected_value": [
+      1
+    ],
+    "affected_function": [
+      {
+        "key": 6,
+        "value": 2
+      }
+    ],
     "value_tips_map": [],
     "clicked_tips_map": [],
     "clicked_tips": "0",
@@ -3781,31 +3788,29 @@
     "condition_group": 0
   },
   {
-    "id": 68,
-    "function_id": 79,
-    "options_default": 1,
-    "main_type": 2,
-    "sub_name": "MenuConfig_68_SubName",
-    "sub_type": 0,
+    "id": 130,
+    "function_id": 130,
+    "options_default": 0,
+    "main_type": 6,
+    "sub_name": "MenuConfig_104_SubName",
+    "sub_type": 2,
     "sub_sort": 2,
-    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
-    "name": "MenuConfig_68_Name",
-    "platform": 0,
-    "function_sort": 20,
-    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETxitongshezhi3.SP_SETxitongshezhi3",
+    "name": "MenuConfig_129_Name",
+    "platform": 1,
+    "function_sort": 5,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian1.SP_SETanjian1",
     "set_type": 2,
     "slider_range": [],
     "slider_default": 0.0,
     "digits": 0,
     "options_name": [
-      "MenuConfig_93_OptionsName_0",
-      "MenuConfig_93_OptionsName_1",
-      "MenuConfig_93_OptionsName_2"
+      "MenuConfig_55_OptionsName_0",
+      "MenuConfig_55_OptionsName_1"
     ],
     "options_value": [
       0,
-      1,
-      2
+      1
     ],
     "key_map": "",
     "button_text": "",
@@ -3861,29 +3866,31 @@
     "condition_group": 0
   },
   {
-    "id": 130,
-    "function_id": 130,
-    "options_default": 0,
-    "main_type": 6,
-    "sub_name": "MenuConfig_104_SubName",
-    "sub_type": 2,
+    "id": 68,
+    "function_id": 79,
+    "options_default": 1,
+    "main_type": 2,
+    "sub_name": "MenuConfig_68_SubName",
+    "sub_type": 0,
     "sub_sort": 2,
-    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETxitongshezhi3.SP_SETxitongshezhi3",
-    "name": "MenuConfig_129_Name",
-    "platform": 1,
-    "function_sort": 5,
-    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETanjian1.SP_SETanjian1",
+    "sub_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
+    "name": "MenuConfig_68_Name",
+    "platform": 0,
+    "function_sort": 20,
+    "function_image": "/Game/Aki/UI/UIResources/UiSet/Atlas/SP_SETzidingyi.SP_SETzidingyi",
     "set_type": 2,
     "slider_range": [],
     "slider_default": 0.0,
     "digits": 0,
     "options_name": [
-      "MenuConfig_55_OptionsName_0",
-      "MenuConfig_55_OptionsName_1"
+      "MenuConfig_93_OptionsName_0",
+      "MenuConfig_93_OptionsName_1",
+      "MenuConfig_93_OptionsName_2"
     ],
     "options_value": [
       0,
-      1
+      1,
+      2
     ],
     "key_map": "",
     "button_text": "",

@@ -12198,7 +12198,7 @@
     "attributes_description": "PhantomItem_60000012_AttributesDescription",
     "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_985_UI.T_IconMonsterHead_985_UI",
     "icon_middle": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods160/T_IconMonsterGoods160_985_UI.T_IconMonsterGoods160_985_UI",
-    "icon_small": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods80/T_IconMonsterGoods80_985_UI.T_IconMonsterGoods80_985_UI'",
+    "icon_small": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods80/T_IconMonsterGoods80_985_UI.T_IconMonsterGoods80_985_UI",
     "mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES",
     "quality_id": 5,
     "max_capcity": 999999999,
@@ -12853,7 +12853,7 @@
       1
     ],
     "level_up_group_id": 4,
-    "skill_id": 201050,
+    "skill_id": 200050,
     "calabash_buffs": [
       70045
     ],
@@ -12908,7 +12908,7 @@
       5
     ],
     "level_up_group_id": 4,
-    "skill_id": 201052,
+    "skill_id": 200052,
     "calabash_buffs": [
       70046
     ],

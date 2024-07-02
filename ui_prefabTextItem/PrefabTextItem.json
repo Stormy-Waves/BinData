@@ -32238,16 +32238,22 @@
     "text": "PrefabTextItem_3591032505_Text"
   },
   {
+    "item_id": 1753706656,
+    "prefab_path_hash": 2588950471,
+    "item_path": "UiView_ArchiveStorySelect/UiItem_LayerUi_Prefab/PnlEmpty/UiItem_Empty/PnlVert/TxtDescriptA",
+    "text": "PrefabTextItem_1753706656_Text"
+  },
+  {
+    "item_id": 534629451,
+    "prefab_path_hash": 2588950471,
+    "item_path": "UiView_ArchiveStorySelect/UiItem_LayerUi_Prefab/PnlEmpty/UiItem_Empty/PnlVert/TxtDescriptB",
+    "text": "PrefabTextItem_Default_Text"
+  },
+  {
     "item_id": 3863063427,
     "prefab_path_hash": 1860466826,
     "item_path": "UiItem_ActivityRoleOntrial/PnlInfo/PnlBottom/UiItem_ComActivityRogueBottom/PnlVLayout/PnlHoriLayout/BtnConfirmB2/PnlPivot/PnlLayout/TxtConfirm",
     "text": "PrefabTextItem_3863063427_Text"
-  },
-  {
-    "item_id": 3594337445,
-    "prefab_path_hash": 885314274,
-    "item_path": "UiItem_MstTipsC/PnlTips/TxtNameMid",
-    "text": "PrefabTextItem_Default_Text"
   },
   {
     "item_id": 1224008320,
@@ -32268,21 +32274,21 @@
     "text": "PrefabTextItem_Default_Text"
   },
   {
-    "item_id": 1753706656,
-    "prefab_path_hash": 2588950471,
-    "item_path": "UiView_ArchiveStorySelect/UiItem_LayerUi_Prefab/PnlEmpty/UiItem_Empty/PnlVert/TxtDescriptA",
-    "text": "PrefabTextItem_1753706656_Text"
-  },
-  {
-    "item_id": 534629451,
-    "prefab_path_hash": 2588950471,
-    "item_path": "UiView_ArchiveStorySelect/UiItem_LayerUi_Prefab/PnlEmpty/UiItem_Empty/PnlVert/TxtDescriptB",
-    "text": "PrefabTextItem_Default_Text"
-  },
-  {
     "item_id": 2280546196,
     "prefab_path_hash": 3225332042,
     "item_path": "UiView_Collect/UiItem_LayerUi/PnlBottom/PnlActivated/PnlKeyLayout/TxtActivated",
     "text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "item_id": 3594337445,
+    "prefab_path_hash": 885314274,
+    "item_path": "UiItem_MstTipsC/PnlTips/TxtNameMid",
+    "text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "item_id": 1386177043,
+    "prefab_path_hash": 3605994658,
+    "item_path": "UiView_ShopTab/UiItem_LayerUi_Prefab/TxtTip",
+    "text": "PrefabTextItem_1386177043_Text"
   }
 ]

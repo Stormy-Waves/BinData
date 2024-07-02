@@ -4,7 +4,7 @@
     "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleDanjin.T_ActivityRoleDanjin",
     "trial_role_id": 16027004,
     "instance_text": "",
-    "instance_id": 8103,
+    "instance_id": 8115,
     "reward_item": [
       {
         "key": 43010002,
@@ -25,7 +25,7 @@
     "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleMofeite.T_ActivityRoleMofeite",
     "trial_role_id": 12047004,
     "instance_text": "",
-    "instance_id": 8102,
+    "instance_id": 8116,
     "reward_item": [
       {
         "key": 43010002,
@@ -46,7 +46,7 @@
     "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleTaoqi.T_ActivityRoleTaoqi",
     "trial_role_id": 16017004,
     "instance_text": "",
-    "instance_id": 8106,
+    "instance_id": 8114,
     "reward_item": [
       {
         "key": 43010002,
@@ -152,6 +152,111 @@
     "trial_role_id": 11037004,
     "instance_text": "",
     "instance_id": 8113,
+    "reward_item": [
+      {
+        "key": 43010002,
+        "value": 2
+      },
+      {
+        "key": 43020002,
+        "value": 2
+      },
+      {
+        "key": 2,
+        "value": 10000
+      }
+    ]
+  },
+  {
+    "id": 1404,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJiyan1.T_ActivityRoleJiyan1",
+    "trial_role_id": 14047004,
+    "instance_text": "",
+    "instance_id": 8101,
+    "reward_item": [
+      {
+        "key": 3,
+        "value": 20
+      },
+      {
+        "key": 43010003,
+        "value": 2
+      },
+      {
+        "key": 43020003,
+        "value": 2
+      }
+    ]
+  },
+  {
+    "id": 1302,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYinlin.T_ActivityRoleYinlin",
+    "trial_role_id": 13027004,
+    "instance_text": "",
+    "instance_id": 8105,
+    "reward_item": [
+      {
+        "key": 3,
+        "value": 20
+      },
+      {
+        "key": 43010003,
+        "value": 2
+      },
+      {
+        "key": 43020003,
+        "value": 2
+      }
+    ]
+  },
+  {
+    "id": 1202,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhixia.T_ActivityRoleZhixia",
+    "trial_role_id": 12027004,
+    "instance_text": "",
+    "instance_id": 8104,
+    "reward_item": [
+      {
+        "key": 43010002,
+        "value": 2
+      },
+      {
+        "key": 43020002,
+        "value": 2
+      },
+      {
+        "key": 2,
+        "value": 10000
+      }
+    ]
+  },
+  {
+    "id": 1403,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleQiushui.T_ActivityRoleQiushui",
+    "trial_role_id": 14037004,
+    "instance_text": "",
+    "instance_id": 8107,
+    "reward_item": [
+      {
+        "key": 43010002,
+        "value": 2
+      },
+      {
+        "key": 43020002,
+        "value": 2
+      },
+      {
+        "key": 2,
+        "value": 10000
+      }
+    ]
+  },
+  {
+    "id": 1303,
+    "role_stand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYuanwu.T_ActivityRoleYuanwu",
+    "trial_role_id": 13037004,
+    "instance_text": "",
+    "instance_id": 8108,
     "reward_item": [
       {
         "key": 43010002,

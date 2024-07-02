@@ -3106,5 +3106,68 @@
     "buff_name": "RogueBuffPool_900312000670_BuffName",
     "role_id": 0,
     "trial_role_id": 0
+  },
+  {
+    "id": 8007,
+    "buff_id": 919990001402,
+    "per_ids": [],
+    "effect_id": 0,
+    "perk_type": 5,
+    "quality": 5,
+    "buff_element": [
+      {
+        "key": 4,
+        "value": 2
+      }
+    ],
+    "buff_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1402_UI.T_IconRup_Part_1402_UI",
+    "buff_desc": "RogueBuffPool_1402_BuffDesc",
+    "buff_desc_param": [],
+    "buff_desc_simple": "RogueBuffPool_1402_BuffDesc_0",
+    "buff_name": "RogueBuffPool_1402_BuffName",
+    "role_id": 1402,
+    "trial_role_id": 0
+  },
+  {
+    "id": 8008,
+    "buff_id": 919990001202,
+    "per_ids": [],
+    "effect_id": 0,
+    "perk_type": 5,
+    "quality": 5,
+    "buff_element": [
+      {
+        "key": 4,
+        "value": 2
+      }
+    ],
+    "buff_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1202_UI.T_IconRup_Part_1202_UI",
+    "buff_desc": "RogueBuffPool_1202_BuffDesc",
+    "buff_desc_param": [],
+    "buff_desc_simple": "RogueBuffPool_1202_BuffDesc_0",
+    "buff_name": "RogueBuffPool_1202_BuffName",
+    "role_id": 1202,
+    "trial_role_id": 0
+  },
+  {
+    "id": 8009,
+    "buff_id": 919990001404,
+    "per_ids": [],
+    "effect_id": 0,
+    "perk_type": 5,
+    "quality": 5,
+    "buff_element": [
+      {
+        "key": 4,
+        "value": 2
+      }
+    ],
+    "buff_icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1404_UI.T_IconRup_Part_1404_UI",
+    "buff_desc": "RogueBuffPool_1404_BuffDesc",
+    "buff_desc_param": [],
+    "buff_desc_simple": "RogueBuffPool_1404_BuffDesc_0",
+    "buff_name": "RogueBuffPool_1404_BuffName",
+    "role_id": 1404,
+    "trial_role_id": 0
   }
 ]

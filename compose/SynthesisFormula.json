@@ -1738,5 +1738,49 @@
     "role_list": [],
     "compose_content": "",
     "compose_background": ""
+  },
+  {
+    "id": 10,
+    "formula_item_id": 0,
+    "item_id": 36000013,
+    "formula_type": 2,
+    "name": "4级鉴定器",
+    "consume_items": [
+      {
+        "item_id": 36000012,
+        "count": 5
+      }
+    ],
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
+  },
+  {
+    "id": 11,
+    "formula_item_id": 0,
+    "item_id": 36000014,
+    "formula_type": 2,
+    "name": "5级鉴定器",
+    "consume_items": [
+      {
+        "item_id": 36000013,
+        "count": 5
+      }
+    ],
+    "unlock_condition": 0,
+    "proficiency": 0,
+    "max_proficiency_count": 0,
+    "type_id": 4,
+    "unlock": true,
+    "limit_count": 0,
+    "role_list": [],
+    "compose_content": "",
+    "compose_background": ""
   }
 ]

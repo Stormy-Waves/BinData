@@ -126,7 +126,7 @@
     "reward_item": [
       {
         "key": 36000014,
-        "value": 40
+        "value": 20
       }
     ],
     "is_special": false
@@ -258,7 +258,7 @@
     "reward_item": [
       {
         "key": 36000014,
-        "value": 40
+        "value": 20
       }
     ],
     "is_special": false

@@ -35476,7 +35476,7 @@
       },
       {
         "key": "InstanceId",
-        "value": "8004"
+        "value": "8009"
       }
     ],
     "limit_params_ope": [],
@@ -42183,7 +42183,7 @@
     "limit_params": [
       {
         "key": "NewQuestId",
-        "value": "114000017"
+        "value": "139000030"
       },
       {
         "key": "State",
@@ -46669,16 +46669,20 @@
   },
   {
     "id": 13000039,
-    "type": "NewQuestState",
+    "type": "NewQuestStepState",
     "need_num": 1,
     "limit_params": [
       {
         "key": "NewQuestId",
-        "value": "880000013"
+        "value": "125000121"
       },
       {
         "key": "State",
         "value": "3"
+      },
+      {
+        "key": "QuestNodeId",
+        "value": "5"
       }
     ],
     "limit_params_ope": [],
@@ -47363,6 +47367,10 @@
       {
         "key": "InstanceId",
         "value": "8"
+      },
+      {
+        "key": "Online",
+        "value": "1"
       }
     ],
     "limit_params_ope": [],
@@ -47443,12 +47451,20 @@
   },
   {
     "id": 13000057,
-    "type": "MonsterCreatorComplete",
+    "type": "EntityDie",
     "need_num": 1,
     "limit_params": [
       {
         "key": "EntityConfigId",
-        "value": "142900003"
+        "value": "136900631"
+      },
+      {
+        "key": "InstanceId",
+        "value": "8"
+      },
+      {
+        "key": "Online",
+        "value": "1"
       }
     ],
     "limit_params_ope": [],
@@ -47481,6 +47497,10 @@
       {
         "key": "InstanceId",
         "value": "8"
+      },
+      {
+        "key": "Online",
+        "value": "1"
       }
     ],
     "limit_params_ope": [],
@@ -47525,6 +47545,10 @@
       {
         "key": "InstanceId",
         "value": "8"
+      },
+      {
+        "key": "Online",
+        "value": "1"
       }
     ],
     "limit_params_ope": [],
@@ -47538,7 +47562,7 @@
     "limit_params": [
       {
         "key": "BpType",
-        "value": "Monster127"
+        "value": "Monster118"
       }
     ],
     "limit_params_ope": [],
@@ -47552,7 +47576,7 @@
     "limit_params": [
       {
         "key": "BpType",
-        "value": "Monster118"
+        "value": "Monster127"
       }
     ],
     "limit_params_ope": [],
@@ -47851,7 +47875,7 @@
       },
       {
         "key": "QuestNodeId",
-        "value": "2"
+        "value": "44"
       },
       {
         "key": "State",
@@ -48102,11 +48126,11 @@
     "limit_params": [
       {
         "key": "NewQuestId",
-        "value": "125000124"
+        "value": "125900000"
       },
       {
         "key": "QuestNodeId",
-        "value": "84"
+        "value": "2"
       },
       {
         "key": "State",
@@ -48141,12 +48165,20 @@
   },
   {
     "id": 101300146,
-    "type": "LevelPlayComplete",
+    "type": "NewQuestStepState",
     "need_num": 1,
     "limit_params": [
       {
-        "key": "LevelPlayId",
-        "value": "103000025"
+        "key": "NewQuestId",
+        "value": "102000000"
+      },
+      {
+        "key": "QuestNodeId",
+        "value": "321"
+      },
+      {
+        "key": "State",
+        "value": "3"
       }
     ],
     "limit_params_ope": [],
@@ -48164,7 +48196,7 @@
       },
       {
         "key": "QuestNodeId",
-        "value": "42"
+        "value": "64"
       },
       {
         "key": "State",
@@ -48460,7 +48492,7 @@
       },
       {
         "key": "NodeId",
-        "value": "34"
+        "value": "50"
       }
     ],
     "limit_params_ope": [],
@@ -48488,7 +48520,7 @@
     "limit_params": [
       {
         "key": "LevelPlayId",
-        "value": "133900020-141900003-141900004-133900004-133900005-133900006-133900018-133900014-133900007-133900019-133900013-133900012"
+        "value": "133900020-141900003-141900004-133900004-133900005-133900006-133900018-133900014-133900013-146000063-146000064"
       }
     ],
     "limit_params_ope": [],
@@ -48549,12 +48581,12 @@
   },
   {
     "id": 101100223,
-    "type": "EntityStateByBpType",
+    "type": "EntityStateById",
     "need_num": 1,
     "limit_params": [
       {
-        "key": "BpType",
-        "value": "Gameplay_CXS14"
+        "key": "EntityConfigId",
+        "value": "148900000-148900004-143900019"
       },
       {
         "key": "InstanceId",
@@ -49721,8 +49753,8 @@
     "need_num": 3000,
     "limit_params": [
       {
-        "key": "Count",
-        "value": "3000"
+        "key": "ActivityId",
+        "value": "100805001"
       }
     ],
     "limit_params_ope": [],
@@ -49781,8 +49813,8 @@
     "need_num": 5000,
     "limit_params": [
       {
-        "key": "Count",
-        "value": "5000"
+        "key": "ActivityId",
+        "value": "100805001"
       }
     ],
     "limit_params_ope": [],
@@ -49869,7 +49901,7 @@
       },
       {
         "key": "AttackerBulletID",
-        "value": "70066006001"
+        "value": "70105002001"
       }
     ],
     "limit_params_ope": [],
@@ -49887,7 +49919,7 @@
       },
       {
         "key": "AttackerID",
-        "value": "0-1502"
+        "value": "0-1501-1502"
       },
       {
         "key": "SkillType",
@@ -50385,7 +50417,7 @@
       },
       {
         "key": "VictimID",
-        "value": "1-390097-390008"
+        "value": "1-390097"
       }
     ],
     "limit_params_ope": [],
@@ -50607,88 +50639,6 @@
     "description": ""
   },
   {
-    "id": 13000063,
-    "type": "CheckTeleportStatus",
-    "need_num": 1,
-    "limit_params": [
-      {
-        "key": "TeleportId",
-        "value": "301302"
-      },
-      {
-        "key": "State",
-        "value": "1"
-      }
-    ],
-    "limit_params_ope": [],
-    "is_client": true,
-    "description": ""
-  },
-  {
-    "id": 13000069,
-    "type": "NewQuestState",
-    "need_num": 1,
-    "limit_params": [
-      {
-        "key": "NewQuestId",
-        "value": "11900018"
-      },
-      {
-        "key": "State",
-        "value": "3"
-      }
-    ],
-    "limit_params_ope": [],
-    "is_client": true,
-    "description": ""
-  },
-  {
-    "id": 131200190,
-    "type": "CheckCharacterTagByEvent",
-    "need_num": 1,
-    "limit_params": [
-      {
-        "key": "Tag",
-        "value": "系统.引导.关卡用buff.温泉buff"
-      }
-    ],
-    "limit_params_ope": [],
-    "is_client": true,
-    "description": ""
-  },
-  {
-    "id": 242916910,
-    "type": "CheckUIOpen",
-    "need_num": 1,
-    "limit_params": [
-      {
-        "key": "UIName",
-        "value": "CommonSelectView"
-      }
-    ],
-    "limit_params_ope": [],
-    "is_client": true,
-    "description": ""
-  },
-  {
-    "id": 242916911,
-    "type": "LevelConditionCheckBuff",
-    "need_num": 1,
-    "limit_params": [
-      {
-        "key": "IsPlayer",
-        "value": "1"
-      },
-      {
-        "key": "BuffId",
-        "value": "622910015"
-      }
-    ],
-    "limit_params_ope": [],
-    "is_client": true,
-    "description": ""
-  },
-  {
     "id": 12007017,
     "type": "EntityDieByType",
     "need_num": 1,
@@ -50745,13 +50695,95 @@
     "description": "岁光主线"
   },
   {
-    "id": 101100237,
-    "type": "EntityStateByBpType",
+    "id": 13000069,
+    "type": "NewQuestState",
     "need_num": 1,
     "limit_params": [
       {
-        "key": "BpType",
-        "value": "Gameplay_CXS15"
+        "key": "NewQuestId",
+        "value": "11900018"
+      },
+      {
+        "key": "State",
+        "value": "3"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": true,
+    "description": ""
+  },
+  {
+    "id": 13000063,
+    "type": "CheckTeleportStatus",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "TeleportId",
+        "value": "301302"
+      },
+      {
+        "key": "State",
+        "value": "1"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": true,
+    "description": ""
+  },
+  {
+    "id": 131200190,
+    "type": "CheckCharacterTagByEvent",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "Tag",
+        "value": "系统.引导.关卡用buff.温泉buff"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": true,
+    "description": ""
+  },
+  {
+    "id": 242916910,
+    "type": "CheckUIOpen",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "UIName",
+        "value": "CommonSelectView"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": true,
+    "description": ""
+  },
+  {
+    "id": 242916911,
+    "type": "LevelConditionCheckBuff",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "IsPlayer",
+        "value": "1"
+      },
+      {
+        "key": "BuffId",
+        "value": "622910015"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": true,
+    "description": ""
+  },
+  {
+    "id": 101100237,
+    "type": "EntityStateById",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "EntityConfigId",
+        "value": "148900012-148900015"
       },
       {
         "key": "InstanceId",
@@ -50764,6 +50796,128 @@
       {
         "key": "Tag",
         "value": "1298716444"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": true,
+    "description": ""
+  },
+  {
+    "id": 12031031,
+    "type": "Record",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "RecordId",
+        "value": "20001"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": false,
+    "description": ""
+  },
+  {
+    "id": 12031032,
+    "type": "Record",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "RecordId",
+        "value": "20002"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": false,
+    "description": ""
+  },
+  {
+    "id": 12031033,
+    "type": "Record",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "RecordId",
+        "value": "20003"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": false,
+    "description": ""
+  },
+  {
+    "id": 12031034,
+    "type": "Record",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "RecordId",
+        "value": "20004"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": false,
+    "description": ""
+  },
+  {
+    "id": 101100238,
+    "type": "CheckLevelPlayNodeState",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "LevelPlayId",
+        "value": "136900131"
+      },
+      {
+        "key": "State",
+        "value": "3"
+      },
+      {
+        "key": "NodeId",
+        "value": "49"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": true,
+    "description": ""
+  },
+  {
+    "id": 13000064,
+    "type": "EntityDie",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "EntityConfigId",
+        "value": "142900001"
+      },
+      {
+        "key": "InstanceId",
+        "value": "8"
+      },
+      {
+        "key": "Online",
+        "value": "1"
+      }
+    ],
+    "limit_params_ope": [],
+    "is_client": true,
+    "description": ""
+  },
+  {
+    "id": 13000065,
+    "type": "EntityDie",
+    "need_num": 1,
+    "limit_params": [
+      {
+        "key": "EntityConfigId",
+        "value": "136903515"
+      },
+      {
+        "key": "InstanceId",
+        "value": "8"
+      },
+      {
+        "key": "Online",
+        "value": "1"
       }
     ],
     "limit_params_ope": [],

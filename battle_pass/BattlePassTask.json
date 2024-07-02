@@ -262,5 +262,71 @@
         "value": 2000
       }
     ]
+  },
+  {
+    "task_id": 303,
+    "task_name": "BattlePassTask_303_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
+      }
+    ]
+  },
+  {
+    "task_id": 306,
+    "task_name": "BattlePassTask_306_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
+      }
+    ]
+  },
+  {
+    "task_id": 307,
+    "task_name": "BattlePassTask_307_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
+      }
+    ]
+  },
+  {
+    "task_id": 308,
+    "task_name": "BattlePassTask_308_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 1500
+      }
+    ]
+  },
+  {
+    "task_id": 309,
+    "task_name": "BattlePassTask_309_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
+      }
+    ]
+  },
+  {
+    "task_id": 310,
+    "task_name": "BattlePassTask_310_TaskName",
+    "update_type": 0,
+    "task_reward": [
+      {
+        "key": 8,
+        "value": 2000
+      }
+    ]
   }
 ]

@@ -1882,7 +1882,8 @@
     "hidden_tags": [
       "行为状态.方向状态.面朝方向",
       "行为状态.方向状态.注视方向",
-      "功能.功能制作.瞄准模式.瞄准蓄力"
+      "行为状态.方向状态.看向方向",
+      "功能.功能制作.瞄准模式.长按攻击进入"
     ],
     "is_cd_visible": true,
     "attribute_id": 0,
@@ -1912,7 +1913,8 @@
     "hidden_tags": [
       "行为状态.方向状态.面朝方向",
       "行为状态.方向状态.注视方向",
-      "功能.功能制作.瞄准模式.瞄准蓄力"
+      "行为状态.方向状态.看向方向",
+      "功能.功能制作.瞄准模式.长按攻击进入"
     ],
     "is_cd_visible": true,
     "attribute_id": 0,
@@ -1942,7 +1944,8 @@
     "hidden_tags": [
       "行为状态.方向状态.面朝方向",
       "行为状态.方向状态.注视方向",
-      "功能.功能制作.瞄准模式.瞄准蓄力"
+      "行为状态.方向状态.看向方向",
+      "功能.功能制作.瞄准模式.长按攻击进入"
     ],
     "is_cd_visible": true,
     "attribute_id": 0,
@@ -3236,7 +3239,7 @@
   },
   {
     "id": 11021008,
-    "role_id": 1102,
+    "role_id": 0,
     "name": "专属声骸",
     "button_type": 9,
     "action_type": 9,
@@ -3463,48 +3466,5 @@
     "is_long_press_control_camera": false,
     "long_press_time": 0,
     "dynamic_effect_tag_map": []
-  },
-  {
-    "id": 1102912001,
-    "role_id": 1102,
-    "name": "共鸣技能",
-    "button_type": 6,
-    "action_type": 6,
-    "skill_id": 1102020,
-    "skill_id_tag_map": [],
-    "skill_icon_tags": [],
-    "enable_tags": [],
-    "disable_tags": [
-      "功能.功能制作.被击硬直时间",
-      "战斗状态.技能限制.禁止E技能",
-      "角色.Common.技能通用标识.控物拼图旋转.不可用"
-    ],
-    "disable_skill_id_tags": [
-      {
-        "key": "行为状态.位置状态.空中",
-        "value": {
-          "array_int": [
-            1104040
-          ]
-        }
-      }
-    ],
-    "hidden_tags": [
-      "功能.功能制作.隐藏按钮功能.隐藏技能按键"
-    ],
-    "is_cd_visible": true,
-    "attribute_id": 0,
-    "max_attribute_id": 0,
-    "attribute_id_tag_map": [],
-    "max_attribute_burst_effect_id": 0,
-    "cd_completed_effect_id": 0,
-    "is_long_press_control_camera": false,
-    "long_press_time": 0,
-    "dynamic_effect_tag_map": [
-      {
-        "key": "系统.肉鸽.角色BD.散华.二段E",
-        "value": 11041004
-      }
-    ]
   }
 ]

@@ -602,5 +602,12 @@
     "execution_radius": 3.0,
     "force_lock_on_coefficient": 0.0,
     "monster_size_id": 4
+  },
+  {
+    "id": 800080021,
+    "execution_id": [],
+    "execution_radius": 3.0,
+    "force_lock_on_coefficient": 0.0,
+    "monster_size_id": 7
   }
 ]

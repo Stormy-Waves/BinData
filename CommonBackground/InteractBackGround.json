@@ -2,7 +2,7 @@
   {
     "id": 1003,
     "view_name": "CookRootView",
-    "title": "",
+    "title": "Text_MakingDishes_Text",
     "title_sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconCooking.SP_IconCooking",
     "content_sprite_path": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking.SP_BlackIconCooking",
     "cost_item_list": [],

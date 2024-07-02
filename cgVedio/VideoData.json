@@ -196,20 +196,6 @@
     "can_skip": false
   },
   {
-    "cg_id": 139,
-    "cg_name": "ChangLi01",
-    "girl_or_boy": 1,
-    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/R0009.R0009",
-    "can_skip": false
-  },
-  {
-    "cg_id": 140,
-    "cg_name": "ChangLi01",
-    "girl_or_boy": 0,
-    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/R0009.R0009",
-    "can_skip": false
-  },
-  {
     "cg_id": 141,
     "cg_name": "C0004",
     "girl_or_boy": 0,
@@ -235,20 +221,6 @@
     "cg_name": "M0233",
     "girl_or_boy": 1,
     "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0233.M0233",
-    "can_skip": false
-  },
-  {
-    "cg_id": 145,
-    "cg_name": "M0243",
-    "girl_or_boy": 0,
-    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0243.M0243",
-    "can_skip": false
-  },
-  {
-    "cg_id": 146,
-    "cg_name": "M0243",
-    "girl_or_boy": 1,
-    "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0243.M0243",
     "can_skip": false
   },
   {

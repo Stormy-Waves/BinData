@@ -6499,9 +6499,7 @@
     "open_limit_condition": 242916903,
     "auto_open_condition": 242916904,
     "limit_repeat": [
-      1160,
-      1161,
-      1162
+      -1
     ],
     "dungeon_id": [
       5023
@@ -6538,9 +6536,7 @@
     "open_limit_condition": 242916903,
     "auto_open_condition": 242916906,
     "limit_repeat": [
-      1166,
-      1167,
-      1168
+      -1
     ],
     "dungeon_id": [
       5024
@@ -6593,6 +6589,38 @@
     ],
     "dungeon_id": [
       1507
+    ],
+    "reset_in_dungeon": false
+  },
+  {
+    "id": 10125,
+    "step": [
+      590,
+      591,
+      592
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 0,
+    "limit_repeat": [
+      -1
+    ],
+    "dungeon_id": [
+      1507
+    ],
+    "reset_in_dungeon": true
+  },
+  {
+    "id": 10126,
+    "step": [
+      10118
+    ],
+    "open_limit_condition": 0,
+    "auto_open_condition": 0,
+    "limit_repeat": [],
+    "dungeon_id": [
+      1,
+      2,
+      8
     ],
     "reset_in_dungeon": false
   }

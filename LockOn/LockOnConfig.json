@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "distance": 900,
+    "distance": 600,
     "up_distance": 1000,
     "down_distance": 1000,
-    "sector_radius": 0,
-    "sector_angle": 0,
+    "sector_radius": 900,
+    "sector_angle": 105,
     "tolerance_angle": 22.5
   },
   {
     "id": 2,
-    "distance": 3000,
+    "distance": 2500,
     "up_distance": 2500,
     "down_distance": 1500,
     "sector_radius": 0,
@@ -19,21 +19,21 @@
   },
   {
     "id": 3,
-    "distance": 1500,
+    "distance": 1333,
     "up_distance": 1000,
     "down_distance": 1000,
     "sector_radius": 2000,
-    "sector_angle": 75,
-    "tolerance_angle": 15.0
+    "sector_angle": 105,
+    "tolerance_angle": 22.5
   },
   {
     "id": 1202021,
-    "distance": 2000,
+    "distance": 1333,
     "up_distance": 1000,
     "down_distance": 1000,
-    "sector_radius": 0,
-    "sector_angle": 0,
-    "tolerance_angle": 5.0
+    "sector_radius": 2000,
+    "sector_angle": 105,
+    "tolerance_angle": 22.5
   },
   {
     "id": 280001,
@@ -55,12 +55,12 @@
   },
   {
     "id": 1202022,
-    "distance": 2000,
+    "distance": 1333,
     "up_distance": 1000,
     "down_distance": 1000,
-    "sector_radius": 0,
-    "sector_angle": 0,
-    "tolerance_angle": 10.0
+    "sector_radius": 2000,
+    "sector_angle": 105,
+    "tolerance_angle": 22.5
   },
   {
     "id": 4,
@@ -73,11 +73,11 @@
   },
   {
     "id": 1103,
-    "distance": 1500,
+    "distance": 1333,
     "up_distance": 1000,
     "down_distance": 1000,
     "sector_radius": 2000,
-    "sector_angle": 75,
+    "sector_angle": 105,
     "tolerance_angle": 22.5
   },
   {
@@ -87,7 +87,7 @@
     "down_distance": 1000,
     "sector_radius": 0,
     "sector_angle": 0,
-    "tolerance_angle": 15.0
+    "tolerance_angle": 22.5
   },
   {
     "id": 1405001,
@@ -96,6 +96,15 @@
     "down_distance": 1000,
     "sector_radius": 0,
     "sector_angle": 0,
-    "tolerance_angle": 15.0
+    "tolerance_angle": 22.5
+  },
+  {
+    "id": 5,
+    "distance": 800,
+    "up_distance": 1000,
+    "down_distance": 1000,
+    "sector_radius": 1200,
+    "sector_angle": 105,
+    "tolerance_angle": 22.5
   }
 ]

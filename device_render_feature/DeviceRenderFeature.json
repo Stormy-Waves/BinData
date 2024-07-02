@@ -634,7 +634,7 @@
     "screen_percentage": 0,
     "super_resolution": 2,
     "npc_density": 0,
-    "bloom": 0,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -722,7 +722,7 @@
     "screen_percentage": 0,
     "super_resolution": 2,
     "npc_density": 0,
-    "bloom": 0,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -810,7 +810,7 @@
     "screen_percentage": 0,
     "super_resolution": 2,
     "npc_density": 0,
-    "bloom": 0,
+    "bloom": 1,
     "other_command": ""
   },
   {
@@ -898,7 +898,7 @@
     "screen_percentage": 0,
     "super_resolution": 2,
     "npc_density": 0,
-    "bloom": 0,
+    "bloom": 1,
     "other_command": ""
   },
   {

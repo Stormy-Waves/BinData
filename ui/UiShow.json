@@ -15190,5 +15190,77 @@
       "hide_anim_name": ""
     },
     "skip_anim": false
+  },
+  {
+    "view_name": "RogueEventResultViewOneByOne",
+    "type": "Normal",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
+  },
+  {
+    "view_name": "RogueEventResultViewAll",
+    "type": "Normal",
+    "load_async": true,
+    "show_cursor_type": 1,
+    "obstruct_ui": [],
+    "effect_start": "",
+    "effect_bone": "",
+    "montage_start": "",
+    "audio_event": "",
+    "open_audio_event": "",
+    "close_audio_event": "",
+    "delay_time": 0,
+    "effect_delay_time": 0,
+    "set_mask_active": true,
+    "time_dilation": 1.0,
+    "is_allow_fight_input": false,
+    "can_open_view_by_shortcut_key": false,
+    "is_short_keys_exit_view": true,
+    "scene_point_tag": "",
+    "need_gc": false,
+    "is_full_screen": false,
+    "common_pop_bg": -1,
+    "common_pop_bg_key": "",
+    "scene_path": "",
+    "is_permanent": false,
+    "start_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "close_black_screen": {
+      "show_anim_name": "",
+      "hide_anim_name": ""
+    },
+    "skip_anim": false
   }
 ]

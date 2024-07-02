@@ -937,7 +937,7 @@
     "show_reward": 7040,
     "entity_config_id": 0,
     "danger_type": 1,
-    "type_description2": 14,
+    "type_description2": 15,
     "attributes_description_lock": "MonsterInfo_320000160_UndiscoveredDes",
     "attributes_description_unlock": "MonsterInfo_320000160_DiscoveredDes",
     "big_icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_975_UI.T_IconMonsterHead_975_UI",
@@ -1325,7 +1325,7 @@
     "temporary_icon_unlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI",
     "temporary_iconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI",
     "begin_time_stamp": 300,
-    "mark_id": 380017,
+    "mark_id": 380021,
     "lock_con": 12005126,
     "monster_info_id": 340000090
   }

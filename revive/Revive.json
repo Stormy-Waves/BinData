@@ -438,5 +438,27 @@
     "revive_title": "Revive_7_ReviveTitle",
     "revive_content": "Revive_7_ReviveContent",
     "revive_sequence_path": "剧情_1_1_乘宵山主线_岁光副本,1,5"
+  },
+  {
+    "id": 4000011,
+    "revive_times": -1,
+    "use_item_id": 0,
+    "revive_delay": [],
+    "death_bp": "",
+    "window_bp": "",
+    "revive_title": "Revive_3100001_ReviveTitle",
+    "revive_content": "Revive_3100001_ReviveContent",
+    "revive_sequence_path": ""
+  },
+  {
+    "id": 4000005,
+    "revive_times": -1,
+    "use_item_id": 80040000,
+    "revive_delay": [],
+    "death_bp": "",
+    "window_bp": "",
+    "revive_title": "",
+    "revive_content": "",
+    "revive_sequence_path": ""
   }
 ]

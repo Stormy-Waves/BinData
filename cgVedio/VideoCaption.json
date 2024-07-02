@@ -359,78 +359,78 @@
   {
     "caption_id": 149,
     "cg_name": "C0004",
-    "show_moment": 0,
-    "duration": 210,
+    "show_moment": 44,
+    "duration": 206,
     "caption_text": "Chengxiaoshan_main_1_1_355_1"
   },
   {
     "caption_id": 150,
     "cg_name": "C0004",
-    "show_moment": 296,
-    "duration": 249,
+    "show_moment": 334,
+    "duration": 221,
     "caption_text": "Chengxiaoshan_main_1_1_355_2"
   },
   {
     "caption_id": 151,
     "cg_name": "C0004",
-    "show_moment": 597,
-    "duration": 385,
+    "show_moment": 620,
+    "duration": 415,
     "caption_text": "Chengxiaoshan_main_1_1_355_3"
   },
   {
     "caption_id": 152,
     "cg_name": "C0004",
-    "show_moment": 1023,
-    "duration": 345,
+    "show_moment": 1083,
+    "duration": 320,
     "caption_text": "Chengxiaoshan_main_1_1_355_4"
   },
   {
     "caption_id": 153,
     "cg_name": "C0004",
-    "show_moment": 1445,
-    "duration": 297,
+    "show_moment": 1460,
+    "duration": 340,
     "caption_text": "Chengxiaoshan_main_1_1_355_5"
   },
   {
     "caption_id": 154,
     "cg_name": "C0004",
-    "show_moment": 1780,
-    "duration": 145,
+    "show_moment": 1821,
+    "duration": 162,
     "caption_text": "Chengxiaoshan_main_1_1_355_6"
   },
   {
     "caption_id": 155,
     "cg_name": "C0004",
-    "show_moment": 1936,
-    "duration": 96,
+    "show_moment": 1992,
+    "duration": 98,
     "caption_text": "Chengxiaoshan_main_1_1_355_7"
   },
   {
     "caption_id": 156,
     "cg_name": "C0004",
-    "show_moment": 2086,
-    "duration": 354,
+    "show_moment": 2140,
+    "duration": 383,
     "caption_text": "Chengxiaoshan_main_1_1_355_8"
   },
   {
     "caption_id": 157,
     "cg_name": "C0004",
-    "show_moment": 2483,
-    "duration": 477,
+    "show_moment": 2584,
+    "duration": 466,
     "caption_text": "Chengxiaoshan_main_1_1_355_9"
   },
   {
     "caption_id": 158,
     "cg_name": "C0004",
-    "show_moment": 3066,
-    "duration": 342,
+    "show_moment": 3113,
+    "duration": 314,
     "caption_text": "Chengxiaoshan_main_1_1_355_10"
   },
   {
     "caption_id": 159,
     "cg_name": "M0244",
-    "show_moment": 1251,
-    "duration": 294,
+    "show_moment": 1228,
+    "duration": 319,
     "caption_text": "Chengxiaoshan_main_1_1_400_1"
   },
   {
@@ -443,15 +443,15 @@
   {
     "caption_id": 161,
     "cg_name": "M0244",
-    "show_moment": 4479,
+    "show_moment": 4416,
     "duration": 131,
     "caption_text": "Chengxiaoshan_main_1_1_400_4"
   },
   {
     "caption_id": 162,
     "cg_name": "M0244",
-    "show_moment": 4610,
-    "duration": 352,
+    "show_moment": 4570,
+    "duration": 412,
     "caption_text": "Chengxiaoshan_main_1_1_400_6"
   },
   {
@@ -485,7 +485,7 @@
   {
     "caption_id": 167,
     "cg_name": "C0003",
-    "show_moment": 716,
+    "show_moment": 735,
     "duration": 147,
     "caption_text": "Character_ChangLi_66_5"
   },
@@ -506,7 +506,7 @@
   {
     "caption_id": 170,
     "cg_name": "C0003",
-    "show_moment": 1146,
+    "show_moment": 1154,
     "duration": 152,
     "caption_text": "Character_ChangLi_66_8"
   },
@@ -576,7 +576,7 @@
   {
     "caption_id": 180,
     "cg_name": "C0003",
-    "show_moment": 2765,
+    "show_moment": 2783,
     "duration": 183,
     "caption_text": "Character_ChangLi_66_18"
   }

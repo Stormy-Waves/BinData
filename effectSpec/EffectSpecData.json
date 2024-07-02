@@ -9067,7 +9067,7 @@
     "id": 486959200,
     "path": "/game/aki/effect/dataasset/niagara/bigworld/shengxia/da_fx_sl2_shengxia02_01.da_fx_sl2_shengxia02_01",
     "spec_type": 1,
-    "effect_regular_type": 8,
+    "effect_regular_type": 9,
     "life_time": -1.0,
     "children": []
   },
@@ -63388,7 +63388,7 @@
     "id": 1235772930,
     "path": "/game/aki/effect/effectgroup/bigworld/shengxia/da_fx_group_sl2_shengxia_02.da_fx_group_sl2_shengxia_02",
     "spec_type": 0,
-    "effect_regular_type": 8,
+    "effect_regular_type": 9,
     "life_time": -1.0,
     "children": [
       486959200
@@ -123417,8 +123417,8 @@
     "id": 1650395391,
     "path": "/game/aki/effect/effectgroup/bigworld/longshan/da_fx_group_sl3_cxs_lmj_loop.da_fx_group_sl3_cxs_lmj_loop",
     "spec_type": 0,
-    "effect_regular_type": 10,
-    "life_time": 1.5,
+    "effect_regular_type": 9,
+    "life_time": 3.5,
     "children": [
       1020255121
     ]
@@ -128118,7 +128118,8 @@
     "effect_regular_type": 9,
     "life_time": -1.0,
     "children": [
-      1263030119
+      1263030119,
+      1754988149
     ]
   },
   {
@@ -129095,14 +129096,6 @@
     "children": []
   },
   {
-    "id": 664664915,
-    "path": "/game/aki/effect/dataasset/decal/mp1taguanghumd00501/da_fx_decal_loop_02.da_fx_decal_loop_02",
-    "spec_type": 4,
-    "effect_regular_type": -1,
-    "life_time": 0.5,
-    "children": []
-  },
-  {
     "id": -332144218,
     "path": "/game/aki/effect/dataasset/decal/r2t1xiangliyaomd10011/da_fx_decal_atk03.da_fx_decal_atk03",
     "spec_type": 4,
@@ -129183,22 +129176,6 @@
     "children": []
   },
   {
-    "id": -207478759,
-    "path": "/game/aki/effect/dataasset/niagara/bigworld/chengxiaoshan/da_fx_sl2_cxs_tlz_light02_01.da_fx_sl2_cxs_tlz_light02_01",
-    "spec_type": 1,
-    "effect_regular_type": 9,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1842870796,
-    "path": "/game/aki/effect/dataasset/niagara/bigworld/renwu/da_fx_sqe_yinxinye.da_fx_sqe_yinxinye",
-    "spec_type": 1,
-    "effect_regular_type": 0,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
     "id": -806339247,
     "path": "/game/aki/effect/dataasset/niagara/bigworld/rouge/da_fx_sl1_rouge_doo_08as_portal_lianji.da_fx_sl1_rouge_doo_08as_portal_lianji",
     "spec_type": 1,
@@ -129255,70 +129232,6 @@
     "children": []
   },
   {
-    "id": -232335030,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbavs01_thunder_body_vision.da_fx_mbavs01_thunder_body_vision",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": 1.5,
-    "children": []
-  },
-  {
-    "id": -1899588716,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbavs_thundertrail.da_fx_mbavs_thundertrail",
-    "spec_type": 1,
-    "effect_regular_type": 3,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 85948478,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbavs_thunder_body.da_fx_mbavs_thunder_body",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 325646766,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbavs_thunder_hit.da_fx_mbavs_thunder_hit",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": 11.8,
-    "children": []
-  },
-  {
-    "id": -124749724,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbs18_leibao.da_fx_mbs18_leibao",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": 3.0,
-    "children": []
-  },
-  {
-    "id": -2067833983,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/kpose/da_fx_suiguang_kpose_cloud03.da_fx_suiguang_kpose_cloud03",
-    "spec_type": 1,
-    "effect_regular_type": 3,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1864937441,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/shouji/da_fx_mba_attackhit.da_fx_mba_attackhit",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": 1.0,
-    "children": []
-  },
-  {
-    "id": -1113072683,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/shouji/da_fx_mba_thunderhit.da_fx_mba_thunderhit",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": 1.0,
-    "children": []
-  },
-  {
     "id": 1793631933,
     "path": "/game/aki/effect/dataasset/niagara/mb1wuguanzhe00601/da_fx_mba_jingu.da_fx_mba_jingu",
     "spec_type": 1,
@@ -129343,67 +129256,11 @@
     "children": []
   },
   {
-    "id": 451689975,
-    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_buff_hand2.da_fx_buff_hand2",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
     "id": 2071035661,
     "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_flying_feather_start.da_fx_flying_feather_start",
     "spec_type": 1,
     "effect_regular_type": 3,
     "life_time": 1.0,
-    "children": []
-  },
-  {
-    "id": 762301775,
-    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_ma_lizi01.da_fx_ma_lizi01",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1750456391,
-    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_ma_lizi02.da_fx_ma_lizi02",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1621004213,
-    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_ma_lizi03.da_fx_ma_lizi03",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1201420781,
-    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_ma_lizi04.da_fx_ma_lizi04",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1739231729,
-    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_r1a04_flying_local.da_fx_r1a04_flying_local",
-    "spec_type": 1,
-    "effect_regular_type": 3,
-    "life_time": 2.0,
-    "children": []
-  },
-  {
-    "id": 1228929793,
-    "path": "/game/aki/effect/dataasset/niagara/r2t1jinximd10011/da_fx_r1a_timefrozen.da_fx_r1a_timefrozen",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
     "children": []
   },
   {
@@ -130399,67 +130256,11 @@
     "children": []
   },
   {
-    "id": -570119501,
-    "path": "/game/aki/effect/dataasset/niagara/scene/beiluoye/da_fx_si_bly_shield.da_fx_si_bly_shield",
-    "spec_type": 1,
-    "effect_regular_type": 5,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1490550325,
-    "path": "/game/aki/effect/dataasset/niagara/scene/changli/da_fx_sc_changli_crack_mobile.da_fx_sc_changli_crack_mobile",
-    "spec_type": 1,
-    "effect_regular_type": 5,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 251995584,
-    "path": "/game/aki/effect/dataasset/niagara/scene/comnon/light/da_fx_sc1_volumlight01.da_fx_sc1_volumlight01",
-    "spec_type": 1,
-    "effect_regular_type": 5,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1895261243,
-    "path": "/game/aki/effect/dataasset/niagara/scene/comnon/smoke/da_fx_sc3_smokflow01.da_fx_sc3_smokflow01",
-    "spec_type": 1,
-    "effect_regular_type": 7,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1784801867,
-    "path": "/game/aki/effect/dataasset/niagara/scene/comnon/smoke/da_fx_sc3_smokflow02.da_fx_sc3_smokflow02",
-    "spec_type": 1,
-    "effect_regular_type": 7,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 995355509,
-    "path": "/game/aki/effect/dataasset/niagara/scene/cxs/da_fx_cxs_maelstrom_looped_01.da_fx_cxs_maelstrom_looped_01",
-    "spec_type": 1,
-    "effect_regular_type": 5,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
     "id": -1791786807,
     "path": "/game/aki/effect/dataasset/postprocess/bigworld/fuben/da_fx_post_zhuiyue_transition.da_fx_post_zhuiyue_transition",
     "spec_type": 8,
     "effect_regular_type": -1,
     "life_time": 0.5,
-    "children": []
-  },
-  {
-    "id": 750144357,
-    "path": "/game/aki/effect/dataasset/postprocess/r2t1jinximd10011/da_fx_post_timefrozen.da_fx_post_timefrozen",
-    "spec_type": 8,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
     "children": []
   },
   {
@@ -130519,22 +130320,6 @@
     "children": []
   },
   {
-    "id": 1714346862,
-    "path": "/game/aki/effect/dataasset/skeletalmesh/r2t1changlimd10011/da_fx_mesh_changli.da_fx_mesh_changli",
-    "spec_type": 9,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1862323786,
-    "path": "/game/aki/effect/dataasset/skeletalmesh/r2t1changlimd10011/da_fx_mesh_san_end.da_fx_mesh_san_end",
-    "spec_type": 9,
-    "effect_regular_type": -1,
-    "life_time": 0.5,
-    "children": []
-  },
-  {
     "id": 1514321418,
     "path": "/game/aki/effect/dataasset/skeletalmesh/r2t1zhezhimd10011/da_fx_mesh_r1b_he.da_fx_mesh_r1b_he",
     "spec_type": 9,
@@ -130559,342 +130344,6 @@
     "children": []
   },
   {
-    "id": -1359296959,
-    "path": "/game/aki/effect/effectaudio/amb/da_auamb_interact_changli_qipan_finsh_.da_auamb_interact_changli_qipan_finsh_",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1616193453,
-    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_changli_ice_break.da_au_amb_interact_changli_ice_break",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -262442631,
-    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_cxs_tlz_zhuzi01.da_au_amb_interact_cxs_tlz_zhuzi01",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1881873655,
-    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_cxs_tlz_zhuzi02.da_au_amb_interact_cxs_tlz_zhuzi02",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 52116491,
-    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_dingdongdong_smoke_finish.da_au_amb_interact_dingdongdong_smoke_finish",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1059871527,
-    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_elav_platform_light.da_au_amb_interact_elav_platform_light",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -2120487939,
-    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_smokeloop.da_au_amb_smokeloop",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1068450153,
-    "path": "/game/aki/effect/effectaudio/amb/da_au_role_huaxue_loop.da_au_role_huaxue_loop",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1430226870,
-    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_elite_taguanghu_fentuan_03_bao.da_au_elite_taguanghu_fentuan_03_bao",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1229677456,
-    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_elite_taguanghu_mpa_06.da_au_elite_taguanghu_mpa_06",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -293873690,
-    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_elite_taguanghu_mpa_064.da_au_elite_taguanghu_mpa_064",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1074633562,
-    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_elite_taguanghu_zidan_01.da_au_elite_taguanghu_zidan_01",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 245793142,
-    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_vis_taguanghu_imp_bitattack.da_au_vis_taguanghu_imp_bitattack",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -76543862,
-    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_vis_taguanghu_imp_fentuan.da_au_vis_taguanghu_imp_fentuan",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 2035472161,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_atk05_water.da_au_mon_suiguang_atk05_water",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1738548085,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_atk08_water.da_au_mon_suiguang_atk08_water",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 135458473,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_attack06_loop.da_au_mon_suiguang_attack06_loop",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1679127393,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_body_hit.da_au_mon_suiguang_body_hit",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -768527331,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_chuan.da_au_mon_suiguang_chuan",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 434469793,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_dg_lighthit.da_au_mon_suiguang_dg_lighthit",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 92106983,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_imp_shuihua.da_au_mon_suiguang_imp_shuihua",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 169490011,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_imp_shuihualoop.da_au_mon_suiguang_imp_shuihualoop",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 105994603,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_lightball_loop.da_au_mon_suiguang_lightball_loop",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1190303475,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_lightball_start.da_au_mon_suiguang_lightball_start",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -84075321,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_lighthit.da_au_mon_suiguang_lighthit",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 601045771,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_thunder.da_au_mon_suiguang_thunder",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -814816583,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_thunder_big.da_au_mon_suiguang_thunder_big",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1225524685,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_timefrozen.da_au_mon_suiguang_timefrozen",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 2071516859,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_vortex.da_au_mon_suiguang_vortex",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1279986245,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_yun.da_au_mon_suiguang_yun",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1511616459,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_yunlight.da_au_mon_suiguang_yunlight",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -650634779,
-    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_vis_suiguang_imp_light.da_au_vis_suiguang_imp_light",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 2088147166,
-    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_atk04_hit.da_au_role_changli_atk04_hit",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -60897962,
-    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_atk04_yumao.da_au_role_changli_atk04_yumao",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -302419280,
-    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_burstboom.da_au_role_changli_burstboom",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -790099458,
-    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_feather_light.da_au_role_changli_feather_light",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 605570928,
-    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_feather_middle.da_au_role_changli_feather_middle",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1502643304,
-    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_sword_heavy.da_au_role_changli_sword_heavy",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 395366906,
-    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_sword_light.da_au_role_changli_sword_light",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1133775376,
-    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_sword_middle.da_au_role_changli_sword_middle",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1379123775,
-    "path": "/game/aki/effect/effectaudio/ui/da_au_ui_weapon_appear.da_au_ui_weapon_appear",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -2018852089,
-    "path": "/game/aki/effect/effectaudio/ui/da_au_ui_weapon_disappear.da_au_ui_weapon_disappear",
-    "spec_type": 2,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
     "id": -1793786572,
     "path": "/game/aki/effect/effectgroup/bigworld/da_fx_group_sl2_zhuanzi_12.da_fx_group_sl2_zhuanzi_12",
     "spec_type": 0,
@@ -130908,14 +130357,6 @@
     "spec_type": 0,
     "effect_regular_type": 10,
     "life_time": 1.8,
-    "children": []
-  },
-  {
-    "id": 1597934855,
-    "path": "/game/aki/effect/effectgroup/bigworld/chengxiaoshan/da_fx_group_sl2_cxs_tlz_light02_01.da_fx_group_sl2_cxs_tlz_light02_01",
-    "spec_type": 0,
-    "effect_regular_type": 9,
-    "life_time": -1.0,
     "children": []
   },
   {
@@ -130991,84 +130432,6 @@
     ]
   },
   {
-    "id": -1106609748,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbavs01_thunder_body_vision.da_fx_group_mbavs01_thunder_body_vision",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": 1.5,
-    "children": []
-  },
-  {
-    "id": 1776871158,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbavs_thundertrail.da_fx_group_mbavs_thundertrail",
-    "spec_type": 0,
-    "effect_regular_type": 3,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -421263664,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbavs_thunder_body.da_fx_group_mbavs_thunder_body",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": [
-      85948478
-    ]
-  },
-  {
-    "id": 1705935832,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbavs_thunder_hit.da_fx_group_mbavs_thunder_hit",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": 11.8,
-    "children": [
-      325646766
-    ]
-  },
-  {
-    "id": -1579848754,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbs18_leibao.da_fx_group_mbs18_leibao",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": 3.0,
-    "children": []
-  },
-  {
-    "id": -951490293,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/kpose/da_fx_group_suiguang_kpose_cloud03.da_fx_group_suiguang_kpose_cloud03",
-    "spec_type": 0,
-    "effect_regular_type": 3,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1139788395,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/shouji/da_fx_group_mba_attackhit.da_fx_group_mba_attackhit",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": 1.0,
-    "children": []
-  },
-  {
-    "id": -1253425877,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/shouji/da_fx_group_mba_lighthit1_vision.da_fx_group_mba_lighthit1_vision",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": 1.0,
-    "children": [
-      699904101
-    ]
-  },
-  {
-    "id": -1628387293,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/shouji/da_fx_group_mba_thunderhit.da_fx_group_mba_thunderhit",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": 1.0,
-    "children": []
-  },
-  {
     "id": 1166318207,
     "path": "/game/aki/effect/effectgroup/mb1wuguanzhe00601/da_fx_group_mba_jingu.da_fx_group_mba_jingu",
     "spec_type": 0,
@@ -131077,174 +130440,6 @@
     "children": [
       1793631933
     ]
-  },
-  {
-    "id": -739482583,
-    "path": "/game/aki/effect/effectgroup/me1binlangmd00201/shouji/da_fx_group_mea01_shouji04_vision.da_fx_group_mea01_shouji04_vision",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": 1.0,
-    "children": []
-  },
-  {
-    "id": 1652652597,
-    "path": "/game/aki/effect/effectgroup/me1binlangmd00201/shouji/da_fx_group_mea01_shouji05_vision.da_fx_group_mea01_shouji05_vision",
-    "spec_type": 0,
-    "effect_regular_type": 3,
-    "life_time": 1.5,
-    "children": [
-      342331445,
-      229774224
-    ]
-  },
-  {
-    "id": -2022761206,
-    "path": "/game/aki/effect/effectgroup/me1youlinjishumd00201/da_fx_group_meb04_burst02.da_fx_group_meb04_burst02",
-    "spec_type": 0,
-    "effect_regular_type": 1,
-    "life_time": 2.5,
-    "children": []
-  },
-  {
-    "id": -1627801970,
-    "path": "/game/aki/effect/effectgroup/me1youlinjishumd00201/da_fx_group_meb04_ice02.da_fx_group_meb04_ice02",
-    "spec_type": 0,
-    "effect_regular_type": 1,
-    "life_time": 2.5,
-    "children": []
-  },
-  {
-    "id": 1741169101,
-    "path": "/game/aki/effect/effectgroup/mo1ronhuochongmd00101/shouji/da_fx_group_moa02_shouji_vision.da_fx_group_moa02_shouji_vision",
-    "spec_type": 0,
-    "effect_regular_type": 3,
-    "life_time": 1.0,
-    "children": [
-      1188864866
-    ]
-  },
-  {
-    "id": -643576676,
-    "path": "/game/aki/effect/effectgroup/mo1zhuzhutuomd00001/shouji/da_fx_group_shouji1_vision.da_fx_group_shouji1_vision",
-    "spec_type": 0,
-    "effect_regular_type": 3,
-    "life_time": 1.0,
-    "children": [
-      1932228458,
-      1966720392
-    ]
-  },
-  {
-    "id": 1364688149,
-    "path": "/game/aki/effect/effectgroup/mp1taguanghumd00501/da_fx_group_mps_fentuan_bao1_vision.da_fx_group_mps_fentuan_bao1_vision",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": 2.0,
-    "children": [
-      2108584851
-    ]
-  },
-  {
-    "id": -1916173240,
-    "path": "/game/aki/effect/effectgroup/mp1taguanghumd00501/shouji/da_fx_group_mpa_shouji_03_vision.da_fx_group_mpa_shouji_03_vision",
-    "spec_type": 0,
-    "effect_regular_type": 3,
-    "life_time": 1.0,
-    "children": [
-      971058996,
-      245793142
-    ]
-  },
-  {
-    "id": 549409681,
-    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_buff_hand2.da_fx_group_buff_hand2",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": [
-      451689975
-    ]
-  },
-  {
-    "id": -1070135463,
-    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_ma_lizi01.da_fx_group_ma_lizi01",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": [
-      762301775
-    ]
-  },
-  {
-    "id": -950213855,
-    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_ma_lizi02.da_fx_group_ma_lizi02",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": [
-      1750456391
-    ]
-  },
-  {
-    "id": 2066712949,
-    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_ma_lizi03.da_fx_group_ma_lizi03",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": -1259211107,
-    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_ma_lizi04.da_fx_group_ma_lizi04",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 1147801371,
-    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_r1a04_flying_local.da_fx_group_r1a04_flying_local",
-    "spec_type": 0,
-    "effect_regular_type": 3,
-    "life_time": 2.0,
-    "children": [
-      1739231729
-    ]
-  },
-  {
-    "id": -205543616,
-    "path": "/game/aki/effect/effectgroup/r2t1darknvzhu10011/shouji/da_fx_group_r2a_burst_shouji_01.da_fx_group_r2a_burst_shouji_01",
-    "spec_type": 0,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 2017748532,
-    "path": "/game/aki/effect/effectgroup/r2t1darknvzhu10011/shouji/da_fx_group_r2a_burst_shouji_02.da_fx_group_r2a_burst_shouji_02",
-    "spec_type": 0,
-    "effect_regular_type": -1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 2065468159,
-    "path": "/game/aki/effect/effectgroup/r2t1jinximd10011/da_fx_group_r1a_timefrozen.da_fx_group_r1a_timefrozen",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": [
-      1228929793,
-      750144357
-    ]
-  },
-  {
-    "id": -2062587902,
-    "path": "/game/aki/effect/effectgroup/r2t1taohuamd10011/shouji/da_fx_group_shouji_05.da_fx_group_shouji_05",
-    "spec_type": 0,
-    "effect_regular_type": 3,
-    "life_time": 1.8,
-    "children": []
   },
   {
     "id": 1729719584,
@@ -132294,6 +131489,812 @@
     ]
   },
   {
+    "id": -1430226870,
+    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_elite_taguanghu_fentuan_03_bao.da_au_elite_taguanghu_fentuan_03_bao",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1229677456,
+    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_elite_taguanghu_mpa_06.da_au_elite_taguanghu_mpa_06",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -293873690,
+    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_elite_taguanghu_mpa_064.da_au_elite_taguanghu_mpa_064",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1074633562,
+    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_elite_taguanghu_zidan_01.da_au_elite_taguanghu_zidan_01",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1068450153,
+    "path": "/game/aki/effect/effectaudio/amb/da_au_role_huaxue_loop.da_au_role_huaxue_loop",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 325646766,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbavs_thunder_hit.da_fx_mbavs_thunder_hit",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": 11.8,
+    "children": []
+  },
+  {
+    "id": 1705935832,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbavs_thunder_hit.da_fx_group_mbavs_thunder_hit",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 11.8,
+    "children": [
+      325646766
+    ]
+  },
+  {
+    "id": -60897962,
+    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_atk04_yumao.da_au_role_changli_atk04_yumao",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -302419280,
+    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_burstboom.da_au_role_changli_burstboom",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -790099458,
+    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_feather_light.da_au_role_changli_feather_light",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 605570928,
+    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_feather_middle.da_au_role_changli_feather_middle",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1502643304,
+    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_sword_heavy.da_au_role_changli_sword_heavy",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 395366906,
+    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_sword_light.da_au_role_changli_sword_light",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1133775376,
+    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_sword_middle.da_au_role_changli_sword_middle",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1616193453,
+    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_changli_ice_break.da_au_amb_interact_changli_ice_break",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 451689975,
+    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_buff_hand2.da_fx_buff_hand2",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 762301775,
+    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_ma_lizi01.da_fx_ma_lizi01",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1750456391,
+    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_ma_lizi02.da_fx_ma_lizi02",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1621004213,
+    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_ma_lizi03.da_fx_ma_lizi03",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1201420781,
+    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_ma_lizi04.da_fx_ma_lizi04",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 549409681,
+    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_buff_hand2.da_fx_group_buff_hand2",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": [
+      451689975
+    ]
+  },
+  {
+    "id": -1070135463,
+    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_ma_lizi01.da_fx_group_ma_lizi01",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": [
+      762301775
+    ]
+  },
+  {
+    "id": -950213855,
+    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_ma_lizi02.da_fx_group_ma_lizi02",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": [
+      1750456391
+    ]
+  },
+  {
+    "id": 2066712949,
+    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_ma_lizi03.da_fx_group_ma_lizi03",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1259211107,
+    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_ma_lizi04.da_fx_group_ma_lizi04",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 52116491,
+    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_dingdongdong_smoke_finish.da_au_amb_interact_dingdongdong_smoke_finish",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1113072683,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/shouji/da_fx_mba_thunderhit.da_fx_mba_thunderhit",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": 1.0,
+    "children": []
+  },
+  {
+    "id": -1628387293,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/shouji/da_fx_group_mba_thunderhit.da_fx_group_mba_thunderhit",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 1.0,
+    "children": []
+  },
+  {
+    "id": 1739231729,
+    "path": "/game/aki/effect/dataasset/niagara/r2t1changlimd10011/da_fx_r1a04_flying_local.da_fx_r1a04_flying_local",
+    "spec_type": 1,
+    "effect_regular_type": 3,
+    "life_time": 2.0,
+    "children": []
+  },
+  {
+    "id": 1147801371,
+    "path": "/game/aki/effect/effectgroup/r2t1changlimd10011/da_fx_group_r1a04_flying_local.da_fx_group_r1a04_flying_local",
+    "spec_type": 0,
+    "effect_regular_type": 3,
+    "life_time": 2.0,
+    "children": [
+      1739231729
+    ]
+  },
+  {
+    "id": 1228929793,
+    "path": "/game/aki/effect/dataasset/niagara/r2t1jinximd10011/da_fx_r1a_timefrozen.da_fx_r1a_timefrozen",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 750144357,
+    "path": "/game/aki/effect/dataasset/postprocess/r2t1jinximd10011/da_fx_post_timefrozen.da_fx_post_timefrozen",
+    "spec_type": 8,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 2065468159,
+    "path": "/game/aki/effect/effectgroup/r2t1jinximd10011/da_fx_group_r1a_timefrozen.da_fx_group_r1a_timefrozen",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": [
+      1228929793,
+      750144357
+    ]
+  },
+  {
+    "id": -262442631,
+    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_cxs_tlz_zhuzi01.da_au_amb_interact_cxs_tlz_zhuzi01",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1881873655,
+    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_cxs_tlz_zhuzi02.da_au_amb_interact_cxs_tlz_zhuzi02",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1864937441,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/shouji/da_fx_mba_attackhit.da_fx_mba_attackhit",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": 1.0,
+    "children": []
+  },
+  {
+    "id": -1139788395,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/shouji/da_fx_group_mba_attackhit.da_fx_group_mba_attackhit",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 1.0,
+    "children": []
+  },
+  {
+    "id": -124749724,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbs18_leibao.da_fx_mbs18_leibao",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": 3.0,
+    "children": []
+  },
+  {
+    "id": -1579848754,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbs18_leibao.da_fx_group_mbs18_leibao",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 3.0,
+    "children": []
+  },
+  {
+    "id": -2067833983,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/kpose/da_fx_suiguang_kpose_cloud03.da_fx_suiguang_kpose_cloud03",
+    "spec_type": 1,
+    "effect_regular_type": 3,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -951490293,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/kpose/da_fx_group_suiguang_kpose_cloud03.da_fx_group_suiguang_kpose_cloud03",
+    "spec_type": 0,
+    "effect_regular_type": 3,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -232335030,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbavs01_thunder_body_vision.da_fx_mbavs01_thunder_body_vision",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": 1.5,
+    "children": []
+  },
+  {
+    "id": -1106609748,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbavs01_thunder_body_vision.da_fx_group_mbavs01_thunder_body_vision",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 1.5,
+    "children": []
+  },
+  {
+    "id": -1899588716,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbavs_thundertrail.da_fx_mbavs_thundertrail",
+    "spec_type": 1,
+    "effect_regular_type": 3,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1776871158,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbavs_thundertrail.da_fx_group_mbavs_thundertrail",
+    "spec_type": 0,
+    "effect_regular_type": 3,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -2120487939,
+    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_smokeloop.da_au_amb_smokeloop",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 85948478,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbavs_thunder_body.da_fx_mbavs_thunder_body",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -421263664,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbavs_thunder_body.da_fx_group_mbavs_thunder_body",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": [
+      85948478
+    ]
+  },
+  {
+    "id": 664664915,
+    "path": "/game/aki/effect/dataasset/decal/mp1taguanghumd00501/da_fx_decal_loop_02.da_fx_decal_loop_02",
+    "spec_type": 4,
+    "effect_regular_type": -1,
+    "life_time": 0.5,
+    "children": []
+  },
+  {
+    "id": 1842870796,
+    "path": "/game/aki/effect/dataasset/niagara/bigworld/renwu/da_fx_sqe_yinxinye.da_fx_sqe_yinxinye",
+    "spec_type": 1,
+    "effect_regular_type": 0,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -570119501,
+    "path": "/game/aki/effect/dataasset/niagara/scene/beiluoye/da_fx_si_bly_shield.da_fx_si_bly_shield",
+    "spec_type": 1,
+    "effect_regular_type": 5,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 251995584,
+    "path": "/game/aki/effect/dataasset/niagara/scene/comnon/light/da_fx_sc1_volumlight01.da_fx_sc1_volumlight01",
+    "spec_type": 1,
+    "effect_regular_type": 5,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 995355509,
+    "path": "/game/aki/effect/dataasset/niagara/scene/cxs/da_fx_cxs_maelstrom_looped_01.da_fx_cxs_maelstrom_looped_01",
+    "spec_type": 1,
+    "effect_regular_type": 5,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1714346862,
+    "path": "/game/aki/effect/dataasset/skeletalmesh/r2t1changlimd10011/da_fx_mesh_changli.da_fx_mesh_changli",
+    "spec_type": 9,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1862323786,
+    "path": "/game/aki/effect/dataasset/skeletalmesh/r2t1changlimd10011/da_fx_mesh_san_end.da_fx_mesh_san_end",
+    "spec_type": 9,
+    "effect_regular_type": -1,
+    "life_time": 0.5,
+    "children": []
+  },
+  {
+    "id": -2022761206,
+    "path": "/game/aki/effect/effectgroup/me1youlinjishumd00201/da_fx_group_meb04_burst02.da_fx_group_meb04_burst02",
+    "spec_type": 0,
+    "effect_regular_type": 1,
+    "life_time": 2.5,
+    "children": []
+  },
+  {
+    "id": -1627801970,
+    "path": "/game/aki/effect/effectgroup/me1youlinjishumd00201/da_fx_group_meb04_ice02.da_fx_group_meb04_ice02",
+    "spec_type": 0,
+    "effect_regular_type": 1,
+    "life_time": 2.5,
+    "children": []
+  },
+  {
+    "id": -205543616,
+    "path": "/game/aki/effect/effectgroup/r2t1darknvzhu10011/shouji/da_fx_group_r2a_burst_shouji_01.da_fx_group_r2a_burst_shouji_01",
+    "spec_type": 0,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 2017748532,
+    "path": "/game/aki/effect/effectgroup/r2t1darknvzhu10011/shouji/da_fx_group_r2a_burst_shouji_02.da_fx_group_r2a_burst_shouji_02",
+    "spec_type": 0,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -2062587902,
+    "path": "/game/aki/effect/effectgroup/r2t1taohuamd10011/shouji/da_fx_group_shouji_05.da_fx_group_shouji_05",
+    "spec_type": 0,
+    "effect_regular_type": 3,
+    "life_time": 1.8,
+    "children": []
+  },
+  {
+    "id": 2088147166,
+    "path": "/game/aki/effect/effectaudio/role/changli/da_au_role_changli_atk04_hit.da_au_role_changli_atk04_hit",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1059871527,
+    "path": "/game/aki/effect/effectaudio/amb/da_au_amb_interact_elav_platform_light.da_au_amb_interact_elav_platform_light",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1895261243,
+    "path": "/game/aki/effect/dataasset/niagara/scene/comnon/smoke/da_fx_sc3_smokflow01.da_fx_sc3_smokflow01",
+    "spec_type": 1,
+    "effect_regular_type": 0,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1784801867,
+    "path": "/game/aki/effect/dataasset/niagara/scene/comnon/smoke/da_fx_sc3_smokflow02.da_fx_sc3_smokflow02",
+    "spec_type": 1,
+    "effect_regular_type": 7,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -768527331,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_chuan.da_au_mon_suiguang_chuan",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 434469793,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_dg_lighthit.da_au_mon_suiguang_dg_lighthit",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 92106983,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_imp_shuihua.da_au_mon_suiguang_imp_shuihua",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 169490011,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_imp_shuihualoop.da_au_mon_suiguang_imp_shuihualoop",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 105994603,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_lightball_loop.da_au_mon_suiguang_lightball_loop",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1190303475,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_lightball_start.da_au_mon_suiguang_lightball_start",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -84075321,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_lighthit.da_au_mon_suiguang_lighthit",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 601045771,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_thunder.da_au_mon_suiguang_thunder",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -814816583,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_thunder_big.da_au_mon_suiguang_thunder_big",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1225524685,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_timefrozen.da_au_mon_suiguang_timefrozen",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 2071516859,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_vortex.da_au_mon_suiguang_vortex",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1279986245,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_yun.da_au_mon_suiguang_yun",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1511616459,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_yunlight.da_au_mon_suiguang_yunlight",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1359296959,
+    "path": "/game/aki/effect/effectaudio/amb/da_auamb_interact_changli_qipan_finsh_.da_auamb_interact_changli_qipan_finsh_",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 135458473,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_attack06_loop.da_au_mon_suiguang_attack06_loop",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1253425877,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/shouji/da_fx_group_mba_lighthit1_vision.da_fx_group_mba_lighthit1_vision",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 1.0,
+    "children": [
+      699904101
+    ]
+  },
+  {
+    "id": -739482583,
+    "path": "/game/aki/effect/effectgroup/me1binlangmd00201/shouji/da_fx_group_mea01_shouji04_vision.da_fx_group_mea01_shouji04_vision",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 1.0,
+    "children": []
+  },
+  {
+    "id": 1652652597,
+    "path": "/game/aki/effect/effectgroup/me1binlangmd00201/shouji/da_fx_group_mea01_shouji05_vision.da_fx_group_mea01_shouji05_vision",
+    "spec_type": 0,
+    "effect_regular_type": 3,
+    "life_time": 1.5,
+    "children": [
+      342331445,
+      229774224
+    ]
+  },
+  {
+    "id": -643576676,
+    "path": "/game/aki/effect/effectgroup/mo1zhuzhutuomd00001/shouji/da_fx_group_shouji1_vision.da_fx_group_shouji1_vision",
+    "spec_type": 0,
+    "effect_regular_type": 3,
+    "life_time": 1.0,
+    "children": [
+      1932228458,
+      1966720392
+    ]
+  },
+  {
+    "id": 1364688149,
+    "path": "/game/aki/effect/effectgroup/mp1taguanghumd00501/da_fx_group_mps_fentuan_bao1_vision.da_fx_group_mps_fentuan_bao1_vision",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 2.0,
+    "children": [
+      2108584851
+    ]
+  },
+  {
+    "id": -1916173240,
+    "path": "/game/aki/effect/effectgroup/mp1taguanghumd00501/shouji/da_fx_group_mpa_shouji_03_vision.da_fx_group_mpa_shouji_03_vision",
+    "spec_type": 0,
+    "effect_regular_type": 3,
+    "life_time": 1.0,
+    "children": [
+      971058996,
+      245793142
+    ]
+  },
+  {
+    "id": 245793142,
+    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_vis_taguanghu_imp_bitattack.da_au_vis_taguanghu_imp_bitattack",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -76543862,
+    "path": "/game/aki/effect/effectaudio/monster/elite/taguanghu/da_au_vis_taguanghu_imp_fentuan.da_au_vis_taguanghu_imp_fentuan",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -650634779,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_vis_suiguang_imp_light.da_au_vis_suiguang_imp_light",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1741169101,
+    "path": "/game/aki/effect/effectgroup/mo1ronhuochongmd00101/shouji/da_fx_group_moa02_shouji_vision.da_fx_group_moa02_shouji_vision",
+    "spec_type": 0,
+    "effect_regular_type": 3,
+    "life_time": 1.0,
+    "children": [
+      1188864866
+    ]
+  },
+  {
+    "id": -1679127393,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_body_hit.da_au_mon_suiguang_body_hit",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1379123775,
+    "path": "/game/aki/effect/effectaudio/ui/da_au_ui_weapon_appear.da_au_ui_weapon_appear",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -2018852089,
+    "path": "/game/aki/effect/effectaudio/ui/da_au_ui_weapon_disappear.da_au_ui_weapon_disappear",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 2035472161,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_atk05_water.da_au_mon_suiguang_atk05_water",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1738548085,
+    "path": "/game/aki/effect/effectaudio/monster/suiguang/da_au_mon_suiguang_atk08_water.da_au_mon_suiguang_atk08_water",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -1490550325,
+    "path": "/game/aki/effect/dataasset/niagara/scene/changli/da_fx_sc_changli_crack_mobile.da_fx_sc_changli_crack_mobile",
+    "spec_type": 1,
+    "effect_regular_type": 5,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -207478759,
+    "path": "/game/aki/effect/dataasset/niagara/bigworld/chengxiaoshan/da_fx_sl2_cxs_tlz_light02_01.da_fx_sl2_cxs_tlz_light02_01",
+    "spec_type": 1,
+    "effect_regular_type": 9,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": 1597934855,
+    "path": "/game/aki/effect/effectgroup/bigworld/chengxiaoshan/da_fx_group_sl2_cxs_tlz_light02_01.da_fx_group_sl2_cxs_tlz_light02_01",
+    "spec_type": 0,
+    "effect_regular_type": 9,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
     "id": 1995602098,
     "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mba_born_trailsmoke.da_fx_mba_born_trailsmoke",
     "spec_type": 1,
@@ -132330,6 +132331,25 @@
     ]
   },
   {
+    "id": 1185526678,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mba06_thunder_ground.da_fx_mba06_thunder_ground",
+    "spec_type": 1,
+    "effect_regular_type": 2,
+    "life_time": 1.5,
+    "children": []
+  },
+  {
+    "id": 816532440,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba06_thunder_ground.da_fx_group_mba06_thunder_ground",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 1.5,
+    "children": [
+      1185526678,
+      840489116
+    ]
+  },
+  {
     "id": -1650404394,
     "path": "/game/aki/effect/dataasset/decal/mo1ronhuochongmd00101/da_fx_decal_moa.da_fx_decal_moa",
     "spec_type": 4,
@@ -132346,20 +132366,48 @@
     "children": []
   },
   {
-    "id": 1185526678,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mba06_thunder_ground.da_fx_mba06_thunder_ground",
-    "spec_type": 1,
-    "effect_regular_type": 2,
-    "life_time": 1.5,
-    "children": []
-  },
-  {
     "id": -2111060484,
     "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mba06_warning_circle.da_fx_mba06_warning_circle",
     "spec_type": 1,
     "effect_regular_type": 3,
     "life_time": 2.3,
     "children": []
+  },
+  {
+    "id": -508549840,
+    "path": "/game/aki/effect/dataasset/postprocess/mb1suiguangmd00501/da_fx_post_atk06_dark.da_fx_post_atk06_dark",
+    "spec_type": 8,
+    "effect_regular_type": -1,
+    "life_time": 6.0,
+    "children": []
+  },
+  {
+    "id": 830918320,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba06_dark.da_fx_group_mba06_dark",
+    "spec_type": 0,
+    "effect_regular_type": -1,
+    "life_time": 4.0,
+    "children": []
+  },
+  {
+    "id": -985887042,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba06_thunder_body.da_fx_group_mba06_thunder_body",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": -1.0,
+    "children": [
+      1545145820
+    ]
+  },
+  {
+    "id": -1422621082,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba06_warning_circle.da_fx_group_mba06_warning_circle",
+    "spec_type": 0,
+    "effect_regular_type": 3,
+    "life_time": 2.3,
+    "children": [
+      135458473
+    ]
   },
   {
     "id": 614467162,
@@ -132386,83 +132434,12 @@
     "children": []
   },
   {
-    "id": -833845244,
-    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbs21_feijiantrail.da_fx_mbs21_feijiantrail",
-    "spec_type": 1,
-    "effect_regular_type": 1,
-    "life_time": 11.8,
-    "children": []
-  },
-  {
-    "id": -508549840,
-    "path": "/game/aki/effect/dataasset/postprocess/mb1suiguangmd00501/da_fx_post_atk06_dark.da_fx_post_atk06_dark",
-    "spec_type": 8,
-    "effect_regular_type": -1,
-    "life_time": 6.0,
-    "children": []
-  },
-  {
     "id": -288080872,
     "path": "/game/aki/effect/dataasset/postprocess/mb1suiguangmd00501/da_fx_post_atk09_door.da_fx_post_atk09_door",
     "spec_type": 8,
     "effect_regular_type": -1,
     "life_time": 0.25,
     "children": []
-  },
-  {
-    "id": 1911343192,
-    "path": "/game/aki/effect/dataasset/skeletalmesh/r2t1jinximd10011/da_fx_mesh_r1s_atk_feijiantrail.da_fx_mesh_r1s_atk_feijiantrail",
-    "spec_type": 9,
-    "effect_regular_type": -1,
-    "life_time": 1.0,
-    "children": []
-  },
-  {
-    "id": 72768168,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba05_trail.da_fx_group_mba05_trail",
-    "spec_type": 0,
-    "effect_regular_type": 1,
-    "life_time": -1.0,
-    "children": []
-  },
-  {
-    "id": 830918320,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba06_dark.da_fx_group_mba06_dark",
-    "spec_type": 0,
-    "effect_regular_type": -1,
-    "life_time": 4.0,
-    "children": []
-  },
-  {
-    "id": -985887042,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba06_thunder_body.da_fx_group_mba06_thunder_body",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": -1.0,
-    "children": [
-      1545145820
-    ]
-  },
-  {
-    "id": 816532440,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba06_thunder_ground.da_fx_group_mba06_thunder_ground",
-    "spec_type": 0,
-    "effect_regular_type": 2,
-    "life_time": 1.5,
-    "children": [
-      1185526678,
-      840489116
-    ]
-  },
-  {
-    "id": -1422621082,
-    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba06_warning_circle.da_fx_group_mba06_warning_circle",
-    "spec_type": 0,
-    "effect_regular_type": 3,
-    "life_time": 2.3,
-    "children": [
-      135458473
-    ]
   },
   {
     "id": -951934244,
@@ -132499,6 +132476,30 @@
     "children": []
   },
   {
+    "id": 72768168,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mba05_trail.da_fx_group_mba05_trail",
+    "spec_type": 0,
+    "effect_regular_type": 1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -833845244,
+    "path": "/game/aki/effect/dataasset/niagara/mb1suiguangmd00501/da_fx_mbs21_feijiantrail.da_fx_mbs21_feijiantrail",
+    "spec_type": 1,
+    "effect_regular_type": 1,
+    "life_time": 11.8,
+    "children": []
+  },
+  {
+    "id": 1911343192,
+    "path": "/game/aki/effect/dataasset/skeletalmesh/r2t1jinximd10011/da_fx_mesh_r1s_atk_feijiantrail.da_fx_mesh_r1s_atk_feijiantrail",
+    "spec_type": 9,
+    "effect_regular_type": -1,
+    "life_time": 1.0,
+    "children": []
+  },
+  {
     "id": 1392430094,
     "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/da_fx_group_mbs21_feijiantrail.da_fx_group_mbs21_feijiantrail",
     "spec_type": 0,
@@ -132512,6 +132513,104 @@
     "spec_type": 0,
     "effect_regular_type": 1,
     "life_time": 11.8,
+    "children": []
+  },
+  {
+    "id": 857811799,
+    "path": "/game/aki/effect/effectgroup/bigworld/shengzhilingyu/da_fx_group_sl3_chufa03_01.da_fx_group_sl3_chufa03_01",
+    "spec_type": 0,
+    "effect_regular_type": 10,
+    "life_time": -1.0,
+    "children": [
+      1025553317
+    ]
+  },
+  {
+    "id": 1025553317,
+    "path": "/game/aki/effect/effectaudio/amb/da_auamb_interact_level_tunlongzhu_open.da_auamb_interact_level_tunlongzhu_open",
+    "spec_type": 2,
+    "effect_regular_type": -1,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -2093659357,
+    "path": "/game/aki/effect/effectgroup/bigworld/chengxiaoshan/da_fx_group_sl3_cxs_smoke_finish_big.da_fx_group_sl3_cxs_smoke_finish_big",
+    "spec_type": 0,
+    "effect_regular_type": 10,
+    "life_time": 2.5,
+    "children": [
+      1466714359,
+      52116491
+    ]
+  },
+  {
+    "id": -110526465,
+    "path": "/game/aki/effect/effectgroup/mb1suiguangmd00501/shouji/da_fx_group_mba02_lighthit.da_fx_group_mba02_lighthit",
+    "spec_type": 0,
+    "effect_regular_type": 2,
+    "life_time": 1.0,
+    "children": [
+      699904101,
+      1843855037
+    ]
+  },
+  {
+    "id": -1964555619,
+    "path": "/game/aki/effect/dataasset/niagara/bigworld/longshan/da_fx_sl3_cxs_lmj_loop02.da_fx_sl3_cxs_lmj_loop02",
+    "spec_type": 1,
+    "effect_regular_type": 10,
+    "life_time": 3.5,
+    "children": []
+  },
+  {
+    "id": -1440191261,
+    "path": "/game/aki/effect/dataasset/niagara/bigworld/longshan/da_fx_sl3_cxs_lmj_loop03.da_fx_sl3_cxs_lmj_loop03",
+    "spec_type": 1,
+    "effect_regular_type": 10,
+    "life_time": 3.5,
+    "children": []
+  },
+  {
+    "id": -1765428791,
+    "path": "/game/aki/effect/dataasset/niagara/bigworld/longshan/da_fx_sl3_cxs_lmj_loop04.da_fx_sl3_cxs_lmj_loop04",
+    "spec_type": 1,
+    "effect_regular_type": 10,
+    "life_time": 3.5,
+    "children": []
+  },
+  {
+    "id": -142867125,
+    "path": "/game/aki/effect/dataasset/niagara/bigworld/longshan/da_fx_sl3_cxs_lmj_loop05.da_fx_sl3_cxs_lmj_loop05",
+    "spec_type": 1,
+    "effect_regular_type": 10,
+    "life_time": 3.5,
+    "children": []
+  },
+  {
+    "id": -2065873639,
+    "path": "/game/aki/effect/effectgroup/bigworld/longshan/da_fx_group_sl3_com_smoke_burst02.da_fx_group_sl3_com_smoke_burst02",
+    "spec_type": 0,
+    "effect_regular_type": 9,
+    "life_time": 3.0,
+    "children": [
+      61177187
+    ]
+  },
+  {
+    "id": 272561719,
+    "path": "/game/aki/effect/dataasset/niagara/scene/cxs/da_fx_base_timefrea_men_01.da_fx_base_timefrea_men_01",
+    "spec_type": 1,
+    "effect_regular_type": 8,
+    "life_time": -1.0,
+    "children": []
+  },
+  {
+    "id": -2094401031,
+    "path": "/game/aki/effect/dataasset/niagara/scene/cxs/da_fx_base_timefrea_men_2.da_fx_base_timefrea_men_2",
+    "spec_type": 1,
+    "effect_regular_type": 9,
+    "life_time": -1.0,
     "children": []
   }
 ]

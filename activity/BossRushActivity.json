@@ -92,7 +92,7 @@
     "reward_score": 1000,
     "level_reward_desc": "bossrush_reward_8304",
     "reward_id": 5040104,
-    "boss_info": 330000010,
+    "boss_info": 340000080,
     "preview_texture": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityMonsterCard_226.T_ActivityMonsterCard_226",
     "stage_texture": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityMonster_226.T_ActivityMonster_226",
     "boss_count": 6
@@ -136,6 +136,7 @@
       24,
       26,
       29,
+      30,
       33,
       28
     ],

@@ -10840,14 +10840,6 @@
     "drop_show_plan": 1
   },
   {
-    "unit_id": 2470,
-    "group_id": 80000004,
-    "min_num": 1,
-    "max_num": 1,
-    "interval": 0,
-    "drop_show_plan": 1
-  },
-  {
     "unit_id": 2471,
     "group_id": 80050004,
     "min_num": 1,
